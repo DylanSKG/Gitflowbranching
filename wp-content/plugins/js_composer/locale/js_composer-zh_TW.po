@@ -1,0 +1,2743 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery WPBakery Page Builder v4.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 15:34+0100\n"
+"PO-Revision-Date: 2021-12-01 15:34+0100\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: assets/lib\n"
+
+#: config/containers/shortcode-vc-column-inner.php:10
+msgid "Inner Column"
+msgstr ""
+
+#: include/classes/core/class-vc-base.php:738
+#, php-format
+msgid "%%s cloned. %sEdit now?%s"
+msgstr ""
+
+# @ js_composer
+#: include/classes/shortcodes/vc-column.php:46
+msgid "Append to this column"
+msgstr "增加內容"
+
+# @ js_composer
+#: include/classes/shortcodes/vc-column.php:48
+msgid "Prepend to this column"
+msgstr "增加內容"
+
+# @ js_composer
+#: include/classes/shortcodes/vc-column.php:55
+msgid "Edit this column"
+msgstr "編輯欄位"
+
+#: include/classes/shortcodes/vc-column.php:56
+msgid "Delete this column"
+msgstr ""
+
+#: include/classes/updaters/class-vc-updater.php:129
+msgid "WPBakery Page Builder"
+msgstr ""
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:74
+#, fuzzy
+msgctxt "Post type general name"
+msgid "Gutenberg attrs"
+msgstr "切換至後臺編輯"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:75
+#, fuzzy
+msgctxt "Post type singular name"
+msgid "Gutenberg attr"
+msgstr "切換至後臺編輯"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:76
+#, fuzzy
+msgctxt "Admin Menu text"
+msgid "Gutenberg attrs"
+msgstr "切換至後臺編輯"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:77
+#, fuzzy
+msgctxt "Add New on Toolbar"
+msgid "Gutenberg attr"
+msgstr "切換至後臺編輯"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:88
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Gutenberg attr Cover Image"
+msgstr "無 Gravity forms"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:89
+#, fuzzy
+#| msgid "Set Image"
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr "設定圖片"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:90
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:91
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:92
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Gutenberg attr archives"
+msgstr "無 Gravity forms"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:93
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Add into Gutenberg attr"
+msgstr "無 Gravity forms"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:94
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Gutenberg attr"
+msgstr ""
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:95
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Gutenberg attrs list"
+msgstr "無 Gravity forms"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:96
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Gutenberg attrs list navigation"
+msgstr "無 Gravity forms"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:97
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Gutenberg attrs list"
+msgstr "無 Gravity forms"
+
+# @ js_composer
+# @ default
+#~ msgid "Text"
+#~ msgstr "文字"
+
+# @ js_composer
+#~ msgid "Text on the button"
+#~ msgstr "按鈕文字"
+
+# @ js_composer
+#~ msgid "URL (Link)"
+#~ msgstr "按鈕連結"
+
+# @ js_composer
+#~ msgid "Style"
+#~ msgstr "類型"
+
+# @ js_composer
+#~ msgid "Custom"
+#~ msgstr "自訂"
+
+# @ js_composer
+#~ msgid "Background"
+#~ msgstr "背景"
+
+# @ js_composer
+#~ msgid "Color"
+#~ msgstr "顏色"
+
+# @ js_composer
+#~ msgid "Size"
+#~ msgstr "尺寸"
+
+# @ js_composer
+#~ msgid "Select button alignment."
+#~ msgstr "選擇按鈕位置"
+
+# @ js_composer
+#~ msgid "Inline"
+#~ msgstr "同行"
+
+# @ js_composer
+#~ msgid "Icon"
+#~ msgstr "圖標"
+
+# @ js_composer
+#~ msgid "Extra class name"
+#~ msgstr "類別名稱"
+
+# @ js_composer
+#~ msgid "Design Options"
+#~ msgstr "風格設定"
+
+# @ js_composer
+#~ msgid "Button"
+#~ msgstr "按鈕"
+
+# @ js_composer
+#~ msgid "Content"
+#~ msgstr "內容"
+
+# @ js_composer
+#~ msgid "Eye catching button"
+#~ msgstr "插入點擊按鈕。"
+
+# @ js_composer
+#~ msgid "Heading"
+#~ msgstr "標題"
+
+# @ js_composer
+#~ msgid "Hey! I am first heading line feel free to change me"
+#~ msgstr "請輸入標題"
+
+# @ js_composer
+#~ msgid "No"
+#~ msgstr "無"
+
+# @ js_composer
+#~ msgid "Catch visitors attention with CTA block"
+#~ msgstr "行動訴求按鈕。"
+
+# @ js_composer
+#~ msgid "Column"
+#~ msgstr "欄"
+
+# @ js_composer
+#~ msgid "Yes"
+#~ msgstr "是"
+
+# @ js_composer
+#~ msgid "None"
+#~ msgstr "無計數"
+
+# @ js_composer
+#~ msgid "Image"
+#~ msgstr "圖片"
+
+# @ js_composer
+#~ msgid "Select image from media library."
+#~ msgstr "選擇圖片"
+
+# @ js_composer
+#~ msgid "Row"
+#~ msgstr "區塊"
+
+# @ js_composer
+#~ msgid "Place content elements inside the row"
+#~ msgstr "放置元素之容器，可自訂分割欄位。"
+
+# @ js_composer
+#~ msgid "Section"
+#~ msgstr "區塊"
+
+# @ js_composer
+#~ msgid "Text Block"
+#~ msgstr "文字"
+
+# @ js_composer
+#~ msgid "A block of text with WYSIWYG editor"
+#~ msgstr "使用所見即所得編輯器插入文字、圖片、連結等內容。"
+
+# @ js_composer
+#, fuzzy
+#~| msgid ""
+#~| "<p>I am text block. Click edit button to change this text. Lorem ipsum "
+#~| "dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~| "ullamcorper mattis, pulvinar dapibus leo.</p>"
+#~ msgid ""
+#~ "I am text block. Click edit button to change this text. Lorem ipsum dolor "
+#~ "sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~ "ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "<p>請輸入文字</p>"
+
+# @ js_composer
+#~ msgid "Flickr Widget"
+#~ msgstr "Flickr 小工具"
+
+# @ js_composer
+#~ msgid "Widget title"
+#~ msgstr "標題"
+
+# @ js_composer
+#~ msgid "Flickr ID"
+#~ msgstr "Flickr 相簿 ID"
+
+# @ js_composer
+#, php-format
+#~ msgid "To find your flickID visit %s."
+#~ msgstr "前往 %s 取得 flickr 相簿 ID"
+
+# @ js_composer
+#~ msgid "Number of photos"
+#~ msgstr "照片張數"
+
+# @ js_composer
+#~ msgid "Type"
+#~ msgstr "類型"
+
+# @ js_composer
+#~ msgid "User"
+#~ msgstr "個人"
+
+# @ js_composer
+#~ msgid "Group"
+#~ msgstr "社團"
+
+# @ js_composer
+#~ msgid "Random"
+#~ msgstr "隨機"
+
+# @ js_composer
+#~ msgid "Image Gallery"
+#~ msgstr "插入多張圖片"
+
+# @ js_composer
+#~ msgid "Responsive image gallery"
+#~ msgstr "插入多張圖片並附有播放效果。"
+
+# @ js_composer
+#~ msgid "Gallery type"
+#~ msgstr "輪播樣式"
+
+# @ js_composer
+#~ msgid "Flex slider fade"
+#~ msgstr "淡入淡出"
+
+# @ js_composer
+#~ msgid "Flex slider slide"
+#~ msgstr "左右滑動"
+
+# @ js_composer
+#~ msgid "Nivo slider"
+#~ msgstr "左右滑動二"
+
+# @ js_composer
+#~ msgid "Image grid"
+#~ msgstr "依序排列"
+
+# @ js_composer
+#~ msgid "Select gallery type."
+#~ msgstr "選擇輪播樣式"
+
+# @ js_composer
+#~ msgid "Disable"
+#~ msgstr "關閉"
+
+# @ js_composer
+#~ msgid "Auto rotate slides each X seconds."
+#~ msgstr "設定每幾秒自動切換"
+
+# @ js_composer
+#~ msgid "Images"
+#~ msgstr "圖片"
+
+# @ js_composer
+#~ msgid "Select images from media library."
+#~ msgstr "選擇圖片"
+
+# @ js_composer
+#~ msgid "Image size"
+#~ msgstr "圖片尺寸"
+
+# @ js_composer
+#~ msgid ""
+#~ "Enter image size. Example: thumbnail, medium, large, full or other sizes "
+#~ "defined by current theme. Alternatively enter image size in pixels: "
+#~ "200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+#~ msgstr "<br/>"
+
+# @ js_composer
+#~ msgid "Open custom link"
+#~ msgstr "開啟連結"
+
+# @ js_composer
+#~ msgid "Custom links"
+#~ msgstr "開啟連結"
+
+# @ js_composer
+#~ msgid "Custom link target"
+#~ msgstr "開啟方式"
+
+# @ js_composer
+#~ msgid "Select where to open  custom links."
+#~ msgstr "選擇連結開啟目標"
+
+# @ js_composer
+#~ msgid "Google Maps"
+#~ msgstr "Google 地圖"
+
+# @ js_composer
+#~ msgid "Map block"
+#~ msgstr "插入地圖區塊。"
+
+# @ js_composer
+#~ msgid "Map embed iframe"
+#~ msgstr "嵌入 iframe 地圖"
+
+# @ js_composer
+#~ msgid "Map height"
+#~ msgstr "地圖高度"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Primary Title"
+#~ msgstr "頁面標題"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Hover Title"
+#~ msgstr "滑鼠停留色系"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Primary title"
+#~ msgstr "頁面標題"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Primary title alignment"
+#~ msgstr "對齊方式"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Select text alignment for primary title."
+#~ msgstr "選擇按鈕位置"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Hover title"
+#~ msgstr "題目名稱"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Hover title alignment"
+#~ msgstr "選擇圖片對齊方式"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Select text alignment for hovered title."
+#~ msgstr "選擇按鈕位置"
+
+# @ js_composer
+#, fuzzy
+#~ msgid ""
+#~ "Click edit button to change this text. Lorem ipsum dolor sit amet, "
+#~ "consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper "
+#~ "mattis, pulvinar dapibus leo."
+#~ msgstr "<p>請輸入文字</p>"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Select block shape."
+#~ msgstr "選擇按鈕尺寸"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Background Color"
+#~ msgstr "背景顏色"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Select block alignment."
+#~ msgstr "選擇按鈕位置"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Hover Button"
+#~ msgstr "Google Plus 分享"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Hover Box"
+#~ msgstr "滑鼠停留色系"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Animated flip box with image and text"
+#~ msgstr "插入多張圖片增加多張輪播效果。"
+
+# @ js_composer
+#~ msgid "Image Carousel"
+#~ msgstr "插入輪播圖片"
+
+# @ js_composer
+#~ msgid "Animated carousel with images"
+#~ msgstr "插入多張圖片增加多張輪播效果。"
+
+# @ js_composer
+#~ msgid "Horizontal"
+#~ msgstr "水平"
+
+# @ js_composer
+#~ msgid "Vertical"
+#~ msgstr "垂直"
+
+# @ js_composer
+#~ msgid "Slider speed"
+#~ msgstr "播放速度"
+
+# @ js_composer
+#~ msgid "Slides per view"
+#~ msgstr "可見圖片張數"
+
+# @ js_composer
+#~ msgid "Slider autoplay"
+#~ msgstr "自動播放"
+
+# @ js_composer
+#~ msgid "Hide pagination control"
+#~ msgstr "隱藏導覽功能"
+
+# @ js_composer
+#~ msgid "Hide prev/next buttons"
+#~ msgstr "隱藏上下張箭頭"
+
+# @ js_composer
+#~ msgid "Partial view"
+#~ msgstr "局部顯示"
+
+# @ js_composer
+#~ msgid "Slider loop"
+#~ msgstr "循環播放"
+
+# @ js_composer
+#~ msgid "Title"
+#~ msgstr "標題"
+
+# @ js_composer
+#~ msgid "Informational"
+#~ msgstr "通用"
+
+# @ js_composer
+#~ msgid "Warning"
+#~ msgstr "警告"
+
+# @ js_composer
+#~ msgid "Success"
+#~ msgstr "成功"
+
+# @ js_composer
+#~ msgid "Error"
+#~ msgstr "錯誤"
+
+# @ js_composer
+#~ msgid "Message Box"
+#~ msgstr "提示標題"
+
+# @ js_composer
+#~ msgid "Notification box"
+#~ msgstr "可置入提示區塊，如注意訊息、已完成訊息。"
+
+# @ js_composer
+#~ msgid "Message text"
+#~ msgstr "文字"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "<p>I am message box. Click edit button to change this text.</p>"
+#~ msgid "I am message box. Click edit button to change this text."
+#~ msgstr "請輸入文字"
+
+# @ js_composer
+#~ msgid "Animated pie chart"
+#~ msgstr "插入圓餅圖。"
+
+# @ js_composer
+#~ msgid "Units"
+#~ msgstr "單位"
+
+# @ js_composer
+#~ msgid "Select pie chart color."
+#~ msgstr "選擇圓餅圖顏色"
+
+# @ js_composer
+#~ msgid "Posts Slider"
+#~ msgstr "文章單篇輪播"
+
+# @ js_composer
+#~ msgid "Slider with WP Posts"
+#~ msgstr "插入文章列表並以單篇輪播方式呈現。"
+
+# @ js_composer
+#~ msgid "Slider type"
+#~ msgstr "輪播類型"
+
+# @ js_composer
+#~ msgid "Select slider type."
+#~ msgstr "選擇輪播類型"
+
+# @ js_composer
+#~ msgid "Post types"
+#~ msgstr "文章類型"
+
+# @ js_composer
+#~ msgid "Description"
+#~ msgstr "描述"
+
+# @ js_composer
+#~ msgid "No description"
+#~ msgstr "無"
+
+# @ js_composer
+#~ msgid "Teaser (Excerpt)"
+#~ msgstr "摘要"
+
+# @ js_composer
+#~ msgid "Output post title?"
+#~ msgstr "是否輸出標題？"
+
+# @ js_composer
+#~ msgid "If selected, title will be printed before the teaser text."
+#~ msgstr "在勾選狀況下，標題會顯示於圖文之前"
+
+# @ js_composer
+#~ msgid "Link"
+#~ msgstr "連結"
+
+# @ js_composer
+#~ msgid "Link to post"
+#~ msgstr "連結至文章"
+
+# @ js_composer
+#~ msgid "Link to bigger image"
+#~ msgstr "連結至特色圖片"
+
+# @ js_composer
+#~ msgid "No link"
+#~ msgstr "無連結"
+
+# @ js_composer
+#~ msgid "Link type."
+#~ msgstr "連結類型"
+
+# @ js_composer
+#~ msgid ""
+#~ "Enter links for each slide here. Divide links with linebreaks (Enter)."
+#~ msgstr "針對每張圖片設定連結，利用 Enter 換行進行設定"
+
+# @ js_composer
+#~ msgid "Thumbnail size"
+#~ msgstr "圖片尺寸"
+
+# @ js_composer
+#~ msgid ""
+#~ "Enter thumbnail size. Example: thumbnail, medium, large, full or other "
+#~ "sizes defined by current theme. Alternatively enter image size in pixels: "
+#~ "200x100 (Width x Height) . "
+#~ msgstr ""
+#~ "自定圖片尺寸<br/>1.使用縮圖請輸入--->thumbnail<br/>2.使用小圖請輸入---"
+#~ ">medium<br/>3.使用大圖請輸入--->large<br/>4.使用原始大小請輸入--->full<br/"
+#~ ">5.使用自定義尺寸如 200px x 100px 請輸入--->200x100"
+
+# @ js_composer
+#~ msgid "Post/Page IDs"
+#~ msgstr "文章/頁面 ID"
+
+# @ js_composer
+# @ default
+#~ msgid "Categories"
+#~ msgstr "分類"
+
+# @ js_composer
+#~ msgid "Order by"
+#~ msgstr "排序條件"
+
+# @ js_composer
+#~ msgid "Date"
+#~ msgstr "日期"
+
+# @ js_composer
+#~ msgid "ID"
+#~ msgstr "ID"
+
+# @ js_composer
+#~ msgid "Author"
+#~ msgstr "作者"
+
+# @ js_composer
+#~ msgid "Modified"
+#~ msgstr "修改日期"
+
+# @ js_composer
+#~ msgid "Comment count"
+#~ msgstr "留言數"
+
+# @ js_composer
+#~ msgid "Menu order"
+#~ msgstr "選單順序"
+
+# @ js_composer
+#, php-format
+#~ msgid "Select how to sort retrieved posts. More at %s."
+#~ msgstr "選擇文章排序條件。了解更多-->%s."
+
+# @ js_composer
+#~ msgid "Descending"
+#~ msgstr "降冪"
+
+# @ js_composer
+#~ msgid "Ascending"
+#~ msgstr "升冪"
+
+# @ js_composer
+#~ msgid "Custom Color"
+#~ msgstr "自訂顏色"
+
+# @ js_composer
+#~ msgid "Progress Bar"
+#~ msgstr "長條圖"
+
+# @ js_composer
+#~ msgid "Animated progress bar"
+#~ msgstr "插入長條圖。"
+
+# @ js_composer
+#~ msgid "Select bar background color."
+#~ msgstr "選擇長條圖的顏色"
+
+# @ js_composer
+#~ msgid "Select custom background color for bars."
+#~ msgstr "選擇顏色"
+
+# @ js_composer
+#~ msgid "Options"
+#~ msgstr "選項"
+
+# @ js_composer
+#~ msgid "Separator"
+#~ msgstr "分隔線"
+
+# @ js_composer
+#~ msgid "Horizontal separator line"
+#~ msgstr "水平分隔線。"
+
+# @ wpb
+#~ msgid "Custom Border Color"
+#~ msgstr "分隔線顏色"
+
+# @ wpb
+#~ msgid "Select border color for your element."
+#~ msgstr "選擇分隔線顏色"
+
+# @ js_composer
+#~ msgid "Element width"
+#~ msgstr "分隔線寬度"
+
+# @ js_composer
+#~ msgid "Single Image"
+#~ msgstr "插入單張圖片"
+
+# @ js_composer
+#~ msgid "Simple image with CSS animation"
+#~ msgstr "插入單一一張圖片。"
+
+# @ js_composer
+#~ msgid "Image alignment"
+#~ msgstr "對齊方式"
+
+# @ js_composer
+#~ msgid "Select image alignment."
+#~ msgstr "選擇圖片對齊方式"
+
+# @ js_composer
+#~ msgid "Image style"
+#~ msgstr "圖片風格"
+
+# @ js_composer
+#~ msgid "Border color"
+#~ msgstr "框線顏色"
+
+# @ js_composer
+#~ msgid "Border color."
+#~ msgstr "選擇框線顏色"
+
+# @ js_composer
+#~ msgid "Image link"
+#~ msgstr "圖片連結"
+
+# @ js_composer
+#~ msgid "Link Target"
+#~ msgstr "開啟方式"
+
+# @ js_composer
+#~ msgid "Separator with Text"
+#~ msgstr "文字分隔線"
+
+# @ js_composer
+#~ msgid "Horizontal separator line with heading"
+#~ msgstr "附有可輸入文字區塊的水平分隔線。"
+
+# @ js_composer
+#~ msgid "Title position"
+#~ msgstr "標題位置"
+
+# @ js_composer
+#~ msgid "Select title location."
+#~ msgstr "選擇標題位置"
+
+# @ js_composer
+#~ msgid "Separator element width in percents."
+#~ msgstr "單位為百分比"
+
+# @ js_composer
+#~ msgid "Toggle title"
+#~ msgstr "題目名稱"
+
+# @ js_composer
+#~ msgid "Toggle content"
+#~ msgstr "內容"
+
+# @ js_composer
+#, fuzzy
+#~| msgid ""
+#~| "<p>Toggle content goes here, click edit button to change this text.</p>"
+#~ msgid "Toggle content goes here, click edit button to change this text."
+#~ msgstr "問題內容"
+
+# @ js_composer
+#~ msgid "Toggle block content."
+#~ msgstr "內容"
+
+# @ js_composer
+#~ msgid "Default state"
+#~ msgstr "初始狀態"
+
+# @ js_composer
+#~ msgid "Closed"
+#~ msgstr "關閉"
+
+# @ js_composer
+#~ msgid "Open"
+#~ msgstr "展開"
+
+# @ js_composer
+#~ msgid "Select \"Open\" if you want toggle to be open by default."
+#~ msgstr "選單是否預設展開"
+
+# @ js_composer
+#~ msgid "FAQ"
+#~ msgstr "常見問題列表"
+
+# @ js_composer
+#~ msgid "Toggle element for Q&A block"
+#~ msgstr "常見問題展開、收合選單功能。"
+
+# @ js_composer
+#~ msgid "Video Player"
+#~ msgstr "影片"
+
+# @ js_composer
+#~ msgid "Embed YouTube/Vimeo player"
+#~ msgstr "插入 YouTube 或 Vimeo 影片。"
+
+# @ js_composer
+#~ msgid "Video link"
+#~ msgstr "影片連結"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video aspect ratio"
+#~ msgstr "影片"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "ZigZag Separator"
+#~ msgstr "分隔線"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Horizontal zigzag separator line"
+#~ msgstr "水平分隔線。"
+
+# @ js_composer
+#~ msgid "Small"
+#~ msgstr "中"
+
+# @ js_composer
+#~ msgid "Medium"
+#~ msgstr "大"
+
+# @ js_composer
+#~ msgid "Large"
+#~ msgstr "大"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Select separator border width."
+#~ msgstr "分隔線色係"
+
+# @ js_composer
+#~ msgid "Section 1"
+#~ msgstr "項目一"
+
+# @ js_composer
+#~ msgid "Section 2"
+#~ msgstr "項目二"
+
+# @ js_composer
+#~ msgid "Target"
+#~ msgstr "目標"
+
+# @ js_composer
+#~ msgid "Select button size."
+#~ msgstr "選擇按鈕尺寸"
+
+# @ js_composer
+#~ msgid "Click edit button to change this text."
+#~ msgstr "文字說明"
+
+# @ js_composer
+#~ msgid "Button position"
+#~ msgstr "按鈕位置"
+
+# @ js_composer
+#~ msgid "Google+ Button"
+#~ msgstr "Google Plus 分享"
+
+# @ js_composer
+#~ msgid "Social"
+#~ msgstr "社群"
+
+# @ js_composer
+#~ msgid "Recommend on Google"
+#~ msgstr "分享至 Google Plus 按鈕。"
+
+# @ js_composer
+#~ msgid "Button size"
+#~ msgstr "按鈕尺寸"
+
+# @ js_composer
+#~ msgid "Standard"
+#~ msgstr "無計數"
+
+# @ js_composer
+#~ msgid "Tall"
+#~ msgstr "寬"
+
+# @ js_composer
+#~ msgid "Annotation"
+#~ msgstr "按鈕提示"
+
+# @ js_composer
+#~ msgid "Bubble"
+#~ msgstr "上方計數"
+
+# @ js_composer
+#~ msgid "Tab ID"
+#~ msgstr "頁籤 ID"
+
+# @ js_composer
+#~ msgid "Tabbed content"
+#~ msgstr "可切換式水平頁籤。"
+
+# @ js_composer
+#~ msgid "Auto rotate tabs each X seconds."
+#~ msgstr "設定自動播放秒數"
+
+# @ js_composer
+#~ msgid "Tab 1"
+#~ msgstr "頁籤一"
+
+# @ js_composer
+#~ msgid "Tab 2"
+#~ msgstr "頁籤二"
+
+# @ js_composer
+#~ msgid "Auto rotate slides"
+#~ msgstr "自動播放"
+
+# @ js_composer
+#~ msgid "Show all"
+#~ msgstr "全部元素"
+
+# @ js_composer
+#~ msgid "Show filter"
+#~ msgstr "顯示分類"
+
+# @ js_composer
+#~ msgid "Exclude"
+#~ msgstr "排除"
+
+# @ js_composer
+#~ msgid "Border"
+#~ msgstr "邊框"
+
+# @ js_composer
+#~ msgid "Dropdown"
+#~ msgstr "下拉選單"
+
+# @ js_composer
+#~ msgid "All"
+#~ msgstr "所有"
+
+# @ js_composer
+#~ msgid "Button style"
+#~ msgstr "按鈕樣式"
+
+# @ js_composer
+#~ msgid "Same window"
+#~ msgstr "同一視窗"
+
+# @ js_composer
+#~ msgid "New window"
+#~ msgstr "另開視窗"
+
+# @ js_composer
+#~ msgid "Grey"
+#~ msgstr "灰色"
+
+# @ js_composer
+#~ msgid "Blue"
+#~ msgstr "藍色"
+
+# @ js_composer
+#~ msgid "Turquoise"
+#~ msgstr "藍綠色"
+
+# @ js_composer
+#~ msgid "Green"
+#~ msgstr "綠色"
+
+# @ js_composer
+#~ msgid "Orange"
+#~ msgstr "橘色"
+
+# @ js_composer
+#~ msgid "Red"
+#~ msgstr "紅色"
+
+# @ js_composer
+#~ msgid "Black"
+#~ msgstr "黑色"
+
+# @ js_composer
+#~ msgid "Mini"
+#~ msgstr "小"
+
+# @ js_composer
+#~ msgid "Address book icon"
+#~ msgstr "電話簿"
+
+# @ js_composer
+#~ msgid "Alarm clock icon"
+#~ msgstr "鬧鐘"
+
+# @ js_composer
+#~ msgid "Anchor icon"
+#~ msgstr "錨"
+
+# @ js_composer
+#~ msgid "Application Image icon"
+#~ msgstr "應用程式"
+
+# @ js_composer
+#~ msgid "Arrow icon"
+#~ msgstr "箭頭"
+
+# @ js_composer
+#~ msgid "Asterisk icon"
+#~ msgstr "星號"
+
+# @ js_composer
+#~ msgid "Hammer icon"
+#~ msgstr "槌子"
+
+# @ js_composer
+#~ msgid "Balloon icon"
+#~ msgstr "對話框"
+
+# @ js_composer
+#~ msgid "Balloon Buzz icon"
+#~ msgstr "Google Buzz"
+
+# @ js_composer
+#~ msgid "Balloon Facebook icon"
+#~ msgstr "Facebook 對話框"
+
+# @ js_composer
+#~ msgid "Balloon Twitter icon"
+#~ msgstr "推特對話框"
+
+# @ js_composer
+#~ msgid "Battery icon"
+#~ msgstr "電池"
+
+# @ js_composer
+#~ msgid "Binocular icon"
+#~ msgstr "望遠鏡"
+
+# @ js_composer
+#~ msgid "Document Excel icon"
+#~ msgstr "Excel 文件"
+
+# @ js_composer
+#~ msgid "Document Image icon"
+#~ msgstr "文件圖片"
+
+# @ js_composer
+#~ msgid "Document Music icon"
+#~ msgstr "音樂"
+
+# @ js_composer
+#~ msgid "Document Office icon"
+#~ msgstr "微軟 Office"
+
+# @ js_composer
+#~ msgid "Document PDF icon"
+#~ msgstr "PDF 文件"
+
+# @ js_composer
+#~ msgid "Document Powerpoint icon"
+#~ msgstr "Powerpoint 文件"
+
+# @ js_composer
+#~ msgid "Document Word icon"
+#~ msgstr "Word 文件"
+
+# @ js_composer
+#~ msgid "Bookmark icon"
+#~ msgstr "書籤"
+
+# @ js_composer
+#~ msgid "Camcorder icon"
+#~ msgstr "攝影機"
+
+# @ js_composer
+#~ msgid "Camera icon"
+#~ msgstr "相機"
+
+# @ js_composer
+#~ msgid "Chart icon"
+#~ msgstr "聊天"
+
+# @ js_composer
+#~ msgid "Chart pie icon"
+#~ msgstr "圓餅圖"
+
+# @ js_composer
+#~ msgid "Clock icon"
+#~ msgstr "時鐘"
+
+# @ js_composer
+#~ msgid "Fire icon"
+#~ msgstr "火"
+
+# @ js_composer
+#~ msgid "Heart icon"
+#~ msgstr "愛心"
+
+# @ js_composer
+#~ msgid "Mail icon"
+#~ msgstr "郵件"
+
+# @ js_composer
+#~ msgid "Play icon"
+#~ msgstr "播放"
+
+# @ js_composer
+#~ msgid "Shield icon"
+#~ msgstr "盾牌"
+
+# @ js_composer
+#~ msgid "Video icon"
+#~ msgstr "影片"
+
+# @ js_composer
+#~ msgid "Facebook Like"
+#~ msgstr "Facebook 讚！"
+
+# @ js_composer
+#~ msgid "Button type"
+#~ msgstr "樣式"
+
+# @ js_composer
+#~ msgid "Select button type."
+#~ msgstr "選擇按鈕樣式"
+
+# @ js_composer
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest 分享"
+
+# @ js_composer
+#~ msgid "Pinterest button"
+#~ msgstr "分享至 Pinterest 按鈕。"
+
+# @ js_composer
+#~ msgid "No count"
+#~ msgstr "無計數"
+
+# @ js_composer
+#~ msgid "Select button layout."
+#~ msgstr "選擇按鈕樣式"
+
+# @ js_composer
+#~ msgid "Tweetmeme Button"
+#~ msgstr "Twitter 分享"
+
+# @ js_composer
+#~ msgid "Raw HTML"
+#~ msgstr "插入 HTML"
+
+# @ js_composer
+#~ msgid "Structure"
+#~ msgstr "結構"
+
+# @ js_composer
+#~ msgid "Enter your HTML content."
+#~ msgstr "請輸入 HTML"
+
+# @ js_composer
+#~ msgid "Raw JS"
+#~ msgstr "插入 JS"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Enter your content."
+#~ msgid "Enter your js here!"
+#~ msgstr "請輸入按鈕的文字說明"
+
+# @ js_composer
+#~ msgid "Widgetised Sidebar"
+#~ msgstr "側欄選單"
+
+# @ js_composer
+#~ msgid "Sidebar"
+#~ msgstr "側欄選單"
+
+# @ js_composer
+#~ msgid "Accordion"
+#~ msgstr "收合選單"
+
+# @ js_composer
+#~ msgid ""
+#~ "If you wish to style particular content element differently, then use "
+#~ "this field to add a class name and then refer to it in your css file."
+#~ msgstr "控制 CSS 用"
+
+# @ js_composer
+#~ msgid "Tabs"
+#~ msgstr "頁籤"
+
+# @ js_composer
+#~ msgid "Tab"
+#~ msgstr "頁籤"
+
+# @ default
+#~ msgid "Archives"
+#~ msgstr "彙整"
+
+# @ js_composer
+#~ msgid "WordPress Widgets"
+#~ msgstr "小工具"
+
+# @ js_composer
+#~ msgid "A monthly archive of your sites posts"
+#~ msgstr "每月發佈文章彙整。"
+
+# @ js_composer
+#~ msgid ""
+#~ "What text use as a widget title. Leave blank to use default widget title."
+#~ msgstr "小工具標題，留空為預設值。"
+
+# @ js_composer
+#~ msgid "Show post counts"
+#~ msgstr "顯示文章數"
+
+# @ default
+#~ msgid "Calendar"
+#~ msgstr "文章日曆"
+
+# @ js_composer
+#~ msgid "A calendar of your sites posts"
+#~ msgstr "文章發佈日曆"
+
+# @ js_composer
+#~ msgid "A list or dropdown of categories"
+#~ msgstr "插入文章分類清單。"
+
+# @ js_composer
+#~ msgid "Show hierarchy"
+#~ msgstr "顯示階層"
+
+# @ default
+#~ msgid "Custom Menu"
+#~ msgstr "選單"
+
+# @ js_composer
+#~ msgid "Use this widget to add one of your custom menus as a widget"
+#~ msgstr "新增自訂選單。"
+
+# @ js_composer
+#~ msgid "Menu"
+#~ msgstr "選單"
+
+# @ js_composer
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+#~| "create new menu."
+#~ msgid ""
+#~ "Custom menus not found. Please visit %sAppearance > Menus%s page to "
+#~ "create new menu."
+#~ msgstr "無自訂選單，請前往 外觀->選單 進行設定。"
+
+# @ js_composer
+#~ msgid "All Links"
+#~ msgstr "連結"
+
+# @ default
+#~ msgid "Links"
+#~ msgstr "連結"
+
+# @ js_composer
+#~ msgid "Your blogroll"
+#~ msgstr "插入網站連結。"
+
+# @ js_composer
+#~ msgid "Link Category"
+#~ msgstr "依分類"
+
+# @ js_composer
+#~ msgid "Link title"
+#~ msgstr "依標題"
+
+# @ js_composer
+#~ msgid "Link rating"
+#~ msgstr "依評分"
+
+# @ js_composer
+#~ msgid "Link ID"
+#~ msgstr "依 ID"
+
+# @ js_composer
+#~ msgid "Show Link Image"
+#~ msgstr "顯示連結圖片"
+
+# @ js_composer
+#~ msgid "Show Link Name"
+#~ msgstr "顯示連結名稱"
+
+# @ js_composer
+#~ msgid "Show Link Description"
+#~ msgstr "顯示連結描述"
+
+# @ js_composer
+#~ msgid "Show Link Rating"
+#~ msgstr "顯示連結評分"
+
+# @ js_composer
+#~ msgid "Number of links to show"
+#~ msgstr "顯示連結數"
+
+# @ default
+#~ msgid "Meta"
+#~ msgstr "功能"
+
+# @ js_composer
+#~ msgid "Log in/out, admin, feed and WordPress links"
+#~ msgstr "管理者介面。"
+
+# @ default
+#~ msgid "Pages"
+#~ msgstr "頁面"
+
+# @ js_composer
+#~ msgid "Your sites WordPress Pages"
+#~ msgstr "插入其它頁面。"
+
+# @ js_composer
+#~ msgid "Page title"
+#~ msgstr "頁面標題"
+
+# @ js_composer
+#~ msgid "Page order"
+#~ msgstr "頁面順序"
+
+# @ js_composer
+#~ msgid "Page ID"
+#~ msgstr "頁面 ID"
+
+# @ default
+#~ msgid "Recent Posts"
+#~ msgstr "最新文章"
+
+# @ js_composer
+#~ msgid "The most recent posts on your site"
+#~ msgstr "插入最新文章列表。"
+
+# @ js_composer
+#~ msgid "Display post date?"
+#~ msgstr "是否顯示文章日期？"
+
+# @ default
+#~ msgid "Recent Comments"
+#~ msgstr "最新評論"
+
+# @ js_composer
+#~ msgid "The most recent comments"
+#~ msgstr "最新評論清單。"
+
+# @ default
+#~ msgid "RSS"
+#~ msgstr "RSS 連結"
+
+# @ js_composer
+#~ msgid "Entries from any RSS or Atom feed"
+#~ msgstr "訂閱本站 RSS 。"
+
+# @ js_composer
+#~ msgid "RSS feed URL"
+#~ msgstr "RSS 網址"
+
+# @ js_composer
+#~ msgid "Enter the RSS feed URL."
+#~ msgstr "輸入 RSS 網址"
+
+# @ js_composer
+#~ msgid "Items"
+#~ msgstr "文章數"
+
+# @ js_composer
+#~ msgid "10 - Default"
+#~ msgstr "預設值(10)"
+
+# @ js_composer
+#~ msgid "Display item author if available?"
+#~ msgstr "是否顯示作者？"
+
+# @ js_composer
+#~ msgid "Display item date?"
+#~ msgstr "是否顯示日期？"
+
+# @ default
+#~ msgid "Search"
+#~ msgstr "搜尋"
+
+# @ js_composer
+#~ msgid "A search form for your site"
+#~ msgstr "插入搜尋功能。"
+
+# @ default
+#~ msgid "Tag Cloud"
+#~ msgstr "標籤雲"
+
+# @ js_composer
+#~ msgid "Your most used tags in cloud format"
+#~ msgstr "顯示最常使用標籤。"
+
+# @ js_composer
+# @ default
+#~ msgid "Tags"
+#~ msgstr "標籤"
+
+# @ js_composer
+#~ msgid "Taxonomy"
+#~ msgstr "分類"
+
+# @ js_composer
+#~ msgid "Arbitrary text or HTML"
+#~ msgstr "插入文字或 HTML 。"
+
+# @ js_composer
+#~ msgid "No Gravity forms found."
+#~ msgstr "無 Gravity forms"
+
+# @ js_composer
+#~ msgid "Select a form to display."
+#~ msgstr "選擇表單"
+
+# @ js_composer
+#~ msgid "Gravity Form"
+#~ msgstr "Gravity Form"
+
+# @ js_composer
+#~ msgid "Place Gravity form"
+#~ msgstr "置入 Gravity Form"
+
+# @ js_composer
+#~ msgid "Form"
+#~ msgstr "表單"
+
+# @ js_composer
+#~ msgid "Select a form to add it to your post or page."
+#~ msgstr "選擇表單"
+
+# @ js_composer
+#~ msgid "Display Form Title"
+#~ msgstr "顯示表單標題"
+
+# @ js_composer
+#~ msgid "Would you like to display the forms title?"
+#~ msgstr "是否顯示表單標題？"
+
+# @ js_composer
+#~ msgid "Display Form Description"
+#~ msgstr "顯示表單描述"
+
+# @ js_composer
+#~ msgid "Would you like to display the forms description?"
+#~ msgstr "是否顯示表單描述"
+
+# @ js_composer
+#~ msgid "Enable AJAX?"
+#~ msgstr "是否啟用 AJAX?"
+
+# @ js_composer
+#~ msgid "Enable AJAX submission?"
+#~ msgstr "是否啟用 AJAX 送出表單？"
+
+# @ js_composer
+#~ msgid "Tab Index"
+#~ msgstr "頁籤編號"
+
+# @ js_composer
+#~ msgid ""
+#~ "(Optional) Specify the starting tab index for the fields of this form. "
+#~ "Leave blank if you're not sure what this is."
+#~ msgstr "指定表單顯示特定頁籤編號(選填)"
+
+# @ js_composer
+#~ msgid "Add/remove picture"
+#~ msgstr "新增/移除圖片"
+
+# @ js_composer
+#~ msgid "Finish Adding Images"
+#~ msgstr "完成新增圖片"
+
+# @ js_composer
+#~ msgid "Add Image"
+#~ msgstr "新增圖片"
+
+# @ js_composer
+#~ msgid "Add Images"
+#~ msgstr "加入圖片"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Frontend Editor"
+#~ msgstr "切換至後臺編輯"
+
+# @ js_composer
+#~ msgid ""
+#~ "Confirm deleting \"{template_name}\" template, press Cancel to leave. "
+#~ "This action cannot be undone."
+#~ msgstr "確定刪除樣版？"
+
+# @ js_composer
+#~ msgid "Press OK to delete section, Cancel to leave"
+#~ msgstr "是否確定要刪除？"
+
+# @ js_composer
+#~ msgid "Drag and drop me in the column"
+#~ msgstr "移動"
+
+# @ js_composer
+#~ msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+#~ msgstr "是否刪除頁籤- \"{tab_name}\"?"
+
+# @ js_composer
+#~ msgid "Slide"
+#~ msgstr "頁籤"
+
+# @ js_composer
+#~ msgid "Please enter new tab title"
+#~ msgstr "請輸入頁籤標題"
+
+# @ js_composer
+#~ msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+#~ msgstr "是否刪除區塊- \"{tab_name}\"?"
+
+# @ js_composer
+#~ msgid "Please enter new section title"
+#~ msgstr "請輸入區塊標題"
+
+# @ js_composer
+#~ msgid "Error. Please try again."
+#~ msgstr "發生錯誤！請再試一遍！"
+
+# @ js_composer
+#~ msgid ""
+#~ "If you close this window all shortcode settings will be lost. Close this "
+#~ "window?"
+#~ msgstr "確定要關閉？"
+
+# @ js_composer
+#~ msgid "Select element type"
+#~ msgstr "選擇標題樣式"
+
+# @ js_composer
+#~ msgid "Media gallery"
+#~ msgstr "媒體庫"
+
+# @ js_composer
+#~ msgid "Element settings"
+#~ msgstr "元素設定"
+
+# @ js_composer
+#~ msgid "Add tab"
+#~ msgstr "加入頁籤"
+
+# @ js_composer
+#~ msgid "Are you sure you want to convert to new version?"
+#~ msgstr "確定要轉換為新版本？\t"
+
+# @ js_composer
+#~ msgid "Loading..."
+#~ msgstr "載入中..."
+
+# @ default
+#~ msgid "Loop settings"
+#~ msgstr "循環設定"
+
+# @ js_composer
+#~ msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+#~ msgstr "請輸入正確的欄位格式。譬如：1/2 + 1/2 或 span6 + span6。"
+
+# @ js_composer
+#~ msgid "Row background color"
+#~ msgstr "背景顏色"
+
+# @ js_composer
+#~ msgid "Row background image"
+#~ msgstr "背景圖片"
+
+# @ js_composer
+#~ msgid "Guides ON"
+#~ msgstr "輔助說明 啟用"
+
+# @ js_composer
+#~ msgid "Guides OFF"
+#~ msgstr "輔助說明 關閉"
+
+# @ js_composer
+#~ msgid "Template added to the page."
+#~ msgstr "樣版加入頁面"
+
+# @ js_composer
+#~ msgid "Page settings updated!"
+#~ msgstr "更新完成！"
+
+# @ js_composer
+#~ msgid "Update all"
+#~ msgstr "更新"
+
+# @ js_composer
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "變更尚未儲存！"
+
+# @ js_composer
+#, php-format
+#~ msgid "%s saved!"
+#~ msgstr "%s已儲存！"
+
+# @ js_composer
+#, php-format
+#~ msgid "%s deleted!"
+#~ msgstr "%s已刪除！"
+
+# @ js_composer
+#~ msgid "Update"
+#~ msgstr "更新"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Shortcode updated!"
+#~ msgid "Successfully updated!"
+#~ msgstr "已更新"
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong name for shortcode:%s. Name required"
+#~ msgstr "錯誤的名稱簡碼：%s，此為必填"
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong base for shortcode:%s. Base required"
+#~ msgstr "錯誤的簡碼：%s，此為必填"
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+#~ msgstr "錯誤的屬性簡碼：%s，此為必填"
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+#~ msgstr "錯誤的設定名稱簡碼：%s，此處不可修改"
+
+# @ js_composer
+#~ msgid "General"
+#~ msgstr "一般"
+
+# @ js_composer
+#~ msgid "Edit"
+#~ msgstr "編輯"
+
+# @ js_composer
+#~ msgid "Desktop"
+#~ msgstr "桌上型電腦"
+
+# @ js_composer
+#~ msgid "Tablet landscape mode"
+#~ msgstr "平版電腦(橫式)"
+
+# @ js_composer
+#~ msgid "Tablet portrait mode"
+#~ msgstr "平版電腦(直式)"
+
+# @ js_composer
+#~ msgid "Smartphone landscape mode"
+#~ msgstr "智慧型手機(橫式)"
+
+# @ js_composer
+#~ msgid "Smartphone portrait mode"
+#~ msgstr "智慧型手機(直式)"
+
+# @ js_composer
+#~ msgid "Responsive preview"
+#~ msgstr "各類型裝置視窗預覽"
+
+# @ js_composer
+#~ msgid "Cancel all changes and return to WP dashboard"
+#~ msgstr "取消所有變更並返回控制台"
+
+# @ js_composer
+#~ msgid "Save as Pending"
+#~ msgstr "存為草稿"
+
+# @ js_composer
+#~ msgid "Publish"
+#~ msgstr "發佈"
+
+# @ js_composer
+#~ msgid "Submit for Review"
+#~ msgstr "待審中"
+
+# @ js_composer
+#~ msgid "Page settings"
+#~ msgstr "頁面設定"
+
+# @ js_composer
+#~ msgid "CSS"
+#~ msgstr "自訂 CSS"
+
+# @ js_composer
+#~ msgid "Add new element"
+#~ msgstr "新增元素"
+
+# @ js_composer
+#~ msgid "Templates"
+#~ msgstr "套用樣版"
+
+# @ js_composer
+#~ msgid "Save current layout as a template"
+#~ msgstr "將現有版面存為樣版。"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Templates"
+#~ msgid "Template name"
+#~ msgstr "套用樣版"
+
+# @ js_composer
+#~ msgid "Delete template"
+#~ msgstr "刪除樣版"
+
+# @ default
+#~ msgid "Please enter valid shortcode"
+#~ msgstr "輸入自訂 shortcode 字串"
+
+# @ js_composer
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+# @ js_composer
+#~ msgid "Tag:"
+#~ msgstr "標籤："
+
+# @ js_composer
+#~ msgid "Description:"
+#~ msgstr "描述："
+
+# @ js_composer
+#~ msgid "Category:"
+#~ msgstr "類別："
+
+# @ default
+#~ msgid "Comma separated categories names"
+#~ msgstr "使用逗號「,」分隔多項類別"
+
+# @ js_composer
+#~ msgid "Include content param into shortcode"
+#~ msgstr "包含內容的 shortcode"
+
+# @ js_composer
+#~ msgid "Save Changes"
+#~ msgstr "儲存變更"
+
+# @ js_composer
+#~ msgid "Delete"
+#~ msgstr "刪除"
+
+# @ js_composer
+#~ msgid "Drag row to reorder"
+#~ msgstr "拖曳改變順序"
+
+# @ js_composer
+#~ msgid "Param name"
+#~ msgstr "參數名稱"
+
+# @ js_composer
+#~ msgid "Required value"
+#~ msgstr "必要值"
+
+# @ js_composer
+#~ msgid "Please use only letters, numbers and underscore."
+#~ msgstr "僅限字母、數字與下底線"
+
+# @ js_composer
+#~ msgid "Heading for field in shortcode edit form."
+#~ msgstr "shortcode 欄位中的標題"
+
+# @ js_composer
+#~ msgid "Field type"
+#~ msgstr "欄位類型"
+
+# @ js_composer
+#~ msgid "Select field type"
+#~ msgstr "選擇欄位類型"
+
+# @ js_composer
+#~ msgid "Textfield"
+#~ msgstr "文字"
+
+# @ js_composer
+#~ msgid "Textarea"
+#~ msgstr "文字區域"
+
+# @ js_composer
+#~ msgid "Textarea HTML"
+#~ msgstr "HTML"
+
+# @ js_composer
+#~ msgid "Field type for shortcode edit form."
+#~ msgstr "shortdocde 欄位類型"
+
+# @ js_composer
+#~ msgid "Default value"
+#~ msgstr "預設值"
+
+# @ js_composer
+#, fuzzy, php-format
+#~| msgid "Error. Please try again."
+#~ msgid "%s. Please try again."
+#~ msgstr "發生錯誤！請再試一遍！"
+
+# @ js_composer
+#~ msgid "General Settings"
+#~ msgstr "一般設定"
+
+# @ js_composer
+#~ msgid "Custom CSS"
+#~ msgstr "自訂 CSS"
+
+# @ js_composer
+#~ msgid "Product License"
+#~ msgstr "序號註冊"
+
+# @ js_composer
+#~ msgid "Main accent color"
+#~ msgstr "主要色系"
+
+# @ js_composer
+#~ msgid "Hover color"
+#~ msgstr "滑鼠停留色系"
+
+# @ js_composer
+#~ msgid "Call to action background color"
+#~ msgstr "大按鈕背景色"
+
+# @ js_composer
+#~ msgid "Google maps background color"
+#~ msgstr "Google 地圖背景色"
+
+# @ js_composer
+#~ msgid "Post slider caption background color"
+#~ msgstr "文章圖說底色"
+
+# @ js_composer
+#~ msgid "Progress bar background color"
+#~ msgstr "進度條背景顏色"
+
+# @ js_composer
+#~ msgid "Separator border color"
+#~ msgstr "分隔線色係"
+
+# @ js_composer
+#~ msgid "Tabs navigation background color"
+#~ msgstr "頁籤背景色"
+
+# @ js_composer
+#~ msgid "Active tab background color"
+#~ msgstr "所在頁籤背景色"
+
+# @ js_composer
+#~ msgid "Disable responsive content elements"
+#~ msgstr "關閉響應式區塊元素"
+
+# @ js_composer
+#~ msgid "Use custom design options"
+#~ msgstr "啟用風格設定"
+
+# @ js_composer
+#~ msgid "Elements bottom margin"
+#~ msgstr "所有元素下方邊距"
+
+# @ js_composer
+#~ msgid "Grid gutter width"
+#~ msgstr "欄位間距"
+
+# @ js_composer
+#~ msgid "Mobile screen width"
+#~ msgstr "行動裝置預設寬度"
+
+# @ js_composer
+#~ msgid "Paste your CSS code"
+#~ msgstr "請輸入自訂 CSS 程式碼"
+
+# @ js_composer
+#~ msgid "Are you sure you want to reset to defaults?"
+#~ msgstr "確定要將所有設定恢復為預設值？"
+
+# @ js_composer
+#~ msgid "Are you sure you want to delete this shortcode?"
+#~ msgstr "確定刪除 shortcode ？"
+
+# @ js_composer
+#~ msgid "Are you sure you want to delete the shortcode's param?"
+#~ msgstr "確定刪除 shortcode 參數？"
+
+# @ js_composer
+#~ msgid "My shortcodes"
+#~ msgstr "自訂 shortcode"
+
+# @ js_composer
+#~ msgid "Shortcode name is required."
+#~ msgstr "Shortcode 名稱為必填"
+
+# @ js_composer
+#~ msgid "Please enter valid shortcode tag."
+#~ msgstr "請輸入有效的 shortcode 標籤"
+
+# @ js_composer
+#~ msgid "Please enter all required fields for params."
+#~ msgstr "請輸入所有欄位"
+
+# @ js_composer
+#~ msgid "New shortcode mapped from string!"
+#~ msgstr "新的 shortcode !"
+
+# @ js_composer
+#~ msgid "Shortcode updated!"
+#~ msgstr "已更新"
+
+# @ js_composer
+#~ msgid "Content param can not be added manually, please use checkbox."
+#~ msgstr "請使用圈選欄位新增內容"
+
+# @ js_composer
+#, php-format
+#~ msgid "Param %s already exists. Param names must be unique."
+#~ msgstr "參數 %s 已存在，請使用獨一無二的名稱。"
+
+# @ js_composer
+#~ msgid "Please use only letters, numbers and underscore for param name"
+#~ msgstr "僅限字母、數字與下底線"
+
+# @ js_composer
+#~ msgid "Please enter valid shortcode to parse!"
+#~ msgstr "請輸入有效的 shortcode"
+
+# @ js_composer
+#~ msgid "Enable"
+#~ msgstr "啟用"
+
+# @ js_composer
+#, fuzzy
+#~ msgid ""
+#~ "Here you can tweak default WPBakery Page Builder content elements visual "
+#~ "appearance. By default WPBakery Page Builder is using neutral light-grey "
+#~ "theme. Changing \"Main accent color\" will affect all content elements if "
+#~ "no specific \"content block\" related color is set."
+#~ msgstr "提供輕鬆排版所建立網頁元素之風格、色系設定。"
+
+# @ js_composer
+#~ msgid "Invalid Margin value."
+#~ msgstr "錯誤的邊界值"
+
+# @ js_composer
+#~ msgid "Invalid Gutter value."
+#~ msgstr "錯誤的間隔值"
+
+# @ js_composer
+#~ msgid "Invalid \"Responsive max\" value."
+#~ msgstr "錯誤的值"
+
+# @ js_composer
+#~ msgid ""
+#~ "Something went wrong: js_composer_front_custom.css could not be created."
+#~ msgstr "發生錯誤：js_composer_front_custom.css 無法建立。"
+
+# @ js_composer
+#~ msgid "js_composer_front_custom.css could not be created. Connection error."
+#~ msgstr "js_composer_front_custom.css 無法建立，連線發生錯誤。"
+
+# @ js_composer
+#, php-format
+#~ msgid ""
+#~ "js_composer_front_custom.css could not be created. Cannot write custom "
+#~ "css to \"%s\"."
+#~ msgstr "js_composer_front_custom.css 無法建立，無法寫入\"%s\"。"
+
+# @ js_composer
+#~ msgid ""
+#~ "js_composer_front_custom.css could not be created. Problem with access."
+#~ msgstr "js_composer_front_custom.css 無法建立，存取權限發生問題。"
+
+# @ js_composer
+#~ msgid "Something went wrong: custom.css could not be created."
+#~ msgstr "發生錯誤：custom.css 無法建立。"
+
+# @ js_composer
+#~ msgid "custom.css could not be created. Connection error."
+#~ msgstr "custom.css 無法建立，連線發生錯誤。"
+
+# @ js_composer
+#, fuzzy, php-format
+#~| msgid ""
+#~| "js_composer_front_custom.css could not be created. Cannot write custom "
+#~| "css to \"%s\"."
+#~ msgid "custom.css could not be created. Cannot write custom css to %s."
+#~ msgstr "js_composer_front_custom.css 無法建立，無法寫入\"%s\"。"
+
+# @ js_composer
+#~ msgid "custom.css could not be created. Problem with access."
+#~ msgstr "custom.css 無法建立，存取權限發生問題。"
+
+# @ js_composer
+#, php-format
+#~ msgid "Edit %s"
+#~ msgstr "編輯%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Clone %s"
+#~ msgstr "複製%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Delete %s"
+#~ msgstr "刪除%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Append to this %s"
+#~ msgstr "插入至%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Prepend to this %s"
+#~ msgstr "插入至%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Edit this %s"
+#~ msgstr "編輯%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Clone this %s"
+#~ msgstr "複製%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Delete this %s"
+#~ msgstr "刪除%s"
+
+# @ js_composer
+#~ msgid "Add images"
+#~ msgstr "加入圖片"
+
+# @ js_composer
+#~ msgid "Custom layout"
+#~ msgstr "自定欄位"
+
+# @ js_composer
+#~ msgid "Delete this row"
+#~ msgstr "刪除區塊"
+
+# @ js_composer
+#~ msgid "Edit this row"
+#~ msgstr "編輯區塊"
+
+# @ js_composer
+#~ msgid "Clone this row"
+#~ msgstr "複製區塊"
+
+# @ js_composer
+#~ msgid "Add image"
+#~ msgstr "增加圖片"
+
+# @ js_composer
+#~ msgid "Error! Can't connect to filesystem"
+#~ msgstr "發生錯誤！無法與系統連結！"
+
+# @ js_composer
+#~ msgid "No contact forms found"
+#~ msgstr "無資料"
+
+# @ js_composer
+#~ msgid "Contact Form 7"
+#~ msgstr "聯絡表單"
+
+# @ js_composer
+#~ msgid "Place Contact Form7"
+#~ msgstr "置入聯絡表單(Contact Form 7)"
+
+# @ js_composer
+#~ msgid "Select contact form"
+#~ msgstr "選擇已建立表單"
+
+# @ js_composer
+#~ msgid "Choose previously created contact form from the drop down list."
+#~ msgstr "選擇已建立表單"
+
+# @ js_composer
+#~ msgid "No sliders found"
+#~ msgstr "無資料"
+
+# @ js_composer
+#~ msgid "Layer Slider"
+#~ msgstr "Layer Slider"
+
+# @ js_composer
+#~ msgid "Place LayerSlider"
+#~ msgstr "置入 LayerSlider"
+
+# @ js_composer
+#~ msgid "LayerSlider ID"
+#~ msgstr "廣告 ID"
+
+# @ js_composer
+#~ msgid "Select your LayerSlider."
+#~ msgstr "選擇廣告"
+
+# @ js_composer
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+# @ js_composer
+#~ msgid "Place Revolution slider"
+#~ msgstr "置入 Revolution Slider"
+
+# @ js_composer
+#~ msgid "Select your Revolution Slider."
+#~ msgstr "選擇廣告"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Menu order"
+#~ msgid "Menu order & title"
+#~ msgstr "選單順序"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Exclude"
+#~ msgid "Include"
+#~ msgstr "排除"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Custom links"
+#~ msgid "Custom post__in"
+#~ msgstr "開啟連結"
+
+# @ js_composer
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s."
+#~ msgstr "選擇排序邏輯。了解更多--->%s."
+
+# @ js_composer
+#~ msgid "Order"
+#~ msgstr "排序邏輯"
+
+# @ js_composer
+#~ msgid "Added"
+#~ msgstr "已增加"
+
+# @ js_composer
+#~ msgid "Taxonomies"
+#~ msgstr "類型"
+
+# @ js_composer
+#~ msgid "CSS Animation"
+#~ msgstr "出現動畫"
+
+# @ js_composer
+#~ msgid "Top to bottom"
+#~ msgstr "由上方出現"
+
+# @ js_composer
+#~ msgid "Bottom to top"
+#~ msgstr "由下方出現"
+
+# @ js_composer
+#~ msgid "Left to right"
+#~ msgstr "由左方出現"
+
+# @ js_composer
+#~ msgid "Right to left"
+#~ msgstr "由右方出現"
+
+# @ js_composer
+#~ msgid "Appear from center"
+#~ msgstr "由中間出現"
+
+# @ js_composer
+#~ msgid "Box controls"
+#~ msgstr "區塊控制"
+
+# @ js_composer
+#~ msgid "Simplify controls"
+#~ msgstr "簡易"
+
+# @ js_composer
+#~ msgid "Theme defaults"
+#~ msgstr "預設"
+
+# @ wpb
+#~ msgid "Cover"
+#~ msgstr "符合容器"
+
+# @ wpb
+#~ msgid "Contain"
+#~ msgstr "完整大小"
+
+# @ wpb
+#~ msgid "No Repeat"
+#~ msgstr "不重覆"
+
+# @ wpb
+#~ msgid "Repeat"
+#~ msgstr "重覆"
+
+# @ js_composer
+#~ msgid "Text align"
+#~ msgstr "對齊方式"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Add row"
+#~ msgid "Add New"
+#~ msgstr "新增區塊"
+
+# @ js_composer
+#~ msgid "Build query"
+#~ msgstr "建立"
+
+# @ js_composer
+#~ msgid "Manage options"
+#~ msgstr "管理設定"
+
+# @ js_composer
+#~ msgid "Close"
+#~ msgstr "關閉"
+
+# @ js_composer
+#~ msgid "Add row"
+#~ msgstr "新增區塊"
+
+# @ wpb
+#, fuzzy
+#~ msgid "Hover"
+#~ msgstr "符合容器"
+
+# @ js_composer
+#~ msgid "Read more"
+#~ msgstr "閱讀更多"
+
+# @ js_composer
+#~ msgid "Select URL"
+#~ msgstr "選擇網址"
+
+# @ js_composer
+#~ msgid "URL"
+#~ msgstr "網址"
+
+# @ js_composer
+#~ msgid "Loading, please wait..."
+#~ msgstr "載入中..."
+
+# @ js_composer
+#~ msgid "Crunching..."
+#~ msgstr "處理中..."
+
+# @ js_composer
+#~ msgid "Other"
+#~ msgstr "其它"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "My Elements"
+#~ msgstr "新增內容"
+
+# @ js_composer
+#, php-format
+#~ msgid "Drag to move %s"
+#~ msgstr "拖曳移動%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Prepend to %s"
+#~ msgstr "插入至%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Append to %s"
+#~ msgstr "插入至%s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Show %s controls"
+#~ msgstr "顯示%s設定"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Element Title"
+#~ msgstr "分隔線寬度"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Enter element title."
+#~ msgstr "選擇標題樣式"
+
+# @ js_composer
+#~ msgid "Save changes"
+#~ msgstr "儲存"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Save as Element"
+#~ msgstr "存為草稿"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Link title"
+#~ msgid "Untitled"
+#~ msgstr "依標題"
+
+# @ js_composer
+#~ msgid "Add element"
+#~ msgstr "新增內容"
+
+# @ js_composer
+#~ msgid "Add text block"
+#~ msgstr "插入文字"
+
+# @ js_composer
+#~ msgid "Close panel"
+#~ msgstr "關閉"
+
+# @ js_composer
+#~ msgid "Hide panel"
+#~ msgstr "隱藏"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "序號註冊"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Manage elements"
+#~ msgstr "新增元素"
+
+# @ js_composer
+#~ msgid "Please enter page title"
+#~ msgstr "請輸入頁面標題"
+
+# @ js_composer
+#~ msgid "Custom CSS settings"
+#~ msgstr "自訂 CSS"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Delete element"
+#~ msgstr "選擇標題樣式"
+
+# @ js_composer
+#~ msgid "Row layout"
+#~ msgstr "自定欄位"
+
+# @ js_composer
+#~ msgid "Enter custom layout for your row"
+#~ msgstr "輸入欄位數目"
+
+# @ js_composer
+#~ msgid ""
+#~ "Change particular row layout manually by specifying number of columns and "
+#~ "their size value."
+#~ msgstr "輸入特定數目指定欄位。譬如兩欄式，請輸入 1/2 + 1/2 。"
+
+# @ js_composer
+#~ msgid "Backend editor"
+#~ msgstr "切換至後臺編輯"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Product License"
+#~ msgid "Regular License"
+#~ msgstr "序號註冊"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Extended License"
+#~ msgstr "序號註冊"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Annotation"
+#~ msgid "Activation"
+#~ msgstr "按鈕提示"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Content"
+#~ msgid "Content Type"
+#~ msgstr "內容"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Warning"
+#~ msgid "Learning More"
+#~ msgstr "警告"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Content Elements"
+#~ msgstr "新增內容"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Design Options"
+#~ msgid "Element Design Options"
+#~ msgstr "風格設定"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Responsive preview"
+#~ msgid "Responsive Settings"
+#~ msgstr "各類型裝置視窗預覽"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Image size"
+#~ msgid "Image filters"
+#~ msgstr "圖片尺寸"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Add row"
+#~ msgid "Add - ons"
+#~ msgstr "新增區塊"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Templates"
+#~ msgid "Templatera"
+#~ msgstr "套用樣版"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video Academy"
+#~ msgstr "影片"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Facebook Like"
+#~ msgid "Facebook page"
+#~ msgstr "Facebook 讚！"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Balloon Twitter icon"
+#~ msgid "Twitter account"
+#~ msgstr "推特對話框"
+
+# @ js_composer
+#, php-format
+#~ msgid "Permalink to %s"
+#~ msgstr "連結%s"
+
+# @ js_composer
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "空的區塊，編輯頁面以增加內容。"
+
+# @ js_composer
+#~ msgid "View stream on flickr"
+#~ msgstr "在 Flickr 上檢視照片"
+
+# @ js_composer
+#~ msgid "Item"
+#~ msgstr "項目"
+
+# @ js_composer
+#~ msgid "Nothing found."
+#~ msgstr "無資料"
+
+# @ js_composer
+#~ msgid "Tweet"
+#~ msgstr "推特"
+
+# @ js_composer
+#~ msgid "Open prettyPhoto"
+#~ msgstr "燈箱效果"
+
+# @ js_composer
+#~ msgid "Animated carousel with posts"
+#~ msgstr "插入文章列表並以多篇輪播方式呈現。"
+
+# @ js_composer
+#~ msgid "Carousel content"
+#~ msgstr "內容"
+
+# @ js_composer
+#~ msgid "Create WordPress loop, to populate content from your site."
+#~ msgstr "建立文章列表"
+
+# @ js_composer
+#~ msgid "Teaser layout"
+#~ msgstr "文章資訊"
+
+# @ js_composer
+#~ msgid ""
+#~ "Control teasers look. Enable blocks and place them in desired order. "
+#~ "Note: This setting can be overrriden on post to post basis."
+#~ msgstr "設定文章顯示相關欄位"
+
+# @ js_composer
+#~ msgid "Thumbnail"
+#~ msgstr "圖片"
+
+# @ js_composer
+#~ msgid "Teaser/Excerpt"
+#~ msgstr "顯示摘要"
+
+# @ js_composer
+#~ msgid "Full content"
+#~ msgstr "顯示全文"
+
+# @ js_composer
+#~ msgid "Read more link"
+#~ msgstr "閱讀更多連結"
+
+# @ js_composer
+#~ msgid "Link target"
+#~ msgstr "開啟連結"
+
+# @ js_composer
+#~ msgid "If \"YES\" pagination control will be removed"
+#~ msgstr "關閉分頁導覽"
+
+# @ js_composer
+#~ msgid "If \"YES\" prev/next control will be removed"
+#~ msgstr "如果勾選\"YES\"，上下篇導覽將被移除。"
+
+# @ js_composer
+#~ msgid "If \"YES\" part of the next slide will be visible on the right side"
+#~ msgstr "開啟預覽下則廣告功能"
+
+# @ js_composer
+#~ msgid "Posts in grid view"
+#~ msgstr "以陣列方式排序文章清單。"
+
+# @ js_composer
+#~ msgid "Grids content"
+#~ msgstr "內容來源"
+
+# @ js_composer
+#~ msgid "Columns count"
+#~ msgstr "分欄數"
+
+# @ js_composer
+#~ msgid "Select columns count."
+#~ msgstr "選擇分割欄位數目"
+
+# @ js_composer
+#~ msgid "Select to add animated category filter to your posts grid."
+#~ msgstr "勾選顯示文章分類"
+
+# @ js_composer
+#~ msgid "Layout mode"
+#~ msgstr "版面設定"
+
+# @ js_composer
+#~ msgid "Fit rows"
+#~ msgstr "齊行"
+
+# @ js_composer
+#~ msgid "Masonry"
+#~ msgstr "高低差"
+
+# @ js_composer
+#~ msgid "Teaser layout template."
+#~ msgstr "選擇版面樣式"
+
+# @ js_composer
+#~ msgid "Toggle editor's guides"
+#~ msgstr "操作說明"
+
+# @ js_composer
+#~ msgid "Hello World"
+#~ msgstr "您好，世界！"
+
+# @ js_composer
+#~ msgid "Foo attribute"
+#~ msgstr "foo 屬性"
+
+# @ js_composer
+#~ msgid "I'm foo attribute"
+#~ msgstr "我是 foo 屬性"
+
+# @ js_composer
+#~ msgid "Enter foo value."
+#~ msgstr "輸入 foo 值"
+
+# @ js_composer
+#~ msgid "I'm hello world"
+#~ msgstr "我是您好世界"
+
+# @ js_composer
+#~ msgid "Drop down example"
+#~ msgstr "下拉選單範例"
+
+# @ js_composer
+#~ msgid "One, two or three?"
+#~ msgstr "一、二或三？"
+
+# @ js_composer
+#~ msgid ""
+#~ "Template file is missing for `%s` shortcode. Make sure you have `%s` file "
+#~ "in your theme folder."
+#~ msgstr "樣版遺失 `%s` 簡碼，請確認 `%s` 有包含於您的佈景主題資料夾中。"
+
+# @ js_composer
+#~ msgid "settings"
+#~ msgstr "設定"
+
+# @ js_composer
+#~ msgid "VC: Custom Teaser"
+#~ msgstr "自訂圖文"
+
+# @ js_composer
+#~ msgid "Empty title"
+#~ msgstr "標題"
+
+# @ js_composer
+#~ msgid "Excerpt"
+#~ msgstr "圖說"
+
+# @ js_composer
+#~ msgid "Featered"
+#~ msgstr "特色"
+
+# @ js_composer
+#~ msgid "Link text"
+#~ msgstr "連結文字"
+
+# @ js_composer
+#~ msgid "Link to big image"
+#~ msgstr "點擊展開大圖"
+
+# @ js_composer
+#~ msgid "Add custom image"
+#~ msgstr "增加圖片"
+
+# @ js_composer
+#~ msgid "Enable custom teaser"
+#~ msgstr "啟用自定圖文"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "New Icons"
+#~ msgstr "圖標"
+
+# @ js_composer
+#~ msgid "Link to"
+#~ msgstr "連結至"
+
+# @ js_composer
+#~ msgid "On post"
+#~ msgstr "在頁面中"
+
+# @ js_composer
+#~ msgid "Big image"
+#~ msgstr "大圖"
+
+# @ js_composer
+#~ msgid "Featured"
+#~ msgstr "特色"

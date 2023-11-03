@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-12-01 13:06+0100\n"
+"PO-Revision-Date: 2022-11-15 16:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US"
+
+#. Name of the theme
+msgid "DC-MBS"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"DC-MBS is a blazing fast and lightweight WordPress theme built with the "
+"latest web technologies. It was built with the Gutenberg editor in mind and "
+"has a lot of options that makes it extendable and customizable. You can "
+"easily create any type of website, such as business agency, shop, corporate, "
+"education, restaurant, blog, portfolio, landing page and so on. It works "
+"like a charm with popular WordPress page builders, including Elementor, "
+"Beaver Builder, Visual Composer and Brizy. Since it is responsive and "
+"adaptive, translation ready, SEO optimized and has WooCommerce built-in, you "
+"will experience an easy build and even an increase in conversions. Note: DC-"
+"MBS is built with the latest web technologies in order to bring you the "
+"smoothest experience, that told, old browsers like IE 11 and below may not "
+"work as expected. We strongly recommend you to update/switch to a modern "
+"browser."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://dev.selamoo.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https:facebook.com/deltoro237"
+msgstr ""
+
+#. Author of the theme
+msgid "NG-Adrian."
+msgstr ""

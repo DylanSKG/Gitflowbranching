@@ -1,0 +1,303 @@
+    <style>.sc_column_large,
+    .sc_column_small {
+        min-width: 78.5%;
+    }
+    
+    .sc_column_small {
+        min-width: 25%;
+    }
+    
+    .sc_column_large {
+        background-color: transparent;
+    }
+    
+    .sc_left_tabs {
+        /* width: 100%; */
+        display: grid;
+        align-items: center;
+        margin: 3em 2em 0px 2em;
+    }
+    
+    .options_tabs,
+    .icons_option {
+        display: flex;
+        justify-content: flex-start;
+        height: 40px;
+        margin-top: 1em;
+        align-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    #main_pasec,
+    #main_tms,
+    #main_reps {
+        display: none;
+    }
+    
+    .icons_option,
+    .option_section_title svg {
+        width: 5em;
+        margin-top: 0em;
+    }
+    
+    .icons_option svg {
+        width: 100%;
+        position: relative;
+        /* display: grid; */
+        /* scale: 1.4; */
+        top: 0;
+    }
+    
+    .text_option {
+        width: 75%;
+        text-align: left;
+    }
+    
+    svg.svg {
+        top: 0;
+    }
+    
+    .sc_column_large .sub_main,
+    .s_sub_main {
+        /* height: -webkit-fill-available; */
+        display: grid;
+        position: relative;
+        width: 90%;
+    }
+    
+    .s_sub_main {
+        height: 20em;
+    }
+    
+    .is_active {
+        background-color: #0062ff0a;
+        transition-duration: 0.5s;
+    }
+    
+    .main_main {
+        margin: 2em 6em 2em 2em;
+        width: 75%;
+    }
+    
+    .option_main_title,
+    .option_section_title {
+        position: relative;
+        /* height: 3em; */
+        display: flex;
+        font-size: 18px;
+        margin-bottom: 1em;
+        font-weight: 700;
+    }
+    
+    .option_section_title {
+        border-radius: 30px 30px 0px 0px;
+        margin-bottom: 1em;
+        height: 3.5em;
+        background-color: #eeeeee;
+        text-indent: 3em;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 20px;
+    }
+    
+    .option_section {
+        /* border: 2px solid #d9d9d9; */
+        min-height: 15em;
+        border-radius: 33px;
+        padding-left: 0em;
+        box-shadow: 3px 6px 7px 0px #d5d5d5, -2px 3px 7px 0px #d5d5d5;
+        background-color: white;
+        /* max-height: 70%; */
+        padding-bottom: 2em;
+    }
+    
+    .option_section_state {
+        /* float: left; */
+        display: flex;
+        /* align-items: center; */
+        align-content: center;
+        margin: 0em 4em;
+    }
+    
+    .section_state_caption {
+        display: grid;
+        justify-items: start;
+        margin-left: 0em;
+    }
+    
+    span.state_caption {
+        font-size: 14px;
+        font-family: 'Roboto';
+        font-weight: 600;
+    }
+    
+    span.section_icon svg {
+        scale: 0.7;
+        position: relative;
+        top: -3px;
+    }
+    
+    .form_block {
+        display: flex;
+        width: 100%;
+        margin-top: 1em;
+    }
+    
+    span.check_boxs {
+        display: flex;
+        height: 1.5em;
+        align-items: center;
+        margin-bottom: 1em;
+        width: 25em;
+    }
+    
+    .parameter_zone {
+        width: 75%;
+        padding-left: 5em;
+    }
+    
+    .parameter_zone span {
+        font-size: 17px;
+        text-align: left;
+        display: flex;
+    }
+    
+    .choice_box {
+        height: 60%;
+        overflow-x: hidden;
+    }
+    
+    body * {
+        font-size: 12px;
+        font-family: 'Roboto';
+    }
+    
+    .bulk_param {
+        height: inherit;
+    }
+    
+    span.check_boxs.param_box {
+        margin: 0em 1em;
+        display: flex;
+        height: 3em;
+        justify-content: space-between;
+        width: 80%;
+    }
+    
+    span.check_boxs.param_box select {
+        width: 70%;
+        height: 2.5em;
+        border-radius: 30px;
+        padding: 0px 1em;
+        text-align: center;
+        border: 1px solid #bebebe;
+        box-shadow: inset -6px -3px 10px #cdeaff91;
+        color: gray;
+        font-size: 15px;
+    }
+    /* teams bloc css */
+    
+    .team_section {
+        width: 100%;
+    }
+    
+    .selectar {
+        display: flex;
+        justify-content: space-around;
+        margin: 1em 0px;
+        align-items: center;
+    }
+    
+    .selectar label {
+        font-size: 20px;
+        font-weight: 800;
+        color: black;
+    }
+    
+    span.ent_added {
+        /* height: 2em; */
+        position: relative;
+        width: auto;
+        background-color: #ecf4ff;
+        display: inline-flex;
+        padding: 10px 2em;
+        border-radius: 15px;
+        margin: 2px 2px;
+    }
+    
+    span.sc_btn:hover {
+        box-shadow: inset 0px -2px 5px 0px #e3e3e3, inset 0px -8px 10px #e9f7fb;
+    }
+    
+    span.sc_btn {
+        height: 3em;
+        width: auto;
+        padding: 0px 2em;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+    
+    .sc_shadow {
+        box-shadow: 0px 5px 5px 0px #e3e3e3, -1px -10px 10px #ffffff;
+    }
+    
+    span.trns_btn:hover {
+        box-shadow: inset 2px 5px 10px #ececec;
+        transition-duration: 0.5s;
+    }
+    
+    .trns_btn {
+        padding: 0.9em 2em;
+        border-radius: 20px;
+        width: 10em;
+        cursor: pointer;
+        transition-duration: 0.5s;
+    }
+    
+    select.sel_ent {
+        width: -webkit-fill-available;
+        border-radius: 35px;
+        height: 2.5em;
+        padding: em 20px;
+        text-align: center;
+        font-size: 20px;
+        color: darkgray;
+    }
+    
+    .labels {
+        width: 20em;
+        text-align: left;
+        padding: 0px 1em;
+    }
+    
+    .selects {
+        width: 40%;
+    }
+    
+    .adders {
+        width: 31%;
+        margin: 0px 3em;
+        float: left;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+    
+    div.added_entity {
+        padding-left: 25%;
+        text-align: left;
+    }
+    
+    svg#report {
+        width: inherit;
+        top: 0;
+        left: 0;
+    }
+    
+    </style>

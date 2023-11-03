@@ -1,0 +1,1681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 15:34+0100\n"
+"PO-Revision-Date: 2021-12-01 15:34+0100\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: Digital Factory <info@digitalfactory.pl>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: ./config/.\n"
+"X-Poedit-SearchPath-1: ./include/.\n"
+
+#: config/./containers/shortcode-vc-column-inner.php:10
+msgid "Inner Column"
+msgstr ""
+
+#: include/./classes/core/class-vc-base.php:738
+#, php-format
+msgid "%%s cloned. %sEdit now?%s"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-column.php:46
+msgid "Append to this column"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-column.php:48
+msgid "Prepend to this column"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-column.php:55
+msgid "Edit this column"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-column.php:56
+#, fuzzy
+msgid "Delete this column"
+msgstr "Usuń aktualne zaznaczenie"
+
+#: include/./classes/updaters/class-vc-updater.php:129
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Text on the button"
+#~ msgstr "Tekst przycisku."
+
+#~ msgid "URL (Link)"
+#~ msgstr "Adres URL (link)"
+
+#, fuzzy
+#~ msgid "Custom"
+#~ msgstr "Własne linki"
+
+#~ msgid "Color"
+#~ msgstr "Kolor"
+
+#~ msgid "Size"
+#~ msgstr "Rozmiar"
+
+#~ msgid "Select button alignment."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#~ msgid "Inline"
+#~ msgstr "W linii"
+
+#, fuzzy
+#~ msgid "Right"
+#~ msgstr "Do prawej"
+
+#, fuzzy
+#~ msgid "Center"
+#~ msgstr "Do środka"
+
+#~ msgid "Icon"
+#~ msgstr "Ikona"
+
+#~ msgid "Extra class name"
+#~ msgstr "Dodaj dodatkową klasę CSS"
+
+#, fuzzy
+#~ msgid "Design Options"
+#~ msgstr "Opis"
+
+#~ msgid "Button"
+#~ msgstr "Przycisk"
+
+#~ msgid "Content"
+#~ msgstr "Treść"
+
+#, fuzzy
+#~ msgid "Eye catching button"
+#~ msgstr "Przycisk akcji"
+
+#, fuzzy
+#~ msgid "Heading"
+#~ msgstr "Rosnąco"
+
+#, fuzzy
+#~ msgid "Text color"
+#~ msgstr "Blok tekstowy"
+
+#, fuzzy
+#~ msgid "No"
+#~ msgstr "Brak"
+
+#, fuzzy
+#~ msgid "Select column width."
+#~ msgstr "Wybierz liczbę kolumn."
+
+#, fuzzy
+#~ msgid "Column"
+#~ msgstr "Liczba kolumn."
+
+#~ msgid "None"
+#~ msgstr "Brak"
+
+#~ msgid "Image"
+#~ msgstr "Obrazek"
+
+#~ msgid "Section"
+#~ msgstr "Dział"
+
+#, fuzzy
+#~ msgid "Text Block"
+#~ msgstr "Blok tekstowy"
+
+#, fuzzy
+#~ msgid "Height"
+#~ msgstr "Wysokość mapy"
+
+#, fuzzy
+#~ msgid "Flickr Widget"
+#~ msgstr "Blok Flickr"
+
+#~ msgid "Widget title"
+#~ msgstr "Nazwa bloku"
+
+#~ msgid "Flickr ID"
+#~ msgstr "Flickr ID"
+
+#~ msgid "Number of photos"
+#~ msgstr "Liczba zdjęć"
+
+#~ msgid "Type"
+#~ msgstr "Rodzaj"
+
+#~ msgid "User"
+#~ msgstr "Użytkownik"
+
+#~ msgid "Group"
+#~ msgstr "Grupa"
+
+#~ msgid "Random"
+#~ msgstr "Losowo"
+
+#, fuzzy
+#~ msgid "Image Gallery"
+#~ msgstr "Galeria obrazków"
+
+#, fuzzy
+#~ msgid "Responsive image gallery"
+#~ msgstr "Galeria obrazków"
+
+#~ msgid "Gallery type"
+#~ msgstr "Typ galerii"
+
+#~ msgid "Flex slider fade"
+#~ msgstr "Flex slider zanikanie"
+
+#~ msgid "Flex slider slide"
+#~ msgstr "Flex slider przesuwanie"
+
+#~ msgid "Nivo slider"
+#~ msgstr "Nivo slider"
+
+#~ msgid "Image grid"
+#~ msgstr "Siatka obrazków"
+
+#, fuzzy
+#~ msgid "Select gallery type."
+#~ msgstr "Wybierz rodzaj wiadomości."
+
+#, fuzzy
+#~ msgid "Auto rotate slides each X seconds."
+#~ msgstr "Automatycznie zmieniaj slajdy co X sekund. Wybierz 0 aby wyłączyć tę funkcję."
+
+#~ msgid "Images"
+#~ msgstr "Obrazki"
+
+#~ msgid "Image size"
+#~ msgstr "Wielkość obrazka"
+
+#, fuzzy
+#~ msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+#~ msgstr "Wpisz rozmiar obrazka. Przykład: miniatura, średni, duży, pełny lub inne wielkości określone w używanym motywie. Alternatywnie możesz wpisać rozmiar w pikselach: 200x100 (szerokość x wysokość). Jeśli zostawisz to pole puste zostanie zastosowana wielkość miniatury."
+
+#~ msgid "Open custom link"
+#~ msgstr "Otwóz własny link"
+
+#~ msgid "Custom links"
+#~ msgstr "Własne linki"
+
+#~ msgid "Custom link target"
+#~ msgstr "Własne cel linku"
+
+#~ msgid "Select where to open  custom links."
+#~ msgstr "Wybierz jak mają być otwierane własne linki."
+
+#, fuzzy
+#~ msgid "Google Maps"
+#~ msgstr "Mapy Google"
+
+#, fuzzy
+#~ msgid "Map block"
+#~ msgstr "Blok tekstowy"
+
+#~ msgid "Map height"
+#~ msgstr "Wysokość mapy"
+
+#, fuzzy
+#~ msgid "Primary Title"
+#~ msgstr "Tutuł rozwijanego blogu"
+
+#, fuzzy
+#~ msgid "Hover Title"
+#~ msgstr "Tutuł rozwijanego blogu"
+
+#, fuzzy
+#~ msgid "Primary title"
+#~ msgstr "Tutuł rozwijanego blogu"
+
+#, fuzzy
+#~ msgid "Primary title alignment"
+#~ msgstr "Link do obrazka"
+
+#, fuzzy
+#~ msgid "Select text alignment for primary title."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Hover title"
+#~ msgstr "Tutuł rozwijanego blogu"
+
+#, fuzzy
+#~ msgid "Hover title alignment"
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Select text alignment for hovered title."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Select block shape."
+#~ msgstr "Wybierz typ przycisku."
+
+#, fuzzy
+#~ msgid "Background Color"
+#~ msgstr "Liczba kolumn."
+
+#, fuzzy
+#~ msgid "Select block alignment."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Hover Button"
+#~ msgstr "Przycisk Google+"
+
+#, fuzzy
+#~ msgid "Image Carousel"
+#~ msgstr "Karuzela"
+
+#~ msgid "Horizontal"
+#~ msgstr "Heoryzontalnie"
+
+#~ msgid "Vertical"
+#~ msgstr "Wertykalnie"
+
+#, fuzzy
+#~ msgid "Slider speed"
+#~ msgstr "Typ pokazu slajdów"
+
+#, fuzzy
+#~ msgid "Slides per view"
+#~ msgstr "Typ pokazu slajdów"
+
+#, fuzzy
+#~ msgid "Slider autoplay"
+#~ msgstr "Typ pokazu slajdów"
+
+#, fuzzy
+#~ msgid "Hide prev/next buttons"
+#~ msgstr "Przycisk Pinterest"
+
+#, fuzzy
+#~ msgid "Slider loop"
+#~ msgstr "Typ pokazu slajdów"
+
+#~ msgid "Title"
+#~ msgstr "Tytuł"
+
+#, fuzzy
+#~ msgid "Custom color"
+#~ msgstr "Kolor przycisku."
+
+#~ msgid "Informational"
+#~ msgstr "Informacja"
+
+#~ msgid "Warning"
+#~ msgstr "Ostrzeżenie"
+
+#~ msgid "Success"
+#~ msgstr "Powodzenie"
+
+#~ msgid "Error"
+#~ msgstr "Błąd"
+
+#, fuzzy
+#~ msgid "Message Box"
+#~ msgstr "Wiadomość tekstowa"
+
+#, fuzzy
+#~ msgid "Font Awesome 5"
+#~ msgstr "Wielkość przycisku"
+
+#~ msgid "Message text"
+#~ msgstr "Wiadomość tekstowa"
+
+#, fuzzy
+#~| msgid "<p>I am message box. Click edit button to change this text.</p>"
+#~ msgid "I am message box. Click edit button to change this text."
+#~ msgstr "<p>To jest wiadomość tekstowa. Kliknij przycisk Edytuj aby zmienić ten tekst.</p>"
+
+#, fuzzy
+#~ msgid "Select pie chart color."
+#~ msgstr "Wybierz miejsce tytułu"
+
+#, fuzzy
+#~ msgid "Posts Slider"
+#~ msgstr "Pokaz slajdów wpisów"
+
+#~ msgid "Slider type"
+#~ msgstr "Typ pokazu slajdów"
+
+#, fuzzy
+#~ msgid "Select slider type."
+#~ msgstr "Wybierz rodzaj wiadomości."
+
+#~ msgid "Post types"
+#~ msgstr "Typy wpisów"
+
+#~ msgid "Description"
+#~ msgstr "Opis"
+
+#~ msgid "No description"
+#~ msgstr "Brak opisu"
+
+#~ msgid "Teaser (Excerpt)"
+#~ msgstr "Wypis"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Link to post"
+#~ msgstr "Link do wpisu"
+
+#~ msgid "Link to bigger image"
+#~ msgstr "Link do powiększonego obrazka"
+
+#~ msgid "No link"
+#~ msgstr "Brak linku"
+
+#~ msgid "Link type."
+#~ msgstr "Rodzaj linku."
+
+#, fuzzy
+#~ msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+#~ msgstr "Wybierz \"Otwórz własny link\" w parametrze \"Link\" i dodaj linki dla każdego ze slajdów. Każdy link napisz w oddzielnym rzędzie."
+
+#~ msgid "Thumbnail size"
+#~ msgstr "Wielkość miniatury"
+
+#, fuzzy
+#~ msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) . "
+#~ msgstr "Wpisz rozmiar miniatury. Przykład: miniatura, średni, duży, pełny lub inne wielkości określone w używanym motywie. Alternatywnie możesz wpisać rozmiar w pikselach: 200x100 (szerokość x wysokość)."
+
+#~ msgid "Post/Page IDs"
+#~ msgstr "ID wpisu/strony"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorie"
+
+#~ msgid "Order by"
+#~ msgstr "Sortuj wg"
+
+#~ msgid "Date"
+#~ msgstr "Daty"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Author"
+#~ msgstr "Autora"
+
+#~ msgid "Modified"
+#~ msgstr "Daty modyfikacji"
+
+#~ msgid "Comment count"
+#~ msgstr "Liczba komentarzy"
+
+#~ msgid "Menu order"
+#~ msgstr "Kolejności w menu"
+
+#~ msgid "Descending"
+#~ msgstr "Malejąco"
+
+#~ msgid "Ascending"
+#~ msgstr "Rosnąco"
+
+#, fuzzy
+#~ msgid "Custom Color"
+#~ msgstr "Własne linki"
+
+#, fuzzy
+#~ msgid "Select bar background color."
+#~ msgstr "Wybierz liczbę kolumn."
+
+#, fuzzy
+#~ msgid "Gap"
+#~ msgstr "Mapa"
+
+#, fuzzy
+#~ msgid "Separator"
+#~ msgstr "Tytuł separatora."
+
+#, fuzzy
+#~ msgid "Select separator alignment."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Border width"
+#~ msgstr "Blok Twitter"
+
+#, fuzzy
+#~ msgid "Single Image"
+#~ msgstr "Pojedynczy obrazek"
+
+#, fuzzy
+#~ msgid "Image alignment"
+#~ msgstr "Link do obrazka"
+
+#, fuzzy
+#~ msgid "Select image alignment."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Image style"
+#~ msgstr "Wielkość obrazka"
+
+#, fuzzy
+#~ msgid "Border color"
+#~ msgstr "Kolor przycisku."
+
+#, fuzzy
+#~ msgid "Border color."
+#~ msgstr "Kolor przycisku."
+
+#~ msgid "Image link"
+#~ msgstr "Link do obrazka"
+
+#~ msgid "Link Target"
+#~ msgstr "Cel linku"
+
+#, fuzzy
+#~ msgid "Separator with Text"
+#~ msgstr "Separator z tekstem"
+
+#~ msgid "Title position"
+#~ msgstr "Wybierz pozycję tytułu"
+
+#~ msgid "Select title location."
+#~ msgstr "Wybierz miejsce tytułu"
+
+#, fuzzy
+#~ msgid "Separator alignment"
+#~ msgstr "Tytuł separatora."
+
+#~ msgid "Toggle title"
+#~ msgstr "Tutuł rozwijanego blogu"
+
+#~ msgid "Toggle content"
+#~ msgstr "Rozwijana treść"
+
+#, fuzzy
+#~ msgid "Toggle content goes here, click edit button to change this text."
+#~ msgstr "<p>Tu powinna znaleźć się treść rozwijanego bloku.</p>"
+
+#~ msgid "Toggle block content."
+#~ msgstr "Blok z treścią rozwijanego przycisku."
+
+#~ msgid "Default state"
+#~ msgstr "Stan domyśłny"
+
+#~ msgid "Closed"
+#~ msgstr "Zamknięte"
+
+#~ msgid "Open"
+#~ msgstr "Otwóz"
+
+#, fuzzy
+#~ msgid "Select \"Open\" if you want toggle to be open by default."
+#~ msgstr "Zaznacz to jeśli chcesz aby było domyślnie otwarte."
+
+#, fuzzy
+#~ msgid "Video Player"
+#~ msgstr "Odtwarzacz wideo"
+
+#~ msgid "Video link"
+#~ msgstr "Link do pliku video"
+
+#, fuzzy
+#~ msgid "Video aspect ratio"
+#~ msgstr "Odtwarzacz wideo"
+
+#, fuzzy
+#~ msgid "ZigZag Separator"
+#~ msgstr "Tytuł separatora."
+
+#, fuzzy
+#~ msgid "Select color for your element."
+#~ msgstr "Wybierz liczbę kolumn."
+
+#~ msgid "Small"
+#~ msgstr "Mały"
+
+#~ msgid "Medium"
+#~ msgstr "Średni"
+
+#~ msgid "Large"
+#~ msgstr "Duży"
+
+#, fuzzy
+#~ msgid "Select separator border width."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Custom Heading"
+#~ msgstr "Własne linki"
+
+#, fuzzy
+#~ msgid "Select element tag."
+#~ msgstr "Skasuj %element%"
+
+#, fuzzy
+#~ msgid "Select text alignment."
+#~ msgstr "Wybierz rodzaj wyrównania przycisku."
+
+#, fuzzy
+#~ msgid "Enter font size."
+#~ msgstr "Wpisz wartość foo."
+
+#, fuzzy
+#~ msgid "Select font family."
+#~ msgstr "Wybierz typ przycisku."
+
+#, fuzzy
+#~ msgid "Select font styling."
+#~ msgstr "Wybierz typ przycisku."
+
+#, fuzzy
+#~ msgid "Active section"
+#~ msgstr "Dodaj dział"
+
+#~ msgid "Add section"
+#~ msgstr "Dodaj dział"
+
+#~ msgid "Section 1"
+#~ msgstr "Dział 1"
+
+#~ msgid "Section 2"
+#~ msgstr "Dział 2"
+
+#~ msgid "Target"
+#~ msgstr "Otwórz w"
+
+#, fuzzy
+#~ msgid "Select button size."
+#~ msgstr "Wybierz typ przycisku."
+
+#~ msgid "Click edit button to change this text."
+#~ msgstr "Kliknij przycisk edytuj aby zmienić ten tekst."
+
+#~ msgid "Button position"
+#~ msgstr "Pozycja przycisku"
+
+#, fuzzy
+#~ msgid "Google+ Button"
+#~ msgstr "Przycisk Google+"
+
+#~ msgid "Button size"
+#~ msgstr "Wielkość przycisku"
+
+#~ msgid "Standard"
+#~ msgstr "Standardowy"
+
+#~ msgid "Tall"
+#~ msgstr "Wysoki"
+
+#~ msgid "Annotation"
+#~ msgstr "Notatka"
+
+#~ msgid "Bubble"
+#~ msgstr "Chmurka"
+
+#, fuzzy
+#~ msgid "Tab ID"
+#~ msgstr "Zakładka 1"
+
+#, fuzzy
+#~ msgid "Tabbed content"
+#~ msgstr "Rozwijana treść"
+
+#, fuzzy
+#~ msgid "Auto rotate tabs each X seconds."
+#~ msgstr "Automatycznie zmieniaj slajdy co X sekund. Wybierz 0 aby wyłączyć tę funkcję."
+
+#~ msgid "Tab 1"
+#~ msgstr "Zakładka 1"
+
+#~ msgid "Tab 2"
+#~ msgstr "Zakładka 2"
+
+#~ msgid "Auto rotate slides"
+#~ msgstr "Automatycznie zmieniaj slajdy"
+
+#, fuzzy
+#~ msgid "Load more"
+#~ msgstr "Zobacz więcej"
+
+#, fuzzy
+#~ msgid "Custom query"
+#~ msgstr "Własne linki"
+
+#, fuzzy
+#~ msgid "Display Style"
+#~ msgstr "Wyświetlanie"
+
+#, fuzzy
+#~ msgid "Load more button"
+#~ msgstr "Zobacz więcej"
+
+#, fuzzy
+#~ msgid "Lazy loading"
+#~ msgstr "Ładuję, proszę czekać..."
+
+#, fuzzy
+#~ msgid "Number of comments"
+#~ msgstr "Liczba zdjęć"
+
+#, fuzzy
+#~ msgid "Meta value"
+#~ msgstr "Stan domyśłny"
+
+#, fuzzy
+#~ msgid "Random order"
+#~ msgstr "Losowo"
+
+#, fuzzy
+#~ msgid "Border"
+#~ msgstr "Kolejności w menu"
+
+#, fuzzy
+#~ msgid "Rounded Border"
+#~ msgstr "Kolejności w menu"
+
+#, fuzzy
+#~ msgid "Dropdown"
+#~ msgstr "Przykłąd rozwijanej listy"
+
+#~ msgid "All"
+#~ msgstr "Wszystkie"
+
+#, fuzzy
+#~ msgid "Filter size"
+#~ msgstr "Wielkość przycisku"
+
+#, fuzzy
+#~ msgid "Arrows design"
+#~ msgstr "Strzałka"
+
+#, fuzzy
+#~ msgid "Arrows position"
+#~ msgstr "Strzałka"
+
+#, fuzzy
+#~ msgid "Arrows color"
+#~ msgstr "Strzałka"
+
+#, fuzzy
+#~ msgid "Animation In"
+#~ msgstr "Notatka"
+
+#, fuzzy
+#~ msgid "Animation Out"
+#~ msgstr "Notatka"
+
+#, fuzzy
+#~ msgid "Button style"
+#~ msgstr "Rodzaj przycisku"
+
+#, fuzzy
+#~ msgid "Button color"
+#~ msgstr "Kolor przycisku."
+
+#~ msgid "Same window"
+#~ msgstr "W tym samym oknie"
+
+#~ msgid "New window"
+#~ msgstr "W nowym oknie"
+
+#~ msgid "Grey"
+#~ msgstr "Szary"
+
+#~ msgid "Blue"
+#~ msgstr "Niebieski"
+
+#~ msgid "Turquoise"
+#~ msgstr "Turkusowy"
+
+#~ msgid "Green"
+#~ msgstr "Zielony"
+
+#~ msgid "Orange"
+#~ msgstr "Pomarańczowy"
+
+#~ msgid "Red"
+#~ msgstr "Czerwony"
+
+#~ msgid "Black"
+#~ msgstr "Czarny"
+
+#~ msgid "Mini"
+#~ msgstr "Mini"
+
+#~ msgid "Address book icon"
+#~ msgstr "Książka adresowa"
+
+#~ msgid "Alarm clock icon"
+#~ msgstr "Budzik"
+
+#~ msgid "Anchor icon"
+#~ msgstr "Kotwica"
+
+#~ msgid "Application Image icon"
+#~ msgstr "Aplikacja"
+
+#~ msgid "Arrow icon"
+#~ msgstr "Strzałka"
+
+#~ msgid "Asterisk icon"
+#~ msgstr "Asterisk"
+
+#~ msgid "Hammer icon"
+#~ msgstr "Młot"
+
+#~ msgid "Balloon icon"
+#~ msgstr "Chmurka"
+
+#~ msgid "Balloon Buzz icon"
+#~ msgstr "Chmurka Chrome"
+
+#~ msgid "Balloon Facebook icon"
+#~ msgstr "Chmurka Facebook"
+
+#~ msgid "Balloon Twitter icon"
+#~ msgstr "Chmurka Twitter"
+
+#~ msgid "Battery icon"
+#~ msgstr "Bateria"
+
+#~ msgid "Binocular icon"
+#~ msgstr "Lornetka"
+
+#~ msgid "Document Excel icon"
+#~ msgstr "Dokument Excel'a"
+
+#~ msgid "Document Image icon"
+#~ msgstr "Dokument z obrazkiem"
+
+#~ msgid "Document Music icon"
+#~ msgstr "Dokument z muzyką"
+
+#~ msgid "Document Office icon"
+#~ msgstr "Dukument Office'a"
+
+#~ msgid "Document PDF icon"
+#~ msgstr "Dokument PDF"
+
+#~ msgid "Document Powerpoint icon"
+#~ msgstr "Dokument PowerPoint'a"
+
+#~ msgid "Document Word icon"
+#~ msgstr "Dokument Word'a"
+
+#~ msgid "Bookmark icon"
+#~ msgstr "Bookmark"
+
+#~ msgid "Camcorder icon"
+#~ msgstr "Kamera"
+
+#~ msgid "Camera icon"
+#~ msgstr "Aparat"
+
+#~ msgid "Chart icon"
+#~ msgstr "Wykres"
+
+#~ msgid "Chart pie icon"
+#~ msgstr "Wykres kołowy"
+
+#~ msgid "Clock icon"
+#~ msgstr "Zegar"
+
+#~ msgid "Fire icon"
+#~ msgstr "Ogień"
+
+#~ msgid "Heart icon"
+#~ msgstr "Serce"
+
+#~ msgid "Mail icon"
+#~ msgstr "E-mail"
+
+#~ msgid "Play icon"
+#~ msgstr "Odtwarzaj"
+
+#~ msgid "Shield icon"
+#~ msgstr "Tarcza"
+
+#~ msgid "Video icon"
+#~ msgstr "Video"
+
+#, fuzzy
+#~ msgid "Facebook Like"
+#~ msgstr "Przycisk Lubię z Facebook'a"
+
+#~ msgid "Button type"
+#~ msgstr "Rodzaj przycisku"
+
+#~ msgid "Select button type."
+#~ msgstr "Wybierz typ przycisku."
+
+#, fuzzy
+#~ msgid "Pinterest"
+#~ msgstr "Przycisk Pinterest"
+
+#~ msgid "Pinterest button"
+#~ msgstr "Przycisk Pinterest"
+
+#~ msgid "No count"
+#~ msgstr "Nie zliczaj"
+
+#, fuzzy
+#~ msgid "Select button layout."
+#~ msgstr "Wybierz typ przycisku."
+
+#, fuzzy
+#~ msgid "Tweetmeme Button"
+#~ msgstr "Przycisk Twitter'a"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Kod HTML"
+
+#~ msgid "Enter your HTML content."
+#~ msgstr "Wpisz treść HTML"
+
+#, fuzzy
+#~ msgid "Raw JS"
+#~ msgstr "Kod JavaScript"
+
+#, fuzzy
+#~| msgid "Enter your content."
+#~ msgid "Enter your js here!"
+#~ msgstr "Wpisz treść."
+
+#~ msgid "Widgetised Sidebar"
+#~ msgstr "Panel boczny z widgetami"
+
+#~ msgid "Sidebar"
+#~ msgstr "Panel boczny"
+
+#, fuzzy
+#~ msgid "Call to Action Page"
+#~ msgstr "Przycisk akcji"
+
+#, fuzzy
+#~ msgid "Feature List"
+#~ msgstr "Ikona wpisu nie została wybrana."
+
+#, fuzzy
+#~ msgid "Description Page"
+#~ msgstr "Opis"
+
+#, fuzzy
+#~ msgid "Accordion"
+#~ msgstr "Dział zwijany"
+
+#~ msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+#~ msgstr "Jeśli chcesz aby dany element wyglądał inaczej niż inne, użyj tego pola aby nadać mu klasę CSS i móc z niej skorzystać w pliku .css"
+
+#~ msgid "Tabs"
+#~ msgstr "Zakładki"
+
+#~ msgid "Tab"
+#~ msgstr "Zakłądka"
+
+#, fuzzy
+#~ msgid "What text use as a widget title. Leave blank to use default widget title."
+#~ msgstr "Wpisz tytuł dla tego bloku lub pozostaw puste, jeśli tytuł nie jest potrzebny."
+
+#, fuzzy
+#~ msgid "Calendar"
+#~ msgstr "Standardowy"
+
+#, fuzzy
+#~ msgid "Custom Menu"
+#~ msgstr "Własne linki"
+
+#, fuzzy
+#~ msgid "All Links"
+#~ msgstr "Link"
+
+#, fuzzy
+#~ msgid "Links"
+#~ msgstr "Link"
+
+#, fuzzy
+#~ msgid "Link Category"
+#~ msgstr "Kategorie"
+
+#, fuzzy
+#~ msgid "Link title"
+#~ msgstr "Rodzaj linku."
+
+#, fuzzy
+#~ msgid "Link rating"
+#~ msgstr "Cel linku"
+
+#, fuzzy
+#~ msgid "Link ID"
+#~ msgstr "Link"
+
+#, fuzzy
+#~ msgid "Show Link Image"
+#~ msgstr "Cel linku"
+
+#, fuzzy
+#~ msgid "Show Link Description"
+#~ msgstr "Opis"
+
+#, fuzzy
+#~ msgid "Number of links to show"
+#~ msgstr "Liczba zdjęć"
+
+#, fuzzy
+#~ msgid "Pages"
+#~ msgstr "Obrazki"
+
+#, fuzzy
+#~ msgid "Page title"
+#~ msgstr "Tutuł rozwijanego blogu"
+
+#, fuzzy
+#~ msgid "Page order"
+#~ msgstr "Kolejności w menu"
+
+#, fuzzy
+#~ msgid "Page ID"
+#~ msgstr "ID wpisu/strony"
+
+#, fuzzy
+#~ msgid "10 - Default"
+#~ msgstr "14 - domyślne"
+
+#, fuzzy
+#~ msgid "Display Form Description"
+#~ msgstr "Brak opisu"
+
+#, fuzzy
+#~ msgid "Gutenberg Editor"
+#~ msgstr "Treść"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder Settings"
+#~ msgstr "Ustawienia Edytora wizualnego"
+
+#~ msgid "Add/remove picture"
+#~ msgstr "Dodaj/Usuń zdjęcie"
+
+#~ msgid "Finish Adding Images"
+#~ msgstr "Zakończ dodawanie obrazków"
+
+#~ msgid "Add Image"
+#~ msgstr "Dodaj obrazek"
+
+#~ msgid "Add Images"
+#~ msgstr "Dodaj obrazki"
+
+#, fuzzy
+#~ msgid "Frontend Editor"
+#~ msgstr "Treść"
+
+#~ msgid "Confirm deleting \"{template_name}\" template, press Cancel to leave. This action cannot be undone."
+#~ msgstr "Potwierdź usuwanie szablonu \"{template_name}\" lub wciśnij Anuluj aby przerwać. Tego działania nie można odwrócić."
+
+#~ msgid "Press OK to delete section, Cancel to leave"
+#~ msgstr "Kliknij OK aby usunąć sekcję lub Anuluj aby przerwać"
+
+#~ msgid "Drag and drop me in the column"
+#~ msgstr "Przeciągnij i upuść mnie w kolumnie"
+
+#~ msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+#~ msgstr "Kliknij OK aby usunąć zakłądkę \"{tab_name}\" lub Anuluj aby przerwać "
+
+#~ msgid "Slide"
+#~ msgstr "Slajd"
+
+#~ msgid "Please enter new tab title"
+#~ msgstr "Wpisz nazwę nowej zakładki"
+
+#~ msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+#~ msgstr "Kliknij OK aby usunąć sekcję \"{tab_name}\" lub Anuluj aby przerwać"
+
+#~ msgid "Please enter new section title"
+#~ msgstr "Proszę wpisać nazwę sekcji"
+
+#, fuzzy
+#~ msgid "Select element type"
+#~ msgstr "Wybierz rodzaj wiadomości."
+
+#, fuzzy
+#~ msgid "Media gallery"
+#~ msgstr "Galeria obrazków"
+
+#, fuzzy
+#~ msgid "Element settings"
+#~ msgstr "Ustawienia ogólne"
+
+#~ msgid "Add tab"
+#~ msgstr "Dodaj zakłądkę"
+
+#, fuzzy
+#~ msgid "Loading..."
+#~ msgstr "Ładuję, proszę czekać..."
+
+#, fuzzy
+#~ msgid "Set Image"
+#~ msgstr "Obrazek"
+
+#, fuzzy
+#~ msgid "Loop settings"
+#~ msgstr "Ustawienia ogólne"
+
+#, fuzzy
+#~ msgid "Column background color"
+#~ msgstr "Liczba kolumn."
+
+#, fuzzy
+#~ msgid "Column background image"
+#~ msgstr "Liczba kolumn."
+
+#, fuzzy
+#~ msgid "Update all"
+#~ msgstr "Zaktualizuj listę plików"
+
+#, fuzzy
+#~ msgid "Loading Font..."
+#~ msgstr "Ładuję, proszę czekać..."
+
+#, php-format
+#~ msgid "Wrong name for shortcode:%s. Name required"
+#~ msgstr "Nieprawidłowa nazwa dla skrótu:%s. Nazwa jest wymagana"
+
+#, php-format
+#~ msgid "Wrong base for shortcode:%s. Base required"
+#~ msgstr "Nieprawidłowy alias dla skrótu:%s. Alias jest wymagany"
+
+#, php-format
+#~ msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+#~ msgstr "Nieprawidłowy atrybut dla skrótu '%s'. Wymagany jest atrybut 'param_name'"
+
+#, fuzzy, php-format
+#~ msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+#~ msgstr "Nieprawidłowy alias dla skrótu:%s. Alias jest wymagany"
+
+#, fuzzy
+#~ msgid "General"
+#~ msgstr "Ustawienia ogólne"
+
+#~ msgid "Edit"
+#~ msgstr "Edytuj"
+
+#, fuzzy
+#~ msgid "(no title)"
+#~ msgstr "Tutuł rozwijanego blogu"
+
+#, fuzzy
+#~ msgid "Save as Pending"
+#~ msgstr "Malejąco"
+
+#, fuzzy
+#~ msgid "Exit WPBakery Page Builder edit mode"
+#~ msgstr "Ustawienia Edytora wizualnego"
+
+#, fuzzy
+#~ msgid "Page settings"
+#~ msgstr "Ustawienia ogólne"
+
+#~ msgid "Templates"
+#~ msgstr "Szablony"
+
+#, fuzzy
+#~ msgid "Frontend"
+#~ msgstr "Treść"
+
+#, fuzzy
+#~ msgid "Save current layout as a template"
+#~ msgstr "Zapisz obecną stronę jako szablon"
+
+#, fuzzy
+#~ msgid "Template name"
+#~ msgstr "Szablon"
+
+#, fuzzy
+#~ msgid "Delete template"
+#~ msgstr "Skasuj %element%"
+
+#, fuzzy
+#~ msgid "Please enter valid shortcode"
+#~ msgstr "Wpisz nazwę nowej zakładki"
+
+#~ msgid "Cancel"
+#~ msgstr "Anuluj"
+
+#, fuzzy
+#~ msgid "Description:"
+#~ msgstr "Opis"
+
+#, fuzzy
+#~ msgid "Category:"
+#~ msgstr "Kategorie"
+
+#~ msgid "Save Changes"
+#~ msgstr "Zapisz zmiany"
+
+#~ msgid "Delete"
+#~ msgstr "Usuń"
+
+#, fuzzy
+#~ msgid "Drag row to reorder"
+#~ msgstr "Kolejność zdjęć"
+
+#, fuzzy
+#~ msgid "Field type"
+#~ msgstr "Typ pokazu slajdów"
+
+#, fuzzy
+#~ msgid "Select field type"
+#~ msgstr "Wybierz rodzaj wiadomości."
+
+#, fuzzy
+#~ msgid "Textfield"
+#~ msgstr "Tekst"
+
+#, fuzzy
+#~ msgid "Textarea"
+#~ msgstr "Tekst"
+
+#, fuzzy
+#~ msgid "Default value"
+#~ msgstr "Stan domyśłny"
+
+#, fuzzy
+#~ msgid "General Settings"
+#~ msgstr "Ustawienia ogólne"
+
+#, fuzzy
+#~ msgid "Custom CSS"
+#~ msgstr "Własne linki"
+
+#, fuzzy
+#~ msgid "Call to action background color"
+#~ msgstr "Przycisk akcji"
+
+#, fuzzy
+#~ msgid "Separator border color"
+#~ msgstr "Separator"
+
+#, fuzzy
+#~ msgid "Grid gutter width"
+#~ msgstr "Blok Twitter"
+
+#, fuzzy
+#~ msgid "Mobile screen width"
+#~ msgstr "Zmiejsz wysokość"
+
+#, fuzzy
+#~ msgid "My shortcodes"
+#~ msgstr "Dozwolone skróty"
+
+#, fuzzy
+#~ msgid "Shortcode name is required."
+#~ msgstr "Nieprawidłowa nazwa dla skrótu:%s. Nazwa jest wymagana"
+
+#, fuzzy
+#~ msgid "Please enter valid shortcode tag."
+#~ msgstr "Proszę wpisać nazwę sekcji"
+
+#, fuzzy, php-format
+#~ msgid "Edit %s"
+#~ msgstr "Edytuj"
+
+#, fuzzy, php-format
+#~ msgid "Clone %s"
+#~ msgstr "Klonuj"
+
+#, fuzzy, php-format
+#~ msgid "Delete %s"
+#~ msgstr "Usuń"
+
+#, fuzzy, php-format
+#~ msgid "Delete this %s"
+#~ msgstr "Skasuj %element%"
+
+#~ msgid "Add images"
+#~ msgstr "Dodaj obrazki"
+
+#, fuzzy
+#~ msgid "Custom layout"
+#~ msgstr "Szablon przycisku"
+
+#, fuzzy
+#~ msgid "Add column"
+#~ msgstr "Dodaj dział"
+
+#, fuzzy
+#~ msgid "Toggle row"
+#~ msgstr "Rozwijana treść"
+
+#~ msgid "Add image"
+#~ msgstr "Dodaj obrazek"
+
+#, fuzzy
+#~ msgid "Align"
+#~ msgstr "Do lewej"
+
+#, fuzzy
+#~ msgid "right"
+#~ msgstr "Do prawej"
+
+#, fuzzy
+#~ msgid "center"
+#~ msgstr "Do środka"
+
+#, fuzzy
+#~ msgid "Select contact form"
+#~ msgstr "Wybierz taksonomie z."
+
+#, fuzzy
+#~ msgid "No sliders found"
+#~ msgstr "Nivo slider"
+
+#, fuzzy
+#~| msgid "Menu order"
+#~ msgid "Menu order & title"
+#~ msgstr "Kolejności w menu"
+
+#, fuzzy
+#~| msgid "Custom links"
+#~ msgid "Custom post__in"
+#~ msgstr "Własne linki"
+
+#, fuzzy
+#~ msgid "My Account"
+#~ msgstr "Nie zliczaj"
+
+#, fuzzy
+#~ msgid "Order count"
+#~ msgstr "Liczba slajdów"
+
+#, fuzzy
+#~ msgid "Columns"
+#~ msgstr "Liczba kolumn."
+
+#, fuzzy
+#~ msgid "Featured products"
+#~ msgstr "Ikona wpisu nie została wybrana."
+
+#, fuzzy
+#~ msgid "Select identificator"
+#~ msgstr "Wybierz taksonomie z."
+
+#, fuzzy
+#~ msgid "Add to cart"
+#~ msgstr "Dodaj zakłądkę"
+
+#, fuzzy
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#, fuzzy
+#~ msgid "Product categories"
+#~ msgstr "Kategorie"
+
+#, fuzzy
+#~ msgid "Product Attribute"
+#~ msgstr "Atrybut Foo"
+
+#, fuzzy
+#~ msgid "Attribute"
+#~ msgstr "Atrybut Foo"
+
+#, fuzzy
+#~ msgid "Taxonomy values"
+#~ msgstr "Taksonomie"
+
+#, fuzzy
+#~ msgid "Order"
+#~ msgstr "Sortuj wg"
+
+#~ msgid "Added"
+#~ msgstr "Dodano"
+
+#, fuzzy
+#~ msgid "Taxonomies"
+#~ msgstr "Taksonomie"
+
+#, fuzzy
+#~ msgid "CSS Animation"
+#~ msgstr "Notatka"
+
+#, fuzzy
+#~ msgid "Right to left"
+#~ msgstr "Do lewej"
+
+#, fuzzy
+#~ msgid "wobble"
+#~ msgstr "Chmurka"
+
+#, fuzzy
+#~ msgid "Slide Entrances"
+#~ msgstr "Typ pokazu slajdów"
+
+#, fuzzy
+#~ msgid "slideInRight"
+#~ msgstr "Do prawej"
+
+#, fuzzy
+#~ msgid "Slide Exits"
+#~ msgstr "Slajd 1"
+
+#, fuzzy
+#~ msgid "Animate it"
+#~ msgstr "Notatka"
+
+#, fuzzy
+#~ msgid "Box controls"
+#~ msgstr "Blok z liczbą Like'ów"
+
+#, fuzzy
+#~ msgid "Contain"
+#~ msgstr "Treść"
+
+#, fuzzy
+#~ msgid "Font size"
+#~ msgstr "Wielkość przycisku"
+
+#, fuzzy
+#~ msgid "Text align"
+#~ msgstr "Blok tekstowy"
+
+#, fuzzy
+#~ msgid "Line height"
+#~ msgstr "Wysokość mapy"
+
+#, fuzzy
+#~ msgid "Add New"
+#~ msgstr "Dodaj obrazki"
+
+#, fuzzy
+#~| msgid "Nothing found."
+#~ msgid "No Gutenberg attrs found."
+#~ msgstr "Nie znaleziono."
+
+#, fuzzy
+#~ msgid "Close"
+#~ msgstr "Zamknięte"
+
+#, fuzzy
+#~ msgid "Drag to reorder"
+#~ msgstr "Kolejność zdjęć"
+
+#, fuzzy
+#~ msgid "Additional"
+#~ msgstr "Dodaj dział"
+
+#~ msgid "Read more"
+#~ msgstr "Zobacz więcej"
+
+#, fuzzy
+#~ msgid "Select URL"
+#~ msgstr "Zaznacz wszystkie"
+
+#~ msgid "Loading, please wait..."
+#~ msgstr "Ładuję, proszę czekać..."
+
+#, fuzzy
+#~ msgid "My Elements"
+#~ msgstr "Elementy treści"
+
+#, fuzzy
+#~ msgid "Change layout"
+#~ msgstr "Wybierz sposób wyświetlania wpisów."
+
+#, fuzzy, php-format
+#~ msgid "Add new %s"
+#~ msgstr "Dodaj obrazki"
+
+#, fuzzy
+#~ msgid "Element Title"
+#~ msgstr "Nazwa bloku"
+
+#, fuzzy
+#~ msgid "Enter element title."
+#~ msgstr "Wpisz wartość foo."
+
+#, fuzzy
+#~ msgid "Save changes"
+#~ msgstr "Zapisz zmiany"
+
+#, fuzzy
+#~ msgid "Save as Element"
+#~ msgstr "Malejąco"
+
+#, fuzzy
+#~ msgid "Untitled"
+#~ msgstr "Rodzaj linku."
+
+#, fuzzy
+#~ msgid "Add element"
+#~ msgstr "Dodaj obrazek"
+
+#, fuzzy
+#~ msgid "Add text block"
+#~ msgstr "Blok tekstowy"
+
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "Dodaj dział"
+
+#, fuzzy
+#~ msgid "Manage elements"
+#~ msgstr "Dodaj obrazek"
+
+#, fuzzy
+#~ msgid "Please enter page title"
+#~ msgstr "Wpisz nazwę nowej zakładki"
+
+#, fuzzy
+#~ msgid "Custom CSS settings"
+#~ msgstr "Własne linki"
+
+#, fuzzy
+#~ msgid "Delete element"
+#~ msgstr "Skasuj %element%"
+
+#, fuzzy
+#~ msgid "Row layout"
+#~ msgstr "Szablon przycisku"
+
+#, fuzzy
+#~ msgid "Backend editor"
+#~ msgstr "Edytor klasyczny"
+
+#, fuzzy
+#~ msgid "Extended License"
+#~ msgstr "Dodaj dział"
+
+#, fuzzy
+#~ msgid "Activation"
+#~ msgstr "Dodaj dział"
+
+#, fuzzy
+#~| msgid "Content"
+#~ msgid "Content Type"
+#~ msgstr "Treść"
+
+#, fuzzy
+#~| msgid "Warning"
+#~ msgid "Learning More"
+#~ msgstr "Ostrzeżenie"
+
+#, fuzzy
+#~ msgid "Content Elements"
+#~ msgstr "Elementy treści"
+
+#, fuzzy
+#~ msgid "Element Design Options"
+#~ msgstr "Opis"
+
+#, fuzzy
+#~ msgid "Responsive Settings"
+#~ msgstr "Ustawienia ogólne"
+
+#, fuzzy
+#~| msgid "Image size"
+#~ msgid "Image filters"
+#~ msgstr "Wielkość obrazka"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder \"How To's\""
+#~ msgstr "Ustawienia Edytora wizualnego"
+
+#, fuzzy
+#~ msgid "Add - ons"
+#~ msgstr "Dodaj dział"
+
+#, fuzzy
+#~| msgid "Templates"
+#~ msgid "Templatera"
+#~ msgstr "Szablony"
+
+#, fuzzy
+#~ msgid "Video Academy"
+#~ msgstr "Odtwarzacz wideo"
+
+#, fuzzy
+#~ msgid "Facebook page"
+#~ msgstr "Przycisk Lubię z Facebook'a"
+
+#, fuzzy
+#~| msgid "Balloon Twitter icon"
+#~ msgid "Twitter account"
+#~ msgstr "Chmurka Twitter"
+
+#~ msgid "View stream on flickr"
+#~ msgstr "Zobacz obrazki z Flickr"
+
+#~ msgid "Nothing found."
+#~ msgstr "Nie znaleziono."
+
+#, fuzzy
+#~ msgid "Previous tab"
+#~ msgstr "Poprzedni slajd"
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid "Open prettyPhoto"
+#~ msgstr "Otwórz prettyPhoto"
+
+#, fuzzy
+#~ msgid "Carousel content"
+#~ msgstr "Rozwijana treść"
+
+#, fuzzy
+#~ msgid "Teaser layout"
+#~ msgstr "Wybierz sposób wyświetlania wpisów."
+
+#, fuzzy
+#~ msgid "Thumbnail"
+#~ msgstr "Tylko miniatura"
+
+#, fuzzy
+#~ msgid "Teaser/Excerpt"
+#~ msgstr "Wypis"
+
+#, fuzzy
+#~ msgid "Full content"
+#~ msgstr "Cała treść"
+
+#, fuzzy
+#~ msgid "Read more link"
+#~ msgstr "Zobacz więcej"
+
+#~ msgid "Link target"
+#~ msgstr "Cel linku"
+
+#, fuzzy
+#~ msgid "Posts in grid view"
+#~ msgstr "Pokaz slajdów wpisów"
+
+#, fuzzy
+#~ msgid "Grids content"
+#~ msgstr "Liczba slajdów"
+
+#~ msgid "Columns count"
+#~ msgstr "Liczba kolumn."
+
+#~ msgid "Select columns count."
+#~ msgstr "Wybierz liczbę kolumn."
+
+#~ msgid "Layout mode"
+#~ msgstr "Tryb szablonu"
+
+#~ msgid "Fit rows"
+#~ msgstr "Dopasuj rzędy"
+
+#~ msgid "Masonry"
+#~ msgstr "Klocki"
+
+#~ msgid "Teaser layout template."
+#~ msgstr "Wybierz szablon listy wpisów."
+
+#~ msgid "Hello World"
+#~ msgstr "Witaj świecie"
+
+#~ msgid "Foo attribute"
+#~ msgstr "Atrybut Foo"
+
+#~ msgid "I'm foo attribute"
+#~ msgstr "To jest atrybut foo"
+
+#~ msgid "Enter foo value."
+#~ msgstr "Wpisz wartość foo."
+
+#~ msgid "I'm hello world"
+#~ msgstr "To jest Witaj świecie"
+
+#~ msgid "Drop down example"
+#~ msgstr "Przykłąd rozwijanej listy"
+
+#~ msgid "One, two or three?"
+#~ msgstr "Jeden, dwa czy trzy?"
+
+#, fuzzy
+#~ msgid "Empty title"
+#~ msgstr "Nazwa bloku"
+
+#, fuzzy
+#~ msgid "Excerpt"
+#~ msgstr "Wypis"
+
+#, fuzzy
+#~ msgid "Link text"
+#~ msgstr "Cel linku"
+
+#, fuzzy
+#~ msgid "Link to big image"
+#~ msgstr "Link do powiększonego obrazka"
+
+#, fuzzy
+#~ msgid "Add custom image"
+#~ msgstr "Dodaj obrazek"
+
+#, fuzzy
+#~ msgid "Native Colors"
+#~ msgstr "Kolor"
+
+#, fuzzy
+#~ msgid "New Icons"
+#~ msgstr "Ikona"
+
+#, fuzzy
+#~ msgid "Link to"
+#~ msgstr "Link do wpisu"
+
+#, fuzzy
+#~ msgid "On post"
+#~ msgstr "Link do wpisu"
+
+#, fuzzy
+#~ msgid "Big image"
+#~ msgstr "Pojedynczy obrazek"

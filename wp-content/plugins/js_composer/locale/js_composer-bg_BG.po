@@ -1,0 +1,2682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 15:34+0100\n"
+"PO-Revision-Date: 2021-12-01 15:34+0100\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: Bulgarian\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: ./config/.\n"
+"X-Poedit-SearchPath-1: ./include/.\n"
+
+#: config/./containers/shortcode-vc-column-inner.php:10
+msgid "Inner Column"
+msgstr ""
+
+#: config/./structure/shortcode-vc-raw-js.php:21
+#, fuzzy
+#| msgid "Enter your content."
+msgid "Enter your js here!"
+msgstr "Въведете Вашето съдържание."
+
+#: include/./classes/core/class-vc-base.php:738
+#, php-format
+msgid "%%s cloned. %sEdit now?%s"
+msgstr ""
+
+#: include/./classes/editors/class-vc-edit-form-fields.php:225
+msgid "Edit"
+msgstr "Редактиране"
+
+#: include/./classes/editors/class-vc-frontend-editor.php:493
+#, fuzzy
+msgid "(no title)"
+msgstr "Заглавие на формата"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:71
+msgid "Responsive preview"
+msgstr "Респонзив преглед"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:146
+msgid "Exit WPBakery Page Builder edit mode"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:31
+msgid "Redo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:35
+msgid "Undo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:98
+#: include/./classes/updaters/class-vc-updater.php:129
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Page Builder"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "Page settings"
+msgstr "Настройки на страница"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "CSS"
+msgstr "CSS"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:119
+msgid "Full screen"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:126
+msgid "Exit full screen"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:136
+msgid "Add new element"
+msgstr "Добавете нов елемент"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:151
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:30
+msgid "Templates"
+msgstr "Шаблони"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Preview"
+msgstr "Превю"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Update"
+msgstr "Актуализирайте"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:99
+msgid "Template name"
+msgstr "Име на шаблон"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:189
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:216
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:87
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:88
+msgid "Preview template"
+msgstr ""
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:190
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:217
+msgid "Add template"
+msgstr ""
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:194
+msgid "Delete template"
+msgstr "Изтрийте шаблона"
+
+#: include/./classes/settings/automapper/class-vc-automapper.php:28
+msgid "Shortcode Mapper"
+msgstr ""
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:540
+#: include/./templates/editors/partials/backend_controls.tpl.php:31
+#: include/./templates/editors/partials/frontend_controls.tpl.php:18
+#: include/./templates/editors/partials/frontend_controls.tpl.php:42
+#: include/./templates/editors/partials/frontend_controls.tpl.php:76
+#: include/./templates/editors/partials/frontend_controls.tpl.php:100
+#: include/./templates/editors/partials/frontend_controls.tpl.php:131
+#: include/./templates/editors/partials/frontend_controls.tpl.php:158
+#: include/./templates/editors/partials/frontend_controls.tpl.php:192
+#: include/./templates/editors/partials/frontend_controls.tpl.php:217
+#: include/./templates/editors/partials/frontend_controls.tpl.php:254
+#: include/./templates/editors/partials/frontend_controls.tpl.php:282
+#, php-format
+msgid "Edit %s"
+msgstr "Редактиране на %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:35
+#: include/./templates/editors/partials/frontend_controls.tpl.php:23
+#: include/./templates/editors/partials/frontend_controls.tpl.php:48
+#: include/./templates/editors/partials/frontend_controls.tpl.php:82
+#: include/./templates/editors/partials/frontend_controls.tpl.php:140
+#: include/./templates/editors/partials/frontend_controls.tpl.php:199
+#: include/./templates/editors/partials/frontend_controls.tpl.php:223
+#: include/./templates/editors/partials/frontend_controls.tpl.php:262
+#: include/./templates/editors/partials/frontend_controls.tpl.php:290
+#, php-format
+msgid "Clone %s"
+msgstr "Клониране на %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:39
+#: include/./templates/editors/partials/frontend_controls.tpl.php:26
+#: include/./templates/editors/partials/frontend_controls.tpl.php:51
+#: include/./templates/editors/partials/frontend_controls.tpl.php:85
+#: include/./templates/editors/partials/frontend_controls.tpl.php:143
+#: include/./templates/editors/partials/frontend_controls.tpl.php:164
+#: include/./templates/editors/partials/frontend_controls.tpl.php:202
+#: include/./templates/editors/partials/frontend_controls.tpl.php:226
+#: include/./templates/editors/partials/frontend_controls.tpl.php:266
+#: include/./templates/editors/partials/frontend_controls.tpl.php:294
+#, php-format
+msgid "Delete %s"
+msgstr "Изтриване на %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:68
+#, php-format
+msgid "Append to this %s"
+msgstr "Добавяне към този %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:70
+#, php-format
+msgid "Prepend to this %s"
+msgstr "Прикрепяне към този %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:73
+#, php-format
+msgid "Move this %s"
+msgstr ""
+
+#: include/./classes/shortcodes/paginator/class-vc-pageable.php:51
+#, fuzzy
+msgid "Load more"
+msgstr "Прочетете повече"
+
+#: include/./classes/shortcodes/vc-column.php:46
+msgid "Append to this column"
+msgstr "Добавяне към тази колона"
+
+#: include/./classes/shortcodes/vc-column.php:48
+#: include/./params/vc_grid_element/vc_grid_element.php:223
+msgid "Prepend to this column"
+msgstr "Прикрепяне към тази колона"
+
+#: include/./classes/shortcodes/vc-column.php:55
+msgid "Edit this column"
+msgstr "Редактиране на тази колона"
+
+#: include/./classes/shortcodes/vc-column.php:56
+msgid "Delete this column"
+msgstr "Изтриване на тази колона"
+
+#: include/./classes/shortcodes/vc-gitem.php:100
+msgid "Add to this grid item"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-gitem.php:106
+msgid "Edit this grid item"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-gitem.php:112
+msgid "Delete this grid item "
+msgstr ""
+
+#: include/./classes/shortcodes/vc-row.php:52
+msgid "Custom layout"
+msgstr "Потребителско оформление"
+
+#: include/./classes/shortcodes/vc-row.php:70
+#: include/./classes/shortcodes/vc-section.php:57
+#: include/./templates/params/param_group/inner_content.tpl.php:7
+msgid "Drag row to reorder"
+msgstr "Превлачете реда за пренареждане"
+
+#: include/./classes/shortcodes/vc-row.php:75
+#: include/./classes/shortcodes/vc-section.php:62
+msgid "Add column"
+msgstr "Добавете колона"
+
+#: include/./classes/shortcodes/vc-row.php:76
+#: include/./classes/shortcodes/vc-section.php:63
+#: include/./params/vc_grid_element/vc_grid_element.php:193
+msgid "Delete this row"
+msgstr "Изтрийте този ред"
+
+#: include/./classes/shortcodes/vc-row.php:77
+#: include/./classes/shortcodes/vc-section.php:64
+msgid "Edit this row"
+msgstr "Редактирайте този ред"
+
+#: include/./classes/shortcodes/vc-row.php:78
+#: include/./classes/shortcodes/vc-section.php:65
+#: include/./templates/params/param_group/inner_content.tpl.php:11
+msgid "Clone this row"
+msgstr "Клонирайте този ред"
+
+#: include/./classes/shortcodes/vc-row.php:79
+#: include/./templates/params/param_group/inner_content.tpl.php:12
+msgid "Toggle row"
+msgstr "Сгъваем ред"
+
+#: include/./classes/shortcodes/vc-tab.php:6
+msgid "Tab"
+msgstr "Раздел"
+
+#: include/./classes/shortcodes/vc-tour.php:23
+msgid "Slide"
+msgstr "Слайд"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:60
+#: include/./classes/vendors/plugins/acf/shortcode.php:58
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:83
+msgid "left"
+msgstr "Ляво"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:61
+#: include/./classes/vendors/plugins/acf/shortcode.php:59
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:84
+msgid "right"
+msgstr "Дясно"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:62
+#: include/./classes/vendors/plugins/acf/shortcode.php:60
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:85
+msgid "center"
+msgstr "център"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:63
+#: include/./classes/vendors/plugins/acf/shortcode.php:61
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:86
+msgid "justify"
+msgstr "Оправдава"
+
+#: include/./params/autocomplete/autocomplete.php:76
+msgid "Click here and start typing..."
+msgstr ""
+
+#: include/./params/default_params.php:273
+msgid "Add image"
+msgstr "Добавете изображение"
+
+#: include/./params/default_params.php:275
+msgid "Add images"
+msgstr "Добавете изображения"
+
+#: include/./params/vc_grid_element/vc_grid_element.php:264
+#, fuzzy
+msgid "Drag to reorder"
+msgstr "Превлачете реда за пренареждане"
+
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:44
+msgid "Grid element settings"
+msgstr ""
+
+#: include/./params/vc_grid_item/templates.php:9
+#: include/./params/vc_grid_item/templates.php:13
+#: include/./params/vc_grid_item/templates.php:17
+#: include/./params/vc_grid_item/templates.php:21
+#: include/./params/vc_grid_item/templates.php:49
+#: include/./params/vc_grid_item/templates.php:53
+#: include/./params/vc_grid_item/templates.php:57
+#: include/./params/vc_grid_item/templates.php:77
+#: include/./params/vc_grid_item/templates.php:85
+msgid "Read more"
+msgstr "Прочетете повече"
+
+#: include/./params/vc_grid_item/templates.php:45
+msgid "READ MORE"
+msgstr ""
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:16
+#: include/./templates/editors/partials/frontend_controls.tpl.php:14
+#: include/./templates/editors/partials/frontend_controls.tpl.php:36
+#: include/./templates/editors/partials/frontend_controls.tpl.php:69
+#: include/./templates/editors/partials/frontend_controls.tpl.php:93
+#: include/./templates/editors/partials/frontend_controls.tpl.php:124
+#: include/./templates/editors/partials/frontend_controls.tpl.php:151
+#: include/./templates/editors/partials/frontend_controls.tpl.php:185
+#: include/./templates/editors/partials/frontend_controls.tpl.php:210
+#: include/./templates/editors/partials/frontend_controls.tpl.php:247
+#: include/./templates/editors/partials/frontend_controls.tpl.php:275
+#, php-format
+msgid "Drag to move %s"
+msgstr "Превлачете, за да преместите %s"
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:27
+#: include/./templates/editors/partials/frontend_controls.tpl.php:45
+#: include/./templates/editors/partials/frontend_controls.tpl.php:79
+#: include/./templates/editors/partials/frontend_controls.tpl.php:103
+#: include/./templates/editors/partials/frontend_controls.tpl.php:161
+#: include/./templates/editors/partials/frontend_controls.tpl.php:220
+#: include/./templates/editors/partials/frontend_controls.tpl.php:286
+#, php-format
+msgid "Prepend to %s"
+msgstr "Присвояване от %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:58
+#: include/./templates/editors/partials/frontend_controls.tpl.php:113
+#: include/./templates/editors/partials/frontend_controls.tpl.php:174
+#: include/./templates/editors/partials/frontend_controls.tpl.php:236
+#: include/./templates/editors/partials/frontend_controls.tpl.php:305
+#, php-format
+msgid "Append to %s"
+msgstr "Добави към %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:88
+#: include/./templates/editors/partials/frontend_controls.tpl.php:106
+#: include/./templates/editors/partials/frontend_controls.tpl.php:146
+#: include/./templates/editors/partials/frontend_controls.tpl.php:167
+#: include/./templates/editors/partials/frontend_controls.tpl.php:205
+#: include/./templates/editors/partials/frontend_controls.tpl.php:229
+#: include/./templates/editors/partials/frontend_controls.tpl.php:270
+#: include/./templates/editors/partials/frontend_controls.tpl.php:298
+#, php-format
+msgid "Show %s controls"
+msgstr "Показване на контролите за %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:134
+msgid "Change layout"
+msgstr "Промяна на оформлението"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:137
+#: include/./templates/editors/partials/frontend_controls.tpl.php:196
+#: include/./templates/editors/partials/frontend_controls.tpl.php:258
+#, php-format
+msgid "Add new %s"
+msgstr "Добавяне на нов %s"
+
+#: include/./templates/params/param_group/inner_content.tpl.php:10
+msgid "Delete this param"
+msgstr ""
+
+#: include/./templates/params/vc_grid_item/attributes/post_categories.php:28
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: include/./templates/shortcodes/post_block/_item.php:24
+#: include/./templates/shortcodes/vc_posts_slider.php:170
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянни връзки към %s"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Previous tab"
+msgstr "Предишен раздел"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Next tab"
+msgstr "Следващ раздел"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Text on the button"
+#~ msgstr "Текст на бутона"
+
+#~ msgid "URL (Link)"
+#~ msgstr "URL (линк)"
+
+#~ msgid "Style"
+#~ msgstr "Стил"
+
+#~ msgid "Custom"
+#~ msgstr "Потребителско"
+
+#~ msgid "Background"
+#~ msgstr "Фон"
+
+#~ msgid "Color"
+#~ msgstr "Цвят"
+
+#~ msgid "Size"
+#~ msgstr "Размер"
+
+#~ msgid "Select button alignment."
+#~ msgstr "Изберете подравняване на бутона."
+
+#~ msgid "Inline"
+#~ msgstr "Вградени"
+
+#, fuzzy
+#~ msgid "Right"
+#~ msgstr "Дясно"
+
+#, fuzzy
+#~ msgid "Center"
+#~ msgstr "център"
+
+#~ msgid "Icon"
+#~ msgstr "Икона"
+
+#~ msgid "Extra class name"
+#~ msgstr "Име на екстра класът"
+
+#~ msgid "Design Options"
+#~ msgstr "Опции за дизайна"
+
+#~ msgid "Button"
+#~ msgstr "Бутон"
+
+#~ msgid "Content"
+#~ msgstr "Съдържание"
+
+#~ msgid "Eye catching button"
+#~ msgstr "Хващащ окото бутон"
+
+#~ msgid "Heading"
+#~ msgstr "Заглавие"
+
+#~ msgid "Hey! I am first heading line feel free to change me"
+#~ msgstr "Хей! Аз съм първият ред на заглавието, чувствайте се свободни да ме смените"
+
+#~ msgid "Text color"
+#~ msgstr "Цвят на текста"
+
+#~ msgid "I am promo text. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "Аз съм промо текст. Натиснете на бутона за редактиране за да смените този текст. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#~ msgid "Width"
+#~ msgstr "Ширина"
+
+#~ msgid "No"
+#~ msgstr "Не"
+
+#~ msgid "Catch visitors attention with CTA block"
+#~ msgstr "Хванете вниманието на посетителя със блока CTA"
+
+#~ msgid "1 column - 1/12"
+#~ msgstr "1 колона - 1/12"
+
+#~ msgid "2 columns - 1/6"
+#~ msgstr "2 колони - 1/6"
+
+#~ msgid "3 columns - 1/4"
+#~ msgstr "3 колони - 1/4"
+
+#~ msgid "4 columns - 1/3"
+#~ msgstr "4 колони - 1/3"
+
+#~ msgid "5 columns - 5/12"
+#~ msgstr "5 колони - 5/12"
+
+#~ msgid "6 columns - 1/2"
+#~ msgstr "6 колони - 1/2"
+
+#~ msgid "7 columns - 7/12"
+#~ msgstr "7 колони - 7/12"
+
+#~ msgid "8 columns - 2/3"
+#~ msgstr "8 колони - 2/3"
+
+#~ msgid "9 columns - 3/4"
+#~ msgstr "9 колони - 3/4"
+
+#~ msgid "10 columns - 5/6"
+#~ msgstr "10 колони - 5/6"
+
+#~ msgid "11 columns - 11/12"
+#~ msgstr "11 колони - 11/12"
+
+#~ msgid "12 columns - 1/1"
+#~ msgstr "12 колони - 1/1"
+
+#~ msgid "Select column width."
+#~ msgstr "Изберете ширината на колоната."
+
+#~ msgid "Responsiveness"
+#~ msgstr "Респонзивнес"
+
+#~ msgid "Adjust column for different screen sizes. Control width, offset and visibility settings."
+#~ msgstr "Нагласете колоната за различни размери на екрана. Контролирайте настройките за ширина, отстъп и видимост."
+
+#~ msgid "Column"
+#~ msgstr "Колона"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "None"
+#~ msgstr "Няма"
+
+#~ msgid "Image"
+#~ msgstr "Изображение"
+
+#~ msgid "Select image from media library."
+#~ msgstr "Изберете изображение от медийната библиотека."
+
+#~ msgid "Row"
+#~ msgstr "Ред"
+
+#~ msgid "Place content elements inside the row"
+#~ msgstr "Поставете елементи със съдържание в реда"
+
+#~ msgid "Section"
+#~ msgstr "Секция"
+
+#~ msgid "Text Block"
+#~ msgstr "Текстов блок"
+
+#~ msgid "A block of text with WYSIWYG editor"
+#~ msgstr "Блок от текст с WYSIWYG редактор"
+
+#, fuzzy
+#~| msgid "<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>"
+#~ msgid "I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "<p>Аз съм текстово блокче. Натиснете на бутона за редактиране за да промените този текст. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>"
+
+#~ msgid "Empty Space"
+#~ msgstr "Празно място"
+
+#~ msgid "Height"
+#~ msgstr "Височина"
+
+#~ msgid "Flickr Widget"
+#~ msgstr "Flickr джаджа"
+
+#~ msgid "Widget title"
+#~ msgstr "Заглавие на джаджата"
+
+#~ msgid "Flickr ID"
+#~ msgstr "Flickr ID"
+
+#, php-format
+#~ msgid "To find your flickID visit %s."
+#~ msgstr "За да намерите Вашето Flickr ID посетете %s."
+
+#~ msgid "Number of photos"
+#~ msgstr "Брои снимки"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "User"
+#~ msgstr "Потребител"
+
+#~ msgid "Group"
+#~ msgstr "Група"
+
+#~ msgid "Random"
+#~ msgstr "Случайни"
+
+#~ msgid "Image Gallery"
+#~ msgstr "Галерия с изображения"
+
+#~ msgid "Responsive image gallery"
+#~ msgstr "Респонзив Галерия"
+
+#~ msgid "Gallery type"
+#~ msgstr "Тип на галерия"
+
+#~ msgid "Flex slider fade"
+#~ msgstr "Избледняване на flex слайдер"
+
+#~ msgid "Flex slider slide"
+#~ msgstr "Слайд на flex слайдер"
+
+#~ msgid "Nivo slider"
+#~ msgstr "Nivo слайдер"
+
+#~ msgid "Image grid"
+#~ msgstr "Мрежа с изображения"
+
+#~ msgid "Select gallery type."
+#~ msgstr "Изберете тип на галерията."
+
+#~ msgid "Disable"
+#~ msgstr "Забранете"
+
+#~ msgid "Auto rotate slides each X seconds."
+#~ msgstr "Автоматично въртене на слайдовете всеки за X секунди."
+
+#~ msgid "Images"
+#~ msgstr "Изображения"
+
+#~ msgid "Select images from media library."
+#~ msgstr "Изберете изображения от медийната библиотека."
+
+#~ msgid "Image size"
+#~ msgstr "Размер на изображението"
+
+#~ msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+#~ msgstr "Въведете размер на изображението. Например: \"миниатюра\", \"среден\", \"голям\", \"пълен\" или размерите дефинирани от темата в момента. Антернативно може да въведете размера на изображението в пиксели: 200x100 (Ширина x Височина). Оставете празно за да използвате размер \"миниатюра\"."
+
+#~ msgid "Open custom link"
+#~ msgstr "Отваряне на потребителска връзка"
+
+#~ msgid "Custom links"
+#~ msgstr "Потребителски връзки"
+
+#~ msgid "Custom link target"
+#~ msgstr "Цел на потребителската връзка"
+
+#~ msgid "Select where to open  custom links."
+#~ msgstr "Изберете към къде да водят потребителските връзки."
+
+#~ msgid "Google Maps"
+#~ msgstr "Google карти"
+
+#~ msgid "Map block"
+#~ msgstr "Блок с карта"
+
+#~ msgid "Map embed iframe"
+#~ msgstr "Карта за вграждане в iframe"
+
+#~ msgid "Map height"
+#~ msgstr "Височина на картата"
+
+#, fuzzy
+#~ msgid "Primary Title"
+#~ msgstr "Заглавие на страницата"
+
+#, fuzzy
+#~ msgid "Hover Title"
+#~ msgstr "Заглавие на формата"
+
+#, fuzzy
+#~ msgid "Primary title"
+#~ msgstr "Заглавие на страницата"
+
+#, fuzzy
+#~ msgid "Primary title alignment"
+#~ msgstr "Подравняване на изображение"
+
+#, fuzzy
+#~ msgid "Select text alignment for primary title."
+#~ msgstr "Изберете подравняване на текста."
+
+#, fuzzy
+#~ msgid "Hover title"
+#~ msgstr "Заглавие на формата"
+
+#, fuzzy
+#~ msgid "Hover title alignment"
+#~ msgstr "Изберете подравняване на текста."
+
+#, fuzzy
+#~ msgid "Select text alignment for hovered title."
+#~ msgstr "Изберете подравняване на текста."
+
+#, fuzzy
+#~ msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "Аз съм промо текст. Натиснете на бутона за редактиране за да смените този текст. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#, fuzzy
+#~ msgid "Select block shape."
+#~ msgstr "Изберете размер на бутона."
+
+#, fuzzy
+#~ msgid "Background Color"
+#~ msgstr "Потребителски цвят на фона"
+
+#, fuzzy
+#~ msgid "Select block alignment."
+#~ msgstr "Изберете подравняване на бутона."
+
+#, fuzzy
+#~ msgid "Hover Button"
+#~ msgstr "Google + бутон"
+
+#, fuzzy
+#~ msgid "Hover Box"
+#~ msgstr "Цвят при покриване с мишката"
+
+#, fuzzy
+#~ msgid "Animated flip box with image and text"
+#~ msgstr "Анимирана въртележка със изображения"
+
+#~ msgid "Image Carousel"
+#~ msgstr "Въртележка на изображенията"
+
+#~ msgid "Animated carousel with images"
+#~ msgstr "Анимирана въртележка със изображения"
+
+#~ msgid "Horizontal"
+#~ msgstr "Хоризонтална"
+
+#~ msgid "Vertical"
+#~ msgstr "Вертикална"
+
+#~ msgid "Slider speed"
+#~ msgstr "Скорост на слайдера"
+
+#~ msgid "Slides per view"
+#~ msgstr "Слайдове на изглед"
+
+#~ msgid "Slider autoplay"
+#~ msgstr "Автоматично стартиране на слайдера"
+
+#~ msgid "Hide pagination control"
+#~ msgstr "Скриване на контролите на пагинацията"
+
+#~ msgid "Hide prev/next buttons"
+#~ msgstr "Скриване на предишен/следващ бутони"
+
+#~ msgid "Partial view"
+#~ msgstr "Частичен изглед"
+
+#~ msgid "Slider loop"
+#~ msgstr "Повтаряне на слайдера"
+
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgid "Custom color"
+#~ msgstr "Цвят по избор"
+
+#~ msgid "Informational"
+#~ msgstr "Информационни"
+
+#~ msgid "Warning"
+#~ msgstr "Предупреждение"
+
+#~ msgid "Success"
+#~ msgstr "Успех"
+
+#~ msgid "Error"
+#~ msgstr "Грешка"
+
+#~ msgid "Message Box"
+#~ msgstr "Кутия за съобщения"
+
+#~ msgid "Notification box"
+#~ msgstr "Кутия за известия"
+
+#, fuzzy
+#~| msgid "Font size"
+#~ msgid "Font Awesome 5"
+#~ msgstr "Размер на шрифта"
+
+#~ msgid "Message text"
+#~ msgstr "Текст на съобщението"
+
+#, fuzzy
+#~| msgid "<p>I am message box. Click edit button to change this text.</p>"
+#~ msgid "I am message box. Click edit button to change this text."
+#~ msgstr "<p>Аз съм кутия за съобщение. Натиснете бутона за редактиране за да промените този текст.</p>"
+
+#~ msgid "Animated pie chart"
+#~ msgstr "Анимирана кръгова диаграма"
+
+#~ msgid "Units"
+#~ msgstr "Единици"
+
+#~ msgid "Select pie chart color."
+#~ msgstr "Изберете цвят на кръговата диаграма."
+
+#~ msgid "Posts Slider"
+#~ msgstr "Слайдер с публикации"
+
+#~ msgid "Slider with WP Posts"
+#~ msgstr "Слайдер с WP публикации"
+
+#~ msgid "Slider type"
+#~ msgstr "Тип на слайдера"
+
+#~ msgid "Select slider type."
+#~ msgstr "Изберете типа на слайдера."
+
+#~ msgid "Post types"
+#~ msgstr "Типове публикации"
+
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgid "No description"
+#~ msgstr "Без описание"
+
+#~ msgid "Teaser (Excerpt)"
+#~ msgstr "Закачена (Откъс)"
+
+#~ msgid "Output post title?"
+#~ msgstr "Изход за заглавието на публикацията?"
+
+#~ msgid "If selected, title will be printed before the teaser text."
+#~ msgstr "Ако е избрано, заглавието ще се визуализира преди показването на текста."
+
+#~ msgid "Link"
+#~ msgstr "Връзка"
+
+#~ msgid "Link to post"
+#~ msgstr "Връзка към публикация"
+
+#~ msgid "Link to bigger image"
+#~ msgstr "Връзка към по-голямо изображение"
+
+#~ msgid "No link"
+#~ msgstr "Без връзка"
+
+#~ msgid "Link type."
+#~ msgstr "Тип на връзката."
+
+#~ msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+#~ msgstr "Въведете връзки за всеки слайд тук. Разделете връзките на всеки нов ред (Enter)."
+
+#~ msgid "Thumbnail size"
+#~ msgstr "Размер на миниатюрите"
+
+#~ msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) . "
+#~ msgstr "Въведете размера на миниатюрите. Пример: миниатюри, средни, големи, пълен или други размери, определени от текущата тема. Освен това въведете размера на изображението в пиксели: 200 x 100 (ширина х височина). "
+
+#~ msgid "Post/Page IDs"
+#~ msgstr "ID-та на Публикации/Страници"
+
+#~ msgid "Categories"
+#~ msgstr "Категории"
+
+#~ msgid "Order by"
+#~ msgstr "Подреждане по"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Modified"
+#~ msgstr "Модифицирани"
+
+#~ msgid "Comment count"
+#~ msgstr "Брояч на коментари"
+
+#~ msgid "Menu order"
+#~ msgstr "Подредба на менюто"
+
+#, php-format
+#~ msgid "Select how to sort retrieved posts. More at %s."
+#~ msgstr "Изберете как да се сортират извлечените публикации. Повече на %s."
+
+#~ msgid "Descending"
+#~ msgstr "Низходящо"
+
+#~ msgid "Ascending"
+#~ msgstr "Възходящо"
+
+#~ msgid "Custom Color"
+#~ msgstr "Цвят по избор"
+
+#~ msgid "Progress Bar"
+#~ msgstr "Прогрес бар"
+
+#~ msgid "Animated progress bar"
+#~ msgstr "Анимиран прогрес бар"
+
+#~ msgid "Select bar background color."
+#~ msgstr "Изберете цвета на фона за лентата."
+
+#~ msgid "Select custom background color for bars."
+#~ msgstr "Изберете потребителски цвят на фона за лентите."
+
+#~ msgid "Options"
+#~ msgstr "Опции"
+
+#~ msgid "Separator"
+#~ msgstr "Разделител"
+
+#~ msgid "Horizontal separator line"
+#~ msgstr "Хоризонтална разделителна линия"
+
+#, fuzzy
+#~ msgid "Select separator alignment."
+#~ msgstr "Изберете подравняване на текста."
+
+#~ msgid "Custom Border Color"
+#~ msgstr "Цвят на рамка по избор"
+
+#~ msgid "Select border color for your element."
+#~ msgstr "Изберете цвят на рамката за вашия елемент."
+
+#, fuzzy
+#~ msgid "Border width"
+#~ msgstr "Ширина на улея на мрежата"
+
+#~ msgid "Element width"
+#~ msgstr "Ширина на елемента"
+
+#~ msgid "Single Image"
+#~ msgstr "Единично изображение"
+
+#~ msgid "Simple image with CSS animation"
+#~ msgstr "Единично изображение със CSS анимация"
+
+#~ msgid "Image alignment"
+#~ msgstr "Подравняване на изображение"
+
+#~ msgid "Select image alignment."
+#~ msgstr "Изберете Подравняване на изображението."
+
+#~ msgid "Image style"
+#~ msgstr "Стил на изображението"
+
+#~ msgid "Border color"
+#~ msgstr "Цвят на рамката"
+
+#~ msgid "Border color."
+#~ msgstr "Цвят на рамката."
+
+#~ msgid "Image link"
+#~ msgstr "Връзка към изображението"
+
+#~ msgid "Link Target"
+#~ msgstr "Къде да сочи връзката"
+
+#~ msgid "Separator with Text"
+#~ msgstr "Разделител с текст"
+
+#~ msgid "Horizontal separator line with heading"
+#~ msgstr "Хоризонтална разделителна линия със заглавие"
+
+#~ msgid "Title position"
+#~ msgstr "Позиция на заглавието"
+
+#~ msgid "Select title location."
+#~ msgstr "Изберете заглавие на местоположението."
+
+#, fuzzy
+#~ msgid "Separator alignment"
+#~ msgstr "Стил на разделител."
+
+#~ msgid "Custom separator color for your element."
+#~ msgstr "Цвят на потребителския разделител за Вашият елемент."
+
+#~ msgid "Separator element width in percents."
+#~ msgstr "Ширина на разделителния елемент в проценти."
+
+#~ msgid "Toggle title"
+#~ msgstr "Заглавие на сгъваемия елемент"
+
+#~ msgid "Toggle content"
+#~ msgstr "Съдържание на сгъваемия елемент"
+
+#, fuzzy
+#~| msgid "<p>Toggle content goes here, click edit button to change this text.</p>"
+#~ msgid "Toggle content goes here, click edit button to change this text."
+#~ msgstr "<p>Съдържанието на сгъваемия елемент стои тук. Натиснете бутона за редактиране за да промените този текст.</p>"
+
+#~ msgid "Toggle block content."
+#~ msgstr "Съдържание на сгъваемия блок."
+
+#~ msgid "Default state"
+#~ msgstr "Състояние по подразбиране"
+
+#~ msgid "Closed"
+#~ msgstr "Затворено"
+
+#~ msgid "Open"
+#~ msgstr "Отворено"
+
+#~ msgid "Select \"Open\" if you want toggle to be open by default."
+#~ msgstr "Изберете \"Отворено\", ако искате превключвателя да бъде отворен по подразбиране."
+
+#~ msgid "FAQ"
+#~ msgstr "ЧЕСТО ЗАДАВАНИ ВЪПРОСИ"
+
+#~ msgid "Toggle element for Q&A block"
+#~ msgstr "Сгъваем елемент за ЧЗВ блока"
+
+#~ msgid "Video Player"
+#~ msgstr "Видео плейър"
+
+#~ msgid "Embed YouTube/Vimeo player"
+#~ msgstr "YouTube/Vimeo плейър за вграждане"
+
+#~ msgid "Video link"
+#~ msgstr "Видео връзка"
+
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video aspect ratio"
+#~ msgstr "Видео плейър"
+
+#, fuzzy
+#~ msgid "ZigZag Separator"
+#~ msgstr "Разделител"
+
+#, fuzzy
+#~ msgid "Horizontal zigzag separator line"
+#~ msgstr "Хоризонтална разделителна линия"
+
+#~ msgid "Select color for your element."
+#~ msgstr "Изберете цвят за Вашият елемент."
+
+#~ msgid "Small"
+#~ msgstr "Малък"
+
+#~ msgid "Medium"
+#~ msgstr "Средно"
+
+#~ msgid "Large"
+#~ msgstr "Голям"
+
+#, fuzzy
+#~ msgid "Select separator border width."
+#~ msgstr "Изберете подравняване на текста."
+
+#~ msgid "Custom Heading"
+#~ msgstr "Потребителско заглавие"
+
+#, fuzzy
+#~ msgid "Note: If you are using non-latin characters be sure to activate them under Settings/WPBakery Page Builder/General Settings."
+#~ msgstr "Въведете Вашето съдържание. Ако използвате не латински символи бъдете сигурни, че сте ги активирали от Настройки/Визуален редактор/Основни настройки."
+
+#~ msgid "Select element tag."
+#~ msgstr "Изберете етикет на елемента."
+
+#~ msgid "Select text alignment."
+#~ msgstr "Изберете подравняване на текста."
+
+#~ msgid "Enter font size."
+#~ msgstr "Въведете размер на шрифта."
+
+#~ msgid "Enter line height."
+#~ msgstr "Въведете височина на реда."
+
+#~ msgid "Select font family."
+#~ msgstr "Изберете семейство на шрифта."
+
+#~ msgid "Select font styling."
+#~ msgstr "Изберете стил на шрифта."
+
+#~ msgid "Collapsible content panels"
+#~ msgstr "Съдържание на сгъваеми елементи"
+
+#~ msgid "Active section"
+#~ msgstr "Активен раздел"
+
+#~ msgid "Add section"
+#~ msgstr "Добавете секция"
+
+#~ msgid "Section 1"
+#~ msgstr "Секция 1"
+
+#~ msgid "Section 2"
+#~ msgstr "Секция 2"
+
+#~ msgid "Target"
+#~ msgstr "Цел"
+
+#~ msgid "Select button size."
+#~ msgstr "Изберете размер на бутона."
+
+#~ msgid "Click edit button to change this text."
+#~ msgstr "Натиснете върху редактиране на бутона за да промените текста."
+
+#~ msgid "Button position"
+#~ msgstr "Позиция на бутона"
+
+#~ msgid "Google+ Button"
+#~ msgstr "Google + бутон"
+
+#~ msgid "Social"
+#~ msgstr "Социална"
+
+#~ msgid "Recommend on Google"
+#~ msgstr "Препоръчване на Google"
+
+#~ msgid "Button size"
+#~ msgstr "Размер на бутона"
+
+#~ msgid "Standard"
+#~ msgstr "Стандартен"
+
+#~ msgid "Tall"
+#~ msgstr "Висок"
+
+#~ msgid "Annotation"
+#~ msgstr "Анотация"
+
+#~ msgid "Bubble"
+#~ msgstr "Балон"
+
+#~ msgid "Tab ID"
+#~ msgstr "ID на раздела"
+
+#~ msgid "Tabbed content"
+#~ msgstr "Съдържание в раздели"
+
+#~ msgid "Auto rotate tabs each X seconds."
+#~ msgstr "Автоматично завъртане на разделите на всеки X секунди."
+
+#~ msgid "Tab 1"
+#~ msgstr "Раздел 1"
+
+#~ msgid "Tab 2"
+#~ msgstr "Раздел 2"
+
+#~ msgid "Vertical tabbed content"
+#~ msgstr "Съдържание на вертикални раздели"
+
+#~ msgid "Auto rotate slides"
+#~ msgstr "Автоматично въртене на слайдовете"
+
+#, fuzzy
+#~ msgid "Custom query"
+#~ msgstr "Потребителско меню"
+
+#, fuzzy
+#~ msgid "Display Style"
+#~ msgstr "Покажете заглавието на формата"
+
+#~ msgid "Show all"
+#~ msgstr "Показване на всички"
+
+#, fuzzy
+#~ msgid "Load more button"
+#~ msgstr "Връзка към прочетете още"
+
+#, fuzzy
+#~ msgid "Lazy loading"
+#~ msgstr "Зареждане..."
+
+#~ msgid "Show filter"
+#~ msgstr "Показване на филтър"
+
+#, fuzzy
+#~ msgid "Number of comments"
+#~ msgstr "Брой на коментари за покзване"
+
+#, fuzzy
+#~ msgid "Meta value"
+#~ msgstr "Стойност на кръговата диаграма"
+
+#, fuzzy
+#~ msgid "Random order"
+#~ msgstr "Случайни"
+
+#, fuzzy
+#~ msgid "Meta key"
+#~ msgstr "Мета"
+
+#~ msgid "Offset"
+#~ msgstr "Изместване"
+
+#~ msgid "Exclude"
+#~ msgstr "Изключение"
+
+#~ msgid "Border"
+#~ msgstr "Рамка"
+
+#, fuzzy
+#~ msgid "Rounded Border"
+#~ msgstr "Рамка"
+
+#~ msgid "Dropdown"
+#~ msgstr "Падащо меню"
+
+#~ msgid "All"
+#~ msgstr "Всички"
+
+#, fuzzy
+#~ msgid "Filter size"
+#~ msgstr "Размер на шрифта"
+
+#, fuzzy
+#~ msgid "Arrows design"
+#~ msgstr "Икона със стрелка"
+
+#, fuzzy
+#~ msgid "Arrows position"
+#~ msgstr "Икона със стрелка"
+
+#, fuzzy
+#~ msgid "Arrows color"
+#~ msgstr "Икона със стрелка"
+
+#, fuzzy
+#~ msgid "Animation In"
+#~ msgstr "CSS анимация"
+
+#, fuzzy
+#~ msgid "Animation Out"
+#~ msgstr "CSS анимация"
+
+#~ msgid "Button style"
+#~ msgstr "Стил на бутона"
+
+#, fuzzy
+#~ msgid "Button color"
+#~ msgstr "Цвят на бутона."
+
+#~ msgid "Same window"
+#~ msgstr "Същия прозорец"
+
+#~ msgid "New window"
+#~ msgstr "Нов прозорец"
+
+#~ msgid "Grey"
+#~ msgstr "Сив"
+
+#~ msgid "Blue"
+#~ msgstr "Син"
+
+#~ msgid "Turquoise"
+#~ msgstr "Тюркоаз"
+
+#~ msgid "Green"
+#~ msgstr "Зелен"
+
+#~ msgid "Orange"
+#~ msgstr "Оранжев"
+
+#~ msgid "Red"
+#~ msgstr "Червен"
+
+#~ msgid "Black"
+#~ msgstr "Черен"
+
+#~ msgid "Mini"
+#~ msgstr "Мини"
+
+#~ msgid "Address book icon"
+#~ msgstr "Икона за адресна книга"
+
+#~ msgid "Alarm clock icon"
+#~ msgstr "Икона за алармен часовник"
+
+#~ msgid "Anchor icon"
+#~ msgstr "Икона за котва"
+
+#~ msgid "Application Image icon"
+#~ msgstr "Икона за изображение на приложение"
+
+#~ msgid "Arrow icon"
+#~ msgstr "Икона със стрелка"
+
+#~ msgid "Asterisk icon"
+#~ msgstr "Икона със звездичка"
+
+#~ msgid "Hammer icon"
+#~ msgstr "Икона с чук"
+
+#~ msgid "Balloon icon"
+#~ msgstr "Икона с балон"
+
+#~ msgid "Balloon Buzz icon"
+#~ msgstr "Икона с балон Buzz"
+
+#~ msgid "Balloon Facebook icon"
+#~ msgstr "Икона с балон Facebook"
+
+#~ msgid "Balloon Twitter icon"
+#~ msgstr "Икона с балон Twitter"
+
+#~ msgid "Battery icon"
+#~ msgstr "Икона с батерия"
+
+#~ msgid "Binocular icon"
+#~ msgstr "Икона с бинокъл"
+
+#~ msgid "Document Excel icon"
+#~ msgstr "Икона с документ за Excel"
+
+#~ msgid "Document Image icon"
+#~ msgstr "Икона с изображение на документ"
+
+#~ msgid "Document Music icon"
+#~ msgstr "Икона с изображение на документ за музика"
+
+#~ msgid "Document Office icon"
+#~ msgstr "Икона с изображение на офис документ"
+
+#~ msgid "Document PDF icon"
+#~ msgstr "Икона с изображение на PDF документ"
+
+#~ msgid "Document Powerpoint icon"
+#~ msgstr "Икона с изображение на Powerpoint документ"
+
+#~ msgid "Document Word icon"
+#~ msgstr "Икона с изображение на Word документ"
+
+#~ msgid "Bookmark icon"
+#~ msgstr "Икона за показалец"
+
+#~ msgid "Camcorder icon"
+#~ msgstr "Икона с камера"
+
+#~ msgid "Camera icon"
+#~ msgstr "Икона с фотоапарат"
+
+#~ msgid "Chart icon"
+#~ msgstr "Икона с диаграма"
+
+#~ msgid "Chart pie icon"
+#~ msgstr "Икона с кръгла диаграма"
+
+#~ msgid "Clock icon"
+#~ msgstr "Икона с часовник"
+
+#~ msgid "Fire icon"
+#~ msgstr "Икона с огън"
+
+#~ msgid "Heart icon"
+#~ msgstr "Икона със сърце"
+
+#~ msgid "Mail icon"
+#~ msgstr "Икона с mail"
+
+#~ msgid "Play icon"
+#~ msgstr "Икона за пускане"
+
+#~ msgid "Shield icon"
+#~ msgstr "Икона със щит"
+
+#~ msgid "Video icon"
+#~ msgstr "Икона за видео"
+
+#~ msgid "Facebook Like"
+#~ msgstr "Facebook харесване"
+
+#~ msgid "Button type"
+#~ msgstr "Тип бутон"
+
+#~ msgid "Select button type."
+#~ msgstr "Изберете тип бутон."
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Pinterest button"
+#~ msgstr "Pinterest бутон"
+
+#~ msgid "No count"
+#~ msgstr "Няма брой"
+
+#~ msgid "Select button layout."
+#~ msgstr "Изберете оформление на бутона."
+
+#~ msgid "Tweetmeme Button"
+#~ msgstr "Tweetmeme бутон"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Чист HTML"
+
+#~ msgid "Structure"
+#~ msgstr "Структура"
+
+#~ msgid "Enter your HTML content."
+#~ msgstr "Въведете Вашето html съдържание."
+
+#~ msgid "Raw JS"
+#~ msgstr "Чист JS"
+
+#~ msgid "Widgetised Sidebar"
+#~ msgstr "Странична лента с възможност за джаджи"
+
+#~ msgid "Sidebar"
+#~ msgstr "Странична лента"
+
+#~ msgid "Landing Page"
+#~ msgstr "Основна страница"
+
+#~ msgid "Call to Action Page"
+#~ msgstr "Страница за действие"
+
+#~ msgid "Feature List"
+#~ msgstr "Списък с функции"
+
+#~ msgid "Description Page"
+#~ msgstr "Страница за описание"
+
+#~ msgid "Service List"
+#~ msgstr "Списък с услуги"
+
+#~ msgid "Product Page"
+#~ msgstr "Страница на продукта"
+
+#~ msgid "Accordion"
+#~ msgstr "Акордеон"
+
+#~ msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+#~ msgstr "Ако искате да стилизирате единично съдържание по различен начин, тогава използвайте това поле за да добавите име на клас и след това да го добавите във Вашия CSS файл."
+
+#~ msgid "Tabs"
+#~ msgstr "Раздели"
+
+#~ msgid "Tour"
+#~ msgstr "Обиколка"
+
+#~ msgid "Archives"
+#~ msgstr "Архиви"
+
+#~ msgid "WordPress Widgets"
+#~ msgstr "WordPress джаджи"
+
+#~ msgid "A monthly archive of your sites posts"
+#~ msgstr "Месечен архив на Вашите публикации на сайта"
+
+#~ msgid "What text use as a widget title. Leave blank to use default widget title."
+#~ msgstr "Какъв текст да се използва за заглавие на джаджата. Оставете празно за да използвате заглавието по подразбиране за джаджата."
+
+#~ msgid "Show post counts"
+#~ msgstr "Покажи брой на публикациите"
+
+#~ msgid "Calendar"
+#~ msgstr "Календар"
+
+#~ msgid "A calendar of your sites posts"
+#~ msgstr "Календар за Вашите публикации на сайта"
+
+#~ msgid "A list or dropdown of categories"
+#~ msgstr "Списък или падащо меню с категории"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "Покажи йерархия"
+
+#~ msgid "Custom Menu"
+#~ msgstr "Потребителско меню"
+
+#~ msgid "Use this widget to add one of your custom menus as a widget"
+#~ msgstr "Използвайте тази джаджа за да добавите едно от Вашите потребителски менюта като джаджа"
+
+#~ msgid "Menu"
+#~ msgstr "Меню"
+
+#, fuzzy, php-format
+#~| msgid "Custom menus not found. Please visit <b>Appearance > Menus</b> page to create new menu."
+#~ msgid "Custom menus not found. Please visit %sAppearance > Menus%s page to create new menu."
+#~ msgstr "Потребителски менюта не са намерени. Моля посетете <b>Оформление > Менюта</b> страницата за създаване ново меню."
+
+#~ msgid "All Links"
+#~ msgstr "Всички връзки"
+
+#~ msgid "Links"
+#~ msgstr "Връзки"
+
+#~ msgid "Your blogroll"
+#~ msgstr "Вашият блогрол"
+
+#~ msgid "Link Category"
+#~ msgstr "Категория на връзката"
+
+#~ msgid "Link title"
+#~ msgstr "Заглавие на връзката"
+
+#~ msgid "Link rating"
+#~ msgstr "Рейтинг на връзката"
+
+#~ msgid "Link ID"
+#~ msgstr "ID на връзката"
+
+#~ msgid "Show Link Image"
+#~ msgstr "Показване на изображение на връзката"
+
+#~ msgid "Show Link Name"
+#~ msgstr "Показване на име на връзката"
+
+#~ msgid "Show Link Description"
+#~ msgstr "Показване на описание на връзката"
+
+#~ msgid "Show Link Rating"
+#~ msgstr "Показване на рейтинг на връзката"
+
+#~ msgid "Number of links to show"
+#~ msgstr "Брой на връзки за показване"
+
+#~ msgid "Meta"
+#~ msgstr "Мета"
+
+#~ msgid "Log in/out, admin, feed and WordPress links"
+#~ msgstr "Вписване/изход, администрация, емисии и WordPress връзки"
+
+#~ msgid "Pages"
+#~ msgstr "Страници"
+
+#~ msgid "Your sites WordPress Pages"
+#~ msgstr "Вашите сайтове за WordPress страници"
+
+#~ msgid "Page title"
+#~ msgstr "Заглавие на страницата"
+
+#~ msgid "Page order"
+#~ msgstr "Подреждане на страницата"
+
+#~ msgid "Page ID"
+#~ msgstr "ID на страницата"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Последни публикации"
+
+#~ msgid "The most recent posts on your site"
+#~ msgstr "Най-новите публикации на вашия сайт"
+
+#~ msgid "Display post date?"
+#~ msgstr "Показване датата на публикациите?"
+
+#~ msgid "Recent Comments"
+#~ msgstr "Последни коментари"
+
+#~ msgid "The most recent comments"
+#~ msgstr "Най-последните коментари"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Entries from any RSS or Atom feed"
+#~ msgstr "Записи от всяко RSS или Atom хранилище"
+
+#~ msgid "RSS feed URL"
+#~ msgstr "URL на RSS хранилище"
+
+#~ msgid "Enter the RSS feed URL."
+#~ msgstr "Въведете URL-ът на RSS хранилището."
+
+#~ msgid "Items"
+#~ msgstr "Елементи"
+
+#~ msgid "10 - Default"
+#~ msgstr "10 - по подразбиране"
+
+#~ msgid "Display item author if available?"
+#~ msgstr "Показване на автора на елемента, ако е достъпен?"
+
+#~ msgid "Display item date?"
+#~ msgstr "Показване на датата на елемента?"
+
+#~ msgid "Search"
+#~ msgstr "Търсене"
+
+#~ msgid "A search form for your site"
+#~ msgstr "Форма за търсене за Вашия сайт"
+
+#~ msgid "Tag Cloud"
+#~ msgstr "Облак от етикети"
+
+#~ msgid "Your most used tags in cloud format"
+#~ msgstr "Вашите най-използвани етикети във формат на облак"
+
+#~ msgid "Tags"
+#~ msgstr "Етикети"
+
+#~ msgid "Taxonomy"
+#~ msgstr "Класификация"
+
+#~ msgid "Arbitrary text or HTML"
+#~ msgstr "Произволен текст или HTML"
+
+#~ msgid "No Gravity forms found."
+#~ msgstr "Няма намерени Gravity форми."
+
+#~ msgid "Select a form to display."
+#~ msgstr "Изберете форма за показване."
+
+#~ msgid "Gravity Form"
+#~ msgstr "Gravity форма"
+
+#~ msgid "Place Gravity form"
+#~ msgstr "Поставете Gravity форма"
+
+#~ msgid "Form"
+#~ msgstr "Форма"
+
+#~ msgid "Select a form to add it to your post or page."
+#~ msgstr "Изберете форма за да добавите във Вашата публикация или страница."
+
+#~ msgid "Display Form Title"
+#~ msgstr "Покажете заглавието на формата"
+
+#~ msgid "Would you like to display the forms title?"
+#~ msgstr "Желаете ли да се показват заглавията на формите?"
+
+#~ msgid "Display Form Description"
+#~ msgstr "Покажете описанието на формите"
+
+#~ msgid "Would you like to display the forms description?"
+#~ msgstr "Желаете ли да се показват описанията на формите?"
+
+#~ msgid "Enable AJAX?"
+#~ msgstr "Разрешаване на AJAX?"
+
+#~ msgid "Enable AJAX submission?"
+#~ msgstr "Разрешаване на добавянето на AJAX?"
+
+#~ msgid "Tab Index"
+#~ msgstr "Индекс на раздела"
+
+#~ msgid "(Optional) Specify the starting tab index for the fields of this form. Leave blank if you're not sure what this is."
+#~ msgstr "(По избор) Задайте началния индекс за раздела за полетата на тази форма. Оставете празно, ако не сте сигурни какво е това."
+
+#, fuzzy
+#~ msgid "Gutenberg Editor"
+#~ msgstr "Потребителска част"
+
+#~ msgid "Add/remove picture"
+#~ msgstr "Добавяне/премахване на снимка"
+
+#~ msgid "Finish Adding Images"
+#~ msgstr "Финализиране с добавянето на изображения"
+
+#~ msgid "Add Image"
+#~ msgstr "Добавете изобравение"
+
+#~ msgid "Add Images"
+#~ msgstr "Добавете изображения"
+
+#, fuzzy
+#~ msgid "Frontend Editor"
+#~ msgstr "Потребителска част"
+
+#~ msgid "Confirm deleting \"{template_name}\" template, press Cancel to leave. This action cannot be undone."
+#~ msgstr "Потвърдете изтриването \"{template_name}\" на шаблона, натиснете отказ за да го оставите. Това действие не може да бъде върнато."
+
+#~ msgid "Press OK to delete section, Cancel to leave"
+#~ msgstr "Натиснете ОК за да изтриете раздела, Отказ за да го оставите"
+
+#~ msgid "Drag and drop me in the column"
+#~ msgstr "Превлачете ме и ме пуснете в колоната"
+
+#~ msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+#~ msgstr "Натиснете ОК за да изтриете \"{tab_name}\" раздела, Отказ за да го оставите"
+
+#~ msgid "Please enter new tab title"
+#~ msgstr "Моля въведете ново заглавие на раздела"
+
+#~ msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+#~ msgstr "Натиснете OK за да изтриете \"{tab_name}\" раздела, Отказ за да го оставите"
+
+#~ msgid "Please enter new section title"
+#~ msgstr "Моля въведете заглавието на новия раздел"
+
+#~ msgid "Error. Please try again."
+#~ msgstr "Грешка. Моля опитайте отново."
+
+#~ msgid "If you close this window all shortcode settings will be lost. Close this window?"
+#~ msgstr "Ако затворите този прозорец настройките на всичките кратки кодове ще бъдат загубени. Затворете този прозорец?"
+
+#~ msgid "Select element type"
+#~ msgstr "Изберете тип на елемента"
+
+#~ msgid "Media gallery"
+#~ msgstr "Медия галерия"
+
+#~ msgid "Element settings"
+#~ msgstr "Настройки на елемента"
+
+#~ msgid "Add tab"
+#~ msgstr "Добавете раздел"
+
+#~ msgid "Are you sure you want to convert to new version?"
+#~ msgstr "Сигурни ли сте, че искате да конвертирате до новата версия?"
+
+#~ msgid "Loading..."
+#~ msgstr "Зареждане..."
+
+#~ msgid "Set Image"
+#~ msgstr "Задайте изображение"
+
+#~ msgid "Are you sure that you want to remove all your data?"
+#~ msgstr "Сигурни ли сте, че искате да премахнете всичките Ваши данни?"
+
+#~ msgid "Loop settings"
+#~ msgstr "Настройки на Loop"
+
+#~ msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+#~ msgstr "Грешен формат на оформлението за реда! Пример: 1/2 + 1/2 or span6 + span6."
+
+#~ msgid "Row background color"
+#~ msgstr "Цвят на фона за реда"
+
+#~ msgid "Row background image"
+#~ msgstr "Изображение на фона за реда"
+
+#~ msgid "Column background color"
+#~ msgstr "Цвят на фона за колоната"
+
+#~ msgid "Column background image"
+#~ msgstr "Изображение на фона за колоната"
+
+#~ msgid "Guides ON"
+#~ msgstr "Включено ръководство"
+
+#~ msgid "Guides OFF"
+#~ msgstr "Изключено ръководство"
+
+#~ msgid "Template added to the page."
+#~ msgstr "Оформлението е добавено към страницата."
+
+#~ msgid "Page settings updated!"
+#~ msgstr "Настройките на страница са обновени!"
+
+#~ msgid "Update all"
+#~ msgstr "Обновете всички"
+
+#~ msgid "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "Промените, който сте направили ще бъдат изгубени, ако смените тази страница."
+
+#, php-format
+#~ msgid "%s saved!"
+#~ msgstr "%s запаметени!"
+
+#, php-format
+#~ msgid "%s deleted!"
+#~ msgstr "%s изтрити!"
+
+#~ msgid "Loading Google Font failed"
+#~ msgstr "Зареждането на Google шрифт е провалено"
+
+#~ msgid "Loading Font..."
+#~ msgstr "Зареждане на шрифта..."
+
+#~ msgid "Unable to load Google Fonts"
+#~ msgstr "Не е възможно зареждането на Google шрифтове"
+
+#, fuzzy
+#~ msgid "Element successfully removed."
+#~ msgstr "Успешно е запаметено новото оформление!"
+
+#, fuzzy
+#~| msgid "Shortcode updated!"
+#~ msgid "Successfully updated!"
+#~ msgstr "Краткия код е актуализиран!"
+
+#, php-format
+#~ msgid "Wrong name for shortcode:%s. Name required"
+#~ msgstr "Грешно име за краткия код:%s. Името е задължително"
+
+#, php-format
+#~ msgid "Wrong base for shortcode:%s. Base required"
+#~ msgstr "Грешна база за краткия код:%s. Базата е задължителна"
+
+#, php-format
+#~ msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+#~ msgstr "Грешен атрибут за %s' краткия код. Атрибутът 'param_name' е задължителен"
+
+#, php-format
+#~ msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+#~ msgstr "Грешни setting_name за краткия код:%s. Базата не може да се модифицира."
+
+#~ msgid "General"
+#~ msgstr "Общи"
+
+#~ msgid "Desktop"
+#~ msgstr "Десктоп"
+
+#~ msgid "Tablet landscape mode"
+#~ msgstr "Таблет в пейзажен режим"
+
+#~ msgid "Tablet portrait mode"
+#~ msgstr "Портретен режим за таблет"
+
+#~ msgid "Smartphone landscape mode"
+#~ msgstr "Пейзажен режим за смартфон"
+
+#~ msgid "Smartphone portrait mode"
+#~ msgstr "Портретен режим за смартфон"
+
+#~ msgid "Cancel all changes and return to WP dashboard"
+#~ msgstr "Откажете всичките промени и се върнете към Таблото на WP"
+
+#~ msgid "Save as Pending"
+#~ msgstr "Запазете като чакащо"
+
+#~ msgid "Publish"
+#~ msgstr "Публикуване"
+
+#~ msgid "Submit for Review"
+#~ msgstr "Подайте за преглед"
+
+#~ msgid "Frontend"
+#~ msgstr "Потребителска част"
+
+#~ msgid "Save current layout as a template"
+#~ msgstr "Записване на текущото оформление като шаблон"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder Shortcode Mapper adds custom 3rd party vendors shortcodes to the list of WPBakery Page Builder content elements menu (Note: to map shortcode it needs to be installed on site)."
+#~ msgstr "Използвайте мапъра на кратки кодове на Визуалния редактор за да добавите вашите потребителски или кратки кодове на вендори от 3-та страна в списъка на менюто с елементи за визуалния редактор. За да нанесете кратък код Вие трябва вече да сте го инсталирали на вашия WordPress сайт."
+
+#~ msgid "Please enter valid shortcode"
+#~ msgstr "Моля въведете валиден кратък код"
+
+#~ msgid "Cancel"
+#~ msgstr "Отказ"
+
+#~ msgid "Tag:"
+#~ msgstr "Етикет:"
+
+#~ msgid "Description:"
+#~ msgstr "Описание:"
+
+#~ msgid "Category:"
+#~ msgstr "Категория:"
+
+#~ msgid "Comma separated categories names"
+#~ msgstr "Имена на категории разделени със запетая"
+
+#~ msgid "Include content param into shortcode"
+#~ msgstr "Включва параметри на съдържанието в краткия код"
+
+#~ msgid "Save Changes"
+#~ msgstr "Запазете промените"
+
+#~ msgid "Delete"
+#~ msgstr "Изтриване"
+
+#~ msgid "Param name"
+#~ msgstr "Име на параметъра"
+
+#~ msgid "Required value"
+#~ msgstr "Изисквана стойност"
+
+#~ msgid "Please use only letters, numbers and underscore."
+#~ msgstr "Моля използвайте само букви, числа и долна черта."
+
+#~ msgid "Heading for field in shortcode edit form."
+#~ msgstr "Заглавие за полето във формата за редактиране на краткия."
+
+#~ msgid "Field type"
+#~ msgstr "Тип на полето"
+
+#~ msgid "Select field type"
+#~ msgstr "Изберете тип на полето"
+
+#~ msgid "Textfield"
+#~ msgstr "Текстово поле"
+
+#~ msgid "Textarea"
+#~ msgstr "Текстова област"
+
+#~ msgid "Textarea HTML"
+#~ msgstr "HTML за текстовата област"
+
+#~ msgid "Field type for shortcode edit form."
+#~ msgstr "Тип на полето за формата за редактиране на краткия код."
+
+#~ msgid "Default value"
+#~ msgstr "Стойност по подразбиране"
+
+#, fuzzy, php-format
+#~| msgid "Error. Please try again."
+#~ msgid "%s. Please try again."
+#~ msgstr "Грешка. Моля опитайте отново."
+
+#, fuzzy, php-format
+#~ msgid "Hola! Would you like to receive automatic updates and unlock premium support? Please %sactivate your copy%s of WPBakery Page Builder."
+#~ msgstr "За да получавате автоматични обновления е необходим лицензна активация. Моля посетете <a href=\""
+
+#~ msgid "General Settings"
+#~ msgstr "Основни настройки"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Потребителски CSS"
+
+#~ msgid "Product License"
+#~ msgstr "Лиценз за продукта"
+
+#~ msgid "Main accent color"
+#~ msgstr "Цвят на основния акцент"
+
+#~ msgid "Hover color"
+#~ msgstr "Цвят при покриване с мишката"
+
+#~ msgid "Call to action background color"
+#~ msgstr "Фонов цвят за извикване на действие"
+
+#~ msgid "Google maps background color"
+#~ msgstr "Фонов цвят на Google карти"
+
+#~ msgid "Post slider caption background color"
+#~ msgstr "Фонов цвят на описанието за слайдера за публикации"
+
+#~ msgid "Progress bar background color"
+#~ msgstr "Фонов цвят за прогрес бара"
+
+#~ msgid "Separator border color"
+#~ msgstr "Цвят на рамката на разделителя"
+
+#~ msgid "Tabs navigation background color"
+#~ msgstr "Фонов цвят на навигацията на разделите"
+
+#~ msgid "Active tab background color"
+#~ msgstr "Фонов цвят на активния раздел"
+
+#~ msgid "Disable responsive content elements"
+#~ msgstr "Забраняване на респонзив елементите на съдържанието"
+
+#~ msgid "Google fonts subsets"
+#~ msgstr "Подгрупи на Google шрифтове"
+
+#~ msgid "Use custom design options"
+#~ msgstr "Използвайте опциите на потребителския дизайн"
+
+#~ msgid "Elements bottom margin"
+#~ msgstr "Долен отстъп на елементите"
+
+#~ msgid "Grid gutter width"
+#~ msgstr "Ширина на улея на мрежата"
+
+#~ msgid "Mobile screen width"
+#~ msgstr "Ширина на мобилен екран"
+
+#~ msgid "Paste your CSS code"
+#~ msgstr "Поставете Вашият CSS код"
+
+#~ msgid "Are you sure you want to reset to defaults?"
+#~ msgstr "Сигурни ли сте, че искате да възстановите настройките по подразбиране?"
+
+#~ msgid "Are you sure you want to delete this shortcode?"
+#~ msgstr "Сигурни ли сте, че искате да изтриете този кратък код?"
+
+#~ msgid "Are you sure you want to delete the shortcode's param?"
+#~ msgstr "Сигурни ли сте, че искате да изтриете параметъра на краткия код?"
+
+#~ msgid "My shortcodes"
+#~ msgstr "Моите кратки кодове"
+
+#~ msgid "Shortcode name is required."
+#~ msgstr "Името на краткия код е задължително."
+
+#~ msgid "Please enter valid shortcode tag."
+#~ msgstr "Моля въведете валиден етикет за кратък код."
+
+#~ msgid "Please enter all required fields for params."
+#~ msgstr "Моля въведете всичките задължителни полета за параметрите."
+
+#~ msgid "New shortcode mapped from string!"
+#~ msgstr "Нов кратък код е нанесен от стринга!"
+
+#~ msgid "Shortcode updated!"
+#~ msgstr "Краткия код е актуализиран!"
+
+#~ msgid "Content param can not be added manually, please use checkbox."
+#~ msgstr "Параметъра за съдържанието не може да бъде добавен ръчно, моля използвайте квадратчето за маркиране."
+
+#, php-format
+#~ msgid "Param %s already exists. Param names must be unique."
+#~ msgstr "Параметъра %s вече съществува. Имената на параметрите трябва да са уникални."
+
+#~ msgid "Please use only letters, numbers and underscore for param name"
+#~ msgstr "Моля използвайте само букви, цифри и долни черти за име на параметъра"
+
+#~ msgid "Please enter valid shortcode to parse!"
+#~ msgstr "Моля въведете валиден кратък код за анализиране!"
+
+#~ msgid "Enable"
+#~ msgstr "Разрешаване"
+
+#, fuzzy
+#~ msgid "Here you can tweak default WPBakery Page Builder content elements visual appearance. By default WPBakery Page Builder is using neutral light-grey theme. Changing \"Main accent color\" will affect all content elements if no specific \"content block\" related color is set."
+#~ msgstr "Тук можете да подобрите външния вид на съдържанието на елементите за Визуалния редактор по подразбиране. По подразбиране Визуалния редактор използва неутрална светло-сива тема. Чрез променянето на \"Основния акцентиращ цвят\" ще има ефект за цялото съдържание на елементите, ако не е няма специфичен зададен свързан цвят с \"блока за съдържание\"."
+
+#~ msgid "Invalid Margin value."
+#~ msgstr "Не валидна стойност за отстъпа."
+
+#~ msgid "Invalid Gutter value."
+#~ msgstr "Не валидна стойност за улея."
+
+#~ msgid "Invalid \"Responsive max\" value."
+#~ msgstr "Не валидна стойност за \"Респонзив макс\"."
+
+#~ msgid "Something went wrong: js_composer_front_custom.css could not be created."
+#~ msgstr "Нещо се обърка: js_composer_front_custom.css не можеше да бъде създаден."
+
+#~ msgid "js_composer_front_custom.css could not be created. Connection error."
+#~ msgstr "js_composer_front_custom.CSS не можеше да бъде създаден. Грешка при свързването."
+
+#, php-format
+#~ msgid "js_composer_front_custom.css could not be created. Cannot write custom css to \"%s\"."
+#~ msgstr "js_composer_front_custom.CSS не можеше да бъде създаден. Не може да се записва потребителски css \"%s\"."
+
+#~ msgid "js_composer_front_custom.css could not be created. Problem with access."
+#~ msgstr "js_composer_front_custom.CSS не можеше да бъде създаден. Проблем с достъпа."
+
+#~ msgid "Something went wrong: custom.css could not be created."
+#~ msgstr "Нещо се обърка: custom.css не можеше да бъде създаден."
+
+#~ msgid "custom.css could not be created. Connection error."
+#~ msgstr "custom.css не можеше да бъде създаден. Грешка при свързването."
+
+#, fuzzy, php-format
+#~| msgid "custom.css could not be created. Cannot write custom css to \""
+#~ msgid "custom.css could not be created. Cannot write custom css to %s."
+#~ msgstr "custom.css не можеше да бъде създаден. Не може да се пише потребителски css в\""
+
+#~ msgid "custom.css could not be created. Problem with access."
+#~ msgstr "Custom.CSS не можеше да бъде създаден. Проблем с достъпа."
+
+#, php-format
+#~ msgid "Edit this %s"
+#~ msgstr "Редактиране на този %s"
+
+#, php-format
+#~ msgid "Clone this %s"
+#~ msgstr "Клониране на този %s"
+
+#, php-format
+#~ msgid "Delete this %s"
+#~ msgstr "Изтриване на този %s"
+
+#~ msgid "Error! Can't connect to filesystem"
+#~ msgstr "Грешка! Не може да се свържем с файловата система"
+
+#, fuzzy, php-format
+#~ msgid "To receive automatic updates license activation is required. Please visit %sSettings%s to activate your WPBakery Page Builder."
+#~ msgstr "За да получавате автоматични обновления е необходим лицензна активация. Моля посетете <a href=\""
+
+#, fuzzy, php-format
+#~ msgid "To receive automatic updates license activation is required. Please visit %ssettings%s to activate your WPBakery Page Builder."
+#~ msgstr "За да получавате автоматични обновления е необходим лицензна активация. Моля посетете <a href=\""
+
+#, fuzzy
+#~ msgid "Align"
+#~ msgstr "Подравняване на ляво"
+
+#~ msgid "No contact forms found"
+#~ msgstr "Няма намерени формуляри за контакт"
+
+#~ msgid "Contact Form 7"
+#~ msgstr "Contact Form 7"
+
+#~ msgid "Place Contact Form7"
+#~ msgstr "Поставете Contact Form 7"
+
+#~ msgid "Select contact form"
+#~ msgstr "Изберете форма за контакт"
+
+#~ msgid "Choose previously created contact form from the drop down list."
+#~ msgstr "Изберете предишно създадена форма за контакт от падащия списък."
+
+#~ msgid "No sliders found"
+#~ msgstr "Няма намерени слайдери"
+
+#~ msgid "Layer Slider"
+#~ msgstr "Layer Slaider"
+
+#~ msgid "Place LayerSlider"
+#~ msgstr "Поставете LayerSlider"
+
+#~ msgid "LayerSlider ID"
+#~ msgstr "ID на LayerSlider"
+
+#~ msgid "Select your LayerSlider."
+#~ msgstr "Изберете Вашият LayerSlider."
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+#~ msgid "Place Revolution slider"
+#~ msgstr "Поставете Revolution Slider"
+
+#~ msgid "Select your Revolution Slider."
+#~ msgstr "Изберете Вашият Revolution Slider."
+
+#, fuzzy
+#~| msgid "Menu order"
+#~ msgid "Menu order & title"
+#~ msgstr "Подредба на менюто"
+
+#, fuzzy
+#~| msgid "Exclude"
+#~ msgid "Include"
+#~ msgstr "Изключение"
+
+#, fuzzy
+#~| msgid "Custom links"
+#~ msgid "Custom post__in"
+#~ msgstr "Потребителски връзки"
+
+#, fuzzy
+#~ msgid "Displays the cart contents"
+#~ msgstr "Показване на съдържанието на елемента?"
+
+#, fuzzy
+#~ msgid "Displays the checkout"
+#~ msgstr "Показване на съдържанието на елемента?"
+
+#, fuzzy
+#~ msgid "My Account"
+#~ msgstr "Няма брой"
+
+#, fuzzy
+#~ msgid "Order count"
+#~ msgstr "Брояч на слайдовете"
+
+#, fuzzy
+#~ msgid "Recent products"
+#~ msgstr "Последни публикации"
+
+#, fuzzy
+#~ msgid "Columns"
+#~ msgstr "Колона"
+
+#, fuzzy, php-format
+#~ msgid "Select how to sort retrieved products. More at %s."
+#~ msgstr "Изберете как да се сортират извлечените публикации. Повече на %s."
+
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s."
+#~ msgstr "Определя възходящ или низходящ ред. Още на %s."
+
+#, fuzzy
+#~ msgid "Featured products"
+#~ msgstr "Препоръчани"
+
+#, fuzzy
+#~ msgid "Display products set as \"featured\""
+#~ msgstr "Показване датата на публикациите?"
+
+#, fuzzy
+#~ msgid "Product"
+#~ msgstr "Страница на продукта"
+
+#, fuzzy
+#~ msgid "Select identificator"
+#~ msgstr "Изберете форма за контакт"
+
+#, fuzzy
+#~ msgid "Products"
+#~ msgstr "Страница на продукта"
+
+#, fuzzy
+#~ msgid "Add to cart"
+#~ msgstr "Добавете раздел"
+
+#, fuzzy
+#~ msgid "Product page"
+#~ msgstr "Страница на продукта"
+
+#, fuzzy
+#~ msgid "Product category"
+#~ msgstr "Страница на продукта"
+
+#, fuzzy
+#~ msgid "Category"
+#~ msgstr "Категория:"
+
+#, fuzzy
+#~ msgid "Product category list"
+#~ msgstr "Лиценз за продукта"
+
+#, fuzzy
+#~ msgid "Product categories"
+#~ msgstr "Страница на продукта"
+
+#, fuzzy
+#~ msgid "Display product categories loop"
+#~ msgstr "Показване датата на публикациите?"
+
+#, fuzzy
+#~ msgid "Hide empty"
+#~ msgstr "Скрийте панела"
+
+#, fuzzy
+#~ msgid "List of product categories"
+#~ msgstr "Списък или падащо меню с категории"
+
+#, fuzzy
+#~ msgid "Product Attribute"
+#~ msgstr "Foo атрибут"
+
+#, fuzzy
+#~ msgid "Attribute"
+#~ msgstr "Foo атрибут"
+
+#, fuzzy
+#~ msgid "Taxonomy values"
+#~ msgstr "Класификации"
+
+#~ msgid "Order"
+#~ msgstr "Подредба"
+
+#~ msgid "Added"
+#~ msgstr "Добавено"
+
+#~ msgid "Taxonomies"
+#~ msgstr "Класификации"
+
+#~ msgid "CSS Animation"
+#~ msgstr "CSS анимация"
+
+#~ msgid "Top to bottom"
+#~ msgstr "Отгоре надолу"
+
+#~ msgid "Bottom to top"
+#~ msgstr "Отдолу нагоре"
+
+#~ msgid "Left to right"
+#~ msgstr "Отляво надясно"
+
+#~ msgid "Right to left"
+#~ msgstr "Отдясно наляво"
+
+#~ msgid "Appear from center"
+#~ msgstr "Появява се на центъра"
+
+#, fuzzy
+#~ msgid "wobble"
+#~ msgstr "Балон"
+
+#, fuzzy
+#~ msgid "Specials"
+#~ msgstr "Социална"
+
+#, fuzzy
+#~ msgid "Slide Entrances"
+#~ msgstr "Тип на слайдера"
+
+#, fuzzy
+#~ msgid "slideInRight"
+#~ msgstr "Подравни на дясно"
+
+#, fuzzy
+#~ msgid "Slide Exits"
+#~ msgstr "Тип на слайдера"
+
+#, fuzzy
+#~ msgid "Animate it"
+#~ msgstr "Анимирана кръгова диаграма"
+
+#~ msgid "Default value from width attribute"
+#~ msgstr "Стойност по подразбиране от ширината на атрибута"
+
+#~ msgid "Inherit from smaller"
+#~ msgstr "Наследяване от по-малки"
+
+#~ msgid "No offset"
+#~ msgstr "Няма остъп"
+
+#~ msgid "Box controls"
+#~ msgstr "Контроли на кутията"
+
+#~ msgid "Simplify controls"
+#~ msgstr "Опростяване на контролите"
+
+#~ msgid "Theme defaults"
+#~ msgstr "Тема по подразбиране"
+
+#, fuzzy
+#~| msgid "Inherit: "
+#~ msgid "inherit"
+#~ msgstr "Наследяване: "
+
+#~ msgid "Cover"
+#~ msgstr "Обложка"
+
+#~ msgid "Contain"
+#~ msgstr "Съдържат"
+
+#~ msgid "No Repeat"
+#~ msgstr "Без повторение"
+
+#~ msgid "Repeat"
+#~ msgstr "Повторение"
+
+#~ msgid "Element tag"
+#~ msgstr "Етикет на елемента"
+
+#~ msgid "Font size"
+#~ msgstr "Размер на шрифта"
+
+#~ msgid "Text align"
+#~ msgstr "Подравняване на текста"
+
+#~ msgid "Line height"
+#~ msgstr "Височина на реда"
+
+#~ msgid "Font Family"
+#~ msgstr "Семейство на шрифта"
+
+#~ msgid "Font style"
+#~ msgstr "Стил на шрифта"
+
+#~ msgid "italic"
+#~ msgstr "наклонен"
+
+#~ msgid "bold"
+#~ msgstr "удебелен"
+
+#, fuzzy
+#~| msgid "Add new %s"
+#~ msgid "Add New"
+#~ msgstr "Добавяне на нов %s"
+
+#, fuzzy
+#~| msgid "No Gravity forms found."
+#~ msgid "No Gutenberg attrs found."
+#~ msgstr "Няма намерени Gravity форми."
+
+#~ msgid "Build query"
+#~ msgstr "Изграждане на заявка"
+
+#~ msgid "Manage options"
+#~ msgstr "Управляване на опциите"
+
+#~ msgid "Close"
+#~ msgstr "Затворете"
+
+#, fuzzy
+#~ msgid "Hover"
+#~ msgstr "Обложка"
+
+#, fuzzy
+#~ msgid "Additional"
+#~ msgstr "Добавете секция"
+
+#~ msgid "Select URL"
+#~ msgstr "Изберете URL"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Loading, please wait..."
+#~ msgstr "Зареждане, моля изчакайте..."
+
+#~ msgid "Crunching..."
+#~ msgstr "Схрусква..."
+
+#~ msgid "Other"
+#~ msgstr "Други"
+
+#, fuzzy
+#~ msgid "My Elements"
+#~ msgstr "Редактиране на елементи"
+
+#, fuzzy
+#~ msgid "Element Title"
+#~ msgstr "Ширина на елемента"
+
+#, fuzzy
+#~ msgid "Enter element title."
+#~ msgstr "Въведете размер на шрифта."
+
+#~ msgid "Save changes"
+#~ msgstr "Запазване на промените"
+
+#, fuzzy
+#~ msgid "Save as Element"
+#~ msgstr "Запазете като чакащо"
+
+#~ msgid "Add element"
+#~ msgstr "Добавяне на елемент"
+
+#~ msgid "Add text block"
+#~ msgstr "Добавяне на текстов блок"
+
+#~ msgid "Close panel"
+#~ msgstr "Затворете панел"
+
+#~ msgid "Hide panel"
+#~ msgstr "Скрийте панела"
+
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "Активирайте лиценза"
+
+#, fuzzy
+#~ msgid "Manage elements"
+#~ msgstr "Добавете нов елемент"
+
+#~ msgid "Please enter page title"
+#~ msgstr "Моля, въведете заглавие на страницата"
+
+#~ msgid "Custom CSS settings"
+#~ msgstr "Потребителски CSS настройки"
+
+#, fuzzy
+#~ msgid "Delete element"
+#~ msgstr "Изберете етикет на елемента."
+
+#~ msgid "Row layout"
+#~ msgstr "Оформление на ред"
+
+#~ msgid "Enter custom layout for your row"
+#~ msgstr "Въведете потребителско оформление за Вашият ред"
+
+#~ msgid "Change particular row layout manually by specifying number of columns and their size value."
+#~ msgstr "Промяна на оформление на конкретен ред ръчно чрез задаване на броя на колоните и стойността на размера им."
+
+#~ msgid "Backend editor"
+#~ msgstr "Редактор на административната част"
+
+#, fuzzy
+#~ msgid "Introduction"
+#~ msgstr "Страница на продукта"
+
+#, fuzzy
+#~| msgid "Product License"
+#~ msgid "Regular License"
+#~ msgstr "Лиценз за продукта"
+
+#, fuzzy
+#~ msgid "Extended License"
+#~ msgstr "Активирайте лиценза"
+
+#, fuzzy
+#~| msgid "Active section"
+#~ msgid "Activation"
+#~ msgstr "Активен раздел"
+
+#, fuzzy
+#~| msgid "Content"
+#~ msgid "Content Type"
+#~ msgstr "Съдържание"
+
+#, fuzzy
+#~| msgid "Landing Page"
+#~ msgid "Learning More"
+#~ msgstr "Основна страница"
+
+#, fuzzy
+#~ msgid "Content Elements"
+#~ msgstr "Редактиране на елементи"
+
+#, fuzzy
+#~| msgid "Design Options"
+#~ msgid "Element Design Options"
+#~ msgstr "Опции за дизайна"
+
+#, fuzzy
+#~| msgid "Responsiveness"
+#~ msgid "Responsive Settings"
+#~ msgstr "Респонзивнес"
+
+#, fuzzy
+#~| msgid "Image size"
+#~ msgid "Image filters"
+#~ msgstr "Размер на изображението"
+
+#, fuzzy
+#~| msgid "WPBakery Page Builder"
+#~ msgid "WPBakery Page Builder \"How To's\""
+#~ msgstr "WPBakery Page Builder"
+
+#, fuzzy
+#~| msgid "Add column"
+#~ msgid "Add - ons"
+#~ msgstr "Добавете колона"
+
+#, fuzzy
+#~| msgid "Templates"
+#~ msgid "Templatera"
+#~ msgstr "Шаблони"
+
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video Academy"
+#~ msgstr "Видео плейър"
+
+#, fuzzy
+#~| msgid "Facebook Like"
+#~ msgid "Facebook page"
+#~ msgstr "Facebook харесване"
+
+#, fuzzy
+#~| msgid "Balloon Twitter icon"
+#~ msgid "Twitter account"
+#~ msgstr "Икона с балон Twitter"
+
+#, fuzzy, php-format
+#~ msgid "Responsive design settings are currently disabled. You can enable them in WPBakery Page Builder %ssettings page%s by unchecking \"Disable responsive content elements\"."
+#~ msgstr "Настройките на респонзив дизайна са забранени. Можете да ги разрешите във визуалния редактор <a href=\"%s\">Настройки на страницата</a> чрез де маркирането на \"Забраняване на респонзив елементи със съдържание\"."
+
+#~ msgid "Device"
+#~ msgstr "Устройство"
+
+#~ msgid "Hide on device?"
+#~ msgstr "Скриване на устройството?"
+
+#~ msgid "Inherit: "
+#~ msgstr "Наследяване: "
+
+#~ msgid "Inherit from default"
+#~ msgstr "Наследяване от настройките по подразбиране"
+
+#~ msgid "Google Fonts preview"
+#~ msgstr "Преглед на Google шрифтове"
+
+#~ msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+#~ msgstr "Разсърден магьосник направи токсична отвара за злата кралица и джак."
+
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "Празен раздел. Редактирайте страницата, за да добавите съдържание тук."
+
+#~ msgid "View stream on flickr"
+#~ msgstr "Преглед на стрийминга на flickr"
+
+#~ msgid "Item"
+#~ msgstr "Елемент"
+
+#~ msgid "Nothing found."
+#~ msgstr "Нищо не е намерено."
+
+#~ msgid "Empty tab. Edit page to add content here."
+#~ msgstr "Празен раздел. Редактирайте страницата за да добавите съдържание тук."
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid "Open prettyPhoto"
+#~ msgstr "Отворете prettyPhoto"
+
+#~ msgid "Animated carousel with posts"
+#~ msgstr "Анимирана въртележка с публикации"
+
+#~ msgid "Carousel content"
+#~ msgstr "Съдържание на въртележката"
+
+#~ msgid "Create WordPress loop, to populate content from your site."
+#~ msgstr "Създаване на WordPress loop, за да публикува съдържанието от Вашия сайт."
+
+#~ msgid "Teaser layout"
+#~ msgstr "Оформление на закачените"
+
+#~ msgid "Control teasers look. Enable blocks and place them in desired order. Note: This setting can be overrriden on post to post basis."
+#~ msgstr "Контролирайте изгледа на закачените. Разрешете блокчета и ги поставете в избрания ред. Забележка: Тези настройки могат да бъдат презаписани върху публикациите на основа на публикациите."
+
+#~ msgid "Thumbnail"
+#~ msgstr "Миниатюра"
+
+#~ msgid "Teaser/Excerpt"
+#~ msgstr "Закачени/откъс"
+
+#~ msgid "Full content"
+#~ msgstr "Цялото съдържание"
+
+#~ msgid "Read more link"
+#~ msgstr "Връзка към прочетете още"
+
+#~ msgid "Link target"
+#~ msgstr "Къде да сочи връзката"
+
+#~ msgid "If \"YES\" pagination control will be removed"
+#~ msgstr "Ако Да контролите на пагинацията ще бъдат премахнати"
+
+#~ msgid "If \"YES\" prev/next control will be removed"
+#~ msgstr "Ако \"ДА\" контролите за предишен/следващ ще бъдат премахнати"
+
+#~ msgid "If \"YES\" part of the next slide will be visible on the right side"
+#~ msgstr "Ако \"ДА\" част от следващия слайд ще бъде видим от дясната страна"
+
+#~ msgid "Posts in grid view"
+#~ msgstr "Публикации в табличен вид"
+
+#~ msgid "Grids content"
+#~ msgstr "Съдържание на таблиците"
+
+#~ msgid "Columns count"
+#~ msgstr "Броене на колони"
+
+#~ msgid "Select columns count."
+#~ msgstr "Изберете броене на колони."
+
+#~ msgid "Select to add animated category filter to your posts grid."
+#~ msgstr "Изберете за да добавите анимиран филтър за категория на Вашата мрежа с публикации."
+
+#~ msgid "Layout mode"
+#~ msgstr "Режим на оформление"
+
+#~ msgid "Fit rows"
+#~ msgstr "Вместимост на редовете"
+
+#~ msgid "Masonry"
+#~ msgstr "Зидария"
+
+#~ msgid "Teaser layout template."
+#~ msgstr "Шаблон на оформлението на закачени."
+
+#~ msgid "%s cloned. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s\">Edit now?</a>"
+#~ msgstr "%s клонирани. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s\">Редактиране сега?</a>"
+
+#~ msgid "Hello World"
+#~ msgstr "Здравей, свят"
+
+#~ msgid "Foo attribute"
+#~ msgstr "Foo атрибут"
+
+#~ msgid "I'm foo attribute"
+#~ msgstr "Аз съм foo атрибут"
+
+#~ msgid "Enter foo value."
+#~ msgstr "Въведете стойност за foo."
+
+#~ msgid "I'm hello world"
+#~ msgstr "Из съм здравей свят"
+
+#~ msgid "Drop down example"
+#~ msgstr "Пример за падащо меню"
+
+#~ msgid "One, two or three?"
+#~ msgstr "Едно, две или три?"
+
+#~ msgid "Template file is missing for `%s` shortcode. Make sure you have `%s` file in your theme folder."
+#~ msgstr "Шаблонния файл липсва за '%s' кратък код. Уверете се, че имате '%s' файл във Вашата папка на темата."
+
+#~ msgid "To receive automatic updates license activation is required. Please visit <a href=\""
+#~ msgstr "За да получавате автоматични обновления е необходим лицензна активация. Моля посетете <a href=\""
+
+#~ msgid "VC: Custom Teaser"
+#~ msgstr "ВР: Потрекитеско закачване"
+
+#~ msgid "Empty title"
+#~ msgstr "Изпразнете заглавието"
+
+#~ msgid "Excerpt"
+#~ msgstr "Откъс"
+
+#~ msgid "Featered"
+#~ msgstr "Препоръчано"
+
+#~ msgid "Link text"
+#~ msgstr "Текст за връзката"
+
+#~ msgid "Link to big image"
+#~ msgstr "Връзка към голямо изображение"
+
+#~ msgid "Add custom image"
+#~ msgstr "Добавете потребителско изображение"
+
+#~ msgid "Enable custom teaser"
+#~ msgstr "Разрешете потребителско закачване"
+
+#, fuzzy
+#~ msgid "Native Colors"
+#~ msgstr "Цвят на шрифта"
+
+#, fuzzy
+#~ msgid "New Icons"
+#~ msgstr "Икона"
+
+#~ msgid "Link to"
+#~ msgstr "Насочване към"
+
+#~ msgid "On post"
+#~ msgstr "На публикация"
+
+#~ msgid "Big image"
+#~ msgstr "Голямо изображение"
+
+#~ msgid "Featured"
+#~ msgstr "Препоръчани"

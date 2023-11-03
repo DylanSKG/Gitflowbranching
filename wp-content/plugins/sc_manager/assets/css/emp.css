@@ -1,0 +1,358 @@
+<style>body,
+body.page-template-revslider-page-template,
+body.page-template---publicviewsrevslider-page-template-php {
+    background: transparent;
+    overflow: hidden;
+}
+
+body * {
+    font-size: 12px;
+    font-family: 'Roboto';
+}
+
+div#wpadminbar {
+    display: none !important;
+}
+
+
+/* #render_team ,
+    #render_es,
+    #render_ti,
+    #render_pai,
+    #render_ec */
+
+
+/* i#i_team , */
+
+i#i_es,
+i#i_ti,
+i#i_pai,
+i#i_ec {
+    position: absolute;
+    right: 3em;
+    margin-top: 3em;
+}
+
+#i_es,
+#i_ti,
+#i_pai,
+#i_ec {
+    display: none;
+}
+
+div.wp-site-blocks {
+    padding-top: 0px;
+    padding-bottom: var(--wp--style--root--padding-bottom);
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    top: -0.2em;
+    position: relative;
+}
+
+.welcome_page {
+    display: grid;
+    min-height: 96vh;
+    align-content: space-between;
+}
+
+.sc_content,
+div#welcome_title {
+    max-width: 100vw;
+    height: 92vh;
+    text-align: center;
+    display: flex;
+    justify-items: center;
+    position: relative;
+}
+
+div#welcome_title {
+    position: relative;
+    height: 6em;
+    box-shadow: 2px 5px 10px #f4f4f4, 2px 5px 10px #fcfcfc;
+    /* top: -2em !important; */
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    /* top: -1.75em; */
+    /* margin: 0em 2em; */
+}
+
+.sc_toptbar_left {
+    width: 19em;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+img.sc_home_logo {
+    width: 120px;
+    /* top: -10px; */
+    position: relative;
+}
+
+.sc_toptbar_right {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    min-width: 20em;
+}
+
+button.act_status {
+    position: relative;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid;
+    margin: 0 10px;
+    color: #d8d8d8;
+    background-color: lime;
+}
+
+.sc_notif i {
+    color: #979797;
+    margin: 0px 10px;
+    font-size: 20px;
+}
+
+img.sc_prof_img {
+    width: auto;
+    height: 4em;
+    /* position: absolute; */
+    border-radius: 50%;
+}
+
+.sc_home_logo {
+    display: grid;
+    align-items: center;
+    justify-items: start;
+    justify-content: start;
+    margin: 0 30px 0 10px;
+}
+
+span.dashbord_title {
+    background-color: #ED3333;
+    color: white;
+    padding: 0px 3em;
+    border-radius: 0px 0px 35px 35px;
+    border-bottom-left-radius: 100px 35px;
+    border-bottom-right-radius: 100px 35px;
+    height: fit-content;
+}
+
+.sc_sidebar {
+    min-width: 20em;
+    position: relative;
+    padding-left: 10px;
+    /* box-shadow: 2px 5px 10px #fafafa; */
+    /* border: 1px solid #cacaca; */
+    /* background-color: #fbfbfb; */
+}
+
+.main_box {
+    display: grid;
+    align-items: end;
+    margin-right: 0px;
+    justify-items: stretch;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.sidebar_item span.sc_item {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+
+img.img_name {
+    width: 20px;
+    margin-right: 0.8em;
+}
+
+.sibarbox {
+    height: fit-content;
+    box-shadow: 2px 5px 10px #fafafa;
+    padding: 15px 2px;
+    margin-top: 2em;
+}
+
+.sidebar_item {
+    margin: 10px 5px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    border-radius: 5px;
+}
+
+.no_underline {
+    text-decoration: none;
+}
+
+.sc_active {
+    background-color: #0062ff0a;
+    border-left: 5px solid #0058FF;
+}
+
+
+/* ----------------------------column section---------------------------- */
+
+.sc_column_box {
+    display: flex;
+    justify-content: center;
+    width: -webkit-fill-available;
+    position: absolute;
+    height: -webkit-fill-available;
+    padding: 0px 0.5em;
+    margin-top: 1em;
+}
+
+.sc_column_large,
+.sc_column_small {
+    min-width: 73%;
+}
+
+.sc_column_small {
+    min-width: 25%;
+}
+
+img#profil_medium {
+    border-radius: 50%;
+    width: 100px;
+    /* padding: 7px; */
+    background-color: #f3f3f3;
+}
+
+.sc_column_profile {
+    height: 14em;
+    display: grid;
+    align-items: end;
+    justify-items: center;
+}
+
+img#profil_medium {
+    border-radius: 50%;
+    border: 6px solid #f3f3f3;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.sc_column_brief_infos {
+    display: grid;
+    height: 30em;
+    align-content: space-evenly;
+    justify-items: center;
+    margin-bottom: 1em;
+}
+
+span#sc_names {
+    font-size: 18px;
+    letter-spacing: 5px;
+    font-weight: 500;
+    color: #4d4b4b;
+}
+
+.sc_blocs {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+label {
+    color: #aeaeae;
+}
+
+.sc_top_tabs {
+    display: flex;
+    justify-content: space-evenly;
+    height: 4em;
+    align-items: flex-end;
+}
+
+.sc_tab_bloc {
+    /* border-bottom: 2px solid #252525; */
+    color: gray;
+}
+
+span.sc_tab {
+    /* font-size: 15px; */
+    color: #b0b0b0;
+    opacity: 0.5;
+}
+
+a.active_tab {
+    border-bottom: 2px solid #252525;
+    transition-duration: 0.25s;
+    opacity: 1;
+}
+
+.sc_tab_render {
+    padding: 0em 10em 0em 10em;
+    margin-top: 3em;
+    height: -webkit-fill-available;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: center;
+    max-height: 85%;
+    overflow: auto;
+    justify-content: space-between;
+}
+
+.sc_tab_view_box {
+    display: grid;
+    justify-items: start;
+    align-items: center;
+    box-shadow: 0px 3px 5px 0px #e8e8e8, -1px -10px 10px #ffffff;
+    min-width: 23em;
+    border-radius: 10px;
+    padding: 10px 0px 5px 40px;
+    margin: 10px 0px 10px 10px;
+    height: 3.5em;
+    justify-content: start;
+}
+
+.sc_blocs.employers {
+    position: relative;
+    margin-bottom: 0em;
+    display: grid;
+}
+
+label.employers {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0.5em 0em 1em 0em;
+    box-shadow: 0px 3px 5px 0px #e3e3e3, -1px -10px 10px #ffffff;
+    border-radius: 35px;
+    padding: 4px 1em;
+    cursor: pointer;
+}
+
+label.employers:hover {
+    box-shadow: inset 0px 3px 5px 0px #e3e3e3, -1px -10px 10px #ffffff;
+}
+
+select#sc_employers {
+    height: 2.5em;
+    /* background-image: linear-gradient(#ffffff, #ffffff, white, white, #cfe0ff); */
+    border-radius: 25px;
+    max-width: 27em;
+    text-align: center;
+    min-width: 15em;
+    border: 1px solid #707070;
+}
+
+div#render_team,
+div#render_es,
+div#render_ti,
+div#render_pai,
+div#render_ec {
+    /* position: absolute; */
+    display: none;
+}
+.sc_action {
+    margin-top: 1em;
+}
+</style>

@@ -1,0 +1,191 @@
+<style>
+    body {
+        margin: 0 !important;
+        background: #ffffff !important;
+        min-width: 0;
+    }
+    
+    .wp-site-blocks {
+        /* padding-top: 0; */
+        /* padding-bottom: var(--wp--style--root--padding-bottom); */
+        padding: 0 !important;
+        /* height: 0; */
+    }
+    
+    footer.wp-block-template-part {
+        display: none;
+    }
+    
+    .sc_register_form {
+        /* width: 95vw; */
+        margin: 0 !important;
+        padding: 0 !important;
+        /* height: 43.5em; */
+        overflow: hidden !important;
+        position: fixed;
+        left: 0;
+    }
+    
+    .global_box {
+        display: inline-flex;
+        width: 100%;
+        justify-content: center;
+        height: inherit;
+        /* align-items: center; */
+    }
+    
+    .left_box {
+        width: 50%;
+        display: grid;
+        justify-content: end;
+    }
+    
+    .login #login_error,
+    .login .message,
+    .login .success {
+        border-radius: 10px;
+        display: none
+    }
+    
+    .logo {
+        display: grid;
+        justify-content: start;
+        margin-left: 5em;
+        height: 15em;
+        padding: 0 3em;
+        width: 32em;
+        align-items: end;
+    }
+    
+    img.sc_logo {
+        width: 207px;
+    }
+    
+    .sc_red {
+        color: #ed3333;
+        font-weight: 700;
+    }
+    
+    .welcome {
+        width: 15em;
+        display: inline-grid;
+        min-height: 7em;
+        font-size: 49px;
+        line-height: 1.25;
+        justify-items: end;
+        align-items: start;
+    }
+    
+    span.sc_text {
+        width: 69%;
+        position: relative;
+        top: -0.5em;
+    }
+    
+    .right_box {
+        width: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+    
+    p.forgetmenot {
+        display: none !important;
+    }
+    
+    #login {
+        width: inherit !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    
+    form#loginform {
+        border: 2px solid white;
+        border-top: 1px solid #ffffff;
+        padding: 5em 3em 7em 3em;
+        border-radius: 53px;
+        max-height: 30vw;
+        box-shadow: 0px 5px 20px 0px lightgray;
+        top: 0em;
+        position: relative;
+        height: 20em;
+    }
+    
+    form#loginform::before {
+        content: "Sign In";
+        font-size: 25px;
+        position: relative;
+        top: -1.25em;
+        color: #3c3c3c;
+        font-weight: 600;
+    }
+    
+    div#login h1 {
+        display: none;
+    }
+    
+    form#loginform p {
+        display: grid;
+        margin-bottom: 1em;
+        position: relative;
+        top: -1em;
+    }
+    
+    form#loginform p {
+        display: grid;
+        margin-bottom: 1em;
+        position: relative;
+        top: -0.5;
+    }
+    
+    p.login-username label,
+    p.login-password label {
+        display: none;
+    }
+    
+    form#loginform p input,
+    input#user_pass {
+        height: 3.5em;
+        border-radius: 53px;
+        border-style: double;
+        border: 1px solid darkgrey;
+        text-indent: 20px;
+        font-size: 15px;
+        background-color: white;
+    }
+    
+    .sc_register_form form#loginform p input::placeholder {
+        font-size: 25px;
+        text-indent: 10px;
+        color: lightgray;
+    }
+    
+    input#wp-submit {
+        background-color: #ED3333 !important;
+        color: white;
+        font-size: 21px;
+        padding: 0;
+        height: 3em !important;
+        font-size: 30px !important;
+        height: 2em !important;
+    }
+    
+    p.login-remember {
+        /* height: 3em; */
+        position: absolute;
+        display: none !important;
+    }
+    
+    span#rev {
+        position: relative;
+        left: -6em;
+        top: -0.5vh;
+        cursor: pointer;
+        width: 0em;
+    }
+    
+    p#backtoblog,
+    p#nav {
+        display: none;
+    }
+</style>

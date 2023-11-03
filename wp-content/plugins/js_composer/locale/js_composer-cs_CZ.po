@@ -1,0 +1,4186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Page Builder cs_CZ\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 15:34+0100\n"
+"PO-Revision-Date: 2021-12-01 15:34+0100\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: PROFI STRÁNKY.CZ <sluzby@profi-stranky.cz>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: ./config/.\n"
+"X-Poedit-SearchPath-1: ./include/.\n"
+
+#: config/./containers/shortcode-vc-column-inner.php:10
+msgid "Inner Column"
+msgstr ""
+
+#: config/./structure/shortcode-vc-raw-js.php:21
+#, fuzzy
+#| msgid "Enter your content."
+msgid "Enter your js here!"
+msgstr "Vložte váš obsah."
+
+#: include/./classes/core/class-vc-base.php:738
+#, php-format
+msgid "%%s cloned. %sEdit now?%s"
+msgstr ""
+
+#: include/./classes/editors/class-vc-edit-form-fields.php:225
+msgid "Edit"
+msgstr "Upravit"
+
+#: include/./classes/editors/class-vc-frontend-editor.php:493
+msgid "(no title)"
+msgstr "(žádný název)"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:71
+msgid "Responsive preview"
+msgstr "Responsivní náhled"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:146
+msgid "Exit WPBakery Page Builder edit mode"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:31
+msgid "Redo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:35
+msgid "Undo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:98
+#: include/./classes/updaters/class-vc-updater.php:129
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "Page settings"
+msgstr "Nastavení stránky"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "CSS"
+msgstr "CSS"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:119
+msgid "Full screen"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:126
+msgid "Exit full screen"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:136
+msgid "Add new element"
+msgstr "Přidat prvek"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:151
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:30
+msgid "Templates"
+msgstr "Šablony"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Preview"
+msgstr "Ukázka"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:99
+msgid "Template name"
+msgstr "Jméno šablony"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:189
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:216
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:87
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:88
+msgid "Preview template"
+msgstr ""
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:190
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:217
+msgid "Add template"
+msgstr ""
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:194
+msgid "Delete template"
+msgstr "Odstranit šablonu"
+
+#: include/./classes/settings/automapper/class-vc-automapper.php:28
+msgid "Shortcode Mapper"
+msgstr ""
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:540
+#: include/./templates/editors/partials/backend_controls.tpl.php:31
+#: include/./templates/editors/partials/frontend_controls.tpl.php:18
+#: include/./templates/editors/partials/frontend_controls.tpl.php:42
+#: include/./templates/editors/partials/frontend_controls.tpl.php:76
+#: include/./templates/editors/partials/frontend_controls.tpl.php:100
+#: include/./templates/editors/partials/frontend_controls.tpl.php:131
+#: include/./templates/editors/partials/frontend_controls.tpl.php:158
+#: include/./templates/editors/partials/frontend_controls.tpl.php:192
+#: include/./templates/editors/partials/frontend_controls.tpl.php:217
+#: include/./templates/editors/partials/frontend_controls.tpl.php:254
+#: include/./templates/editors/partials/frontend_controls.tpl.php:282
+#, php-format
+msgid "Edit %s"
+msgstr "Upravit %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:35
+#: include/./templates/editors/partials/frontend_controls.tpl.php:23
+#: include/./templates/editors/partials/frontend_controls.tpl.php:48
+#: include/./templates/editors/partials/frontend_controls.tpl.php:82
+#: include/./templates/editors/partials/frontend_controls.tpl.php:140
+#: include/./templates/editors/partials/frontend_controls.tpl.php:199
+#: include/./templates/editors/partials/frontend_controls.tpl.php:223
+#: include/./templates/editors/partials/frontend_controls.tpl.php:262
+#: include/./templates/editors/partials/frontend_controls.tpl.php:290
+#, php-format
+msgid "Clone %s"
+msgstr "Vytvořit kopii %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:39
+#: include/./templates/editors/partials/frontend_controls.tpl.php:26
+#: include/./templates/editors/partials/frontend_controls.tpl.php:51
+#: include/./templates/editors/partials/frontend_controls.tpl.php:85
+#: include/./templates/editors/partials/frontend_controls.tpl.php:143
+#: include/./templates/editors/partials/frontend_controls.tpl.php:164
+#: include/./templates/editors/partials/frontend_controls.tpl.php:202
+#: include/./templates/editors/partials/frontend_controls.tpl.php:226
+#: include/./templates/editors/partials/frontend_controls.tpl.php:266
+#: include/./templates/editors/partials/frontend_controls.tpl.php:294
+#, php-format
+msgid "Delete %s"
+msgstr "Odstranit %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:68
+#, php-format
+msgid "Append to this %s"
+msgstr "Připojit k %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:70
+#, php-format
+msgid "Prepend to this %s"
+msgstr "Přidat před %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:73
+#, php-format
+msgid "Move this %s"
+msgstr "Přesunout %s"
+
+#: include/./classes/shortcodes/paginator/class-vc-pageable.php:51
+msgid "Load more"
+msgstr "Načíst více"
+
+#: include/./classes/shortcodes/vc-column.php:46
+msgid "Append to this column"
+msgstr "Připojit ke sloupci"
+
+#: include/./classes/shortcodes/vc-column.php:48
+#: include/./params/vc_grid_element/vc_grid_element.php:223
+msgid "Prepend to this column"
+msgstr "Přidat před tento sloupec"
+
+#: include/./classes/shortcodes/vc-column.php:55
+msgid "Edit this column"
+msgstr "Upravite tento sloupec"
+
+#: include/./classes/shortcodes/vc-column.php:56
+msgid "Delete this column"
+msgstr "Odstranit tento sloupec"
+
+#: include/./classes/shortcodes/vc-gitem.php:100
+msgid "Add to this grid item"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-gitem.php:106
+msgid "Edit this grid item"
+msgstr "Upravit tuto mřížkovou položku"
+
+#: include/./classes/shortcodes/vc-gitem.php:112
+msgid "Delete this grid item "
+msgstr "Odstranit tuto mřížkovou položku"
+
+#: include/./classes/shortcodes/vc-row.php:52
+msgid "Custom layout"
+msgstr "Vlastní rozložení"
+
+#: include/./classes/shortcodes/vc-row.php:70
+#: include/./classes/shortcodes/vc-section.php:57
+#: include/./templates/params/param_group/inner_content.tpl.php:7
+msgid "Drag row to reorder"
+msgstr "Tažením uspořádejte řádky"
+
+#: include/./classes/shortcodes/vc-row.php:75
+#: include/./classes/shortcodes/vc-section.php:62
+msgid "Add column"
+msgstr "Přidat sloupec"
+
+#: include/./classes/shortcodes/vc-row.php:76
+#: include/./classes/shortcodes/vc-section.php:63
+#: include/./params/vc_grid_element/vc_grid_element.php:193
+msgid "Delete this row"
+msgstr "Odstranit řádek"
+
+#: include/./classes/shortcodes/vc-row.php:77
+#: include/./classes/shortcodes/vc-section.php:64
+msgid "Edit this row"
+msgstr "Upravit řádek"
+
+#: include/./classes/shortcodes/vc-row.php:78
+#: include/./classes/shortcodes/vc-section.php:65
+#: include/./templates/params/param_group/inner_content.tpl.php:11
+msgid "Clone this row"
+msgstr "Klonovat tento řádek"
+
+#: include/./classes/shortcodes/vc-row.php:79
+#: include/./templates/params/param_group/inner_content.tpl.php:12
+msgid "Toggle row"
+msgstr "Ihned přepnout"
+
+#: include/./classes/shortcodes/vc-tab.php:6
+msgid "Tab"
+msgstr "Záložka"
+
+#: include/./classes/shortcodes/vc-tour.php:23
+msgid "Slide"
+msgstr "Snímek"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:60
+#: include/./classes/vendors/plugins/acf/shortcode.php:58
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:83
+msgid "left"
+msgstr "Levé"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:61
+#: include/./classes/vendors/plugins/acf/shortcode.php:59
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:84
+msgid "right"
+msgstr "Pravé"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:62
+#: include/./classes/vendors/plugins/acf/shortcode.php:60
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:85
+msgid "center"
+msgstr "Středové"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:63
+#: include/./classes/vendors/plugins/acf/shortcode.php:61
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:86
+msgid "justify"
+msgstr "Blokové"
+
+#: include/./params/autocomplete/autocomplete.php:76
+msgid "Click here and start typing..."
+msgstr ""
+
+#: include/./params/default_params.php:273
+msgid "Add image"
+msgstr "Přidat obrázek"
+
+#: include/./params/default_params.php:275
+msgid "Add images"
+msgstr "Přidat obrázky"
+
+#: include/./params/vc_grid_element/vc_grid_element.php:264
+msgid "Drag to reorder"
+msgstr "Tažením uspořádejte"
+
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:44
+msgid "Grid element settings"
+msgstr "Nastavení prvků mřížky"
+
+#: include/./params/vc_grid_item/templates.php:9
+#: include/./params/vc_grid_item/templates.php:13
+#: include/./params/vc_grid_item/templates.php:17
+#: include/./params/vc_grid_item/templates.php:21
+#: include/./params/vc_grid_item/templates.php:49
+#: include/./params/vc_grid_item/templates.php:53
+#: include/./params/vc_grid_item/templates.php:57
+#: include/./params/vc_grid_item/templates.php:77
+#: include/./params/vc_grid_item/templates.php:85
+msgid "Read more"
+msgstr "Číst více"
+
+#: include/./params/vc_grid_item/templates.php:45
+msgid "READ MORE"
+msgstr ""
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:16
+#: include/./templates/editors/partials/frontend_controls.tpl.php:14
+#: include/./templates/editors/partials/frontend_controls.tpl.php:36
+#: include/./templates/editors/partials/frontend_controls.tpl.php:69
+#: include/./templates/editors/partials/frontend_controls.tpl.php:93
+#: include/./templates/editors/partials/frontend_controls.tpl.php:124
+#: include/./templates/editors/partials/frontend_controls.tpl.php:151
+#: include/./templates/editors/partials/frontend_controls.tpl.php:185
+#: include/./templates/editors/partials/frontend_controls.tpl.php:210
+#: include/./templates/editors/partials/frontend_controls.tpl.php:247
+#: include/./templates/editors/partials/frontend_controls.tpl.php:275
+#, php-format
+msgid "Drag to move %s"
+msgstr "Tažením přesunete %s"
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:27
+#: include/./templates/editors/partials/frontend_controls.tpl.php:45
+#: include/./templates/editors/partials/frontend_controls.tpl.php:79
+#: include/./templates/editors/partials/frontend_controls.tpl.php:103
+#: include/./templates/editors/partials/frontend_controls.tpl.php:161
+#: include/./templates/editors/partials/frontend_controls.tpl.php:220
+#: include/./templates/editors/partials/frontend_controls.tpl.php:286
+#, php-format
+msgid "Prepend to %s"
+msgstr "Přidat před %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:58
+#: include/./templates/editors/partials/frontend_controls.tpl.php:113
+#: include/./templates/editors/partials/frontend_controls.tpl.php:174
+#: include/./templates/editors/partials/frontend_controls.tpl.php:236
+#: include/./templates/editors/partials/frontend_controls.tpl.php:305
+#, php-format
+msgid "Append to %s"
+msgstr "Přidat k %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:88
+#: include/./templates/editors/partials/frontend_controls.tpl.php:106
+#: include/./templates/editors/partials/frontend_controls.tpl.php:146
+#: include/./templates/editors/partials/frontend_controls.tpl.php:167
+#: include/./templates/editors/partials/frontend_controls.tpl.php:205
+#: include/./templates/editors/partials/frontend_controls.tpl.php:229
+#: include/./templates/editors/partials/frontend_controls.tpl.php:270
+#: include/./templates/editors/partials/frontend_controls.tpl.php:298
+#, php-format
+msgid "Show %s controls"
+msgstr "Zobrazit ovládání %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:134
+msgid "Change layout"
+msgstr "Změnit rozložení"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:137
+#: include/./templates/editors/partials/frontend_controls.tpl.php:196
+#: include/./templates/editors/partials/frontend_controls.tpl.php:258
+#, php-format
+msgid "Add new %s"
+msgstr "Přidat nový %s"
+
+#: include/./templates/params/param_group/inner_content.tpl.php:10
+msgid "Delete this param"
+msgstr ""
+
+#: include/./templates/params/vc_grid_item/attributes/post_categories.php:28
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: include/./templates/shortcodes/post_block/_item.php:24
+#: include/./templates/shortcodes/vc_posts_slider.php:170
+#, php-format
+msgid "Permalink to %s"
+msgstr "Odkaz na %s"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Previous tab"
+msgstr "Předchozí záložka"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Next tab"
+msgstr "Další záložka"
+
+#~ msgid "Pixel"
+#~ msgstr "Obrazový bod"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Text on the button"
+#~ msgstr "Text na tlačítku"
+
+#~ msgid "URL (Link)"
+#~ msgstr "Adresa URL"
+
+#~ msgid "Style"
+#~ msgstr "Styl"
+
+#~ msgid "Custom"
+#~ msgstr "Vlastní"
+
+#~ msgid "Background"
+#~ msgstr "Pozadí"
+
+#~ msgid "Shape"
+#~ msgstr "Tvar"
+
+#~ msgid "Rounded"
+#~ msgstr "Zaoblený"
+
+#~ msgid "Square"
+#~ msgstr "Čtverec"
+
+#~ msgid "Round"
+#~ msgstr "Kruh"
+
+#~ msgid "Color"
+#~ msgstr "Barva"
+
+#~ msgid "Select button color."
+#~ msgstr "Zvolte barvu tlačítka"
+
+#~ msgid "Size"
+#~ msgstr "Velikost"
+
+#~ msgid "Alignment"
+#~ msgstr "Zarovnání"
+
+#~ msgid "Select button alignment."
+#~ msgstr "Zvolte zarovnání tlačítka."
+
+#~ msgid "Inline"
+#~ msgstr "Řadový"
+
+#~ msgid "Left"
+#~ msgstr "Vlevo"
+
+#~ msgid "Right"
+#~ msgstr "Vpravo"
+
+#~ msgid "Center"
+#~ msgstr "Střed"
+
+#~ msgid "Select icon alignment."
+#~ msgstr "Zvolte zarovnání ikony."
+
+#~ msgid "Icon"
+#~ msgstr "Ikona"
+
+#~ msgid "Select icon from library."
+#~ msgstr "Zvolte ikonu z knihovny."
+
+#~ msgid "Extra class name"
+#~ msgstr "Speciální jméno třídy"
+
+#~ msgid "Design Options"
+#~ msgstr "Možnosti vzhledu"
+
+#~ msgid "Button"
+#~ msgstr "Tlačítko"
+
+#~ msgid "Content"
+#~ msgstr "Obsah"
+
+#~ msgid "Eye catching button"
+#~ msgstr "Poutavé tlačítko"
+
+#~ msgid "Heading"
+#~ msgstr "Nadpis"
+
+#~ msgid "Hey! I am first heading line feel free to change me"
+#~ msgstr "Hej! Já jsem první nadpis a toužím po změně"
+
+#~ msgid "Enable Google fonts."
+#~ msgstr "Povolit druhy písma z Googlu"
+
+#~ msgid "Text color"
+#~ msgstr "Barva textu"
+
+#~ msgid "I am promo text. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "Já jsem propagační text. Klikněte na tlačítko úprav ke změně tohoto textu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#~ msgid "Width"
+#~ msgstr "Šířka"
+
+#~ msgid "No"
+#~ msgstr "Ne"
+
+#~ msgid "Catch visitors attention with CTA block"
+#~ msgstr "Zachytit pozornost návštěvníka CTA blokem"
+
+#~ msgid "1 column - 1/12"
+#~ msgstr "1 sloupec (1/12)"
+
+#~ msgid "2 columns - 1/6"
+#~ msgstr "2 sloupce (1/6)"
+
+#~ msgid "3 columns - 1/4"
+#~ msgstr "3 sloupce (1/4)"
+
+#~ msgid "4 columns - 1/3"
+#~ msgstr "4 sloupce (1/3)"
+
+#~ msgid "5 columns - 5/12"
+#~ msgstr "5 sloupců (5/12)"
+
+#~ msgid "6 columns - 1/2"
+#~ msgstr "6 sloupců (1/2)"
+
+#~ msgid "7 columns - 7/12"
+#~ msgstr "7 sloupců (7/12)"
+
+#~ msgid "8 columns - 2/3"
+#~ msgstr "8 sloupců (2/3)"
+
+#~ msgid "9 columns - 3/4"
+#~ msgstr "9 sloupců (3/4)"
+
+#~ msgid "10 columns - 5/6"
+#~ msgstr "10 sloupců (5/6)"
+
+#~ msgid "11 columns - 11/12"
+#~ msgstr "11 sloupců (11/12)"
+
+#~ msgid "12 columns - 1/1"
+#~ msgstr "12 sloupců (1/1)"
+
+#~ msgid "Select column width."
+#~ msgstr "Vyber šířku sloupce"
+
+#~ msgid "Responsiveness"
+#~ msgstr "Flexibilita"
+
+#~ msgid "Adjust column for different screen sizes. Control width, offset and visibility settings."
+#~ msgstr "Nastavte sloupec pro různé velikosti obrazovky. Ovládejte nastavení šířky, odsazení a viditelnosti."
+
+#~ msgid "Column"
+#~ msgstr "Sloupec"
+
+#~ msgid "Yes"
+#~ msgstr "Ano"
+
+#~ msgid "None"
+#~ msgstr "Žádný"
+
+#~ msgid "Simple"
+#~ msgstr "Jednoduchý"
+
+#~ msgid "Image"
+#~ msgstr "Obrázek"
+
+#~ msgid "Select image from media library."
+#~ msgstr "Vyberte obrázek z galerie médií"
+
+#~ msgid "Default"
+#~ msgstr "Standartní"
+
+#~ msgid "Row"
+#~ msgstr "Řádek"
+
+#~ msgid "Place content elements inside the row"
+#~ msgstr "Umístěte obsahové elementy uvnitř řádku"
+
+#~ msgid "Row stretch"
+#~ msgstr "Roztažení řádku"
+
+#~ msgid "Stretch row"
+#~ msgstr "Roztáhni řádek"
+
+#~ msgid "Stretch row and content"
+#~ msgstr "Roztáhni řádek a obsah"
+
+#~ msgid "Section"
+#~ msgstr "Sekce"
+
+#~ msgid "Text Block"
+#~ msgstr "Blok textu"
+
+#~ msgid "A block of text with WYSIWYG editor"
+#~ msgstr "Blok textu s WYSIWYG (vizuálním) editorem"
+
+#, fuzzy
+#~| msgid "<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>"
+#~ msgid "I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "<p>Já jsem textový blok. Klikni na tlačítko úprav ke změně textu. Výplňový text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>"
+
+#~ msgid "Empty Space"
+#~ msgstr "Prázdná mezera"
+
+#~ msgid "Blank space with custom height"
+#~ msgstr "Prázdná mezera o nastavené výšce"
+
+#~ msgid "Height"
+#~ msgstr "Výška"
+
+#~ msgid "Flickr Widget"
+#~ msgstr "Widget Flickru"
+
+#~ msgid "Widget title"
+#~ msgstr "Název Widgetu"
+
+#~ msgid "Flickr ID"
+#~ msgstr "Vaše Flickr ID"
+
+#, php-format
+#~ msgid "To find your flickID visit %s."
+#~ msgstr "K nalezení vašeho Flickrového ID navštivte %s"
+
+#~ msgid "Number of photos"
+#~ msgstr "Počet fotek"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "User"
+#~ msgstr "Uživatel"
+
+#~ msgid "Group"
+#~ msgstr "Skupina"
+
+#~ msgid "Random"
+#~ msgstr "Náhodně"
+
+#~ msgid "Image Gallery"
+#~ msgstr "Galerie obrázků"
+
+#~ msgid "Responsive image gallery"
+#~ msgstr "Flexibilní obrázková galerie"
+
+#~ msgid "Gallery type"
+#~ msgstr "Typ galerie"
+
+#~ msgid "Flex slider fade"
+#~ msgstr "Flexibilní přechod slideru"
+
+#~ msgid "Flex slider slide"
+#~ msgstr "Flexibilní posuvník snímků"
+
+#~ msgid "Nivo slider"
+#~ msgstr "Nivo posuvník"
+
+#~ msgid "Image grid"
+#~ msgstr "Obrázková mřížka"
+
+#~ msgid "Select gallery type."
+#~ msgstr "Zvolte typ galerie."
+
+#~ msgid "Disable"
+#~ msgstr "Zakázat"
+
+#~ msgid "Auto rotate slides each X seconds."
+#~ msgstr "Automaticky přepínat náhledy po X sekundách."
+
+#~ msgid "Images"
+#~ msgstr "Obrázky"
+
+#~ msgid "Select images from media library."
+#~ msgstr "Zvolte obrázky z knihovny médií"
+
+#~ msgid "Image size"
+#~ msgstr "Velikost obrázku"
+
+#~ msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+#~ msgstr "Zvolte velikost obrázku, jako například náhled, střední velikost, největší velikost, originál nebo jiné velikosti, popř. vložte velikost v pixelech (Šířka x Výška). Ponechte prázdné pro použití velikosti náhledu."
+
+#, fuzzy
+#~| msgid "Stripes Light"
+#~ msgid "Open Lightbox"
+#~ msgstr "Světlé pruhy"
+
+#~ msgid "Open custom link"
+#~ msgstr "Otevřít vlastní odkaz"
+
+#~ msgid "Custom links"
+#~ msgstr "Vlastní odkazy"
+
+#~ msgid "Custom link target"
+#~ msgstr "Vlastní cíl odkazu"
+
+#~ msgid "Select where to open  custom links."
+#~ msgstr "Zvolte, kde otevírat vlastní odkazy."
+
+#~ msgid "Google Maps"
+#~ msgstr "Mapy Google"
+
+#~ msgid "Map block"
+#~ msgstr "Blok Map"
+
+#~ msgid "Map embed iframe"
+#~ msgstr "Iframe Mapy"
+
+#~ msgid "Map height"
+#~ msgstr "Výška mapy"
+
+#, fuzzy
+#~ msgid "Primary Title"
+#~ msgstr "Název příspěvku"
+
+#, fuzzy
+#~ msgid "Hover Title"
+#~ msgstr "Název příspěvku"
+
+#, fuzzy
+#~ msgid "Primary title"
+#~ msgstr "Názvu stránky"
+
+#, fuzzy
+#~ msgid "Hover Box Element"
+#~ msgstr "Mřížkové rozložení"
+
+#, fuzzy
+#~ msgid "Primary title alignment"
+#~ msgstr "Zarovnání obrázku"
+
+#, fuzzy
+#~ msgid "Select text alignment for primary title."
+#~ msgstr "Zvolte zarovnání textu."
+
+#, fuzzy
+#~ msgid "Hover title"
+#~ msgstr "Název formuláře"
+
+#, fuzzy
+#~ msgid "Hover title alignment"
+#~ msgstr "Zvolte zarovnání textu."
+
+#, fuzzy
+#~ msgid "Select text alignment for hovered title."
+#~ msgstr "Zvolte zarovnání textu."
+
+#, fuzzy
+#~ msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "Já jsem propagační text. Klikněte na tlačítko úprav ke změně tohoto textu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#, fuzzy
+#~ msgid "Select block shape."
+#~ msgstr "Zvolte tvar pro zprávu"
+
+#~ msgid "Background Color"
+#~ msgstr "Barva pozadí"
+
+#, fuzzy
+#~ msgid "Select block alignment."
+#~ msgstr "Zvolte zarovnání tlačítka."
+
+#, fuzzy
+#~ msgid "Hover Button"
+#~ msgstr "Tlačítko Google plus"
+
+#, fuzzy
+#~ msgid "Hover Box"
+#~ msgstr "Najetí myší"
+
+#, fuzzy
+#~ msgid "Animated flip box with image and text"
+#~ msgstr "Animovaný obrázkový kolotoč"
+
+#~ msgid "Image Carousel"
+#~ msgstr "Obrázkový kolotoč"
+
+#~ msgid "Animated carousel with images"
+#~ msgstr "Animovaný obrázkový kolotoč"
+
+#~ msgid "Carousel size"
+#~ msgstr "Velikost obrázkového kolotoče"
+
+#~ msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size. If used slides per view, this will be used to define carousel wrapper size."
+#~ msgstr "Vložte velikost obrázku, např.: Náhled, střední velikost, velká velikost, originál nebo další velikosti definované šablonou. Můžete také vložit velikost v pixelech (obrazových bodech),  ve formátu Šířka x Výška. Pokud necháte prázdné, bude automaticky použita velikost náhledu, pro velikosti elementu Kolotoče."
+
+#~ msgid "Horizontal"
+#~ msgstr "Vodorovný"
+
+#~ msgid "Vertical"
+#~ msgstr "Svislý"
+
+#~ msgid "Slider speed"
+#~ msgstr "Rychlost přepínání"
+
+#~ msgid "Slides per view"
+#~ msgstr "Zobrazení snímků"
+
+#~ msgid "Slider autoplay"
+#~ msgstr "Samoposouvání snímků"
+
+#~ msgid "Hide pagination control"
+#~ msgstr "Skrýt možnosti stránkování"
+
+#~ msgid "Hide prev/next buttons"
+#~ msgstr "Skrýt tlačítka předchozí/další"
+
+#~ msgid "Partial view"
+#~ msgstr "Částečný náhled"
+
+#~ msgid "Slider loop"
+#~ msgstr "Smyčka snímků"
+
+#~ msgid "Line Chart"
+#~ msgstr "Lineární graf"
+
+#~ msgid "Title"
+#~ msgstr "Název"
+
+#~ msgid "Custom color"
+#~ msgstr "Vlastní barva"
+
+#~ msgid "Animation"
+#~ msgstr "Animace"
+
+#~ msgid "Informational"
+#~ msgstr "Informační"
+
+#~ msgid "Warning"
+#~ msgstr "Varování"
+
+#~ msgid "Success"
+#~ msgstr "Úspěch"
+
+#~ msgid "Error"
+#~ msgstr "Chyba"
+
+#~ msgid "Informational Classic"
+#~ msgstr "Klasický informační"
+
+#~ msgid "Warning Classic"
+#~ msgstr "Klasické varování"
+
+#~ msgid "Success Classic"
+#~ msgstr "Klasický úspěch"
+
+#~ msgid "Error Classic"
+#~ msgstr "Klasická chyba"
+
+#~ msgid "Message Box"
+#~ msgstr "Pole pro zprávu"
+
+#~ msgid "Notification box"
+#~ msgstr "Pole pro upozornění"
+
+#~ msgid "Message Box Presets"
+#~ msgstr "Pole přednastavených zpráv"
+
+#~ msgid "Select predefined message box design or choose \"Custom\" for custom styling."
+#~ msgstr "Zvolte styl předdefinované zprávy, nebo zvolte \"Vlastní\" pro vlastní stylování."
+
+#~ msgid "Select message box shape."
+#~ msgstr "Zvolte tvar pro zprávu"
+
+#~ msgid "Select message box color."
+#~ msgstr "Zvolte barvu zprávy"
+
+#~ msgid "Icon library"
+#~ msgstr "Knihovna ikon"
+
+#, fuzzy
+#~| msgid "Font Awesome"
+#~ msgid "Font Awesome 5"
+#~ msgstr "Druhy písma Font awesome"
+
+#~ msgid "Open Iconic"
+#~ msgstr "Otevřít Iconic"
+
+#~ msgid "Typicons"
+#~ msgstr "Ikony Typicons.com"
+
+#~ msgid "Entypo"
+#~ msgstr "Druhy písma Entypo.com"
+
+#~ msgid "Linecons"
+#~ msgstr "Ikony zdarma Linecons"
+
+#, fuzzy
+#~| msgid "Select icon library."
+#~ msgid "Choose icon library."
+#~ msgstr "Zvolit knihovnu ikon"
+
+#, fuzzy
+#~| msgid "Select icon from library."
+#~ msgid "Choose icon from library."
+#~ msgstr "Zvolte ikonu z knihovny."
+
+#~ msgid "Message text"
+#~ msgstr "Text zprávy"
+
+#, fuzzy
+#~| msgid "<p>I am message box. Click edit button to change this text.</p>"
+#~ msgid "I am message box. Click edit button to change this text."
+#~ msgstr "<p>Já jsem pole pro zprávu. Klikněte na tlačítko úprav pro změnu tohoto textu.</p>"
+
+#~ msgid "Pie Chart"
+#~ msgstr "Koláčový graf"
+
+#~ msgid "Animated pie chart"
+#~ msgstr "Animovaný koláčový graf"
+
+#~ msgid "Units"
+#~ msgstr "Jednotky"
+
+#~ msgid "Select pie chart color."
+#~ msgstr "Zvolte barvu koláčového grafu."
+
+#~ msgid "Posts Slider"
+#~ msgstr "Posuvník příspěvků"
+
+#~ msgid "Slider with WP Posts"
+#~ msgstr "Posuvník s Wordpress příspěvky"
+
+#~ msgid "Slider type"
+#~ msgstr "Typ posuvníku"
+
+#~ msgid "Select slider type."
+#~ msgstr "Zvolte typ posuvníku"
+
+#~ msgid "Post types"
+#~ msgstr "Typ obsahu"
+
+#~ msgid "Description"
+#~ msgstr "Popis"
+
+#~ msgid "No description"
+#~ msgstr "Žádný popis"
+
+#~ msgid "Teaser (Excerpt)"
+#~ msgstr "Ukázka (Zkrácený text)"
+
+#~ msgid "Output post title?"
+#~ msgstr "Vypsat název příspěvku?"
+
+#~ msgid "If selected, title will be printed before the teaser text."
+#~ msgstr "Pokud je zaškrtnuto, název příspěvku bude vypsán před úvodním výtahem z článku."
+
+#~ msgid "Link"
+#~ msgstr "Odkaz"
+
+#~ msgid "Link to post"
+#~ msgstr "Odkaz na příspěvek"
+
+#~ msgid "Link to bigger image"
+#~ msgstr "Odkázat na větší obrázek"
+
+#~ msgid "No link"
+#~ msgstr "Žádný odkaz"
+
+#~ msgid "Link type."
+#~ msgstr "Typ odkazu."
+
+#~ msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+#~ msgstr "Vložte odkazy pro každý snímek sem. Oddělujte odkazy odřádkováním (Enterem)"
+
+#~ msgid "Thumbnail size"
+#~ msgstr "Velikost náhledového obrázku"
+
+#~ msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) . "
+#~ msgstr "Vložte velikost náhledového obrázku, např.: thumbnail, medium, large, full nebo jiné velikosti definované šablonou, nebo napište velikost v pixelech: 200x100 (Šířka x Výška) ."
+
+#~ msgid "Post/Page IDs"
+#~ msgstr "ID příspěvku/stránky"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorie"
+
+#~ msgid "Order by"
+#~ msgstr "Řadit podle"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Modified"
+#~ msgstr "Změněno"
+
+#~ msgid "Comment count"
+#~ msgstr "Počet komentářů"
+
+#~ msgid "Menu order"
+#~ msgstr "Pořadí menu"
+
+#, php-format
+#~ msgid "Select how to sort retrieved posts. More at %s."
+#~ msgstr "Zvolte, jak řadit zvolené příspěvky. Více na %s"
+
+#~ msgid "Descending"
+#~ msgstr "Sestupně (10-1)"
+
+#~ msgid "Ascending"
+#~ msgstr "Vzestupně (1-10)"
+
+#~ msgid "Custom Color"
+#~ msgstr "Vlastní barvy"
+
+#~ msgid "Progress Bar"
+#~ msgstr "Ukazatel průběhu"
+
+#~ msgid "Animated progress bar"
+#~ msgstr "Animovaný ukazatel průběhu"
+
+#~ msgid "Label"
+#~ msgstr "Popisek"
+
+#~ msgid "Select bar background color."
+#~ msgstr "Vyberte barvu pozadí lišty."
+
+#~ msgid "Select custom background color for bars."
+#~ msgstr "Zvolte vlastní barvu pozadí pro lišty."
+
+#~ msgid "Options"
+#~ msgstr "Možnosti"
+
+#~ msgid "Gap"
+#~ msgstr "Mezera"
+
+#~ msgid "Separator"
+#~ msgstr "Oddělovač"
+
+#~ msgid "Horizontal separator line"
+#~ msgstr "Horizontální oddělovací čára"
+
+#~ msgid "Select separator alignment."
+#~ msgstr "Zvol zarovnání oddělovače."
+
+#~ msgid "Custom Border Color"
+#~ msgstr "Vlastní barva okraje"
+
+#~ msgid "Select border color for your element."
+#~ msgstr "Vyber barvu okraje pro váš element."
+
+#~ msgid "Border width"
+#~ msgstr "Šířka okraje"
+
+#~ msgid "Element width"
+#~ msgstr "Šířka elementu"
+
+#~ msgid "Single Image"
+#~ msgstr "Jeden obrázek"
+
+#~ msgid "Simple image with CSS animation"
+#~ msgstr "Jednoduchý obrázek s CSS animací"
+
+#~ msgid "Image alignment"
+#~ msgstr "Zarovnání obrázku"
+
+#~ msgid "Select image alignment."
+#~ msgstr "Zvolte zarovnání obrázku"
+
+#~ msgid "Image style"
+#~ msgstr "Styl obrázku"
+
+#~ msgid "Border color"
+#~ msgstr "Barva okraje"
+
+#~ msgid "Border color."
+#~ msgstr "Barva okraje."
+
+#~ msgid "Zoom"
+#~ msgstr "Přiblížení"
+
+#~ msgid "Image link"
+#~ msgstr "Odkaz obrázku"
+
+#~ msgid "Link Target"
+#~ msgstr "Atribut \"Target\" odkazu"
+
+#~ msgid "Separator with Text"
+#~ msgstr "Oddělovač s textem"
+
+#~ msgid "Horizontal separator line with heading"
+#~ msgstr "Vodorovný oddělovač s nadpisem"
+
+#~ msgid "Title position"
+#~ msgstr "Pozice názvu"
+
+#~ msgid "Select title location."
+#~ msgstr "Zvolte umístění názvu"
+
+#~ msgid "Separator alignment"
+#~ msgstr "Zarovnání oddělovače"
+
+#~ msgid "Custom separator color for your element."
+#~ msgstr "Barva vlastního oddělovače vašeho elementu"
+
+#~ msgid "Separator element width in percents."
+#~ msgstr "Šířka elementu oddělovače v procentech (%)"
+
+#~ msgid "Toggle title"
+#~ msgstr "Přepnout titulek"
+
+#~ msgid "Toggle content"
+#~ msgstr "Přepnout obsah"
+
+#, fuzzy
+#~| msgid "<p>Toggle content goes here, click edit button to change this text.</p>"
+#~ msgid "Toggle content goes here, click edit button to change this text."
+#~ msgstr "<p>Změněný obsah patří sem. Klikněte na tlačítko úprav ke změně textu</p>"
+
+#~ msgid "Toggle block content."
+#~ msgstr "Přepnout blokový obsah"
+
+#~ msgid "Default state"
+#~ msgstr "Standardní stav"
+
+#~ msgid "Closed"
+#~ msgstr "Uzavřeno"
+
+#~ msgid "Open"
+#~ msgstr "Otevřeno"
+
+#~ msgid "Select \"Open\" if you want toggle to be open by default."
+#~ msgstr "Zvolte \"Open\", pokud chcete aby byl ve výchozím stavu otevřený."
+
+#~ msgid "FAQ"
+#~ msgstr "Často kladené otázky"
+
+#~ msgid "Toggle element for Q&A block"
+#~ msgstr "Přepnout element pro Q&A blok"
+
+#~ msgid "Video Player"
+#~ msgstr "Přehrávač videa"
+
+#~ msgid "Embed YouTube/Vimeo player"
+#~ msgstr "Vložit Youtube/Vimeo přehrávač"
+
+#~ msgid "Video link"
+#~ msgstr "Odkaz na video"
+
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video aspect ratio"
+#~ msgstr "Přehrávač videa"
+
+#, fuzzy
+#~ msgid "ZigZag Separator"
+#~ msgstr "Oddělovač"
+
+#, fuzzy
+#~ msgid "Horizontal zigzag separator line"
+#~ msgstr "Horizontální oddělovací čára"
+
+#~ msgid "Select color for your element."
+#~ msgstr "Zvolte barvu vašeho prvku."
+
+#~ msgid "Small"
+#~ msgstr "Malé"
+
+#~ msgid "Medium"
+#~ msgstr "Střední"
+
+#~ msgid "Large"
+#~ msgstr "Velký"
+
+#, fuzzy
+#~ msgid "Select separator border width."
+#~ msgstr "Zvol zarovnání oddělovače."
+
+#~ msgid "Custom Heading"
+#~ msgstr "Vlastní nadpis"
+
+#~ msgid "Text with Google fonts"
+#~ msgstr "Text psaný Google písmy"
+
+#, fuzzy
+#~ msgid "Note: If you are using non-latin characters be sure to activate them under Settings/WPBakery Page Builder/General Settings."
+#~ msgstr "Pokud používáte non-latin znaky, ověřte si, že jsou aktivovány v Obecném nastavení WPBakery Page Builderu"
+
+#~ msgid "Select element tag."
+#~ msgstr "Zvolte tag prvku."
+
+#~ msgid "Select text alignment."
+#~ msgstr "Zvolte zarovnání textu."
+
+#~ msgid "Enter font size."
+#~ msgstr "Vložte velikost textu."
+
+#~ msgid "Enter line height."
+#~ msgstr "Vložte výšku řádku."
+
+#~ msgid "Select font family."
+#~ msgstr "Zvolte písmo."
+
+#~ msgid "Select font styling."
+#~ msgstr "Zvolte styl písma."
+
+#~ msgid "Select icon library."
+#~ msgstr "Zvolit knihovnu ikon"
+
+#~ msgid "Select custom icon color."
+#~ msgstr "Zvolte barvu vlastní ikony"
+
+#~ msgid "Circle"
+#~ msgstr "Kroužek"
+
+#~ msgid "Outline Circle"
+#~ msgstr "Vnější kroužek"
+
+#~ msgid "Outline Square"
+#~ msgstr "Vnější čtverec"
+
+#~ msgid "Outline Rounded"
+#~ msgstr "Vnější zaoblení"
+
+#~ msgid "Icon size."
+#~ msgstr "Velikost ikony."
+
+#~ msgid "Icon alignment"
+#~ msgstr "Zarovnání ikony"
+
+#~ msgid "Add link to icon."
+#~ msgstr "Přidat odkaz k ikoně"
+
+#~ msgid "Collapsible content panels"
+#~ msgstr "Sbalit obsahové panely"
+
+#~ msgid "Active section"
+#~ msgstr "Aktivní sekce"
+
+#~ msgid "Add section"
+#~ msgstr "Přidat sekci"
+
+#~ msgid "Section 1"
+#~ msgstr "Sekce 1"
+
+#~ msgid "Section 2"
+#~ msgstr "Sekce 2"
+
+#~ msgid "Target"
+#~ msgstr "Cíl odkazu"
+
+#~ msgid "Select button size."
+#~ msgstr "Zvol velikost tlačítka."
+
+#~ msgid "Click edit button to change this text."
+#~ msgstr "Kliknutím na tlačítko úprav změníte text."
+
+#~ msgid "Button position"
+#~ msgstr "Pozice tlačítka"
+
+#~ msgid "Google+ Button"
+#~ msgstr "Tlačítko Google plus"
+
+#~ msgid "Social"
+#~ msgstr "Sociální"
+
+#~ msgid "Recommend on Google"
+#~ msgstr "Doporučit na Googlu"
+
+#~ msgid "Button size"
+#~ msgstr "Velikost tlačítka"
+
+#~ msgid "Standard"
+#~ msgstr "Standartní"
+
+#~ msgid "Tall"
+#~ msgstr "Velké"
+
+#~ msgid "Annotation"
+#~ msgstr "Typ"
+
+#~ msgid "Bubble"
+#~ msgstr "Bublina"
+
+#~ msgid "Tab ID"
+#~ msgstr "ID záložky"
+
+#~ msgid "Tabbed content"
+#~ msgstr "Obsah panelů"
+
+#~ msgid "Auto rotate tabs each X seconds."
+#~ msgstr "Automaticky přepínat panely po každých X sekundách"
+
+#~ msgid "Tab 1"
+#~ msgstr "Panel 1"
+
+#~ msgid "Tab 2"
+#~ msgstr "Panel 2"
+
+#~ msgid "Vertical tabbed content"
+#~ msgstr "Svisle pozicovaný obsah"
+
+#~ msgid "Auto rotate slides"
+#~ msgstr "Automaticky přepínat náhledy"
+
+#~ msgid "Custom query"
+#~ msgstr "Vlastní QUERY"
+
+#~ msgid "List of IDs"
+#~ msgstr "Seznam ID"
+
+#~ msgid "Data source"
+#~ msgstr "Zdroj dat"
+
+#~ msgid "Select content type for your grid."
+#~ msgstr "Zvolte typ obsahu pro vaši mřížku."
+
+#~ msgid "Include only"
+#~ msgstr "Obsáhnout pouze"
+
+#~ msgid "Add posts, pages, etc. by title."
+#~ msgstr "Přidat příspěvky, stránky, atp. podle Názvu."
+
+#~ msgid "Narrow data source"
+#~ msgstr "Přímý zdroj dat"
+
+#~ msgid "Enter categories, tags or custom taxonomies."
+#~ msgstr "Vložte kategorie, štítky nebo vlastní texonomie."
+
+#~ msgid "Total items"
+#~ msgstr "Celkem položek"
+
+#~ msgid "Set max limit for items in grid or enter -1 to display all (limited to 1000)."
+#~ msgstr "Zvolte maximum pro položky v mřížce, nebo zadejte -1 pro zobrazení všech (Omezeno 1-1000)."
+
+#~ msgid "Display Style"
+#~ msgstr "Styl zobrazení"
+
+#~ msgid "Show all"
+#~ msgstr "Zobrazit vše"
+
+#~ msgid "Load more button"
+#~ msgstr "Nahrát tlačítko \"Číst více\""
+
+#~ msgid "Lazy loading"
+#~ msgstr "Pomalé nahrávání"
+
+#~ msgid "Pagination"
+#~ msgstr "Stránkování"
+
+#~ msgid "Select display style for grid."
+#~ msgstr "Zvolte styl zobrazení mřížky."
+
+#~ msgid "Items per page"
+#~ msgstr "Položek na stránku"
+
+#~ msgid "Number of items to show per page."
+#~ msgstr "Počet položek zobrazených na stránce."
+
+#~ msgid "Show filter"
+#~ msgstr "Zobrazit filtr"
+
+#~ msgid "Append filter to grid."
+#~ msgstr "Přidat filtr k mřížce."
+
+#~ msgid "Grid elements per row"
+#~ msgstr "Prvky mřížky na řádek"
+
+#~ msgid "Select number of single grid elements per row."
+#~ msgstr "Zvolte počet jednotlivých prvků mřížky na jeden řádek."
+
+#~ msgid "Select gap between grid elements."
+#~ msgstr "Vyberte oddělovač mezi prvky mřížky."
+
+#~ msgid "Order by post ID"
+#~ msgstr "Řadit podle ID příspěvku"
+
+#~ msgid "Last modified date"
+#~ msgstr "Datum poslední změny"
+
+#~ msgid "Post/page parent ID"
+#~ msgstr "ID nadřazeného příspěvku/stránky"
+
+#~ msgid "Number of comments"
+#~ msgstr "Počet komentářů"
+
+#~ msgid "Menu order/Page Order"
+#~ msgstr "Pořadí menu"
+
+#~ msgid "Meta value"
+#~ msgstr "Hodnota meta"
+
+#~ msgid "Meta value number"
+#~ msgstr "Číselná hodnota meta"
+
+#~ msgid "Random order"
+#~ msgstr "Náhodné pořadí"
+
+#~ msgid "Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then meta key is required."
+#~ msgstr "Zvolte typ řazení. Pokud je zvolena \"Hodnota meta\" nebo \"Číselná hodnota meta\", potom je požadován meta klíč."
+
+#~ msgid "Select sorting order."
+#~ msgstr "Zvolte pořadí řazení."
+
+#~ msgid "Meta key"
+#~ msgstr "Klíč meta"
+
+#~ msgid "Input meta key for grid ordering."
+#~ msgstr "Vložte \"Klíč meta\" pro řazení mřížky."
+
+#~ msgid "Offset"
+#~ msgstr "Odsazení"
+
+#~ msgid "Number of grid elements to displace or pass over."
+#~ msgstr "Počet mřížkových prvků k přemístění"
+
+#~ msgid "Exclude"
+#~ msgstr "Vyřadit"
+
+#~ msgid "Exclude posts, pages, etc. by title."
+#~ msgstr "Vynechat příspěvky, stránky ap. podle názvu."
+
+#~ msgid "Filter by"
+#~ msgstr "Filtrovat podle"
+
+#~ msgid "Filter"
+#~ msgstr "Filtr"
+
+#~ msgid "Select filter source."
+#~ msgstr "Zvolte zdroj filtru"
+
+#~ msgid "Exclude from filter list"
+#~ msgstr "Odebrat ze seznamu filtrů"
+
+#~ msgid "Enter categories, tags won't be shown in the filters list"
+#~ msgstr "Vložte kategorie, štítky nebudou zobrazeny v seznamu filtrů"
+
+#~ msgid "Less Rounded"
+#~ msgstr "Méně zaoblené"
+
+#~ msgid "Border"
+#~ msgstr "Okraj"
+
+#~ msgid "Rounded Border"
+#~ msgstr "Zaoblený okraj"
+
+#~ msgid "Less Rounded Border"
+#~ msgstr "Méně zaoblený okraj"
+
+#~ msgid "Filled"
+#~ msgstr "Vyplněný"
+
+#~ msgid "Rounded Filled"
+#~ msgstr "Zaoblený, vyplněný"
+
+#~ msgid "Dropdown"
+#~ msgstr "Rozbalovací"
+
+#~ msgid "Select filter display style."
+#~ msgstr "Zvolte styl zobrazení filtru."
+
+#~ msgid "All"
+#~ msgstr "Vše"
+
+#~ msgid "Select filter alignment."
+#~ msgstr "Zvolte zarovnání filtru."
+
+#~ msgid "Select filter color."
+#~ msgstr "Zvolte barvu filtru."
+
+#~ msgid "Filter size"
+#~ msgstr "Velikost filtru"
+
+#~ msgid "Select filter size."
+#~ msgstr "Zvolte velikost filtru."
+
+#~ msgid "Arrows design"
+#~ msgstr "Styl šipek"
+
+#~ msgid "Simple Circle Border"
+#~ msgstr "Jednoduchý kulatý okraj"
+
+#~ msgid "Simple Circle"
+#~ msgstr "Jednoduchý kulatý"
+
+#~ msgid "Simple Square"
+#~ msgstr "Jednoduchý hranatý"
+
+#~ msgid "Simple Square Rounded"
+#~ msgstr "Jednoduchý zaoblený obdelník"
+
+#~ msgid "Simple Rounded"
+#~ msgstr "Jednoduchý zaoblený"
+
+#~ msgid "Rounded Circle Border"
+#~ msgstr "Zaoblený kruhový okraj"
+
+#~ msgid "Rounded Circle"
+#~ msgstr "Zaoblený kruh"
+
+#~ msgid "Rounded Square"
+#~ msgstr "Zaoblený čtverec"
+
+#~ msgid "Simple Arrow"
+#~ msgstr "Jednoduchá šipka"
+
+#~ msgid "Simple Rounded Arrow"
+#~ msgstr "Jednoduchá oblá šipka"
+
+#~ msgid "Select design for arrows."
+#~ msgstr "Zvolte styl šipky."
+
+#~ msgid "Arrows position"
+#~ msgstr "Pozice šipek"
+
+#~ msgid "Inside Wrapper"
+#~ msgstr "Uvnitř obalu"
+
+#~ msgid "Outside Wrapper"
+#~ msgstr "Vně obalu"
+
+#~ msgid "Arrows will be displayed inside or outside grid."
+#~ msgstr "Zobrazí šipky uvnitř nebo vně obalového prvku"
+
+#~ msgid "Arrows color"
+#~ msgstr "Barvy šipek"
+
+#~ msgid "Select color for arrows."
+#~ msgstr "Zvolte barvu pro šipky"
+
+#~ msgid "Pagination style"
+#~ msgstr "Styl stránkování"
+
+#~ msgid "Square Dots"
+#~ msgstr "Čtverečky"
+
+#~ msgid "Radio Dots"
+#~ msgstr "Kulaté tečky"
+
+#~ msgid "Point Dots"
+#~ msgstr "Bodové tečky"
+
+#~ msgid "Fill Square Dots"
+#~ msgstr "Vyplněné čtverečky"
+
+#~ msgid "Rounded Fill Square Dots"
+#~ msgstr "Vyplněné zaoblené čtverečky"
+
+#~ msgid "Pagination Default"
+#~ msgstr "Výchozí stránkování"
+
+#~ msgid "Outline Default Dark"
+#~ msgstr "Výchozí tmavý obrys"
+
+#~ msgid "Outline Default Light"
+#~ msgstr "Výchozí světlý obrys"
+
+#~ msgid "Pagination Rounded"
+#~ msgstr "Zaoblené stránkování"
+
+#~ msgid "Outline Rounded Dark"
+#~ msgstr "Tmavý oblý obrys"
+
+#~ msgid "Outline Rounded Light"
+#~ msgstr "Světlý oblý obrys"
+
+#~ msgid "Pagination Square"
+#~ msgstr "Hranaté stránkování"
+
+#~ msgid "Outline Square Dark"
+#~ msgstr "Tmavý hranatý obrys"
+
+#~ msgid "Outline Square Light"
+#~ msgstr "Světlý hranatý obrys"
+
+#~ msgid "Pagination Rounded Square"
+#~ msgstr "Zaoblené čtvercové stránkování"
+
+#~ msgid "Outline Rounded Square Dark"
+#~ msgstr "Tmavý zaoblený čtvercový obrys"
+
+#~ msgid "Outline Rounded Square Light"
+#~ msgstr "Světlý zaoblený čtvercový obrys"
+
+#~ msgid "Stripes Dark"
+#~ msgstr "Tmavé pruhy"
+
+#~ msgid "Stripes Light"
+#~ msgstr "Světlé pruhy"
+
+#~ msgid "Select pagination style."
+#~ msgstr "Zvolte styl stránkování."
+
+#~ msgid "Pagination color"
+#~ msgstr "Barva stránkování"
+
+#~ msgid "Select pagination color."
+#~ msgstr "Zvolte barvu stránkování."
+
+#~ msgid "Loop pages?"
+#~ msgstr "Procházet stránky dokola?"
+
+#~ msgid "Allow items to be repeated in infinite loop (carousel)."
+#~ msgstr "Povolit nekonečné opakování položek (kolotoč)."
+
+#~ msgid "Autoplay delay"
+#~ msgstr "Doba změny snímku"
+
+#~ msgid "Enter value in seconds. Set -1 to disable autoplay."
+#~ msgstr "Zadejte délku v sekundách. Vlože -1 k zákazu samovolné změny snímku."
+
+#~ msgid "Animation In"
+#~ msgstr "Vstupní animace"
+
+#~ msgid "Select \"animation in\" for page transition."
+#~ msgstr "Zvolte \"Vstupní animace\" pro animované objevení stránky."
+
+#~ msgid "Animation Out"
+#~ msgstr "Koncová animace"
+
+#~ msgid "Select \"animation out\" for page transition."
+#~ msgstr "Zvolte \"Koncová animace\" pro animováné zmizení stránky."
+
+#~ msgid "Grid element template"
+#~ msgstr "Chování mřížkového prvku"
+
+#, php-format
+#~ msgid "%sCreate new%s template or %smodify selected%s. Predefined templates will be cloned."
+#~ msgstr "%sVytvořte novou%s šablonu nebo %supravte vybranou%s. Předdefinované šablony budou zkopírovány"
+
+#~ msgid "Button style"
+#~ msgstr "Styl tlačítka"
+
+#~ msgid "Select button style."
+#~ msgstr "Zvolte styl tlačítka."
+
+#~ msgid "Button color"
+#~ msgstr "Barva tlačítka"
+
+#~ msgid "Post Grid"
+#~ msgstr "Mžížky příspěvků"
+
+#~ msgid "Posts, pages or custom posts in grid"
+#~ msgstr "Příspěvky, stránky nebo vlastní příspěvky"
+
+#~ msgid "Post Masonry Grid"
+#~ msgstr "Rozložení mřížky Masonry Grid"
+
+#~ msgid "Posts, pages or custom posts in masonry grid"
+#~ msgstr "Příspěvky, stránky nebo typy obsahu v Masonry grid"
+
+#~ msgid "Masonry Media Grid"
+#~ msgstr "Masonry media grid"
+
+#~ msgid "Media Grid"
+#~ msgstr "Mřížka médií"
+
+#~ msgid "Same window"
+#~ msgstr "Stejné okno"
+
+#~ msgid "New window"
+#~ msgstr "Nové okno"
+
+#~ msgid "Alert"
+#~ msgstr "Upozornění"
+
+#~ msgid "Info"
+#~ msgstr "Informace"
+
+#~ msgid "Tick"
+#~ msgstr "Zaškrtávátko"
+
+#~ msgid "Explanation"
+#~ msgstr "Vysvětlení"
+
+#~ msgid "Address book"
+#~ msgstr "Kniha adres"
+
+#~ msgid "Alarm clock"
+#~ msgstr "Budík"
+
+#~ msgid "Anchor"
+#~ msgstr "Kotva"
+
+#~ msgid "Application Image"
+#~ msgstr "Obrázek aplikace"
+
+#~ msgid "Arrow"
+#~ msgstr "Šipka"
+
+#~ msgid "Asterisk"
+#~ msgstr "Hvězdička"
+
+#~ msgid "Hammer"
+#~ msgstr "Kladivo"
+
+#~ msgid "Balloon"
+#~ msgstr "Bublina"
+
+#~ msgid "Balloon Buzz"
+#~ msgstr "Bublina"
+
+#~ msgid "Balloon Facebook"
+#~ msgstr "Facebook bublina"
+
+#~ msgid "Balloon Twitter"
+#~ msgstr "Twitter bublina"
+
+#~ msgid "Battery"
+#~ msgstr "Baterie"
+
+#~ msgid "Binocular"
+#~ msgstr "Dalekohled"
+
+#~ msgid "Document Excel"
+#~ msgstr "Excelový dokument"
+
+#~ msgid "Document Image"
+#~ msgstr "Obrázkový dokument"
+
+#~ msgid "Document Music"
+#~ msgstr "Hudební soubor"
+
+#~ msgid "Document Office"
+#~ msgstr "Office dokument"
+
+#~ msgid "Document PDF"
+#~ msgstr "PDF dokument"
+
+#~ msgid "Document Powerpoint"
+#~ msgstr "Powerpoint prezentace"
+
+#~ msgid "Document Word"
+#~ msgstr "Word dokument"
+
+#~ msgid "Bookmark"
+#~ msgstr "Záložka"
+
+#~ msgid "Camcorder"
+#~ msgstr "Videokamera"
+
+#~ msgid "Camera"
+#~ msgstr "Fotoaparát"
+
+#~ msgid "Chart"
+#~ msgstr "Tabulka"
+
+#~ msgid "Chart pie"
+#~ msgstr "Koláčový graf k tabulce"
+
+#~ msgid "Clock"
+#~ msgstr "Hodiny"
+
+#~ msgid "Fire"
+#~ msgstr "Oheň"
+
+#~ msgid "Heart"
+#~ msgstr "Srdce"
+
+#~ msgid "Mail"
+#~ msgstr "Pošta"
+
+#~ msgid "Play"
+#~ msgstr "Hrát"
+
+#~ msgid "Shield"
+#~ msgstr "Štít"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Grey"
+#~ msgstr "Šedá"
+
+#~ msgid "Blue"
+#~ msgstr "Modrá"
+
+#~ msgid "Turquoise"
+#~ msgstr "Tyrkysová"
+
+#~ msgid "Green"
+#~ msgstr "Zelená"
+
+#~ msgid "Orange"
+#~ msgstr "Oranžová"
+
+#~ msgid "Red"
+#~ msgstr "Červená"
+
+#~ msgid "Black"
+#~ msgstr "Černá"
+
+#~ msgid "Mini"
+#~ msgstr "Nejmenší"
+
+#~ msgid "Address book icon"
+#~ msgstr "Ikona adresáře"
+
+#~ msgid "Alarm clock icon"
+#~ msgstr "Ikona budíku"
+
+#~ msgid "Anchor icon"
+#~ msgstr "Ikona kotvy"
+
+#~ msgid "Application Image icon"
+#~ msgstr "Ikona aplikace"
+
+#~ msgid "Arrow icon"
+#~ msgstr "Ikona šipky"
+
+#~ msgid "Asterisk icon"
+#~ msgstr "Ikona hvězdičky"
+
+#~ msgid "Hammer icon"
+#~ msgstr "Ikona kladiva"
+
+#~ msgid "Balloon icon"
+#~ msgstr "Balónová ikona"
+
+#~ msgid "Balloon Buzz icon"
+#~ msgstr "Balónová ikona Buzz"
+
+#~ msgid "Balloon Facebook icon"
+#~ msgstr "Balónová ikona Facebooku"
+
+#~ msgid "Balloon Twitter icon"
+#~ msgstr "Balónová ikona Twitteru"
+
+#~ msgid "Battery icon"
+#~ msgstr "Ikona baterie"
+
+#~ msgid "Binocular icon"
+#~ msgstr "Ikona dalekohledu"
+
+#~ msgid "Document Excel icon"
+#~ msgstr "Ikona dokumentu MS Excel"
+
+#~ msgid "Document Image icon"
+#~ msgstr "Ikona dokumentu"
+
+#~ msgid "Document Music icon"
+#~ msgstr "Ikona hudebního souboru"
+
+#~ msgid "Document Office icon"
+#~ msgstr "Ikona dokumentu MS Office"
+
+#~ msgid "Document PDF icon"
+#~ msgstr "Ikona dokumentu PDF"
+
+#~ msgid "Document Powerpoint icon"
+#~ msgstr "Ikona dokumentu MS Powerpoint"
+
+#~ msgid "Document Word icon"
+#~ msgstr "Ikona dokumentu MS Word"
+
+#~ msgid "Bookmark icon"
+#~ msgstr "Ikona záložky"
+
+#~ msgid "Camcorder icon"
+#~ msgstr "Ikona videokamery"
+
+#~ msgid "Camera icon"
+#~ msgstr "Ikona fotoaparátu"
+
+#~ msgid "Chart icon"
+#~ msgstr "Ikona grafu"
+
+#~ msgid "Chart pie icon"
+#~ msgstr "Ikona koláčového grafu"
+
+#~ msgid "Clock icon"
+#~ msgstr "Ikona hodin"
+
+#~ msgid "Fire icon"
+#~ msgstr "Ikona ohně"
+
+#~ msgid "Heart icon"
+#~ msgstr "Ikona srdce"
+
+#~ msgid "Mail icon"
+#~ msgstr "Ikona pošty"
+
+#~ msgid "Play icon"
+#~ msgstr "Ikona přehrát"
+
+#~ msgid "Shield icon"
+#~ msgstr "Ikona štítu"
+
+#~ msgid "Video icon"
+#~ msgstr "Ikona videa"
+
+#~ msgid "Facebook Like"
+#~ msgstr "Facebook To se mi líbí"
+
+#~ msgid "Button type"
+#~ msgstr "Typ tlačítka"
+
+#~ msgid "Select button type."
+#~ msgstr "Zvol typ tlačítka"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Pinterest button"
+#~ msgstr "Tlačítko Pinterest"
+
+#~ msgid "No count"
+#~ msgstr "Žádný počet"
+
+#~ msgid "Select button layout."
+#~ msgstr "Zvolte rozložení tlačítka"
+
+#~ msgid "Tweetmeme Button"
+#~ msgstr "Tlačítko Tweetmeme"
+
+#~ msgid "Language"
+#~ msgstr "Jazyk"
+
+#~ msgid "Raw HTML"
+#~ msgstr "Surový HTML kód"
+
+#~ msgid "Structure"
+#~ msgstr "Struktura"
+
+#~ msgid "Enter your HTML content."
+#~ msgstr "Vložte HTML kód."
+
+#~ msgid "Raw JS"
+#~ msgstr "Surový JavaScript kód"
+
+#~ msgid "Widgetised Sidebar"
+#~ msgstr "Postranní panel s Widgety"
+
+#~ msgid "Sidebar"
+#~ msgstr "Postranní panel"
+
+#~ msgid "Landing Page"
+#~ msgstr "Úvodní stránka"
+
+#~ msgid "Call to Action Page"
+#~ msgstr "Stránka \"volání akce\""
+
+#~ msgid "Feature List"
+#~ msgstr "Seznam vlastností"
+
+#~ msgid "Description Page"
+#~ msgstr "Popisná stránka"
+
+#~ msgid "Service List"
+#~ msgstr "Seznam služeb"
+
+#~ msgid "Product Page"
+#~ msgstr "Stránka s produkty"
+
+#~ msgid "FAQ section"
+#~ msgstr "Sekce častých dotazů"
+
+#~ msgid "About section"
+#~ msgstr "Sekce \"O stránce\""
+
+#~ msgid "About with features"
+#~ msgstr "Stránka \"O stránce\" s vlastnostmi"
+
+#~ msgid "Three image description"
+#~ msgstr "Tříobrázkový popis"
+
+#~ msgid "News list"
+#~ msgstr "Seznam novinek"
+
+#~ msgid "Product description"
+#~ msgstr "Popis produktu"
+
+#~ msgid "Description with accordion"
+#~ msgstr "Popis v harmonikové podobě"
+
+#~ msgid "Two column list"
+#~ msgstr "Dvousloupcový seznam"
+
+#~ msgid "About with tour section"
+#~ msgstr "Stránka \"O stránce\" s prohlídkou"
+
+#~ msgid "Rounded image description"
+#~ msgstr "Popis zaobleného obrázku"
+
+#~ msgid "Description with success message"
+#~ msgstr "Popis s oznámením o úspěšnosti"
+
+#~ msgid "Images with tab description"
+#~ msgstr "Obrázky se záložkou popisu"
+
+#~ msgid "Square on background"
+#~ msgstr "Čtverec na pozadí"
+
+#~ msgid "Product description with tabs"
+#~ msgstr "Popis produktu se záložkami"
+
+#~ msgid "Description with headings"
+#~ msgstr "Popis s nadpisem"
+
+#~ msgid "Video with description"
+#~ msgstr "Video s popisem"
+
+#~ msgid "Description with buttons"
+#~ msgstr "Popis s tlačítky"
+
+#~ msgid "Map and Contacts"
+#~ msgstr "Mapa a Kontakty"
+
+#~ msgid "Help section"
+#~ msgstr "Nápověda"
+
+#~ msgid "Screen description"
+#~ msgstr "Popis obrazovky"
+
+#~ msgid "Description with round images"
+#~ msgstr "Popis se zaoblenými obrázky"
+
+#~ msgid "FAQ in three columns"
+#~ msgstr "Často kladené dotazy - tři sloupce"
+
+#~ msgid "Centre description"
+#~ msgstr "Popis uprostřed"
+
+#~ msgid "Description with gallery"
+#~ msgstr "Galerie s popiskem"
+
+#~ msgid "Centre description with image"
+#~ msgstr "Popis uprostřed s obrázkem"
+
+#~ msgid "Description with thumbnails"
+#~ msgstr "Popis s náhledovými obrázky"
+
+#~ msgid "About with left gallery"
+#~ msgstr "Stránka \"O stránce\" s galerií vlevo"
+
+#~ msgid "Five image layout"
+#~ msgstr "Pětiobrázkové rozložení"
+
+#~ msgid "Accordion news list"
+#~ msgstr "Novinky v harmonice"
+
+#~ msgid "Product with social icons"
+#~ msgstr "Produkt s ikonami sociálních sítí"
+
+#~ msgid "Complex news layout"
+#~ msgstr "Rozvržení stránky \"Novinky\""
+
+#~ msgid "Product list with CTA"
+#~ msgstr "Seznam produktů s call to action"
+
+#~ msgid "Intro with features"
+#~ msgstr "Úvod s popisem vlastností"
+
+#~ msgid "Image gallery with description"
+#~ msgstr "Obrázková galerie s popisem"
+
+#~ msgid "Team members"
+#~ msgstr "Členové týmu"
+
+#~ msgid "Large image with thumbnails"
+#~ msgstr "Velký obrázek s náhledy"
+
+#~ msgid "Complex news layout II"
+#~ msgstr "Rozvržení novinek 2"
+
+#~ msgid "Service description layout"
+#~ msgstr "Rozložení popisu služby"
+
+#~ msgid "Accordion"
+#~ msgstr "Harmonika"
+
+#~ msgid "Plus"
+#~ msgstr "Plus"
+
+#~ msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+#~ msgstr "Pokud chcete stylovat element jinak, použijte toto pole k přidání názvu třídy a poté na ně odkažte ve svém *.CSS souboru."
+
+#~ msgid "Tabs"
+#~ msgstr "Panely"
+
+#~ msgid "Tour"
+#~ msgstr "Prohlídka"
+
+#~ msgid "Archives"
+#~ msgstr "Archivy"
+
+#~ msgid "WordPress Widgets"
+#~ msgstr "Wordpress widgety"
+
+#~ msgid "A monthly archive of your sites posts"
+#~ msgstr "Měsíční archiv vašich příspěvků"
+
+#~ msgid "What text use as a widget title. Leave blank to use default widget title."
+#~ msgstr "Jaký text použít jako nadpis Widgetu? Ponechte prázdné pokud chcete použít výchozí nadpis."
+
+#~ msgid "Show post counts"
+#~ msgstr "Zobrazit počet příspěvků"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalendář"
+
+#~ msgid "A calendar of your sites posts"
+#~ msgstr "Kalendář vašich příspěvků"
+
+#~ msgid "A list or dropdown of categories"
+#~ msgstr "Seznam nebo rozbalovací výběr rubrik"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "Zobrazit hiearchicky"
+
+#~ msgid "Custom Menu"
+#~ msgstr "Vlastní menu"
+
+#~ msgid "Use this widget to add one of your custom menus as a widget"
+#~ msgstr "Použijte tento widget k přidání jednoho či více vlastních menu jako Widget"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#, fuzzy, php-format
+#~| msgid "Custom menus not found. Please visit <b>Appearance > Menus</b> page to create new menu."
+#~ msgid "Custom menus not found. Please visit %sAppearance > Menus%s page to create new menu."
+#~ msgstr "Vlastní menu nebyla nalezena. Prosím, navštivte stránku <b>Vzhled> Menu</b> k vytvoření nového menu."
+
+#~ msgid "All Links"
+#~ msgstr "Všechny odkazy"
+
+#~ msgid "Links"
+#~ msgstr "Odkazy"
+
+#~ msgid "Your blogroll"
+#~ msgstr "Místo s odkazy"
+
+#~ msgid "Link Category"
+#~ msgstr "Rubrika odkazu"
+
+#~ msgid "Link title"
+#~ msgstr "Název odkazu"
+
+#~ msgid "Link rating"
+#~ msgstr "Hodnocení odkazu"
+
+#~ msgid "Link ID"
+#~ msgstr "ID odkazu"
+
+#~ msgid "Show Link Image"
+#~ msgstr "Zobrazit obrázek odkazu"
+
+#~ msgid "Show Link Name"
+#~ msgstr "Zobrazit název odkazu"
+
+#~ msgid "Show Link Description"
+#~ msgstr "Zobrazit popis odkazu"
+
+#~ msgid "Show Link Rating"
+#~ msgstr "Zobrazit hodnocení odkazu"
+
+#~ msgid "Number of links to show"
+#~ msgstr "Počet odkazů ke zobrazení"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Log in/out, admin, feed and WordPress links"
+#~ msgstr "Přihlášení/Odhlášení, Administrace, Zdroje a Wordpress odkazy"
+
+#~ msgid "Pages"
+#~ msgstr "Stránky"
+
+#~ msgid "Your sites WordPress Pages"
+#~ msgstr "Stránky vašeho webu"
+
+#~ msgid "Page title"
+#~ msgstr "Názvu stránky"
+
+#~ msgid "Page order"
+#~ msgstr "Pořadí stránky"
+
+#~ msgid "Page ID"
+#~ msgstr "ID stránky"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Nejnovější příspěvky"
+
+#~ msgid "The most recent posts on your site"
+#~ msgstr "Nejnovější příspěvky z vašeho webu"
+
+#~ msgid "Display post date?"
+#~ msgstr "Zobrazit datum publikace?"
+
+#~ msgid "Recent Comments"
+#~ msgstr "Nové komentáře"
+
+#~ msgid "The most recent comments"
+#~ msgstr "Nejnovější komentáře"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Entries from any RSS or Atom feed"
+#~ msgstr "Zápisy jakéhokoliv RSS nebo Atom zdroje"
+
+#~ msgid "RSS feed URL"
+#~ msgstr "Adresa RSS zdroje"
+
+#~ msgid "Enter the RSS feed URL."
+#~ msgstr "Vložte adresu RSS zdroje"
+
+#~ msgid "Items"
+#~ msgstr "Položky"
+
+#~ msgid "10 - Default"
+#~ msgstr "10 - Výchozí"
+
+#~ msgid "Display item author if available?"
+#~ msgstr "Zobrazit autora, pokud je dostupný?"
+
+#~ msgid "Display item date?"
+#~ msgstr "Zobrazit datum publikace?"
+
+#~ msgid "Search"
+#~ msgstr "Vyhledávání"
+
+#~ msgid "A search form for your site"
+#~ msgstr "Vyhledávací tlačítko pro vaši stránku"
+
+#~ msgid "Tag Cloud"
+#~ msgstr "Mrak štítků"
+
+#~ msgid "Your most used tags in cloud format"
+#~ msgstr "Nejpoužívanější štítky v podobě mraku"
+
+#~ msgid "Tags"
+#~ msgstr "Štítky"
+
+#~ msgid "Taxonomy"
+#~ msgstr "Taxonomie"
+
+#~ msgid "Arbitrary text or HTML"
+#~ msgstr "Libovolný text nebo HTML kód"
+
+#~ msgid "Finish"
+#~ msgstr "Konec"
+
+#~ msgid "Next"
+#~ msgstr "Další"
+
+#~ msgid "Prev"
+#~ msgstr "Předchozí"
+
+#~ msgid "Start Here!"
+#~ msgstr "Začněte zde!"
+
+#~ msgid "Start easy - use predefined template as a starting point and modify it."
+#~ msgstr "Začněte jednoduše - použijte předdefinovanou šablonu jako odrazový můstek a upravte si ji."
+
+#~ msgid "Use Animations"
+#~ msgstr "Používat animace"
+
+#~ msgid "Select animation preset for grid element. \"Hover\" state will be added next to the \"Normal\" state tab."
+#~ msgstr "Zvolte nastavení animaci pro mřížkový prvek. \"Hover\" stav bude přidán do \"Normal\" stavu záložky."
+
+#~ msgid "Style Design Options"
+#~ msgstr "Možnosti návrhu stylu"
+
+#~ msgid "Edit \"Normal\" state to set \"Featured image\" as a background, control zone sizing proportions and other design options (Height mode: Select \"Original\" to scale image without cropping)."
+#~ msgstr "Upravte \"Normální\" stav, abyste nastavili \"Náhledový obrázek\" jako pozadí, proporce a jiné možnosti stylování (Výškový mód: Zvolte \"Originální\" abyste změnili velikost obrázku bez oříznutí)."
+
+#~ msgid "Extend Element"
+#~ msgstr "Rozšířit prvek"
+
+#~ msgid "Additional content zone can be added to grid element edges (Note: This zone can not be animated)."
+#~ msgstr "Doplňující obsah může být přidán do okrajů mřížkových prvků (Poznámka: Tyto zóny nemohou být animovány)"
+
+#~ msgid "Watch Video Tutorial"
+#~ msgstr "Zhlédnout Video návod"
+
+#~ msgid "Have a look how easy it is to work with grid element builder."
+#~ msgstr "Podívejte se, jak jednoduché je pracovat s tvůrcem mřížkových prvků."
+
+#~ msgid "Rain"
+#~ msgstr "Déšť"
+
+#~ msgid "No Gravity forms found."
+#~ msgstr "Nebyly nalezeny žádné formuláře služby Gravity Forms"
+
+#~ msgid "Select a form to display."
+#~ msgstr "Zvolte formulář k zobrazení"
+
+#~ msgid "Gravity Form"
+#~ msgstr "Formuláře Gravity form"
+
+#~ msgid "Place Gravity form"
+#~ msgstr "Umístit Gravity Form"
+
+#~ msgid "Form"
+#~ msgstr "Formulář"
+
+#~ msgid "Select a form to add it to your post or page."
+#~ msgstr "Zvolte formulář k přidání do vašeho příspěvku či stránky."
+
+#~ msgid "Display Form Title"
+#~ msgstr "Zobrazit název formuláře"
+
+#~ msgid "Would you like to display the forms title?"
+#~ msgstr "Chcete zobrazit název formuláře?"
+
+#~ msgid "Display Form Description"
+#~ msgstr "Zobrazit popis formuláře"
+
+#~ msgid "Would you like to display the forms description?"
+#~ msgstr "Chcete zobrazit popis formuláře?"
+
+#~ msgid "Enable AJAX?"
+#~ msgstr "Povolit AJAX?"
+
+#~ msgid "Enable AJAX submission?"
+#~ msgstr "Povolit předávání AJAXem?"
+
+#~ msgid "Tab Index"
+#~ msgstr "Index záložek"
+
+#~ msgid "(Optional) Specify the starting tab index for the fields of this form. Leave blank if you're not sure what this is."
+#~ msgstr "(Volitelné) Určete počáteční index záložky pro pole tohoto formuláře. Ponechte prázdné, pokud nevíte, co to je."
+
+#, fuzzy
+#~ msgid "Gutenberg Editor"
+#~ msgstr "Veřejná část webu (Frontend)"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder Settings"
+#~ msgstr "Nastavení stránky"
+
+#~ msgid "Settings"
+#~ msgstr "Nastavení"
+
+#~ msgid "Add/remove picture"
+#~ msgstr "Přidat/odebrat obrázek"
+
+#~ msgid "Finish Adding Images"
+#~ msgstr "Ukončit přidávání obrázků"
+
+#~ msgid "Add Image"
+#~ msgstr "Přidat obrázek"
+
+#~ msgid "Add Images"
+#~ msgstr "Přidat obrázky"
+
+#, fuzzy
+#~ msgid "Frontend Editor"
+#~ msgstr "Veřejná část webu (Frontend)"
+
+#~ msgid "Confirm deleting \"{template_name}\" template, press Cancel to leave. This action cannot be undone."
+#~ msgstr "Potvrďte odstranění šablony \"{template_name}\" , stiskněte Zrušit pro opuštění dialogu. Tato akce nemůže být vrácena."
+
+#~ msgid "Press OK to delete section, Cancel to leave"
+#~ msgstr "Stiskněte OK, k odstranění sekce, Zrušit pro opuštění dialogu"
+
+#~ msgid "Drag and drop me in the column"
+#~ msgstr "Přetáhněte mne do sloupce"
+
+#~ msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+#~ msgstr "Stiskněte OK k odstranění záložky \"{tab_name}\", zrušit pro opuštění dialogu"
+
+#~ msgid "Please enter new tab title"
+#~ msgstr "Prosím, vložte název nové záložky"
+
+#~ msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+#~ msgstr "Stiskněte OK k odstranění sekce \"{tab_name}\", Zrušit pro opuštění dialogu"
+
+#~ msgid "Please enter new section title"
+#~ msgstr "Prosím, vložte nový název sekce"
+
+#~ msgid "Error. Please try again."
+#~ msgstr "Objevila se chyba. Prosím, zkuste to znovu."
+
+#~ msgid "If you close this window all shortcode settings will be lost. Close this window?"
+#~ msgstr "Pokud zavřete toto okno, všechna nastavení shortcode budou ztracena. Přesto zavřít?"
+
+#~ msgid "Select element type"
+#~ msgstr "Zvolte typ prvku"
+
+#~ msgid "Media gallery"
+#~ msgstr "Galerie médií"
+
+#~ msgid "Element settings"
+#~ msgstr "Nastavení prvku"
+
+#~ msgid "Add tab"
+#~ msgstr "Přidat záložku"
+
+#~ msgid "Are you sure you want to convert to new version?"
+#~ msgstr "Opravdu chcete převést na novou verzi?"
+
+#~ msgid "Loading..."
+#~ msgstr "Načítání..."
+
+#~ msgid "Set Image"
+#~ msgstr "Nastavte obrázek"
+
+#~ msgid "Are you sure that you want to remove all your data?"
+#~ msgstr "Opravdu chcete odstranit všechna svá data?"
+
+#~ msgid "Loop settings"
+#~ msgstr "Nastavení smyčky"
+
+#~ msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+#~ msgstr "Špatné rozložení řádku! Např. 1/2 + 1/2 nebo span6 + span6"
+
+#~ msgid "Row background color"
+#~ msgstr "Barva pozadí řádku"
+
+#~ msgid "Row background image"
+#~ msgstr "Obrázek na pozadí řádku"
+
+#~ msgid "Column background color"
+#~ msgstr "Barva na pozadí sloupce"
+
+#~ msgid "Column background image"
+#~ msgstr "Obrázek na pozadí sloupce"
+
+#~ msgid "Guides ON"
+#~ msgstr "Návody zapnuty"
+
+#~ msgid "Guides OFF"
+#~ msgstr "Návody vypnuty"
+
+#~ msgid "Template added to the page."
+#~ msgstr "Šablona přidána ke stránce."
+
+#~ msgid "Template successfully removed."
+#~ msgstr "Šablona úspěšně odstraněna."
+
+#~ msgid "Page settings updated!"
+#~ msgstr "Nastavení stránky bylo aktualizováno!"
+
+#~ msgid "Update all"
+#~ msgstr "Aktualizovat vše"
+
+#~ msgid "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "Změny, které jste provedli budou ztraceny, pokud opustíte tuto stránku."
+
+#, php-format
+#~ msgid "%s saved!"
+#~ msgstr "%s uloženo!"
+
+#, php-format
+#~ msgid "%s deleted!"
+#~ msgstr "%s odstraněno!"
+
+#~ msgid "Loading Google Font failed"
+#~ msgstr "Načtení typu písma z Googlu se nepodařilo"
+
+#~ msgid "Loading Font..."
+#~ msgstr "Nahrávání typu písma..."
+
+#~ msgid "Unable to load Google Fonts"
+#~ msgstr "Nezvládám načíst Google písma"
+
+#, fuzzy
+#~ msgid "Element successfully removed."
+#~ msgstr "Šablona úspěšně odstraněna."
+
+#, fuzzy
+#~| msgid "Shortcode updated!"
+#~ msgid "Successfully updated!"
+#~ msgstr "Shortcode uloženo"
+
+#, php-format
+#~ msgid "Wrong name for shortcode:%s. Name required"
+#~ msgstr "Špatný název pro shortcode %s. Jméno je požadováno"
+
+#, php-format
+#~ msgid "Wrong base for shortcode:%s. Base required"
+#~ msgstr "Špatný základ pro shortcode %s. Základ je požadován"
+
+#, php-format
+#~ msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+#~ msgstr "Špatný atribut pro '%s' shortcode. Atribut 'param_name' je vyžadován"
+
+#, php-format
+#~ msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+#~ msgstr "Špatné setting_name pro shortcode %s. Základ nemůže být změněn."
+
+#~ msgid "General"
+#~ msgstr "Obecné"
+
+#~ msgid "Desktop"
+#~ msgstr "Plocha"
+
+#~ msgid "Tablet landscape mode"
+#~ msgstr "Široký mód pro tablety"
+
+#~ msgid "Tablet portrait mode"
+#~ msgstr "Portrétový mód pro tablety (na výšku)"
+
+#~ msgid "Smartphone landscape mode"
+#~ msgstr "Široký mód pro smartphony"
+
+#~ msgid "Smartphone portrait mode"
+#~ msgstr "Portrétový mód pro smartphony (na výšku)"
+
+#~ msgid "Cancel all changes and return to WP dashboard"
+#~ msgstr "Zapomenout veškeré změny a vrátit se k Wordpress nástěnce"
+
+#~ msgid "Save as Pending"
+#~ msgstr "Uložit jako čekající"
+
+#~ msgid "Publish"
+#~ msgstr "Publikovat"
+
+#~ msgid "Submit for Review"
+#~ msgstr "Přidat recenzi"
+
+#~ msgid "Frontend"
+#~ msgstr "Veřejná část webu (Frontend)"
+
+#~ msgid "Save current layout as a template"
+#~ msgstr "Uložit aktuální rozložení jako šablonu"
+
+#~ msgid "My Templates"
+#~ msgstr "Moje šablony"
+
+#~ msgid "Default Templates"
+#~ msgstr "Výchozí šablony"
+
+#~ msgid "No title"
+#~ msgstr "Žádný název"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder Shortcode Mapper adds custom 3rd party vendors shortcodes to the list of WPBakery Page Builder content elements menu (Note: to map shortcode it needs to be installed on site)."
+#~ msgstr "Používat WPBakery Page Builder shortcode Mapper k přidávání vlastních nebo shortcode třetích stran, k seznamu prvků menu WPBakery Page Builderu. Pro nalezení shortcode musí být nainstalován na vašem webu."
+
+#~ msgid "Please enter valid shortcode"
+#~ msgstr "Prosím, vložte funkční shortcode"
+
+#~ msgid "Cancel"
+#~ msgstr "Zrušit"
+
+#~ msgid "Tag:"
+#~ msgstr "Štítek:"
+
+#~ msgid "Description:"
+#~ msgstr "Popis:"
+
+#~ msgid "Category:"
+#~ msgstr "Kategorie:"
+
+#~ msgid "Comma separated categories names"
+#~ msgstr "Čárkami oddělené názvy kategorií"
+
+#~ msgid "Include content param into shortcode"
+#~ msgstr "Zobrazit obsah parametru v shortcode"
+
+#~ msgid "Save Changes"
+#~ msgstr "Uložit změny"
+
+#~ msgid "Delete"
+#~ msgstr "Odstranit"
+
+#~ msgid "Param name"
+#~ msgstr "Název parametru"
+
+#~ msgid "Required value"
+#~ msgstr "Pozadovaná hodnota"
+
+#~ msgid "Please use only letters, numbers and underscore."
+#~ msgstr "Prosím, používejte pouze písmena, čísla a podtržítko (_)."
+
+#~ msgid "Heading for field in shortcode edit form."
+#~ msgstr "Nadpis pro editační formulář shortcode."
+
+#~ msgid "Field type"
+#~ msgstr "Typ pole"
+
+#~ msgid "Select field type"
+#~ msgstr "Zvolte typ pole"
+
+#~ msgid "Textfield"
+#~ msgstr "Textové pole"
+
+#~ msgid "Textarea"
+#~ msgstr "Textová oblast"
+
+#~ msgid "Textarea HTML"
+#~ msgstr "Textová oblast HTML"
+
+#~ msgid "Field type for shortcode edit form."
+#~ msgstr "Typ pole editačního formuláře Shortcode"
+
+#~ msgid "Default value"
+#~ msgstr "Výchozí hodnota"
+
+#, fuzzy, php-format
+#~| msgid "Error. Please try again."
+#~ msgid "%s. Please try again."
+#~ msgstr "Objevila se chyba. Prosím, zkuste to znovu."
+
+#, fuzzy, php-format
+#~ msgid "Hola! Would you like to receive automatic updates and unlock premium support? Please %sactivate your copy%s of WPBakery Page Builder."
+#~ msgstr "K získání automatických aktualizací je potřeba aktivovaná licence. Prosím, navštivte <a href=\""
+
+#~ msgid "General Settings"
+#~ msgstr "Obecné nastavení"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Vlastní CSS"
+
+#~ msgid "Product License"
+#~ msgstr "Licence produktu"
+
+#~ msgid "Main accent color"
+#~ msgstr "Hlavní barva"
+
+#~ msgid "Hover color"
+#~ msgstr "Barva pri najetí myší"
+
+#~ msgid "Call to action background color"
+#~ msgstr "Barva pozadí \"Call to action\""
+
+#~ msgid "Google maps background color"
+#~ msgstr "Barva pozadí \"Google maps\""
+
+#~ msgid "Post slider caption background color"
+#~ msgstr "Barva pozadí popisu slideru"
+
+#~ msgid "Progress bar background color"
+#~ msgstr "Barva pozadí ukazatele průběhu"
+
+#~ msgid "Separator border color"
+#~ msgstr "Barva oddělovacího okraje"
+
+#~ msgid "Tabs navigation background color"
+#~ msgstr "Pozadí záložkové navigace"
+
+#~ msgid "Active tab background color"
+#~ msgstr "Pozadí současné aktivní záložky"
+
+#~ msgid "Disable responsive content elements"
+#~ msgstr "Zakázat responsivní prvky s obsahem"
+
+#~ msgid "Google fonts subsets"
+#~ msgstr "Podmnožina Google fonts"
+
+#~ msgid "Use custom design options"
+#~ msgstr "Použít vlastní možnosti designu"
+
+#~ msgid "Elements bottom margin"
+#~ msgstr "Prvky se spodním odsazením"
+
+#~ msgid "Grid gutter width"
+#~ msgstr "Šířka žlabu mřížky"
+
+#~ msgid "Mobile screen width"
+#~ msgstr "Šířka mobilních obrazovek"
+
+#~ msgid "Paste your CSS code"
+#~ msgstr "Vložte váš CSS kód"
+
+#~ msgid "Are you sure you want to reset to defaults?"
+#~ msgstr "Opravdu chcete vrátit vše na výchozí hodnoty?"
+
+#~ msgid "Are you sure you want to delete this shortcode?"
+#~ msgstr "Určitě chcete odstranit tento shortcode?"
+
+#~ msgid "Are you sure you want to delete the shortcode's param?"
+#~ msgstr "Určitě chcete odstranit tuto vlastnost shortcode?"
+
+#~ msgid "My shortcodes"
+#~ msgstr "Mé shortcodes"
+
+#~ msgid "Shortcode name is required."
+#~ msgstr "Název Shortcode je vyžadován."
+
+#~ msgid "Please enter valid shortcode tag."
+#~ msgstr "Prosím, vložte platný štítek pro shortcode."
+
+#~ msgid "Please enter all required fields for params."
+#~ msgstr "Prosím, vyplňte všechny vyžadovaná pole pro parametry."
+
+#~ msgid "New shortcode mapped from string!"
+#~ msgstr "Nový shortcode byl nalezen!"
+
+#~ msgid "Shortcode updated!"
+#~ msgstr "Shortcode uloženo"
+
+#~ msgid "Content param can not be added manually, please use checkbox."
+#~ msgstr "Parametr obsahu nemůže být přidán ručně, prosím, použijte checkbox."
+
+#, php-format
+#~ msgid "Param %s already exists. Param names must be unique."
+#~ msgstr "Parametr %s již existuje. Jméno parametru musí být jedinečné."
+
+#~ msgid "Please use only letters, numbers and underscore for param name"
+#~ msgstr "Prosím, používejte pouze písmena, čísla a podtržítko pro názvy parametrů."
+
+#~ msgid "Please enter valid shortcode to parse!"
+#~ msgstr "Prosím, vložte platný shortcode ke zpracování!"
+
+#~ msgid "Enable"
+#~ msgstr "Povolit"
+
+#, fuzzy
+#~ msgid "Here you can tweak default WPBakery Page Builder content elements visual appearance. By default WPBakery Page Builder is using neutral light-grey theme. Changing \"Main accent color\" will affect all content elements if no specific \"content block\" related color is set."
+#~ msgstr "Zde můžete upravit vzhled výchozích prvků. Ve výchozím stavu, používá Visual Composer světle-šedou šablonu. Změna \"Hlavní barvy\" se dotkne všech prvků, pokud nemají nastaveno vlastní nastavení barvy."
+
+#~ msgid "Invalid Margin value."
+#~ msgstr "Neplatná hodnota odsazení."
+
+#~ msgid "Invalid Gutter value."
+#~ msgstr "Neplatná hodnota pro žlab."
+
+#~ msgid "Invalid \"Responsive max\" value."
+#~ msgstr "Neplatná hodnota pro \"Responsive max\""
+
+#~ msgid "Something went wrong: js_composer_front_custom.css could not be created."
+#~ msgstr "Něco se zvrtlo: soubor js_composer_front_custom.css nemůže být vytvořen."
+
+#~ msgid "js_composer_front_custom.css could not be created. Connection error."
+#~ msgstr "Nemůžu vytvořit js_composer_front_custom.css kvůli chybě spojení."
+
+#, php-format
+#~ msgid "js_composer_front_custom.css could not be created. Cannot write custom css to \"%s\"."
+#~ msgstr "Nemůžu vytvořit js_composer_front_custom.css . Nemohu zapsat \"%s\"."
+
+#~ msgid "js_composer_front_custom.css could not be created. Problem with access."
+#~ msgstr "Nemůžu vytvořit js_composer_front_custom.css , kvůli problémem s přistupem."
+
+#~ msgid "Something went wrong: custom.css could not be created."
+#~ msgstr "Něco se zvrtlo: soubor custom.css nemohl být vytvořen."
+
+#~ msgid "custom.css could not be created. Connection error."
+#~ msgstr "Soubor custom.css nemohl být vytvořen kvůli chybě spojení."
+
+#, fuzzy, php-format
+#~| msgid "custom.css could not be created. Cannot write custom css to \""
+#~ msgid "custom.css could not be created. Cannot write custom css to %s."
+#~ msgstr "Soubor custom.css nemohl být vytvořen. Nemohu nemohu zapsat vlastní CSS do \""
+
+#~ msgid "custom.css could not be created. Problem with access."
+#~ msgstr "Soubor custom.css nemohl být vytvořen. Problém s přístupem (právy)"
+
+#, php-format
+#~ msgid "Edit this %s"
+#~ msgstr "Upravit %s"
+
+#, php-format
+#~ msgid "Clone this %s"
+#~ msgstr "Vytvořit kopii %s"
+
+#, php-format
+#~ msgid "Delete this %s"
+#~ msgstr "Odstranit %s"
+
+#~ msgid "Fade in"
+#~ msgstr "Prolnutí"
+
+#~ msgid "Scale in"
+#~ msgstr "Zvětšení"
+
+#~ msgid "Scale in with rotation"
+#~ msgstr "Zvětšení s otáčením"
+
+#~ msgid "Blur out"
+#~ msgstr "Rozostření"
+
+#~ msgid "Blur scale out"
+#~ msgstr "Rozostření a zmenšení"
+
+#~ msgid "Slide in from left"
+#~ msgstr "Přijet zleva"
+
+#~ msgid "Slide in from right"
+#~ msgstr "Přijet zprava"
+
+#~ msgid "Slide bottom"
+#~ msgstr "Přijet zdola"
+
+#~ msgid "Slide top"
+#~ msgstr "Přijet zhora"
+
+#~ msgid "Vertical flip in with fade"
+#~ msgstr "Svislé přetočení s přechodem"
+
+#~ msgid "Horizontal flip in with fade"
+#~ msgstr "Vodorovné přetočení s přechodem"
+
+#~ msgid "Go top"
+#~ msgstr "Odjet nahoru"
+
+#~ msgid "Go bottom"
+#~ msgstr "Odjet dolů"
+
+#~ msgid "Error! Can't connect to filesystem"
+#~ msgstr "Chyba! Nemůžu se připojit k systému souborů"
+
+#, fuzzy, php-format
+#~ msgid "To receive automatic updates license activation is required. Please visit %sSettings%s to activate your WPBakery Page Builder."
+#~ msgstr "K získání automatických aktualizací je potřeba aktivovaná licence. Prosím, navštivte <a href=\""
+
+#, fuzzy, php-format
+#~ msgid "To receive automatic updates license activation is required. Please visit %ssettings%s to activate your WPBakery Page Builder."
+#~ msgstr "K získání automatických aktualizací je potřeba aktivovaná licence. Prosím, navštivte <a href=\""
+
+#~ msgid "Field name"
+#~ msgstr "Název pole"
+
+#, fuzzy
+#~| msgid "Select field from group."
+#~ msgid "Choose field from group."
+#~ msgstr "Vyberte pole ze skupiny."
+
+#~ msgid "Advanced Custom Field"
+#~ msgstr "Rozšířené vlastní pole"
+
+#~ msgid "Field group"
+#~ msgstr "Skupina polí"
+
+#~ msgid "Select field group."
+#~ msgstr "Vyberte skupinu polí"
+
+#~ msgid "Show label"
+#~ msgstr "Zobrazit popisek"
+
+#~ msgid "Enter label to display before key value."
+#~ msgstr "Vložte popisek ke zobrazení před klíčovou hodnotu."
+
+#~ msgid "Align"
+#~ msgstr "Zarovnání"
+
+#~ msgid "Select alignment."
+#~ msgstr "Zvolte zarovnání textu."
+
+#~ msgid "No contact forms found"
+#~ msgstr "Žádné kontaktní formuláře nebyly nalezeny"
+
+#~ msgid "Contact Form 7"
+#~ msgstr "Kontaktní formulář 7"
+
+#~ msgid "Place Contact Form7"
+#~ msgstr "Umístit Contact form 7"
+
+#~ msgid "Select contact form"
+#~ msgstr "Zvolte kontaktní formulář"
+
+#~ msgid "Choose previously created contact form from the drop down list."
+#~ msgstr "Vybrat předešle vytvořený formulář z nabídky"
+
+#~ msgid "No sliders found"
+#~ msgstr "Žádné slidery nenalezeny"
+
+#~ msgid "Layer Slider"
+#~ msgstr "Layer Slider"
+
+#~ msgid "Place LayerSlider"
+#~ msgstr "Umístěte LayerSlider"
+
+#~ msgid "LayerSlider ID"
+#~ msgstr "ID Layer Slider"
+
+#~ msgid "Select your LayerSlider."
+#~ msgstr "Vyberte svůj Layer Slider"
+
+#~ msgid "Ninja Forms"
+#~ msgstr "Ninja forms"
+
+#~ msgid "Place Ninja Form"
+#~ msgstr "Umístit Ninja form"
+
+#~ msgid "Select ninja form"
+#~ msgstr "Zvolte Ninja form"
+
+#~ msgid "Choose previously created ninja form from the drop down list."
+#~ msgstr "Zvolte předem vytvořený Ninja form z nabídky."
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution slider"
+
+#~ msgid "Place Revolution slider"
+#~ msgstr "Umístěte Revolution Slider"
+
+#~ msgid "Select your Revolution Slider."
+#~ msgstr "Zvolte svůj Revolution Slider."
+
+#, fuzzy
+#~| msgid "Menu order"
+#~ msgid "Menu order & title"
+#~ msgstr "Pořadí menu"
+
+#, fuzzy
+#~| msgid "Include only"
+#~ msgid "Include"
+#~ msgstr "Obsáhnout pouze"
+
+#, fuzzy
+#~| msgid "Custom links"
+#~ msgid "Custom post__in"
+#~ msgstr "Vlastní odkazy"
+
+#~ msgid "Cart"
+#~ msgstr "Košík"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Displays the cart contents"
+#~ msgstr "Zobrazuje obsah košíku"
+
+#~ msgid "Checkout"
+#~ msgstr "Platební brána"
+
+#~ msgid "Displays the checkout"
+#~ msgstr "Zobrazí platební bránu"
+
+#~ msgid "Order Tracking Form"
+#~ msgstr "Objednávací formulář"
+
+#~ msgid "Lets a user see the status of an order"
+#~ msgstr "Umožní uživateli sledovat stav objednávky"
+
+#~ msgid "My Account"
+#~ msgstr "Můj účet"
+
+#~ msgid "Shows the \"my account\" section"
+#~ msgstr "Zobrazí sekci \"můj účet\"."
+
+#~ msgid "Order count"
+#~ msgstr "Počet objednaných"
+
+#~ msgid "You can specify the number or order to show, it's set by default to 15 (use -1 to display all orders.)"
+#~ msgstr "Můžete určit číslo nebo pořadí k zobrazení, výchozí nastavení je 15 (použijte -1 ke zobrazení všech objednávek)"
+
+#~ msgid "Recent products"
+#~ msgstr "Nejnovější produkty"
+
+#~ msgid "Lists recent products"
+#~ msgstr "Vypíše nejnovější produkty"
+
+#~ msgid "Per page"
+#~ msgstr "Na stránku"
+
+#~ msgid "The \"per_page\" shortcode determines how many products to show on the page"
+#~ msgstr "Určuje, kolik produktl bude zobrazeno na stránce"
+
+#~ msgid "Columns"
+#~ msgstr "Sloupce"
+
+#~ msgid "The columns attribute controls how many columns wide the products should be before wrapping."
+#~ msgstr "Určuje počet sloupců, které by výrobky měly mít, před obalením prvkem."
+
+#, php-format
+#~ msgid "Select how to sort retrieved products. More at %s."
+#~ msgstr "Zvolte, jak řadit vybrané produkty. Více na %s."
+
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s."
+#~ msgstr "Tvoří vzrůstající nebo klesající pořadí. Více na %s."
+
+#~ msgid "Featured products"
+#~ msgstr "Zvýrazněné produkty"
+
+#~ msgid "Display products set as \"featured\""
+#~ msgstr "Zobrazit produkty jako \"zvýrazněné\""
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Show a single product by ID or SKU"
+#~ msgstr "Zobrazit jeden produkt podle ID nebo SKU"
+
+#~ msgid "Select identificator"
+#~ msgstr "Vyberte ID"
+
+#~ msgid "Input product ID or product SKU or product title to see suggestions"
+#~ msgstr "Vložte ID nebo SKU produktu nebo název produktu, k zobrazení návrhů"
+
+#~ msgid "Products"
+#~ msgstr "Zboží"
+
+#~ msgid "Show multiple products by ID or SKU."
+#~ msgstr "Zobrazit více produktů podle ID nebo SKU"
+
+#, php-format
+#~ msgid "Select how to sort retrieved products. More at %s. Default by Title"
+#~ msgstr "Zvolte, jak řadit produkty. Více na %s. Výchozí nastavení je řazení dle názvu"
+
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s. Default by ASC"
+#~ msgstr "Řadí vzestupně nebo sestupně. Více na %s. Výchozí nastavení je vzestupné pořadí"
+
+#~ msgid "Enter List of Products"
+#~ msgstr "Zapište seznam produktů"
+
+#~ msgid "Add to cart"
+#~ msgstr "Přidat do košíku"
+
+#~ msgid "Show multiple products by ID or SKU"
+#~ msgstr "Zobrazit více výrobků podle ID nebo SKU"
+
+#~ msgid "Wrapper inline style"
+#~ msgstr "Inline styl obalu"
+
+#~ msgid "Add to cart URL"
+#~ msgstr "Adresa \"přidat do košíku\""
+
+#~ msgid "Show URL on the add to cart button"
+#~ msgstr "Zobrazit adresu na tlačítku \"přidat do košíku\""
+
+#~ msgid "Product page"
+#~ msgstr "Stránka produktů"
+
+#~ msgid "Show single product by ID or SKU"
+#~ msgstr "Zobrazit jeden produkt podle ID nebo SKU"
+
+#~ msgid "Product category"
+#~ msgstr "Kategorie produktů"
+
+#~ msgid "Show multiple products in a category"
+#~ msgstr "Zobrazit více produktů v kategorii"
+
+#, fuzzy
+#~| msgid "How much items per page to show"
+#~ msgid "How much items to show"
+#~ msgstr "Kolik položek zobrazit na stránce"
+
+#~ msgid "How much columns grid"
+#~ msgstr "Kolika sloupcová mřížka"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "Product category list"
+#~ msgstr "Seznam kategorií produktů"
+
+#~ msgid "Product categories"
+#~ msgstr "Kategorie produktů"
+
+#~ msgid "Display product categories loop"
+#~ msgstr "Zobrazit smyčku kategorie produktů"
+
+#~ msgid "Number"
+#~ msgstr "Počet"
+
+#~ msgid "The `number` field is used to display the number of products."
+#~ msgstr "Pole 'číslo' je použito pro zobrazení počtu výrobků."
+
+#~ msgid "Hide empty"
+#~ msgstr "Skrýt prázdný"
+
+#~ msgid "List of product categories"
+#~ msgstr "Seznam kategorií produktů"
+
+#~ msgid "Sale products"
+#~ msgstr "Prodejné produkty"
+
+#~ msgid "List all products on sale"
+#~ msgstr "Proházet všechny prodejné výrobky"
+
+#~ msgid "Best Selling Products"
+#~ msgstr "Nejprodávanější produkty"
+
+#~ msgid "List best selling products on sale"
+#~ msgstr "Procházet nejprodávanější prodejné výrobky"
+
+#~ msgid "Top Rated Products"
+#~ msgstr "Nejlépe hodnocené produkty"
+
+#~ msgid "Product Attribute"
+#~ msgstr "Atribut produktu"
+
+#~ msgid "List products with an attribute shortcode"
+#~ msgstr "Procházet produkty pomocí vlastnosti v shortcode"
+
+#~ msgid "Attribute"
+#~ msgstr "Vlastnost"
+
+#~ msgid "List of product taxonomy attribute"
+#~ msgstr "Seznam taxonomií produktů"
+
+#~ msgid "Taxonomy values"
+#~ msgstr "Hodnoty taxonomií"
+
+#~ msgid "Related Products"
+#~ msgstr "Podobné produkty"
+
+#~ msgid "List related products"
+#~ msgstr "Procházet podobné produkty"
+
+#~ msgid "Please note: the \"per_page\" shortcode argument will determine how many products are shown on a page. This will not add pagination to the shortcode. "
+#~ msgstr "Pamatuj: pole \"na stránku\" určuje, kolik produktů se zobrazí na stránce, ale nepřidá stránkování."
+
+#~ msgid "Id"
+#~ msgstr "ID"
+
+#~ msgid "Sku"
+#~ msgstr "SKU"
+
+#~ msgid "Name"
+#~ msgstr "Název"
+
+#~ msgid "Slug"
+#~ msgstr "Strojový přepis"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Price"
+#~ msgstr "Cena"
+
+#~ msgid "Regular Price"
+#~ msgstr "Normální cena"
+
+#~ msgid "Sale Price"
+#~ msgstr "Prodejní cena"
+
+#~ msgid "Price html"
+#~ msgstr "HTML cena"
+
+#~ msgid "Reviews count"
+#~ msgstr "Počet recenzí"
+
+#~ msgid "Short description"
+#~ msgstr "Krátký popis"
+
+#~ msgid "Dimensions"
+#~ msgstr "Rozměry"
+
+#~ msgid "Rating count"
+#~ msgstr "Počet hodnocení"
+
+#~ msgid "Weight"
+#~ msgstr "Váha"
+
+#~ msgid "Is on sale"
+#~ msgstr "Je v prodeji"
+
+#~ msgid "Custom field"
+#~ msgstr "Vlastní pole"
+
+#~ msgid "Order number"
+#~ msgstr "Číslo pořadí"
+
+#~ msgid "Currency"
+#~ msgstr "Měna"
+
+#~ msgid "Total"
+#~ msgstr "Celkem"
+
+#~ msgid "Status"
+#~ msgstr "Stav"
+
+#~ msgid "Payment method"
+#~ msgstr "Způsob platby"
+
+#~ msgid "Billing address city"
+#~ msgstr "Město (Fakturační adresa)"
+
+#~ msgid "Billing address country"
+#~ msgstr "Stát (Fakturační adresa)"
+
+#~ msgid "Shipping address city"
+#~ msgstr "Město (Doručovací adresa)"
+
+#~ msgid "Shipping address country"
+#~ msgstr "Země (Doručovací adresa)"
+
+#~ msgid "Customer Note"
+#~ msgstr "Poznámka zákazníka"
+
+#~ msgid "Customer API"
+#~ msgstr "Zákaznická API"
+
+#~ msgid "WooCommerce field"
+#~ msgstr "pole WooCommerce"
+
+#~ msgid "Woocommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Content type"
+#~ msgstr "Typ obsahu"
+
+#~ msgid "Order"
+#~ msgstr "Pořadí"
+
+#~ msgid "Select Woo Commerce post type."
+#~ msgstr "Zvolte WooCommerce typ obsahu."
+
+#~ msgid "Product field name"
+#~ msgstr "Pole názvu produktu"
+
+#, fuzzy
+#~| msgid "Select field from product."
+#~ msgid "Choose field from product."
+#~ msgstr "Zvolte pole z produktů"
+
+#~ msgid "Product custom key"
+#~ msgstr "Vlastní klíč produktu"
+
+#~ msgid "Enter custom key."
+#~ msgstr "Zadejte vlastní klíč produktu."
+
+#~ msgid "Order fields"
+#~ msgstr "Uspořádat pole"
+
+#, fuzzy
+#~| msgid "Select field from order."
+#~ msgid "Choose field from order."
+#~ msgstr "Zvolte pole z pořadí."
+
+#~ msgid "Order custom key"
+#~ msgstr "Řadit vlastní klíč"
+
+#~ msgid "Added"
+#~ msgstr "Přidáno"
+
+#~ msgid "Taxonomies"
+#~ msgstr "Taxonomie"
+
+#~ msgid "Wrong vc_map object. Base attribute is required"
+#~ msgstr "Špatný objekt vc_map. Základní atribut je požadován"
+
+#~ msgid "CSS Animation"
+#~ msgstr "CSS Animace"
+
+#~ msgid "Top to bottom"
+#~ msgstr "Od shora dolů"
+
+#~ msgid "Bottom to top"
+#~ msgstr "Od spoda nahoru"
+
+#~ msgid "Left to right"
+#~ msgstr "Zleva do prava"
+
+#~ msgid "Right to left"
+#~ msgstr "Zprava do leva"
+
+#~ msgid "Appear from center"
+#~ msgstr "Zobrazovat od středu"
+
+#~ msgid "Attention Seekers"
+#~ msgstr "Zvýraznění"
+
+#~ msgid "bounce"
+#~ msgstr "Poskakování"
+
+#~ msgid "flash"
+#~ msgstr "Záblesk"
+
+#~ msgid "pulse"
+#~ msgstr "Puls"
+
+#~ msgid "rubberBand"
+#~ msgstr "Pružné roztažení"
+
+#~ msgid "shake"
+#~ msgstr "Třesení"
+
+#~ msgid "swing"
+#~ msgstr "Houpání"
+
+#~ msgid "tada"
+#~ msgstr "Zatřesení podle středu"
+
+#~ msgid "wobble"
+#~ msgstr "Zatřesení do šířky"
+
+#~ msgid "Bouncing Entrances"
+#~ msgstr "Vstupní animace"
+
+#~ msgid "bounceIn"
+#~ msgstr "Vskočit"
+
+#~ msgid "bounceInDown"
+#~ msgstr "Vskočit zhora"
+
+#~ msgid "bounceInLeft"
+#~ msgstr "Vskočit zprava"
+
+#~ msgid "bounceInRight"
+#~ msgstr "Vskočit zleva"
+
+#~ msgid "bounceInUp"
+#~ msgstr "Vskočit zdola"
+
+#~ msgid "Bouncing Exits"
+#~ msgstr "Konec skákáním"
+
+#~ msgid "bounceOut"
+#~ msgstr "Skočit"
+
+#~ msgid "bounceOutDown"
+#~ msgstr "Skočit dolů"
+
+#~ msgid "bounceOutLeft"
+#~ msgstr "Skočit doleva"
+
+#~ msgid "bounceOutRight"
+#~ msgstr "Skočit doprava"
+
+#~ msgid "bounceOutUp"
+#~ msgstr "Skočit nahoru"
+
+#~ msgid "Fading Entrances"
+#~ msgstr "Vstupní prolnutí"
+
+#~ msgid "fadeIn"
+#~ msgstr "Prolnutí"
+
+#~ msgid "fadeInDown"
+#~ msgstr "Prolnutí zhora"
+
+#~ msgid "fadeInDownBig"
+#~ msgstr "Rychlé prolnutí zhora"
+
+#~ msgid "fadeInLeft"
+#~ msgstr "Prolnutí zprava"
+
+#~ msgid "fadeInLeftBig"
+#~ msgstr "Rychlé prolnutí zprava"
+
+#~ msgid "fadeInRight"
+#~ msgstr "Prolnutí zleva"
+
+#~ msgid "fadeInRightBig"
+#~ msgstr "Rychlé prolnutí zleva"
+
+#~ msgid "fadeInUp"
+#~ msgstr "Prolnutí zdola"
+
+#~ msgid "fadeInUpBig"
+#~ msgstr "Rychlé prolnutí zdola"
+
+#~ msgid "Fading Exits"
+#~ msgstr "Konec prolnutím"
+
+#~ msgid "fadeOut"
+#~ msgstr "Prolnutí"
+
+#~ msgid "fadeOutDown"
+#~ msgstr "Vypaření, dolů"
+
+#~ msgid "fadeOutDownBig"
+#~ msgstr "Vypaření, dolů, nejrychleji"
+
+#~ msgid "fadeOutLeft"
+#~ msgstr "Vypaření, doleva"
+
+#~ msgid "fadeOutLeftBig"
+#~ msgstr "Vypaření, doleva, nejrychleji"
+
+#~ msgid "fadeOutRight"
+#~ msgstr "Vypaření, dopravy"
+
+#~ msgid "fadeOutRightBig"
+#~ msgstr "Vypaření, doprava, nejrychleji"
+
+#~ msgid "fadeOutUp"
+#~ msgstr "Vypaření, nahoru"
+
+#~ msgid "fadeOutUpBig"
+#~ msgstr "Vypaření, nahoru, nejrychleji"
+
+#~ msgid "Flippers"
+#~ msgstr "Přetáčení"
+
+#~ msgid "flip"
+#~ msgstr "Překlopení"
+
+#~ msgid "flipInX"
+#~ msgstr "Prolnutí s vodorovným překlopením"
+
+#~ msgid "flipInY"
+#~ msgstr "Prolnutí se svislým překlopením"
+
+#~ msgid "flipOutX"
+#~ msgstr "Prolnutí s vodorovným překlopením"
+
+#~ msgid "flipOutY"
+#~ msgstr "Prolnutí se svislým překlopením"
+
+#~ msgid "Lightspeed"
+#~ msgstr "Rychlost světla"
+
+#~ msgid "lightSpeedIn"
+#~ msgstr "Světelná rychlost - přicouvání"
+
+#~ msgid "lightSpeedOut"
+#~ msgstr "Světelná rychlost - odcouvání"
+
+#~ msgid "Rotating Entrances"
+#~ msgstr "Vstupní animace s rotací"
+
+#~ msgid "rotateIn"
+#~ msgstr "Otočení s prolnutím"
+
+#~ msgid "rotateInDownLeft"
+#~ msgstr "Otočka s prolnutím vlevo dole"
+
+#~ msgid "rotateInDownRight"
+#~ msgstr "Otočka s prolnutím vpravo dole"
+
+#~ msgid "rotateInUpLeft"
+#~ msgstr "Otočka s prolnutím vlevo nahoře"
+
+#~ msgid "rotateInUpRight"
+#~ msgstr "Otočka s prolnutím vpravo nahoře"
+
+#~ msgid "Rotating Exits"
+#~ msgstr "Otáčení a opuštění plochy"
+
+#~ msgid "rotateOut"
+#~ msgstr "Otočení s prolnutím"
+
+#~ msgid "rotateOutDownLeft"
+#~ msgstr "Otočení s prolnutím vlevo dole"
+
+#~ msgid "rotateOutDownRight"
+#~ msgstr "Otočení s prolnutím vpravo dole"
+
+#~ msgid "rotateOutUpLeft"
+#~ msgstr "Otočení s prolnutím vlevo nahoře"
+
+#~ msgid "rotateOutUpRight"
+#~ msgstr "Otočení s prolnutím vpravo nahoře"
+
+#~ msgid "Specials"
+#~ msgstr "Speciální"
+
+#~ msgid "hinge"
+#~ msgstr "Závěs"
+
+#~ msgid "rollIn"
+#~ msgstr "Prolnutí a otočka zleva doprava"
+
+#~ msgid "rollOut"
+#~ msgstr "Prolnutí a otočka zprava doleva"
+
+#~ msgid "Zoom Entrances"
+#~ msgstr "Vstup zvětšením"
+
+#~ msgid "zoomIn"
+#~ msgstr "Přiblížení"
+
+#~ msgid "zoomInDown"
+#~ msgstr "Přiblížení zhora"
+
+#~ msgid "zoomInLeft"
+#~ msgstr "Přiblížení zprava"
+
+#~ msgid "zoomInRight"
+#~ msgstr "Přiblížení zleva"
+
+#~ msgid "zoomInUp"
+#~ msgstr "Přiblížení zdola"
+
+#~ msgid "Zoom Exits"
+#~ msgstr "Odchod zmenšením"
+
+#~ msgid "zoomOut"
+#~ msgstr "Oddálení pohledu"
+
+#~ msgid "zoomOutDown"
+#~ msgstr "Oddálení dolů"
+
+#~ msgid "zoomOutLeft"
+#~ msgstr "Oddálení doleva"
+
+#~ msgid "zoomOutRight"
+#~ msgstr "Oddálení doprava"
+
+#~ msgid "zoomOutUp"
+#~ msgstr "Oddálení nahoru"
+
+#~ msgid "Slide Entrances"
+#~ msgstr "Vstup vklouznutím"
+
+#~ msgid "slideInDown"
+#~ msgstr "Vklouznutí zdola"
+
+#~ msgid "slideInLeft"
+#~ msgstr "Vklouznutí zleva"
+
+#~ msgid "slideInRight"
+#~ msgstr "Vklouznutí zprava"
+
+#~ msgid "slideInUp"
+#~ msgstr "Vklouznutí zhora"
+
+#~ msgid "Slide Exits"
+#~ msgstr "Vyklouznutí z pohledu"
+
+#~ msgid "slideOutDown"
+#~ msgstr "Vyklouznutí dolů"
+
+#~ msgid "slideOutLeft"
+#~ msgstr "Vyklouznutí doleva"
+
+#~ msgid "slideOutRight"
+#~ msgstr "Vyklouznutí doprava"
+
+#~ msgid "slideOutUp"
+#~ msgstr "Vyklouznutí nahoru"
+
+#~ msgid "Animate it"
+#~ msgstr "Animovat"
+
+#~ msgid "Default value from width attribute"
+#~ msgstr "Výchozí hodnota z atributu šířky"
+
+#~ msgid "Inherit from smaller"
+#~ msgstr "Zdědit z menšího"
+
+#~ msgid "No offset"
+#~ msgstr "Žádné odsazení"
+
+#~ msgid "Box controls"
+#~ msgstr "Ovládací prvky"
+
+#~ msgid "Simplify controls"
+#~ msgstr "Jednoduché ovládání"
+
+#~ msgid "Theme defaults"
+#~ msgstr "Výchozí nastavení šablony"
+
+#, fuzzy
+#~| msgid "Inherit: "
+#~ msgid "inherit"
+#~ msgstr "Dědit:"
+
+#~ msgid "Cover"
+#~ msgstr "Překrytí"
+
+#~ msgid "Contain"
+#~ msgstr "Obsáhnout"
+
+#~ msgid "No Repeat"
+#~ msgstr "Žádné opakování"
+
+#~ msgid "Repeat"
+#~ msgstr "Opakovat"
+
+#~ msgid "Element tag"
+#~ msgstr "Tag elementu"
+
+#~ msgid "Font size"
+#~ msgstr "Velikost te"
+
+#~ msgid "Text align"
+#~ msgstr "Zarovnání textu"
+
+#~ msgid "Line height"
+#~ msgstr "Výška řádku"
+
+#~ msgid "Font Family"
+#~ msgstr "Typ písma"
+
+#~ msgid "Font style"
+#~ msgstr "Styl písma"
+
+#~ msgid "italic"
+#~ msgstr "Kurzíva"
+
+#~ msgid "bold"
+#~ msgstr "Tučně"
+
+#, fuzzy
+#~| msgid "Add row"
+#~ msgid "Add New"
+#~ msgstr "Přidat řádek"
+
+#, fuzzy
+#~| msgid "No Gravity forms found."
+#~ msgid "No Gutenberg attrs found."
+#~ msgstr "Nebyly nalezeny žádné formuláře služby Gravity Forms"
+
+#~ msgid "From all categories"
+#~ msgstr "Ze všech kategorií"
+
+#~ msgid "Uncategorized"
+#~ msgstr "Nezařazené"
+
+#~ msgid "Build query"
+#~ msgstr "Budovat query"
+
+#~ msgid "Manage options"
+#~ msgstr "Spravovat možnosti"
+
+#~ msgid "Close"
+#~ msgstr "Zavřít"
+
+#~ msgid "Add row"
+#~ msgstr "Přidat řádek"
+
+#~ msgid "Builder"
+#~ msgstr "Tvůrce"
+
+#~ msgid "If you add this template, all your current changes will be removed. Are you sure you want to add template?"
+#~ msgstr "Pokud přidáte tuto šablonu, všechny vaše změny budou odstraněny. Jste si jisti, že chcete šablonu přidat?"
+
+#~ msgid "Post title"
+#~ msgstr "Název příspěvku"
+
+#~ msgid "The WordPress Excerpt is an optional summary or description of a post; in short, a post summary."
+#~ msgstr "Wordpress excerpt je zkrácený obsah nebo popisný text příspěvku; stručně: výtak příspěvku."
+
+#~ msgid "Grid Templates"
+#~ msgstr "Mřížková šablona"
+
+#~ msgid "Add link"
+#~ msgstr "Přidat odkaz"
+
+#~ msgid "Post link"
+#~ msgstr "Odkaz na příspěvek"
+
+#~ msgid "Large image"
+#~ msgstr "Velký obrázek"
+
+#~ msgid "Large image (prettyPhoto)"
+#~ msgstr "Velký obrázek (prettyPhoto)"
+
+#~ msgid "Select link option."
+#~ msgstr "Zvolte možnosti odkazu."
+
+#~ msgid "Add custom link."
+#~ msgstr "Přidat vlastní odkaz."
+
+#~ msgid "Use featured image on background?"
+#~ msgstr "Použít náhledový obrázek na pozadí?"
+
+#~ msgid "Use custom fonts?"
+#~ msgstr "Použít vlastní typ písma?"
+
+#~ msgid "Custom fonts"
+#~ msgstr "Vlastní druh písma"
+
+#~ msgid "Main grid item"
+#~ msgstr "Hlavní položka mřížky"
+
+#~ msgid "A/B block"
+#~ msgstr "A/B blok"
+
+#~ msgid "Zone"
+#~ msgstr "Zóna"
+
+#~ msgid "Normal"
+#~ msgstr "Normální"
+
+#~ msgid "Height mode"
+#~ msgstr "Mód výšky"
+
+#~ msgid "Original"
+#~ msgstr "Původní"
+
+#~ msgid "Sizing proportions for height and width. Select \"Original\" to scale image without cropping."
+#~ msgstr "Velikostní poměr pro výšku a šířku. Zvolte \"Original\" ke zmenšení obrázku bez ořezávání"
+
+#~ msgid "Enter custom height."
+#~ msgstr "Vložte vlastní výšku."
+
+#~ msgid "Hover"
+#~ msgstr "Najetí myší"
+
+#, fuzzy
+#~ msgid "Additional"
+#~ msgstr "Další blok"
+
+#~ msgid "Post Title"
+#~ msgstr "Název příspěvku"
+
+#~ msgid "Post"
+#~ msgstr "Příspěvek"
+
+#~ msgid "Title of current post"
+#~ msgstr "Název aktuálního příspěvku"
+
+#~ msgid "Post Excerpt"
+#~ msgstr "Zkrácený výpis příspěvku"
+
+#~ msgid "Excerpt or manual excerpt"
+#~ msgstr "Zkrácený výpis nebo manuálně zadaný výtah příspěvku"
+
+#~ msgid "Post Image"
+#~ msgstr "Obrázek příspěvku"
+
+#~ msgid "Featured image"
+#~ msgstr "Náhledový obrázek"
+
+#~ msgid "Post Date"
+#~ msgstr "Datum příspěvku"
+
+#~ msgid "Post publish date"
+#~ msgstr "Nepublikovat datum"
+
+#~ msgid "Elements"
+#~ msgstr "Prvky"
+
+#~ msgid "Custom fields data from meta values of the post."
+#~ msgstr "Vlastní pole metadat příspěvku"
+
+#~ msgid "Field key name"
+#~ msgstr "Klíč pole"
+
+#~ msgid "Basic grid: Default"
+#~ msgstr "Základní mřížka: Výchozí"
+
+#~ msgid "Basic grid: Scale in with rotation"
+#~ msgstr "Základní mřížka: Zvětšit s otáčkou"
+
+#~ msgid "Basic grid: Fade with side content"
+#~ msgstr "Základní mřížka: Prolnout s obsahem"
+
+#~ msgid "Basic grid: Slide bottom with icon"
+#~ msgstr "Základní mřížka: Sklouznout dolů s ikonou"
+
+#~ msgid "Basic grid: Vertical flip"
+#~ msgstr "Základní mřížka: Svisle překlopit"
+
+#~ msgid "Basic grid: No animation"
+#~ msgstr "Základní mřížka: Žádná animace"
+
+#~ msgid "Basic grid: Go top slideout"
+#~ msgstr "Základní mřížka: Sklouznout nahoru a pryč"
+
+#~ msgid "Basic grid: Text first"
+#~ msgstr "Základní mřížka: Text první"
+
+#~ msgid "Basic grid: Slide from left"
+#~ msgstr "Základní mřížka: Sklouznout zleva"
+
+#~ msgid "Basic grid: Slide from top"
+#~ msgstr "Základní mřížka: Sklouznout shora"
+
+#~ msgid "Masonry grid: Default"
+#~ msgstr "Mansonry mřížka: Výchozí"
+
+#~ msgid "Masonry grid: Fade in"
+#~ msgstr "Mansonry mřížka: Postupné objevení se"
+
+#~ msgid "Masonry grid: Icon slide out"
+#~ msgstr "Mansonry mřížka: Sklouznutí ikon ven"
+
+#~ msgid "Masonry grid: Slide from left"
+#~ msgstr "Mansonry mřížka: Vklouznout zleva"
+
+#~ msgid "Masonry grid: Go top"
+#~ msgstr "Mansonry mřížka: Směrem nahoru"
+
+#~ msgid "Masonry grid: Overlay with rotation"
+#~ msgstr "Mansonry mřížka: Překrýt s otáčením"
+
+#~ msgid "Masonry grid: Blur out"
+#~ msgstr "Mansonry mřížka: Rozostření"
+
+#~ msgid "Masonry grid: Scale with rotation"
+#~ msgstr "Mansonry mřížka: Zvětšení s otáčením"
+
+#~ msgid "Masonry grid: Slideo out from right"
+#~ msgstr "Mansonry mřížka: Vklouznout zprava"
+
+#~ msgid "Masonry grid: With side content"
+#~ msgstr "Mansonry mřížka: Postranní obsah"
+
+#~ msgid "Media grid: Default"
+#~ msgstr "Mediální mřížka: Výchozí"
+
+#~ msgid "Media grid: Simple overlay"
+#~ msgstr "Mediální mřížka: Jednoduše překrýt"
+
+#~ msgid "Media grid: Fade in with icon"
+#~ msgstr "Mediální mřížka: Zesílit s ikonou"
+
+#~ msgid "Media grid: Bordered scale with title"
+#~ msgstr "Mediální mřížka: Změna velikosti ohraničení"
+
+#~ msgid "Media grid: Scale with rotation"
+#~ msgstr "Mediální mřížka: Změna velikosti s otočením"
+
+#~ msgid "Media grid: Slide out caption"
+#~ msgstr "Mediální mřížka: Sklouznutí popisku"
+
+#~ msgid "Media grid: Horizontal flip with fade"
+#~ msgstr "Mediální mřížka: Vodorovné překlopení s přechodem"
+
+#~ msgid "Media grid: Blur with content block"
+#~ msgstr "Mediální mřížka: Rozostření s blokem obsahu"
+
+#~ msgid "Media grid: Slide in title"
+#~ msgstr "Mediální mřížka: Sklouznout v názvu"
+
+#~ msgid "Media grid: Scale in with icon"
+#~ msgstr "Mediální mřížka: Vměstnání s mřížkou"
+
+#~ msgid "Masonry media: Default"
+#~ msgstr "Masonry media: Výchozí"
+
+#~ msgid "Masonry media: Bordered scale"
+#~ msgstr "Masonry media: Změna okrajů"
+
+#~ msgid "Masonry media: Solid blur out"
+#~ msgstr "Masonry media: Rozostření"
+
+#~ msgid "Masonry media: Scale with rotation light"
+#~ msgstr "Masonry media: Změna velikosti s otáčením a světlem"
+
+#~ msgid "Masonry media: Slide with title and caption"
+#~ msgstr "Masonry media: Sklouznout s názvem a popiskem"
+
+#~ msgid "Masonry media: Scale with content block"
+#~ msgstr "Masonry media: Změna velikosti zároveň s obsahem"
+
+#~ msgid "Masonry media: Simple overlay"
+#~ msgstr "Masonry media: Jednoduché překrytí"
+
+#~ msgid "Masonry media: Slide top"
+#~ msgstr "Masonry media: Sklouznout nahoru"
+
+#~ msgid "Masonry media: Simple blur with scale"
+#~ msgstr "Masonry media: Jednoduché rozostření se změnou velikosti"
+
+#~ msgid "Select URL"
+#~ msgstr "Zvolte URL"
+
+#~ msgid "URL"
+#~ msgstr "URL adresa"
+
+#~ msgid "Loading, please wait..."
+#~ msgstr "Nahrávám, prosím čekejte"
+
+#~ msgid "Crunching..."
+#~ msgstr "Zpracovávám..."
+
+#~ msgid "Other"
+#~ msgstr "Další"
+
+#, fuzzy
+#~ msgid "My Elements"
+#~ msgstr "Prvky"
+
+#, fuzzy
+#~ msgid "Element Title"
+#~ msgstr "Šířka elementu"
+
+#, fuzzy
+#~ msgid "Enter element title."
+#~ msgstr "Vložte velikost textu."
+
+#~ msgid "Save changes"
+#~ msgstr "Uložit změny"
+
+#, fuzzy
+#~ msgid "Save as Element"
+#~ msgstr "Uložit jako čekající"
+
+#~ msgid "Add Element"
+#~ msgstr "Přidat prvek"
+
+#~ msgid "Add element"
+#~ msgstr "Přidat prvek"
+
+#~ msgid "Add text block"
+#~ msgstr "Přidat blok textu"
+
+#~ msgid "Close panel"
+#~ msgstr "Zavřít panel"
+
+#~ msgid "Hide panel"
+#~ msgstr "Skrýt panel"
+
+#~ msgid "Edit Elements"
+#~ msgstr "Upravit elementy"
+
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "Aktivovat licenci"
+
+#, fuzzy
+#~ msgid "Manage elements"
+#~ msgstr "Přidat prvek"
+
+#~ msgid "Page Settings"
+#~ msgstr "Nastavení stránky"
+
+#~ msgid "Please enter page title"
+#~ msgstr "Prosím, vložte název stránky"
+
+#~ msgid "Custom CSS settings"
+#~ msgstr "Vlastní nastavení CSS"
+
+#, fuzzy
+#~ msgid "Manage My Elements"
+#~ msgstr "Prvky"
+
+#, fuzzy
+#~ msgid "Delete element"
+#~ msgstr "Zvolte tag prvku."
+
+#~ msgid "Row Layout"
+#~ msgstr "Rozložení řádku"
+
+#~ msgid "Row layout"
+#~ msgstr "Rozložení řádku"
+
+#~ msgid "Enter custom layout for your row"
+#~ msgstr "Zvolte vlastní rozložení pro váš řádek"
+
+#~ msgid "Change particular row layout manually by specifying number of columns and their size value."
+#~ msgstr "Změňte rozložení řádků manuálně, určením počtu sloupců a jejich velikostí."
+
+#~ msgid "Backend editor"
+#~ msgstr "Editor administrace"
+
+#, fuzzy
+#~| msgid "Product"
+#~ msgid "Introduction"
+#~ msgstr "Produkt"
+
+#, fuzzy
+#~| msgid "Dimensions"
+#~ msgid "Licensing"
+#~ msgstr "Rozměry"
+
+#, fuzzy
+#~| msgid "Regular Price"
+#~ msgid "Regular License"
+#~ msgstr "Normální cena"
+
+#, fuzzy
+#~ msgid "Extended License"
+#~ msgstr "Aktivovat licenci"
+
+#, fuzzy
+#~| msgid "Pagination"
+#~ msgid "Plugin Installation"
+#~ msgstr "Stránkování"
+
+#, fuzzy
+#~| msgid "Active section"
+#~ msgid "Activation"
+#~ msgstr "Aktivní sekce"
+
+#, fuzzy
+#~| msgid "Content type"
+#~ msgid "Content Type"
+#~ msgstr "Typ obsahu"
+
+#, fuzzy
+#~| msgid "Landing Page"
+#~ msgid "Learning More"
+#~ msgstr "Úvodní stránka"
+
+#, fuzzy
+#~| msgid "Extend Element"
+#~ msgid "Content Elements"
+#~ msgstr "Rozšířit prvek"
+
+#, fuzzy
+#~| msgid "Style Design Options"
+#~ msgid "Element Design Options"
+#~ msgstr "Možnosti návrhu stylu"
+
+#, fuzzy
+#~| msgid "Responsiveness"
+#~ msgid "Responsive Settings"
+#~ msgstr "Flexibilita"
+
+#, fuzzy
+#~| msgid "Image size"
+#~ msgid "Image filters"
+#~ msgstr "Velikost obrázku"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder \"How To's\""
+#~ msgstr "Nastavení stránky"
+
+#, fuzzy
+#~| msgid "Add column"
+#~ msgid "Add - ons"
+#~ msgstr "Přidat sloupec"
+
+#, fuzzy
+#~| msgid "Templates"
+#~ msgid "Templatera"
+#~ msgstr "Šablony"
+
+#, fuzzy
+#~| msgid "Three image description"
+#~ msgid "Theme Integration"
+#~ msgstr "Tříobrázkový popis"
+
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video Academy"
+#~ msgstr "Přehrávač videa"
+
+#, fuzzy
+#~| msgid "Facebook Like"
+#~ msgid "Facebook page"
+#~ msgstr "Facebook To se mi líbí"
+
+#, fuzzy
+#~| msgid "Balloon Twitter icon"
+#~ msgid "Twitter account"
+#~ msgstr "Balónová ikona Twitteru"
+
+#, fuzzy, php-format
+#~ msgid "Responsive design settings are currently disabled. You can enable them in WPBakery Page Builder %ssettings page%s by unchecking \"Disable responsive content elements\"."
+#~ msgstr "Nastavení responsivního designu je momentálně zakázáno. Můžete je povolit v <a href=\"%s\">nastavení WPBakery Page Builderu</a>"
+
+#~ msgid "Device"
+#~ msgstr "Zařízení"
+
+#~ msgid "Hide on device?"
+#~ msgstr "Skrýt na zařízení"
+
+#~ msgid "Inherit: "
+#~ msgstr "Dědit:"
+
+#~ msgid "Inherit from default"
+#~ msgstr "Převzít z výchozího"
+
+#~ msgid "Google Fonts preview"
+#~ msgstr "Náhled písma Google"
+
+#~ msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+#~ msgstr "Nevrlý čaroděj vyrábí jedovatý lektvar pro zlou Královnu a Jacka."
+
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "Prázdná sekce. Upravte stránku, abyste přidali obsah."
+
+#~ msgid "View stream on flickr"
+#~ msgstr "Přejít na stream na Flickru"
+
+#~ msgid "Item"
+#~ msgstr "Položka"
+
+#~ msgid "Nothing found."
+#~ msgstr "Nic nenalezeno"
+
+#~ msgid "Empty tab. Edit page to add content here."
+#~ msgstr "Prázdná záložka"
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid "Open prettyPhoto"
+#~ msgstr "Otevřít PrettyPhoto"
+
+#~ msgid "Animated carousel with posts"
+#~ msgstr "Animovaný kolotoč s příspěvky"
+
+#~ msgid "Carousel content"
+#~ msgstr "Obsah kolotoče"
+
+#~ msgid "Create WordPress loop, to populate content from your site."
+#~ msgstr "Vytvořte cyklus Wordpressu, k naplnění obsahu z vašeho webu."
+
+#~ msgid "Teaser layout"
+#~ msgstr "Rozvržení ukázky textu"
+
+#~ msgid "Control teasers look. Enable blocks and place them in desired order. Note: This setting can be overrriden on post to post basis."
+#~ msgstr "Nastavte chování ukázky textu. Povolte bloky a umístěte je v libovolném pořadí. Poznámka: Toto nastavení může být přepsáno v příspěvku."
+
+#~ msgid "Thumbnail"
+#~ msgstr "Náhledový obrázek"
+
+#~ msgid "Teaser/Excerpt"
+#~ msgstr "Výtah článku"
+
+#~ msgid "Full content"
+#~ msgstr "Celý obsah"
+
+#~ msgid "Read more link"
+#~ msgstr "Odkaz číst dále"
+
+#~ msgid "Link target"
+#~ msgstr "Cíl odkazu"
+
+#~ msgid "If \"YES\" pagination control will be removed"
+#~ msgstr "Pokud \"YES\", stránkování bude odstraněno"
+
+#~ msgid "If \"YES\" prev/next control will be removed"
+#~ msgstr "Pokud \"YES\", ovládání předchozí/další bude odebráno"
+
+#~ msgid "If \"YES\" part of the next slide will be visible on the right side"
+#~ msgstr "Pokud \"YES\", část následujícího snímku bude zobrazena vpravo"
+
+#~ msgid "Posts in grid view"
+#~ msgstr "Příspěvky v mřížkovém zobrazení"
+
+#~ msgid "Grids content"
+#~ msgstr "Obsah mřížek"
+
+#~ msgid "Columns count"
+#~ msgstr "Počet sloupců"
+
+#~ msgid "Select columns count."
+#~ msgstr "Zvolte počet sloupců."
+
+#~ msgid "Select to add animated category filter to your posts grid."
+#~ msgstr "Zvolte k přidání animovaného filtru kategorie k vaší mřížce příspěvků."
+
+#~ msgid "Layout mode"
+#~ msgstr "Mód rozložení"
+
+#~ msgid "Fit rows"
+#~ msgstr "Vyplnit řádky"
+
+#~ msgid "Masonry"
+#~ msgstr "Zdivo"
+
+#~ msgid "Teaser layout template."
+#~ msgstr "Rozložení ukázky."
+
+#~ msgid "Build custom query according to <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\">WordPress Codex</a>."
+#~ msgstr "Vytvořit vlastní QUERY podle <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\">Wordpress kodexu</a>"
+
+#~ msgid "%s cloned. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s\">Edit now?</a>"
+#~ msgstr "%s zkopírováno. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s\">Chtete hned začit s úpravami?</a>"
+
+#~ msgid "Toggle editor's guides"
+#~ msgstr "Přepnout nápovědu editoru"
+
+#~ msgid "Hello World"
+#~ msgstr "Ahoj světe"
+
+#~ msgid "Foo attribute"
+#~ msgstr "Atribut Foo"
+
+#~ msgid "I'm foo attribute"
+#~ msgstr "Já jsem atribut Foo"
+
+#~ msgid "Enter foo value."
+#~ msgstr "Vložte hodnotu Foo"
+
+#~ msgid "I'm hello world"
+#~ msgstr "Já jsem \"Ahoj světe\""
+
+#~ msgid "Drop down example"
+#~ msgstr "Příklad roletky"
+
+#~ msgid "One, two or three?"
+#~ msgstr "Jeden, dva nebo tři?"
+
+#~ msgid "Template file is missing for `%s` shortcode. Make sure you have `%s` file in your theme folder."
+#~ msgstr "Soubor šablony chybí pro shortcode '%s'. Ujistěte se, že máte soubor '%s' uvnitř složky šablony."
+
+#~ msgid "To receive automatic updates license activation is required. Please visit <a href=\""
+#~ msgstr "K získání automatických aktualizací je potřeba aktivovaná licence. Prosím, navštivte <a href=\""
+
+#~ msgid "VC: Custom Teaser"
+#~ msgstr "VC: Vlastní úvodník"
+
+#~ msgid "Empty title"
+#~ msgstr "Prázdný nadpis"
+
+#~ msgid "Excerpt"
+#~ msgstr "Krátký výpis"
+
+#~ msgid "Featered"
+#~ msgstr "Zvýrazněný"
+
+#~ msgid "Link text"
+#~ msgstr "Textový odkaz"
+
+#~ msgid "Link to big image"
+#~ msgstr "Odkázat na velký obrázek"
+
+#~ msgid "Add custom image"
+#~ msgstr "Přidat vlastní obrázek"
+
+#~ msgid "Enable custom teaser"
+#~ msgstr "Povolit vlastní úvodní text"
+
+#, fuzzy
+#~ msgid "New Icons"
+#~ msgstr "Ikona"
+
+#, fuzzy
+#~ msgid "Icon Library Updates"
+#~ msgstr "Knihovna ikon"
+
+#~ msgid "Link to"
+#~ msgstr "Odkaz na"
+
+#~ msgid "On post"
+#~ msgstr "V příspěvku"
+
+#~ msgid "Big image"
+#~ msgstr "Velký obrázek"
+
+#~ msgid "Featured"
+#~ msgstr "Zvýrazněné"

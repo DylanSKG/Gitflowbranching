@@ -1,0 +1,5528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 15:34+0100\n"
+"PO-Revision-Date: 2021-12-01 15:34+0100\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: Thomas Grimaud <contact@thomasgrimaud.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: config\n"
+"X-Poedit-SearchPath-1: include\n"
+
+#: config/containers/shortcode-vc-column-inner.php:10
+msgid "Inner Column"
+msgstr "Colonne intérieure"
+
+#: include/classes/core/class-vc-base.php:738
+#, php-format
+msgid "%%s cloned. %sEdit now?%s"
+msgstr ""
+
+# @ js_composer
+#: include/classes/shortcodes/vc-column.php:46
+msgid "Append to this column"
+msgstr "Ajouter à cette colonne"
+
+# @ js_composer
+#: include/classes/shortcodes/vc-column.php:48
+msgid "Prepend to this column"
+msgstr "Faire précéder à cette colonne"
+
+# @ js_composer
+#: include/classes/shortcodes/vc-column.php:55
+msgid "Edit this column"
+msgstr "Modifier cette colonne"
+
+# @ js_composer
+#: include/classes/shortcodes/vc-column.php:56
+msgid "Delete this column"
+msgstr "Supprimer cette colonne"
+
+#: include/classes/updaters/class-vc-updater.php:129
+msgid "WPBakery Page Builder"
+msgstr "Éditeur de page"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:74
+#, fuzzy
+#| msgid "Search Grid templates"
+msgctxt "Post type general name"
+msgid "Gutenberg attrs"
+msgstr "Chercher un modèle"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:75
+#, fuzzy
+#| msgid "Frontend Editor"
+msgctxt "Post type singular name"
+msgid "Gutenberg attr"
+msgstr "Éditeur visuel"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:76
+#, fuzzy
+#| msgid "Search Grid templates"
+msgctxt "Admin Menu text"
+msgid "Gutenberg attrs"
+msgstr "Chercher un modèle"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:77
+#, fuzzy
+#| msgid "Frontend Editor"
+msgctxt "Add New on Toolbar"
+msgid "Gutenberg attr"
+msgstr "Éditeur visuel"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:88
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Gutenberg attr Cover Image"
+msgstr "Aucun Gravity Form trouvé"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:89
+#, fuzzy
+#| msgid "Set Image"
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr "Définir l’image"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:90
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:91
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:92
+#, fuzzy
+#| msgid "Search Grid templates"
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Gutenberg attr archives"
+msgstr "Chercher un modèle"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:93
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Add into Gutenberg attr"
+msgstr "Aucun Gravity Form trouvé"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:94
+#, fuzzy
+#| msgid "Search Grid templates"
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Gutenberg attr"
+msgstr "Chercher un modèle"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:95
+#, fuzzy
+#| msgid "Search Grid templates"
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Gutenberg attrs list"
+msgstr "Chercher un modèle"
+
+# @ js_composer
+#: include/params/gutenberg/class-vc-gutenberg-param.php:96
+#, fuzzy
+#| msgid "No Gravity forms found."
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Gutenberg attrs list navigation"
+msgstr "Aucun Gravity Form trouvé"
+
+#: include/params/gutenberg/class-vc-gutenberg-param.php:97
+#, fuzzy
+#| msgid "Search Grid templates"
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Gutenberg attrs list"
+msgstr "Chercher un modèle"
+
+#~ msgid "Pixel"
+#~ msgstr "Pixel"
+
+#~ msgid "Classic Grey"
+#~ msgstr "Gris classique"
+
+#~ msgid "Classic Blue"
+#~ msgstr "Bleu classique"
+
+#~ msgid "Classic Turquoise"
+#~ msgstr "Turquoise classique"
+
+#~ msgid "Classic Green"
+#~ msgstr "Vert classique"
+
+#~ msgid "Classic Orange"
+#~ msgstr "Orange classique"
+
+#~ msgid "Classic Red"
+#~ msgstr "Rouge classique"
+
+#~ msgid "Classic Black"
+#~ msgstr "Noir classique"
+
+# @ js_composer
+# @ default
+#~ msgid "Text"
+#~ msgstr "Texte"
+
+# @ js_composer
+#~ msgid "Text on the button"
+#~ msgstr "Texte sur le bouton"
+
+# @ js_composer
+#~ msgid "URL (Link)"
+#~ msgstr "URL (lien)"
+
+# @ js_composer
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Modern"
+#~ msgstr "Moderne"
+
+#~ msgid "Classic"
+#~ msgstr "Classique"
+
+#~ msgid "Flat"
+#~ msgstr "Plat"
+
+#~ msgid "Outline"
+#~ msgstr "Détouré"
+
+#~ msgid "3d"
+#~ msgstr "3D"
+
+# @ js_composer
+#~ msgid "Custom"
+#~ msgstr "Personnalisé"
+
+#~ msgid "Outline custom"
+#~ msgstr "Détourage personnalisé"
+
+#~ msgid "Gradient"
+#~ msgstr "Dégradé"
+
+#~ msgid "Gradient Custom"
+#~ msgstr "Dégradé personnalisé"
+
+#~ msgid "Gradient Color 1"
+#~ msgstr "Dégradé couleur 1"
+
+#~ msgid "Gradient Color 2"
+#~ msgstr "Dégradé couleur 2"
+
+# @ js_composer
+#~ msgid "Background"
+#~ msgstr "Fond"
+
+#~ msgid "Hover background"
+#~ msgstr "Fond survolé"
+
+#~ msgid "Hover text"
+#~ msgstr "Texte de survol"
+
+#~ msgid "Shape"
+#~ msgstr "Forme"
+
+#~ msgid "Select button shape."
+#~ msgstr "Sélectionnez la forme du bouton."
+
+#~ msgid "Rounded"
+#~ msgstr "Arrondi"
+
+#~ msgid "Square"
+#~ msgstr "Carré"
+
+#~ msgid "Round"
+#~ msgstr "Rond"
+
+# @ js_composer
+#~ msgid "Color"
+#~ msgstr "Couleur"
+
+#~ msgid "Select button color."
+#~ msgstr "Sélectionnez la couleur du bouton."
+
+# @ js_composer
+#~ msgid "Size"
+#~ msgstr "Taille"
+
+#~ msgid "Select button display size."
+#~ msgstr "Sélectionnez la taille d’affichage du bouton."
+
+#~ msgid "Alignment"
+#~ msgstr "Alignement"
+
+# @ js_composer
+#~ msgid "Select button alignment."
+#~ msgstr "Sélectionnez l'alignement du bouton."
+
+# @ js_composer
+#~ msgid "Inline"
+#~ msgstr "Aligné"
+
+#~ msgid "Left"
+#~ msgstr "Gauche"
+
+#~ msgid "Right"
+#~ msgstr "Droite"
+
+#~ msgid "Center"
+#~ msgstr "Centre"
+
+#~ msgid "Set full width button?"
+#~ msgstr "Bouton en pleine largeur ?"
+
+#~ msgid "Add icon?"
+#~ msgstr "Ajouter une icône ?"
+
+#~ msgid "Icon Alignment"
+#~ msgstr "Alignement de l’icône"
+
+#~ msgid "Select icon alignment."
+#~ msgstr "Sélectionnez l’alignement de l’icône."
+
+# @ js_composer
+#~ msgid "Icon"
+#~ msgstr "Icône"
+
+#~ msgid "Select icon from library."
+#~ msgstr "Sélectionnez une icône de la bibliothèque."
+
+#~ msgid "Element ID"
+#~ msgstr "ID de l’élément"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Enter element ID (Note: make sure it is unique and valid according to <a "
+#~| "href=\"%s\" target=\"_blank\">w3c specification</a>)."
+#~ msgid ""
+#~ "Enter element ID (Note: make sure it is unique and valid according to "
+#~ "%sw3c specification%s)."
+#~ msgstr ""
+#~ "Entrez l’ID de l’élément (Note : vérifiez bien qu’il est unique et valide "
+#~ "selon les <a href=\"%s\" target=\"_blank\">spécifications du W3C</a>)."
+
+# @ js_composer
+#~ msgid "Extra class name"
+#~ msgstr "Nom de la classe additionnelle"
+
+#~ msgid ""
+#~ "Style particular content element differently - add a class name and refer "
+#~ "to it in custom CSS."
+#~ msgstr ""
+#~ "Utilisez ce champ pour styliser différemment un élément en particulier - "
+#~ "avec une classe dans le CSS personnalisé."
+
+#~ msgid "CSS box"
+#~ msgstr "Boîte CSS"
+
+# @ js_composer
+#~ msgid "Design Options"
+#~ msgstr "Options de style"
+
+# @ js_composer
+#~ msgid "Button"
+#~ msgstr "Bouton"
+
+# @ js_composer
+#~ msgid "Content"
+#~ msgstr "Contenu"
+
+# @ js_composer
+#~ msgid "Eye catching button"
+#~ msgstr "Bouton design"
+
+# @ js_composer
+#~ msgid "Heading"
+#~ msgstr "En-tête"
+
+#~ msgid "Subheading"
+#~ msgstr "Sous-titre"
+
+# @ js_composer
+#~ msgid "Hey! I am first heading line feel free to change me"
+#~ msgstr ""
+#~ "Salut ! Je suis la première ligne d'en-tête, n’hésitez pas à me modifier"
+
+#~ msgid "Use custom font?"
+#~ msgstr "Utilisez une police personnalisée ?"
+
+#~ msgid "Enable Google fonts."
+#~ msgstr "Activer les polices Google."
+
+#~ msgid "Text alignment"
+#~ msgstr "Alignement du texte"
+
+#~ msgid "Background color"
+#~ msgstr "Couleur d’arrière-plan"
+
+# @ js_composer
+#~ msgid "Text color"
+#~ msgstr "Couleur de texe"
+
+# @ js_composer
+#~ msgid ""
+#~ "I am promo text. Click edit button to change this text. Lorem ipsum dolor "
+#~ "sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~ "ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr ""
+#~ "Je suis un texte par défaut. Cliquez sur le bouton d'édition pour me "
+#~ "modifier.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut "
+#~ "elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+# @ js_composer
+#~ msgid "Width"
+#~ msgstr "Largeur"
+
+#~ msgid "Add button"
+#~ msgstr "Ajouter un bouton"
+
+# @ js_composer
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Top"
+#~ msgstr "Haut"
+
+#~ msgid "Bottom"
+#~ msgstr "Bas"
+
+#~ msgid "Add icon for call to action."
+#~ msgstr "Ajoute une icône pour l’appel à action."
+
+#~ msgid "Place icon on border?"
+#~ msgstr "Placer une icône sur la bordure ?"
+
+#~ msgid "Display icon on call to action element border."
+#~ msgstr "Affiche une icône sur la bordure de l’appel à action."
+
+#~ msgid "Call to Action"
+#~ msgstr "Appel à action"
+
+# @ js_composer
+#~ msgid "Catch visitors attention with CTA block"
+#~ msgstr "Capter l’attention des visiteurs"
+
+# @ js_composer
+#~ msgid "1 column - 1/12"
+#~ msgstr "1 colonne - 1/12"
+
+# @ js_composer
+#~ msgid "2 columns - 1/6"
+#~ msgstr "2 colonnes - 1/6"
+
+# @ js_composer
+#~ msgid "3 columns - 1/4"
+#~ msgstr "3 colonnes - 1/4"
+
+# @ js_composer
+#~ msgid "4 columns - 1/3"
+#~ msgstr "4 colonnes - 1/3"
+
+# @ js_composer
+#~ msgid "5 columns - 5/12"
+#~ msgstr "5 colonnes - 5/12"
+
+# @ js_composer
+#~ msgid "6 columns - 1/2"
+#~ msgstr "6 colonnes - 1/2"
+
+# @ js_composer
+#~ msgid "7 columns - 7/12"
+#~ msgstr "7 colonnes - 7/12"
+
+# @ js_composer
+#~ msgid "8 columns - 2/3"
+#~ msgstr "8 colonnes - 2/3"
+
+# @ js_composer
+#~ msgid "9 columns - 3/4"
+#~ msgstr "9 colonnes - 3/4"
+
+# @ js_composer
+#~ msgid "10 columns - 5/6"
+#~ msgstr "10 colonnes - 5/6"
+
+# @ js_composer
+#~ msgid "11 columns - 11/12"
+#~ msgstr "11 colonnes - 11/12"
+
+# @ js_composer
+#~ msgid "12 columns - 1/1"
+#~ msgstr "12 colonnes - 1/1"
+
+#~ msgid "Responsive Options"
+#~ msgstr "Options d’adaptation"
+
+# @ js_composer
+#~ msgid "Select column width."
+#~ msgstr "Sélectionnez la largeur de colonne."
+
+# @ js_composer
+#~ msgid "Responsiveness"
+#~ msgstr "Adaptation"
+
+# @ js_composer
+#~ msgid ""
+#~ "Adjust column for different screen sizes. Control width, offset and "
+#~ "visibility settings."
+#~ msgstr ""
+#~ "Ajustez les colonnes pour différentes tailles d'écran. Contrôlez la "
+#~ "largeur, le décalage et la visibilité."
+
+# @ js_composer
+#~ msgid "Column"
+#~ msgstr "Colonne"
+
+#~ msgid "Use video background?"
+#~ msgstr "Utiliser une vidéo en arrière-plan ?"
+
+#~ msgid "If checked, video will be used as row background."
+#~ msgstr "Si coché, la vidéo sera utilisée comme arrière-plan."
+
+# @ js_composer
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "YouTube link"
+#~ msgstr "Lien Youtube"
+
+#~ msgid "Add YouTube link."
+#~ msgstr "Ajouter un lien Youtube."
+
+#~ msgid "Parallax"
+#~ msgstr "Parallaxe"
+
+# @ js_composer
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Simple"
+#~ msgstr "Simple"
+
+#~ msgid "With fade"
+#~ msgstr "Avec fondu"
+
+# @ js_composer
+#~ msgid "Image"
+#~ msgstr "Image"
+
+# @ js_composer
+#~ msgid "Select image from media library."
+#~ msgstr "Sélectionnez une image depuis la bibliothèque de médias."
+
+#~ msgid "Parallax speed"
+#~ msgstr "Vitesse de parallaxe"
+
+#~ msgid "Inner Row"
+#~ msgstr "Rangée intérieure"
+
+#~ msgid "Row ID"
+#~ msgstr "ID de la rangée"
+
+#~ msgid "link"
+#~ msgstr "lien"
+
+#~ msgid "Equal height"
+#~ msgstr "Hauteur égale"
+
+#~ msgid "If checked columns will be set to equal height."
+#~ msgstr "Si coché, les colonnes seront de hauteur égale."
+
+#, fuzzy
+#~| msgid "If checked columns will be set to equal height."
+#~ msgid "If checked columns will be reversed in RTL."
+#~ msgstr "Si coché, les colonnes seront de hauteur égale."
+
+#~ msgid "Content position"
+#~ msgstr "Position du contenu"
+
+#~ msgid "Default"
+#~ msgstr "Par défaut"
+
+#~ msgid "Middle"
+#~ msgstr "Milieu"
+
+#~ msgid "Select content position within columns."
+#~ msgstr "Sélectionnez la position du contenu dans les colonnes."
+
+#~ msgid "Columns gap"
+#~ msgstr "Écart entre les colonnes"
+
+#~ msgid "Select gap between columns in row."
+#~ msgstr "Sélectionnez l’écart entre les colonnes d’une rangée."
+
+#~ msgid "Disable row"
+#~ msgstr "Désactiver la rangée"
+
+# @ js_composer
+#~ msgid "Row"
+#~ msgstr "Rangée"
+
+# @ js_composer
+#~ msgid "Place content elements inside the row"
+#~ msgstr "Pour placer les éléments de contenu"
+
+#~ msgid "Row stretch"
+#~ msgstr "Étirement de la rangée"
+
+#~ msgid "Stretch row"
+#~ msgstr "Étirer la rangée"
+
+#~ msgid "Stretch row and content"
+#~ msgstr "Étirer la rangée et le contenu"
+
+#~ msgid "Full height row?"
+#~ msgstr "Rangée en pleine hauteur ?"
+
+#~ msgid "If checked row will be set to full height."
+#~ msgstr "Si coché, la rangée occupera toute la hauteur."
+
+#~ msgid "Columns position"
+#~ msgstr "Position des colonnes"
+
+#~ msgid "Stretch"
+#~ msgstr "Étirer"
+
+# @ js_composer
+#~ msgid "Section"
+#~ msgstr "Section"
+
+#~ msgid "Section stretch"
+#~ msgstr "Étirement de section"
+
+#~ msgid "Stretch section"
+#~ msgstr "Étirer la section"
+
+#~ msgid "Full height section?"
+#~ msgstr "Section en pleine hauteur ?"
+
+#~ msgid "Section ID"
+#~ msgstr "ID de la section"
+
+#~ msgid "Disable section"
+#~ msgstr "Désactiver la section"
+
+# @ js_composer
+#~ msgid "Text Block"
+#~ msgstr "Bloc de texte"
+
+# @ js_composer
+#~ msgid "A block of text with WYSIWYG editor"
+#~ msgstr "Un bloc de texte avec l'éditeur visuel"
+
+# @ js_composer
+#, fuzzy
+#~| msgid ""
+#~| "<p>I am text block. Click edit button to change this text. Lorem ipsum "
+#~| "dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~| "ullamcorper mattis, pulvinar dapibus leo.</p>"
+#~ msgid ""
+#~ "I am text block. Click edit button to change this text. Lorem ipsum dolor "
+#~ "sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~ "ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr ""
+#~ "<p>Je suis un bloc de texte, cliquez sur le bouton \\\"éditer\\\" pour me "
+#~ "modifier. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut "
+#~ "elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>"
+
+# @ js_composer
+#~ msgid "Empty Space"
+#~ msgstr "Espace vide"
+
+#~ msgid "Blank space with custom height"
+#~ msgstr "Espace vide à hauteur personnalisée"
+
+# @ js_composer
+#~ msgid "Height"
+#~ msgstr "Hauteur"
+
+# @ js_composer
+#~ msgid "Flickr Widget"
+#~ msgstr "Widget Flickr"
+
+#~ msgid "Image feed from Flickr account"
+#~ msgstr "Flux d’images d’un compte Flickr"
+
+# @ js_composer
+#~ msgid "Widget title"
+#~ msgstr "Titre du widget"
+
+# @ js_composer
+#~ msgid "Flickr ID"
+#~ msgstr "Identifiant Flickr"
+
+# @ js_composer
+#, php-format
+#~ msgid "To find your flickID visit %s."
+#~ msgstr "Pour trouver votre identifiant Flickr, visitez %s."
+
+# @ js_composer
+#~ msgid "Number of photos"
+#~ msgstr "Nombre de photos"
+
+#~ msgid "Select number of photos to display."
+#~ msgstr "Sélectionnez le nombre de photos à afficher."
+
+# @ js_composer
+#~ msgid "Type"
+#~ msgstr "Type"
+
+# @ js_composer
+#~ msgid "User"
+#~ msgstr "Utilisateur"
+
+# @ js_composer
+#~ msgid "Group"
+#~ msgstr "Groupe"
+
+#~ msgid "Select photo stream type."
+#~ msgstr "Sélectionnez le type de flux de photos."
+
+#~ msgid "Display order"
+#~ msgstr "Ordre d’affichage"
+
+#~ msgid "Latest first"
+#~ msgstr "La dernière en premier"
+
+# @ js_composer
+#~ msgid "Random"
+#~ msgstr "Aléatoire"
+
+#~ msgid "Select photo display order."
+#~ msgstr "Sélectionnez l’ordre d’affichage des photos."
+
+# @ js_composer
+#~ msgid "Image Gallery"
+#~ msgstr "Galerie d'images"
+
+# @ js_composer
+#~ msgid "Responsive image gallery"
+#~ msgstr "Galerie d'images responsive"
+
+# @ js_composer
+#~ msgid "Gallery type"
+#~ msgstr "Type de galerie"
+
+# @ js_composer
+#~ msgid "Flex slider fade"
+#~ msgstr "Fondu Flex Slider"
+
+# @ js_composer
+#~ msgid "Flex slider slide"
+#~ msgstr "Slide Flex Slider"
+
+# @ js_composer
+#~ msgid "Nivo slider"
+#~ msgstr "Nivo Slider"
+
+# @ js_composer
+#~ msgid "Image grid"
+#~ msgstr "Grille d'images"
+
+# @ js_composer
+#~ msgid "Select gallery type."
+#~ msgstr "Sélectionnez le type de galerie."
+
+#~ msgid "Auto rotate"
+#~ msgstr "Rotation automatique"
+
+# @ js_composer
+#~ msgid "Disable"
+#~ msgstr "Désactiver"
+
+# @ js_composer
+#~ msgid "Auto rotate slides each X seconds."
+#~ msgstr "Rotation automatique des diapos toutes les x secondes."
+
+#~ msgid "Image source"
+#~ msgstr "Source de l’image"
+
+#~ msgid "Media library"
+#~ msgstr "Bibliothèque de médias"
+
+#~ msgid "External links"
+#~ msgstr "Liens externes"
+
+#~ msgid "Select image source."
+#~ msgstr "Sélectionnez la source de l’image."
+
+# @ js_composer
+#~ msgid "Images"
+#~ msgstr "Images"
+
+# @ js_composer
+#~ msgid "Select images from media library."
+#~ msgstr "Sélectionnez des images de la bibliothèque de médias."
+
+# @ js_composer
+#~ msgid "Image size"
+#~ msgstr "Taille de l'image"
+
+# @ js_composer
+#~ msgid ""
+#~ "Enter image size. Example: thumbnail, medium, large, full or other sizes "
+#~ "defined by current theme. Alternatively enter image size in pixels: "
+#~ "200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+#~ msgstr ""
+#~ "Entrez la taille de l'image. Exemple :  \"thumbnail\", \"medium\", \"large"
+#~ "\", \"full\" ou toute autre taille définie par le thème actuel. Vous "
+#~ "pouvez si vous le souhaitez saisir une taille en pixels : 200x100 "
+#~ "(Largeur x Hauteur). Laissez vide pour utiliser la taille de miniature "
+#~ "par défaut."
+
+#~ msgid "On click action"
+#~ msgstr "Action au clic"
+
+#~ msgid "Link to large image"
+#~ msgstr "Lier à l’image originale"
+
+# @ js_composer
+#~ msgid "Open custom link"
+#~ msgstr "Ouvrir le lien personnalisé"
+
+#~ msgid "Select action for click action."
+#~ msgstr "Sélectionnez une action pour le clic."
+
+# @ js_composer
+#~ msgid "Custom links"
+#~ msgstr "Liens personnalisés"
+
+#~ msgid ""
+#~ "Enter links for each slide (Note: divide links with linebreaks (Enter))."
+#~ msgstr ""
+#~ "Entrez les liens pour chaque diapositive (Sautez des lignes pour séparer "
+#~ "les liens (Entrée))."
+
+# @ js_composer
+#~ msgid "Custom link target"
+#~ msgstr "Cible du lien personnalisée"
+
+# @ js_composer
+#~ msgid "Select where to open  custom links."
+#~ msgstr "Sélectionnez comment ouvrir les liens personnalisés."
+
+# @ js_composer
+#~ msgid "Google Maps"
+#~ msgstr "Google Maps"
+
+# @ js_composer
+#~ msgid "Map block"
+#~ msgstr "Carte"
+
+# @ js_composer
+#~ msgid "Map embed iframe"
+#~ msgstr "Carte intégrée (iframe)"
+
+#~ msgid "Google maps"
+#~ msgstr "Google Maps"
+
+# @ js_composer
+#~ msgid "Map height"
+#~ msgstr "Hauteur de la carte"
+
+#~ msgid "Enter map height (in pixels or leave empty for responsive map)."
+#~ msgstr ""
+#~ "Entrez la hauteur de la carte (en pixels ou laissez vide pour une carte "
+#~ "adaptative)."
+
+#~ msgid "Primary Title"
+#~ msgstr "Titre principal"
+
+#~ msgid "Hover Title"
+#~ msgstr "Titre au survol"
+
+# @ js_composer
+#~ msgid "Primary title"
+#~ msgstr "Titre principal"
+
+# @ js_composer
+#, fuzzy
+#~ msgid "Primary title alignment"
+#~ msgstr "Alignement de l'image"
+
+# @ js_composer
+#~ msgid "Select text alignment for primary title."
+#~ msgstr "Sélectionnez l'alignement du texte."
+
+# @ js_composer
+#~ msgid "Hover title"
+#~ msgstr "Titre au survol"
+
+#, fuzzy
+#~ msgid "Hover title alignment"
+#~ msgstr "Alignement du texte"
+
+# @ js_composer
+#~ msgid "Select text alignment for hovered title."
+#~ msgstr "Sélectionnez l'alignement du titre survolé."
+
+# @ js_composer
+#, fuzzy
+#~ msgid ""
+#~ "Click edit button to change this text. Lorem ipsum dolor sit amet, "
+#~ "consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper "
+#~ "mattis, pulvinar dapibus leo."
+#~ msgstr ""
+#~ "Je suis un texte par défaut. Cliquez sur le bouton d'édition pour me "
+#~ "modifier.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut "
+#~ "elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#, fuzzy
+#~ msgid "Select block shape."
+#~ msgstr "Sélectionnez la forme du bouton."
+
+#~ msgid "Background Color"
+#~ msgstr "Couleur d’arrière-plan"
+
+#~ msgid "Select block width (percentage)."
+#~ msgstr "Sélectionnez la largeur du bloc (%)."
+
+# @ js_composer
+#~ msgid "Select block alignment."
+#~ msgstr "Sélectionnez l'alignement du bloc."
+
+# @ js_composer
+#~ msgid "Hover Button"
+#~ msgstr "Bouton survolé"
+
+# @ js_composer
+#~ msgid "Hover Box"
+#~ msgstr "Boîte survolée"
+
+# @ js_composer
+#~ msgid "Animated flip box with image and text"
+#~ msgstr "Boîte à contenus animée au survol"
+
+# @ js_composer
+#~ msgid "Image Carousel"
+#~ msgstr "Carrousel d'images"
+
+# @ js_composer
+#~ msgid "Animated carousel with images"
+#~ msgstr "Carrousel animé avec images"
+
+#~ msgid "Carousel size"
+#~ msgstr "Taille du carrousel"
+
+#~ msgid "Slider orientation"
+#~ msgstr "Sens du diaporama"
+
+# @ js_composer
+#~ msgid "Horizontal"
+#~ msgstr "Horizontal"
+
+# @ js_composer
+#~ msgid "Vertical"
+#~ msgstr "Vertical"
+
+#~ msgid "Select slider position (Note: this affects swiping orientation)."
+#~ msgstr ""
+#~ "Sélectionnez la position du diaporama (Cela affectera le sens de "
+#~ "transition)."
+
+# @ js_composer
+#~ msgid "Slider speed"
+#~ msgstr "Vitesse du diaporama"
+
+#~ msgid "Duration of animation between slides (in ms)."
+#~ msgstr "Durée de l’animation entre les diapositives (en ms)."
+
+# @ js_composer
+#~ msgid "Slides per view"
+#~ msgstr "Images par vue"
+
+#~ msgid "Enter number of slides to display at the same time."
+#~ msgstr "Entrez le nombre de diapositives à afficher en même temps."
+
+# @ js_composer
+#~ msgid "Slider autoplay"
+#~ msgstr "Lecture automatique du diaporama"
+
+#~ msgid "Enable autoplay mode."
+#~ msgstr "Activer la lecture automatique."
+
+# @ js_composer
+#~ msgid "Hide pagination control"
+#~ msgstr "Cacher les contrôles de pagination"
+
+#~ msgid "If checked, pagination controls will be hidden."
+#~ msgstr "Si coché, les contrôles de la pagination seront masqués."
+
+# @ js_composer
+#~ msgid "Hide prev/next buttons"
+#~ msgstr "Cacher les boutons précédent et suivant"
+
+#~ msgid "If checked, prev/next buttons will be hidden."
+#~ msgstr "Si coché, les boutons Préc./Suiv. seront masqués."
+
+# @ js_composer
+#~ msgid "Partial view"
+#~ msgstr "Vue partielle"
+
+#~ msgid "If checked, part of the next slide will be visible."
+#~ msgstr "Si coché, une partie de la diapositive suivante sera visible."
+
+# @ js_composer
+#~ msgid "Slider loop"
+#~ msgstr "Boucle du diaporama"
+
+#~ msgid "Enable slider loop mode."
+#~ msgstr "Activer la lecture en boucle."
+
+#~ msgid "Line Chart"
+#~ msgstr "Graphique linéaire"
+
+#~ msgid "Design"
+#~ msgstr "Design"
+
+#~ msgid "Line"
+#~ msgstr "Ligne"
+
+#~ msgid "Bar"
+#~ msgstr "Barre"
+
+#~ msgid "Select type of chart."
+#~ msgstr "Sélectionnez le type de graphique."
+
+#~ msgid "Show legend?"
+#~ msgstr "Afficher la légende ?"
+
+#~ msgid "If checked, chart will have legend."
+#~ msgstr "Si coché, le graphique sera légendé."
+
+#~ msgid "Show hover values?"
+#~ msgstr "Afficher les valeurs au survol ?"
+
+#~ msgid "X-axis values"
+#~ msgstr "Valeurs des abscisses"
+
+#~ msgid "Values"
+#~ msgstr "Valeurs"
+
+#~ msgid "One"
+#~ msgstr "Un"
+
+#~ msgid "Two"
+#~ msgstr "Deux"
+
+# @ js_composer
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "Y-axis values"
+#~ msgstr "Valeurs des ordonnées"
+
+# @ js_composer
+#~ msgid "Custom color"
+#~ msgstr "Couleur personnalisée"
+
+#~ msgid "Animation"
+#~ msgstr "Animation"
+
+# @ js_composer
+#~ msgid "Informational"
+#~ msgstr "INformation"
+
+# @ js_composer
+#~ msgid "Warning"
+#~ msgstr "Avertissement"
+
+# @ js_composer
+#~ msgid "Success"
+#~ msgstr "Succès"
+
+# @ js_composer
+#~ msgid "Error"
+#~ msgstr "Erreur"
+
+#~ msgid "Informational Classic"
+#~ msgstr "Informatif classique"
+
+#~ msgid "Warning Classic"
+#~ msgstr "Avertissement classique"
+
+#~ msgid "Success Classic"
+#~ msgstr "Succès classique"
+
+#~ msgid "Error Classic"
+#~ msgstr "Erreur classique"
+
+# @ js_composer
+#~ msgid "Message Box"
+#~ msgstr "Boîte de message"
+
+# @ js_composer
+#~ msgid "Notification box"
+#~ msgstr "Boite de notification"
+
+#~ msgid "Message Box Presets"
+#~ msgstr "Pré-réglages de la boîte de message"
+
+#~ msgid "Select message box shape."
+#~ msgstr "Sélectionnez la forme de la boîte."
+
+#~ msgid "Select message box color."
+#~ msgstr "Sélectionnez la couleur de la boîte du message."
+
+#~ msgid "Icon library"
+#~ msgstr "Bibliothèque d’icône"
+
+#, fuzzy
+#~| msgid "Font Awesome"
+#~ msgid "Font Awesome 5"
+#~ msgstr "Font Awesome"
+
+#~ msgid "Typicons"
+#~ msgstr "Typions"
+
+#~ msgid "Entypo"
+#~ msgstr "Entypo"
+
+#~ msgid "Linecons"
+#~ msgstr "Linecons"
+
+#~ msgid "Mono Social"
+#~ msgstr "Mono social"
+
+#, fuzzy
+#~| msgid "Select icon library."
+#~ msgid "Choose icon library."
+#~ msgstr "Sélectionnez une bibliothèque d’icônes."
+
+#, fuzzy
+#~| msgid "Select icon from library."
+#~ msgid "Choose icon from library."
+#~ msgstr "Sélectionnez une icône de la bibliothèque."
+
+# @ js_composer
+#~ msgid "Message text"
+#~ msgstr "Message texte"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "<p>I am message box. Click edit button to change this text.</p>"
+#~ msgid "I am message box. Click edit button to change this text."
+#~ msgstr ""
+#~ "<p>Je suis une boite de message. Cliquez sur le bouton d'édition pour "
+#~ "modifier ce texte.</p>"
+
+#~ msgid "Pie Chart"
+#~ msgstr "Camembert"
+
+# @ js_composer
+#~ msgid "Animated pie chart"
+#~ msgstr "Diagramme circulaire animé"
+
+#~ msgid "Value"
+#~ msgstr "Valeur"
+
+#~ msgid "Label value"
+#~ msgstr "Valeur de l’étiquette"
+
+# @ js_composer
+#~ msgid "Units"
+#~ msgstr "Unités"
+
+# @ js_composer
+#~ msgid "Select pie chart color."
+#~ msgstr "Choisissez une couleur pour le camembert."
+
+#~ msgid "Select custom color."
+#~ msgstr "Sélectionnez une couleur personnalisée."
+
+# @ js_composer
+#~ msgid "Posts Slider"
+#~ msgstr "Diaporama d'articles"
+
+# @ js_composer
+#~ msgid "Slider with WP Posts"
+#~ msgstr "Diaporama d’articles WordPress"
+
+# @ js_composer
+#~ msgid "Slider type"
+#~ msgstr "Type de slider"
+
+# @ js_composer
+#~ msgid "Select slider type."
+#~ msgstr "Sélectionnez le type de diaporama."
+
+# @ js_composer
+#~ msgid "Post types"
+#~ msgstr "Types de post"
+
+#~ msgid "Select source for slider."
+#~ msgstr "Sélectionnez une source pour le diaporama."
+
+# @ js_composer
+#~ msgid "Description"
+#~ msgstr "Description"
+
+# @ js_composer
+#~ msgid "No description"
+#~ msgstr "Pas de description"
+
+# @ js_composer
+#~ msgid "Teaser (Excerpt)"
+#~ msgstr "Résumé (extrait)"
+
+#~ msgid ""
+#~ "Select source to use for description (Note: some sliders do not support "
+#~ "it)."
+#~ msgstr ""
+#~ "Sélectionnez la source à utiliser pour la description (Notez que certains "
+#~ "diaporamas ne le supportent pas)."
+
+# @ js_composer
+#~ msgid "Output post title?"
+#~ msgstr "Afficher le titre de l’article ?"
+
+# @ js_composer
+#~ msgid "If selected, title will be printed before the teaser text."
+#~ msgstr "Si sélectionné, le titre sera affiché avant le résumé."
+
+# @ js_composer
+#~ msgid "Link"
+#~ msgstr "Lien"
+
+# @ js_composer
+#~ msgid "Link to post"
+#~ msgstr "Lien vers l'article"
+
+# @ js_composer
+#~ msgid "Link to bigger image"
+#~ msgstr "Lien vers une plus grande image"
+
+# @ js_composer
+#~ msgid "No link"
+#~ msgstr "Pas de lien"
+
+# @ js_composer
+#~ msgid "Link type."
+#~ msgstr "Type de lien."
+
+# @ js_composer
+#~ msgid ""
+#~ "Enter links for each slide here. Divide links with linebreaks (Enter)."
+#~ msgstr "Entrez les liens pour chaque slide ici"
+
+# @ js_composer
+#~ msgid "Thumbnail size"
+#~ msgstr "Taille de la miniature"
+
+# @ js_composer
+#~ msgid ""
+#~ "Enter thumbnail size. Example: thumbnail, medium, large, full or other "
+#~ "sizes defined by current theme. Alternatively enter image size in pixels: "
+#~ "200x100 (Width x Height) . "
+#~ msgstr ""
+#~ "Saisissez la tailles des miniatures. Exemple : thumbnail, medium, large, "
+#~ "full ou d'autres tailles définies par votre theme actuel. Vous pouvez "
+#~ "également définir une taille en pixels : 200x100 (Largeur x Hauteur) . "
+
+# @ js_composer
+#~ msgid "Post/Page IDs"
+#~ msgstr "ID des articles/pages"
+
+# @ js_composer
+# @ default
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid ""
+#~ "Enter categories by names to narrow output (Note: only listed categories "
+#~ "will be displayed, divide categories with linebreak (Enter))."
+#~ msgstr ""
+#~ "Entrez les catégories par nom pour afficher l’affichage (Notez que seules "
+#~ "les catégories listées seront affichées. Séparez-les avec un saut de "
+#~ "ligne (Entrée))."
+
+# @ js_composer
+#~ msgid "Order by"
+#~ msgstr "Trier par"
+
+# @ js_composer
+#~ msgid "Date"
+#~ msgstr "Date"
+
+# @ js_composer
+#~ msgid "ID"
+#~ msgstr "ID"
+
+# @ js_composer
+#~ msgid "Author"
+#~ msgstr "Auteur"
+
+# @ js_composer
+#~ msgid "Modified"
+#~ msgstr "Modifié"
+
+# @ js_composer
+#~ msgid "Comment count"
+#~ msgstr "Décompte des commentaires"
+
+# @ js_composer
+#~ msgid "Menu order"
+#~ msgstr "Ordre du menu"
+
+# @ js_composer
+#, php-format
+#~ msgid "Select how to sort retrieved posts. More at %s."
+#~ msgstr "Sélectionnez comment arranger les articles trouvés. Plus dans  %s."
+
+#~ msgid "Sort order"
+#~ msgstr "Ordre de tri"
+
+# @ js_composer
+#~ msgid "Descending"
+#~ msgstr "Descendant"
+
+# @ js_composer
+#~ msgid "Ascending"
+#~ msgstr "Ascendant"
+
+#, php-format
+#~ msgid "Select ascending or descending order. More at %s."
+#~ msgstr ""
+#~ "Sélectionnez un ordre de tri ascendant ou descendant. Plus d’informations "
+#~ "à %s."
+
+# @ js_composer
+#~ msgid "Custom Color"
+#~ msgstr "Couleur personnalisée"
+
+# @ js_composer
+#~ msgid "Progress Bar"
+#~ msgstr "Barre de progression"
+
+# @ js_composer
+#~ msgid "Animated progress bar"
+#~ msgstr "Barre de progression animée"
+
+#~ msgid "Development"
+#~ msgstr "Développement"
+
+#~ msgid "Marketing"
+#~ msgstr "Marketing"
+
+#~ msgid "Label"
+#~ msgstr "Étiquette"
+
+#~ msgid "Custom text color"
+#~ msgstr "Couleur de texte personnalisée"
+
+# @ js_composer
+#~ msgid "Select bar background color."
+#~ msgstr "Sélectionnez la couleur de fond de la barre."
+
+# @ js_composer
+#~ msgid "Select custom background color for bars."
+#~ msgstr "Sélectionnez une couleur de fond personnalisée pour les barres."
+
+# @ js_composer
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid "Add stripes"
+#~ msgstr "Ajouter des rayures"
+
+#~ msgid "Add animation (Note: visible only with striped bar)."
+#~ msgstr ""
+#~ "Ajouter une animation (Visible seulement sur des barres avec rayures)."
+
+#~ msgid "Round Chart"
+#~ msgstr "Camembert"
+
+#~ msgid "Pie"
+#~ msgstr "Camembert"
+
+#~ msgid "Doughnut"
+#~ msgstr "Donut"
+
+#~ msgid "Gap"
+#~ msgstr "Espacement"
+
+#~ msgid "Outline color"
+#~ msgstr "Couleur du contour"
+
+# @ js_composer
+#~ msgid "Separator"
+#~ msgstr "Séparateur"
+
+# @ js_composer
+#~ msgid "Horizontal separator line"
+#~ msgstr "Ligne de séparation horizontale"
+
+# @ js_composer
+#~ msgid "Custom Border Color"
+#~ msgstr "Couleur de bordure personnalisée"
+
+# @ js_composer
+#~ msgid "Select border color for your element."
+#~ msgstr "Sélectionnez la couleur de bordure de votre élément"
+
+#~ msgid "Border width"
+#~ msgstr "Largeur de bordure"
+
+#~ msgid "Select border width (pixels)."
+#~ msgstr "Sélectionnez la largeur de la bordure (pixels)."
+
+# @ js_composer
+#~ msgid "Element width"
+#~ msgstr "Largeur de l'élément"
+
+#~ msgid "Select separator width (percentage)."
+#~ msgstr "Sélectionnez la largeur du séparateur (%)."
+
+# @ js_composer
+#~ msgid "Single Image"
+#~ msgstr "Image seule"
+
+# @ js_composer
+#~ msgid "Simple image with CSS animation"
+#~ msgstr "Image simple avec animation CSS"
+
+#~ msgid "External link"
+#~ msgstr "Lien externe"
+
+#~ msgid "Featured Image"
+#~ msgstr "Image à la une"
+
+#~ msgid "Select external link."
+#~ msgstr "Sélectionnez un lien externe."
+
+#~ msgid "Caption"
+#~ msgstr "Légende"
+
+#~ msgid "Add caption?"
+#~ msgstr "Ajouter une légende ?"
+
+#~ msgid "Add image caption."
+#~ msgstr "Ajoutez une légende pour l’image."
+
+# @ js_composer
+#~ msgid "Image alignment"
+#~ msgstr "Alignement de l'image"
+
+# @ js_composer
+#~ msgid "Select image alignment."
+#~ msgstr "Sélectionner l'alignement d'image"
+
+# @ js_composer
+#~ msgid "Image style"
+#~ msgstr "Style de l’image"
+
+#~ msgid "Select image display style."
+#~ msgstr "Sélectionnez un style d’affichage pour l’image."
+
+# @ js_composer
+#~ msgid "Border color"
+#~ msgstr "Couleur de bordure"
+
+# @ js_composer
+#~ msgid "Border color."
+#~ msgstr "Couleur de bordure."
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+# @ js_composer
+#~ msgid "Image link"
+#~ msgstr "Lien de l'image"
+
+#~ msgid ""
+#~ "Enter URL if you want this image to have a link (Note: parameters like "
+#~ "\"mailto:\" are also accepted)."
+#~ msgstr ""
+#~ "Entrez une URL si vous souhaitez que cette image ait un lien (Les "
+#~ "paramètres tels que « mailto: » sont aussi supportés)."
+
+# @ js_composer
+#~ msgid "Link Target"
+#~ msgstr "Cible du lien"
+
+# @ js_composer
+#~ msgid "Separator with Text"
+#~ msgstr "Séparateur avec texte"
+
+# @ js_composer
+#~ msgid "Horizontal separator line with heading"
+#~ msgstr "Ligne de séparation avec en-tête"
+
+#~ msgid "Add text to separator."
+#~ msgstr "Ajoutez un texte au séparateur."
+
+# @ js_composer
+#~ msgid "Title position"
+#~ msgstr "Position du titre"
+
+# @ js_composer
+#~ msgid "Select title location."
+#~ msgstr "Sélectionnez l'emplacement du titre."
+
+#~ msgid "Separator alignment"
+#~ msgstr "Alignement du séparateur"
+
+# @ js_composer
+#~ msgid "Custom separator color for your element."
+#~ msgstr "Couleur de séparateur personnalisée."
+
+# @ js_composer
+#~ msgid "Separator element width in percents."
+#~ msgstr "Largeur du séparateur en pourcentage."
+
+# @ js_composer
+#~ msgid "Toggle title"
+#~ msgstr "Basculer le titre"
+
+# @ js_composer
+#~ msgid "Toggle content"
+#~ msgstr "Basculer le contenu"
+
+# @ js_composer
+#, fuzzy
+#~| msgid ""
+#~| "<p>Toggle content goes here, click edit button to change this text.</p>"
+#~ msgid "Toggle content goes here, click edit button to change this text."
+#~ msgstr ""
+#~ "<p>Le contenu à dévoiler se place ici, changez ce texte par le votre</p>"
+
+# @ js_composer
+#~ msgid "Toggle block content."
+#~ msgstr "Basculer le block de contenu"
+
+#~ msgid "Icon color"
+#~ msgstr "Couleur de l’icône"
+
+#~ msgid "Select icon color."
+#~ msgstr "Sélectionnez la couleur de l’icône."
+
+# @ js_composer
+#~ msgid "Default state"
+#~ msgstr "État par défaut"
+
+# @ js_composer
+#~ msgid "Closed"
+#~ msgstr "Fermé"
+
+# @ js_composer
+#~ msgid "Open"
+#~ msgstr "Ouvert"
+
+# @ js_composer
+#~ msgid "Select \"Open\" if you want toggle to be open by default."
+#~ msgstr ""
+#~ "Sélectionnez « Ouvert » si vous souhaitez que le contenu soit visible par "
+#~ "défaut."
+
+# @ js_composer
+#~ msgid "FAQ"
+#~ msgstr "Foire aux questions"
+
+# @ js_composer
+#~ msgid "Toggle element for Q&A block"
+#~ msgstr "Élément rétractable pour FAQ"
+
+# @ js_composer
+#~ msgid "Video Player"
+#~ msgstr "Lecteur vidéo"
+
+# @ js_composer
+#~ msgid "Embed YouTube/Vimeo player"
+#~ msgstr "Lecteur Youtube/Vimeo intégré"
+
+# @ js_composer
+#~ msgid "Video link"
+#~ msgstr "Lien vidéo"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Enter link to video (Note: read more about available formats at "
+#~| "WordPress <a href=\"%s\" target=\"_blank\">codex page</a>)."
+#~ msgid ""
+#~ "Enter link to video (Note: read more about available formats at WordPress "
+#~ "%scodex page%s)."
+#~ msgstr ""
+#~ "Entrez le lien de la vidéo (Plus d’informations sur les formats "
+#~ "disponibles sur la <a href=\"%s\" target=\"_blank\">page du codex</a> "
+#~ "WordPress)."
+
+#, fuzzy
+#~| msgid "Video section"
+#~ msgid "Video aspect ratio"
+#~ msgstr "Section vidéo"
+
+# @ js_composer
+#~ msgid "ZigZag Separator"
+#~ msgstr "Séparateur en zig-zag"
+
+# @ js_composer
+#~ msgid "Horizontal zigzag separator line"
+#~ msgstr "Ligne de séparation horizontale"
+
+# @ js_composer
+#~ msgid "Select color for your element."
+#~ msgstr "Sélectionnez la couleur de votre élément"
+
+#~ msgid "Extra small"
+#~ msgstr "Très petit"
+
+# @ js_composer
+#~ msgid "Small"
+#~ msgstr "Petit"
+
+# @ js_composer
+#~ msgid "Medium"
+#~ msgstr "Moyen"
+
+# @ js_composer
+#~ msgid "Large"
+#~ msgstr "Large"
+
+#~ msgid "Extra large"
+#~ msgstr "Très grande"
+
+#~ msgid "Select separator border width."
+#~ msgstr "Sélectionnez l’épaisseur de la ligne."
+
+# @ js_composer
+#~ msgid "Custom Heading"
+#~ msgstr "En-tête personnalisée"
+
+#~ msgid "Text with Google fonts"
+#~ msgstr "Texte avec polices Google"
+
+#~ msgid "Text source"
+#~ msgstr "Source du texte"
+
+#~ msgid "Custom text"
+#~ msgstr "Texte personnalisé"
+
+#~ msgid "Post or Page Title"
+#~ msgstr "Titre de l’article ou de la page"
+
+#~ msgid "Select text source."
+#~ msgstr "Sélectionnez la source du texte."
+
+# @ js_composer
+#~ msgid "Select element tag."
+#~ msgstr "Sélectionner un tag (mot clé) pour l'élément"
+
+# @ js_composer
+#~ msgid "Select text alignment."
+#~ msgstr "Sélectionnez l'alignement du texte"
+
+# @ js_composer
+#~ msgid "Enter font size."
+#~ msgstr "Entrez la taille de police."
+
+# @ js_composer
+#~ msgid "Enter line height."
+#~ msgstr "Entrez la hauteur de ligne."
+
+#~ msgid "Select heading color."
+#~ msgstr "Sélectionnez une couleur pour l’en-tête."
+
+#~ msgid "Use theme default font family?"
+#~ msgstr "Utiliser la police de caractères par défaut du thème ?"
+
+# @ js_composer
+#~ msgid "Select font family."
+#~ msgstr "Sélectionnez la famille de police."
+
+# @ js_composer
+#~ msgid "Select font styling."
+#~ msgstr "Sélectionnez le style de police."
+
+#~ msgid "Eye catching icons from libraries"
+#~ msgstr "Icônes soignées de diverses sources"
+
+#~ msgid "Select icon library."
+#~ msgstr "Sélectionnez une bibliothèque d’icônes."
+
+#~ msgid "Circle"
+#~ msgstr "Cercle"
+
+# @ js_composer
+#~ msgid "Collapsible content panels"
+#~ msgstr "Section de contenus rétractables"
+
+# @ js_composer
+#~ msgid "Active section"
+#~ msgstr "Section active"
+
+# @ js_composer
+#~ msgid "Add section"
+#~ msgstr "Ajouter une section"
+
+# @ js_composer
+#~ msgid "Section 1"
+#~ msgstr "Section 1"
+
+# @ js_composer
+#~ msgid "Section 2"
+#~ msgstr "Section 2"
+
+# @ js_composer
+#~ msgid "Target"
+#~ msgstr "Cible"
+
+# @ js_composer
+#~ msgid "Select button size."
+#~ msgstr "Sélectionnez la taille du bouton."
+
+# @ js_composer
+#~ msgid "Click edit button to change this text."
+#~ msgstr "Cliquer sur éditer le bouton pour changer son texte"
+
+# @ js_composer
+#~ msgid "Button position"
+#~ msgstr "Position du bouton"
+
+# @ js_composer
+#~ msgid "Google+ Button"
+#~ msgstr "Bouton Google+"
+
+# @ js_composer
+#~ msgid "Social"
+#~ msgstr "Réseaux sociaux"
+
+# @ js_composer
+#~ msgid "Recommend on Google"
+#~ msgstr "Recommander sur Google"
+
+# @ js_composer
+#~ msgid "Button size"
+#~ msgstr "Taille du bouton"
+
+# @ js_composer
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+# @ js_composer
+#~ msgid "Tall"
+#~ msgstr "Grand"
+
+# @ js_composer
+#~ msgid "Annotation"
+#~ msgstr "Annotation"
+
+# @ js_composer
+#~ msgid "Bubble"
+#~ msgstr "Bulle"
+
+#~ msgid "Select type of annotation."
+#~ msgstr "Sélectionnez le type d’annotation."
+
+#~ msgid ""
+#~ "Minimum width of 120px to display. If annotation is set to \"inline\", "
+#~ "this parameter sets the width in pixels to use for button and its inline "
+#~ "annotation. Default width is 450px."
+#~ msgstr ""
+#~ "Largeur minimale d’affichage de 120px. Si l’annotation est définie sur "
+#~ "« inline » "
+
+# @ js_composer
+#~ msgid "Tab ID"
+#~ msgstr "ID de l'onglet"
+
+# @ js_composer
+#~ msgid "Tabbed content"
+#~ msgstr "Contenu par onglets"
+
+# @ js_composer
+#~ msgid "Auto rotate tabs each X seconds."
+#~ msgstr "Auto-rotation des onglets chaque X secondes"
+
+# @ js_composer
+#~ msgid "Tab 1"
+#~ msgstr "Onglet 1"
+
+# @ js_composer
+#~ msgid "Tab 2"
+#~ msgstr "Onglet 2"
+
+# @ js_composer
+#~ msgid "Vertical tabbed content"
+#~ msgstr "Contenus par onglets verticaux"
+
+# @ js_composer
+#~ msgid "Auto rotate slides"
+#~ msgstr "Slides en auto-rotation"
+
+#~ msgid "Display Style"
+#~ msgstr "Style d’affichage"
+
+# @ js_composer
+#~ msgid "Show all"
+#~ msgstr "Montrer tout"
+
+# @ js_composer
+#~ msgid "Show filter"
+#~ msgstr "Afficher le filtre"
+
+# @ js_composer
+#~ msgid "Offset"
+#~ msgstr "Décalage"
+
+# @ js_composer
+#~ msgid "Exclude"
+#~ msgstr "Exclure"
+
+#~ msgid "Exclude posts, pages, etc. by title."
+#~ msgstr "Exclure les articles, pages, etc. par titre."
+
+#~ msgid "Filter by"
+#~ msgstr "Filtrer par"
+
+#~ msgid "Filter"
+#~ msgstr "Filtre"
+
+# @ js_composer
+#~ msgid "Border"
+#~ msgstr "Bordure"
+
+#~ msgid "Filled"
+#~ msgstr "Rempli"
+
+# @ js_composer
+#~ msgid "Dropdown"
+#~ msgstr "Menu déroulant"
+
+# @ js_composer
+#~ msgid "All"
+#~ msgstr "Tous"
+
+#~ msgid "Filter size"
+#~ msgstr "Taille du filtre"
+
+#~ msgid "Arrows design"
+#~ msgstr "Apparence des flèches"
+
+#~ msgid "Simple Square"
+#~ msgstr "Carré simple"
+
+#~ msgid "Simple Rounded"
+#~ msgstr "Arrondi simple"
+
+#~ msgid "Rounded Circle"
+#~ msgstr "Cercle arrondi"
+
+#~ msgid "Simple Arrow"
+#~ msgstr "Flèche simple"
+
+#~ msgid "Arrows position"
+#~ msgstr "Position des flèches"
+
+#~ msgid "Inside Wrapper"
+#~ msgstr "À l’intérieur du conteneur"
+
+#~ msgid "Outside Wrapper"
+#~ msgstr "À l’extérieur du conteneur"
+
+#~ msgid "Arrows color"
+#~ msgstr "Couleur des flèches"
+
+#~ msgid "Pagination style"
+#~ msgstr "Style de pagination"
+
+#~ msgid "Loop pages?"
+#~ msgstr "Pages en boucle ?"
+
+# @ js_composer
+#~ msgid "Button style"
+#~ msgstr "Style du bouton"
+
+#~ msgid "Fade In"
+#~ msgstr "Fondu entrant"
+
+# @ js_composer
+#~ msgid "Same window"
+#~ msgstr "Même fenêtre"
+
+# @ js_composer
+#~ msgid "New window"
+#~ msgstr "Nouvelle fenêtre"
+
+#~ msgid "Alert"
+#~ msgstr "Alerte"
+
+#~ msgid "Info"
+#~ msgstr "Informations"
+
+#~ msgid "Tick"
+#~ msgstr "Coche"
+
+#~ msgid "Explanation"
+#~ msgstr "Explication"
+
+#~ msgid "Address book"
+#~ msgstr "Carnet d'adresses"
+
+#~ msgid "Alarm clock"
+#~ msgstr "Réveil"
+
+#~ msgid "Anchor"
+#~ msgstr "Ancre"
+
+#~ msgid "Application Image"
+#~ msgstr "Icône d'application"
+
+#~ msgid "Arrow"
+#~ msgstr "Flèche"
+
+#~ msgid "Asterisk"
+#~ msgstr "Astérisque"
+
+#~ msgid "Hammer"
+#~ msgstr "Marteau"
+
+#~ msgid "Balloon"
+#~ msgstr "Ballon"
+
+#~ msgid "Balloon Buzz"
+#~ msgstr "Bulle buzz"
+
+#~ msgid "Balloon Facebook"
+#~ msgstr "Bulle Facebook"
+
+#~ msgid "Balloon Twitter"
+#~ msgstr "Bulle Twitter"
+
+#~ msgid "Battery"
+#~ msgstr "Pile"
+
+#~ msgid "Binocular"
+#~ msgstr "Jumelles"
+
+#~ msgid "Document Excel"
+#~ msgstr "Fichier Excel"
+
+#~ msgid "Document Image"
+#~ msgstr "Fichier image"
+
+#~ msgid "Document Music"
+#~ msgstr "Fichier audio"
+
+#~ msgid "Document Office"
+#~ msgstr "Document Office"
+
+#~ msgid "Document PDF"
+#~ msgstr "Fichier PDF"
+
+#~ msgid "Document Powerpoint"
+#~ msgstr "Fichier PowerPoint"
+
+#~ msgid "Document Word"
+#~ msgstr "Fichier Word"
+
+#~ msgid "Bookmark"
+#~ msgstr "Favori"
+
+#~ msgid "Camcorder"
+#~ msgstr "Caméscope"
+
+#~ msgid "Camera"
+#~ msgstr "Appareil photo"
+
+#~ msgid "Chart"
+#~ msgstr "Graphique"
+
+#~ msgid "Chart pie"
+#~ msgstr "Camembert"
+
+#~ msgid "Clock"
+#~ msgstr "Horloge"
+
+#~ msgid "Fire"
+#~ msgstr "Incendie"
+
+#~ msgid "Heart"
+#~ msgstr "Cœur"
+
+#~ msgid "Mail"
+#~ msgstr "Enveloppe"
+
+#~ msgid "Play"
+#~ msgstr "Jeu"
+
+#~ msgid "Shield"
+#~ msgstr "Bouclier"
+
+#~ msgid "Video"
+#~ msgstr "Vidéo"
+
+# @ js_composer
+#~ msgid "Grey"
+#~ msgstr "Gris"
+
+# @ js_composer
+#~ msgid "Blue"
+#~ msgstr "Bleu"
+
+# @ js_composer
+#~ msgid "Turquoise"
+#~ msgstr "Turquoise"
+
+# @ js_composer
+#~ msgid "Green"
+#~ msgstr "Vert"
+
+# @ js_composer
+#~ msgid "Orange"
+#~ msgstr "Orange"
+
+# @ js_composer
+#~ msgid "Red"
+#~ msgstr "Rouge"
+
+# @ js_composer
+#~ msgid "Black"
+#~ msgstr "Noir"
+
+#~ msgid "Regular"
+#~ msgstr "Normal"
+
+# @ js_composer
+#~ msgid "Mini"
+#~ msgstr "Très petit"
+
+# @ js_composer
+#~ msgid "Address book icon"
+#~ msgstr "Icone de carnet d'adresse"
+
+# @ js_composer
+#~ msgid "Alarm clock icon"
+#~ msgstr "Icône d'alarme"
+
+# @ js_composer
+#~ msgid "Anchor icon"
+#~ msgstr "Icône d'ancre"
+
+# @ js_composer
+#~ msgid "Application Image icon"
+#~ msgstr "Icône d'application"
+
+# @ js_composer
+#~ msgid "Arrow icon"
+#~ msgstr "Icône de flèche"
+
+# @ js_composer
+#~ msgid "Asterisk icon"
+#~ msgstr "Icône d’astérisque"
+
+# @ js_composer
+#~ msgid "Hammer icon"
+#~ msgstr "Icône de marteau"
+
+# @ js_composer
+#~ msgid "Balloon icon"
+#~ msgstr "Icône de bulle"
+
+# @ js_composer
+#~ msgid "Balloon Buzz icon"
+#~ msgstr "Icône de bulle de buzz"
+
+# @ js_composer
+#~ msgid "Balloon Facebook icon"
+#~ msgstr "Bulle avec icône Facebook"
+
+# @ js_composer
+#~ msgid "Balloon Twitter icon"
+#~ msgstr "Bulle avec icône Twitter"
+
+# @ js_composer
+#~ msgid "Battery icon"
+#~ msgstr "Icône de batterie"
+
+# @ js_composer
+#~ msgid "Binocular icon"
+#~ msgstr "Icône de jumelles"
+
+# @ js_composer
+#~ msgid "Document Excel icon"
+#~ msgstr "Icône de document Excel"
+
+# @ js_composer
+#~ msgid "Document Image icon"
+#~ msgstr "Icône de fichier image"
+
+# @ js_composer
+#~ msgid "Document Music icon"
+#~ msgstr "Icône de fichier audio"
+
+# @ js_composer
+#~ msgid "Document Office icon"
+#~ msgstr "Icône de fichier Office"
+
+# @ js_composer
+#~ msgid "Document PDF icon"
+#~ msgstr "Icône de document PDF"
+
+# @ js_composer
+#~ msgid "Document Powerpoint icon"
+#~ msgstr "Icône de fichier Powerpoint"
+
+# @ js_composer
+#~ msgid "Document Word icon"
+#~ msgstr "Icône de document Word"
+
+# @ js_composer
+#~ msgid "Bookmark icon"
+#~ msgstr "Icône de marque page"
+
+# @ js_composer
+#~ msgid "Camcorder icon"
+#~ msgstr "Icône de caméra"
+
+# @ js_composer
+#~ msgid "Camera icon"
+#~ msgstr "Icône d’appareil photo"
+
+# @ js_composer
+#~ msgid "Chart icon"
+#~ msgstr "Icône de graphique"
+
+# @ js_composer
+#~ msgid "Chart pie icon"
+#~ msgstr "Icône camenbert"
+
+# @ js_composer
+#~ msgid "Clock icon"
+#~ msgstr "Icône de réveil"
+
+# @ js_composer
+#~ msgid "Fire icon"
+#~ msgstr "Icône de flamme"
+
+# @ js_composer
+#~ msgid "Heart icon"
+#~ msgstr "Icône de cœur"
+
+# @ js_composer
+#~ msgid "Mail icon"
+#~ msgstr "Icône mail"
+
+# @ js_composer
+#~ msgid "Play icon"
+#~ msgstr "Icône de lecture"
+
+# @ js_composer
+#~ msgid "Shield icon"
+#~ msgstr "Icône de bouclier"
+
+# @ js_composer
+#~ msgid "Video icon"
+#~ msgstr "Icône vidéo"
+
+# @ js_composer
+#~ msgid "Facebook Like"
+#~ msgstr "J’aime Facebook"
+
+#~ msgid "Facebook \"Like\" button"
+#~ msgstr "Bouton « J’aime » de Facebook"
+
+# @ js_composer
+#~ msgid "Button type"
+#~ msgstr "Type de bouton"
+
+#~ msgid "Horizontal with count"
+#~ msgstr "Horizontal avec compteur"
+
+#~ msgid "Vertical with count"
+#~ msgstr "Vertical avec compteur"
+
+# @ js_composer
+#~ msgid "Select button type."
+#~ msgstr "Sélectionnez le type de bouton."
+
+# @ js_composer
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+# @ js_composer
+#~ msgid "Pinterest button"
+#~ msgstr "Bouton Pinterest"
+
+# @ js_composer
+#~ msgid "No count"
+#~ msgstr "Sans compteur"
+
+# @ js_composer
+#~ msgid "Select button layout."
+#~ msgstr "Position du bouton sélectionné"
+
+# @ js_composer
+#~ msgid "Tweetmeme Button"
+#~ msgstr "Bouton Twitter"
+
+#~ msgid "Choose a button"
+#~ msgstr "Choisissez un bouton"
+
+#~ msgid "Follow"
+#~ msgstr "Suivre"
+
+#~ msgid "Hashtag"
+#~ msgstr "Hashtag"
+
+#~ msgid "Mention"
+#~ msgstr "Mention"
+
+#~ msgid "Select type of Twitter button."
+#~ msgstr "Sélectionnez le type de bouton Twitter"
+
+#~ msgid "Share url: page URL"
+#~ msgstr "URL à partager"
+
+#~ msgid "Use the current page url to share?"
+#~ msgstr "Utiliser l’URL de la page actuelle pour le partage ?"
+
+#~ msgid "Via @"
+#~ msgstr "Via @"
+
+#~ msgid "Enter your Twitter username."
+#~ msgstr "Entrez votre nom d’utilisateur Twitter."
+
+#~ msgid "Recommend @"
+#~ msgstr "Recommander @"
+
+#~ msgid "Hashtag #"
+#~ msgstr "Hashtag #"
+
+#~ msgid "User @"
+#~ msgstr "Utilisateur @"
+
+#~ msgid "Enter username to follow."
+#~ msgstr "Entrez le nom d’utilisateur à suivre."
+
+#~ msgid "Show username"
+#~ msgstr "Afficher le nom d’utilisateur"
+
+#~ msgid "Do you want to show username in button?"
+#~ msgstr "Souhaitez-vous afficher le nom d’utilisateur dans le bouton ?"
+
+#~ msgid "Show followers count"
+#~ msgstr "Afficher le nombre d’abonnés"
+
+#~ msgid "Tweet to @"
+#~ msgstr "Tweeter à @"
+
+#~ msgid "Use large button"
+#~ msgstr "Utiliser un bouton large"
+
+#~ msgid ""
+#~ "Tailored suggestions make building a great timeline. Would you like to "
+#~ "disable this feature?"
+#~ msgstr ""
+#~ "Les suggestions personnalisées agrandissent le fil d’actualités. Voulez-"
+#~ "vous désactiver cette fonctionnalité ?"
+
+#~ msgid "Language"
+#~ msgstr "Langue"
+
+# @ js_composer
+#~ msgid "Raw HTML"
+#~ msgstr "HTML brut"
+
+# @ js_composer
+#~ msgid "Structure"
+#~ msgstr "Structure"
+
+#~ msgid "Output raw HTML code on your page"
+#~ msgstr "Afficher du code HTML brut"
+
+# @ js_composer
+#~ msgid "Enter your HTML content."
+#~ msgstr "Entrez votre contenu HTML."
+
+# @ js_composer
+#~ msgid "Raw JS"
+#~ msgstr "JavaScript brut"
+
+#~ msgid "Output raw JavaScript code on your page"
+#~ msgstr "Afficher du code JavaScript brut"
+
+#~ msgid "JavaScript Code"
+#~ msgstr "Code JavaScript"
+
+#, fuzzy
+#~| msgid "Enter your Twitter username."
+#~ msgid "Enter your js here!"
+#~ msgstr "Entrez votre nom d’utilisateur Twitter."
+
+#~ msgid "Enter your JavaScript code."
+#~ msgstr "Entrez vote code JavaScript."
+
+# @ js_composer
+#~ msgid "Widgetised Sidebar"
+#~ msgstr "Barre avec widgets"
+
+# @ js_composer
+#~ msgid "Sidebar"
+#~ msgstr "Barre latérale"
+
+#~ msgid "Select widget area to display."
+#~ msgstr "Sélectionnez la zone widget à afficher."
+
+# @ js_composer
+#~ msgid "Landing Page"
+#~ msgstr "Page d’accueil"
+
+# @ js_composer
+#~ msgid "Call to Action Page"
+#~ msgstr "Page d'appel à action"
+
+# @ js_composer
+#~ msgid "Feature List"
+#~ msgstr "Liste des fonctionnalités"
+
+# @ js_composer
+#~ msgid "Description Page"
+#~ msgstr "Page de description"
+
+# @ js_composer
+#~ msgid "Service List"
+#~ msgstr "Liste des services"
+
+# @ js_composer
+#~ msgid "Product Page"
+#~ msgstr "Page de produits"
+
+#~ msgid "FAQ section"
+#~ msgstr "Section FAQ"
+
+#~ msgid "About section"
+#~ msgstr "Section à propos"
+
+#~ msgid "News list"
+#~ msgstr "Liste des informations"
+
+#~ msgid "Product description"
+#~ msgstr "Description du produit"
+
+#~ msgid "Description with accordion"
+#~ msgstr "Description avec accordéon"
+
+#~ msgid "Two column list"
+#~ msgstr "Liste à deux colonnes"
+
+#~ msgid "Video with description"
+#~ msgstr "Vidéo avec description"
+
+#~ msgid "Map and Contacts"
+#~ msgstr "Carte et contacts"
+
+#~ msgid "Help section"
+#~ msgstr "Section Aide"
+
+#~ msgid "Screen description"
+#~ msgstr "Description de l'écran"
+
+#~ msgid "FAQ in three columns"
+#~ msgstr "FAQ en trois colonnes"
+
+#~ msgid "Description with gallery"
+#~ msgstr "Description avec galerie"
+
+#~ msgid "Team members"
+#~ msgstr "Membres de l’équipe"
+
+#~ msgid "Articles with headings"
+#~ msgstr "Articles avec en-têtes"
+
+#~ msgid "Call to Action section"
+#~ msgstr "Section d’appel à action"
+
+#~ msgid "Chess Grid"
+#~ msgstr "Grille d’échecs"
+
+#~ msgid "Post portfolio"
+#~ msgstr "Projet de portfolio"
+
+#~ msgid "Product introduction"
+#~ msgstr "Introduction de produit"
+
+#~ msgid "Tabs with features"
+#~ msgstr "Onglets avec fonctionnalités"
+
+#~ msgid "Video section"
+#~ msgstr "Section vidéo"
+
+#~ msgid "Video promo"
+#~ msgstr "Vidéo promo"
+
+#~ msgid "My Team Members"
+#~ msgstr "Membres de l’équipe"
+
+# @ js_composer
+#~ msgid "Accordion"
+#~ msgstr "Accordéon"
+
+#~ msgid "Spacing"
+#~ msgstr "Espacement"
+
+#~ msgid "Autoplay"
+#~ msgstr "Lecture automatique"
+
+#~ msgid "Chevron"
+#~ msgstr "Chevron"
+
+#~ msgid "Plus"
+#~ msgstr "Plus"
+
+#~ msgid "Triangle"
+#~ msgstr "Triangle"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+# @ js_composer
+#~ msgid ""
+#~ "If you wish to style particular content element differently, then use "
+#~ "this field to add a class name and then refer to it in your css file."
+#~ msgstr ""
+#~ "Si vous souhaitez styliser plusieurs éléments différemment, utilisez ce "
+#~ "champ pour ajouter une classe et la faire correspondre avec votre feuille "
+#~ "CSS"
+
+#~ msgid "Add Section"
+#~ msgstr "Ajouter une section"
+
+#~ msgid "Pageable Container"
+#~ msgstr "Conteneur avec pagination"
+
+#~ msgid "Pageable content container"
+#~ msgstr "Paginer du contenu"
+
+#~ msgid "Before title"
+#~ msgstr "Avant le titre"
+
+#~ msgid "After title"
+#~ msgstr "Après le titre"
+
+#~ msgid "Icon position"
+#~ msgstr "Position de l’icône"
+
+#~ msgid "Select icon position."
+#~ msgstr "Sélectionnez la position de l’icône."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Enter element ID (Note: make sure it is unique and valid according to <a "
+#~| "href=\"%s\" target=\"_blank\">w3c specification</a>)."
+#~ msgid ""
+#~ "Enter section ID (Note: make sure it is unique and valid according to "
+#~ "%sw3c specification%s)."
+#~ msgstr ""
+#~ "Entrez l’ID de l’élément (Note : vérifiez bien qu’il est unique et valide "
+#~ "selon les <a href=\"%s\" target=\"_blank\">spécifications du W3C</a>)."
+
+# @ js_composer
+#~ msgid "Tabs"
+#~ msgstr "Onglet"
+
+#~ msgid "Select tabs display style."
+#~ msgstr "Sélectionnez le style d’affichage des onglets."
+
+#~ msgid "Select tabs color."
+#~ msgstr "Sélectionnez la couleur des onglets."
+
+#~ msgid "Select tabs gap."
+#~ msgstr "Sélectionnez l’espacement des onglets."
+
+# @ js_composer
+#~ msgid "Tab"
+#~ msgstr "Onglet"
+
+# @ js_composer
+#~ msgid "Tour"
+#~ msgstr "Tour"
+
+#~ msgid "Auto"
+#~ msgstr "Auto"
+
+#~ msgid "Navigation width"
+#~ msgstr "Largeur de la navigation"
+
+# @ default
+#~ msgid "Archives"
+#~ msgstr "Archives"
+
+# @ js_composer
+#~ msgid "WordPress Widgets"
+#~ msgstr "Widgets WordPress"
+
+# @ js_composer
+#~ msgid "A monthly archive of your sites posts"
+#~ msgstr "Une archive mensuelle de vos articles"
+
+# @ js_composer
+#~ msgid ""
+#~ "What text use as a widget title. Leave blank to use default widget title."
+#~ msgstr ""
+#~ "Quel texte utiliser comme titre du widget. Laisser à blanc pour utiliser "
+#~ "le titre par défaut du widget."
+
+#~ msgid "Display options"
+#~ msgstr "Options d’affichage"
+
+# @ js_composer
+#~ msgid "Show post counts"
+#~ msgstr "Montrer les compteurs d'article"
+
+# @ default
+#~ msgid "Calendar"
+#~ msgstr "Calendrier"
+
+# @ js_composer
+#~ msgid "A calendar of your sites posts"
+#~ msgstr "Un calendrier de vos articles"
+
+# @ js_composer
+#~ msgid "A list or dropdown of categories"
+#~ msgstr "Une liste ou menu déroulant de catégories"
+
+# @ js_composer
+#~ msgid "Show hierarchy"
+#~ msgstr "Montrer la hiérarchie"
+
+# @ default
+#~ msgid "Custom Menu"
+#~ msgstr "Menu personnalisé"
+
+# @ js_composer
+#~ msgid "Use this widget to add one of your custom menus as a widget"
+#~ msgstr ""
+#~ "Utilisez ce widget pour ajouter un de vos menus personnalisés en tant que "
+#~ "widget"
+
+# @ js_composer
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+# @ js_composer
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+#~| "create new menu."
+#~ msgid ""
+#~ "Custom menus not found. Please visit %sAppearance > Menus%s page to "
+#~ "create new menu."
+#~ msgstr ""
+#~ "Menus personnalisés non trouvés. Rendez-vous d'ans \\\"apparences\\\" et "
+#~ "créez-en un."
+
+#~ msgid "Select menu to display."
+#~ msgstr "Sélectionner le menu à afficher."
+
+# @ js_composer
+#~ msgid "All Links"
+#~ msgstr "Tous les liens"
+
+# @ default
+#~ msgid "Links"
+#~ msgstr "Liens"
+
+# @ js_composer
+#~ msgid "Your blogroll"
+#~ msgstr "Votre Blogroll (page de Blog)"
+
+# @ js_composer
+#~ msgid "Link Category"
+#~ msgstr "Catégorie du lien"
+
+# @ js_composer
+#~ msgid "Link title"
+#~ msgstr "Titre du lien"
+
+# @ js_composer
+#~ msgid "Link rating"
+#~ msgstr "Classement du lien"
+
+# @ js_composer
+#~ msgid "Link ID"
+#~ msgstr "ID du lien"
+
+# @ js_composer
+#~ msgid "Show Link Image"
+#~ msgstr "Montrer le lien de l'image"
+
+# @ js_composer
+#~ msgid "Show Link Name"
+#~ msgstr "Montrer le nom du lien"
+
+# @ js_composer
+#~ msgid "Show Link Description"
+#~ msgstr "Montrer la description du lien"
+
+# @ js_composer
+#~ msgid "Show Link Rating"
+#~ msgstr "Montrer le classement du lien"
+
+# @ js_composer
+#~ msgid "Number of links to show"
+#~ msgstr "Nombre de liens à afficher"
+
+# @ default
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+# @ js_composer
+#~ msgid "Log in/out, admin, feed and WordPress links"
+#~ msgstr "Connexion/déconnexion, administration, flux et liens WordPress"
+
+# @ default
+#~ msgid "Pages"
+#~ msgstr "Pages"
+
+# @ js_composer
+#~ msgid "Your sites WordPress Pages"
+#~ msgstr "Vos pages de site"
+
+# @ js_composer
+#~ msgid "Page title"
+#~ msgstr "Titre de la page"
+
+# @ js_composer
+#~ msgid "Page order"
+#~ msgstr "Ordre des pages"
+
+# @ js_composer
+#~ msgid "Page ID"
+#~ msgstr "ID des pages"
+
+# @ default
+#~ msgid "Recent Posts"
+#~ msgstr "Articles récents"
+
+# @ js_composer
+#~ msgid "The most recent posts on your site"
+#~ msgstr "Vos articles les plus récents sur votre site"
+
+#~ msgid "Number of posts"
+#~ msgstr "Nombre d’articles"
+
+#~ msgid "Enter number of posts to display."
+#~ msgstr "Entrez le nombre d’articles à afficher."
+
+# @ js_composer
+#~ msgid "Display post date?"
+#~ msgstr "Afficher la date de l'article?"
+
+#~ msgid "If checked, date will be displayed."
+#~ msgstr "Si coché, la date sera affichée."
+
+# @ default
+#~ msgid "Recent Comments"
+#~ msgstr "Commentaires récents"
+
+# @ js_composer
+#~ msgid "The most recent comments"
+#~ msgstr "Les commentaires les plus récents"
+
+#~ msgid "Enter number of comments to display."
+#~ msgstr "Entrez le nombre de commentaires à afficher."
+
+# @ default
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+# @ js_composer
+#~ msgid "Entries from any RSS or Atom feed"
+#~ msgstr "Entrées de flux RSS ou ATOM"
+
+# @ js_composer
+#~ msgid "RSS feed URL"
+#~ msgstr "Adresse du flux RSS"
+
+# @ js_composer
+#~ msgid "Enter the RSS feed URL."
+#~ msgstr "Saisissez l’URL du flux RSS."
+
+# @ js_composer
+#~ msgid "Items"
+#~ msgstr "Éléments"
+
+# @ js_composer
+#~ msgid "10 - Default"
+#~ msgstr "10 - Par défaut"
+
+#~ msgid "Select how many items to display."
+#~ msgstr "Sélectionnez le nombre d’éléments à afficher."
+
+#~ msgid "Item content"
+#~ msgstr "Contenu de l’élément"
+
+# @ js_composer
+#~ msgid "Display item author if available?"
+#~ msgstr "Afficher le nom de l'auteur de l'élément si disponible?"
+
+# @ js_composer
+#~ msgid "Display item date?"
+#~ msgstr "Afficher la date de l'élément?"
+
+#~ msgid "Select display options for RSS feeds."
+#~ msgstr "Sélectionnez les options d’affichage pour les flux RSS."
+
+# @ default
+#~ msgid "Search"
+#~ msgstr "Recherche"
+
+# @ js_composer
+#~ msgid "A search form for your site"
+#~ msgstr "Un formulaire de recherche pour votre site"
+
+# @ default
+#~ msgid "Tag Cloud"
+#~ msgstr "Nuage de mots clés"
+
+# @ js_composer
+#~ msgid "Your most used tags in cloud format"
+#~ msgstr "Vos mots clés les plus utilisés en nuage de tags"
+
+# @ js_composer
+# @ default
+#~ msgid "Tags"
+#~ msgstr "Étiquettes"
+
+# @ js_composer
+#~ msgid "Taxonomy"
+#~ msgstr "Taxonomie"
+
+#~ msgid "Select source for tag cloud."
+#~ msgstr "Source du nuage de mots-clés."
+
+# @ js_composer
+#~ msgid "Arbitrary text or HTML"
+#~ msgstr "Texte arbitraire ou HTML"
+
+#~ msgid "Default template for post types"
+#~ msgstr "Modèles par défaut pour les articles"
+
+#~ msgid "Invalid template or post type."
+#~ msgstr "Modèle ou type de contenu invalide."
+
+#~ msgid "Finish"
+#~ msgstr "Terminer"
+
+#~ msgid "Next"
+#~ msgstr "Suivant"
+
+#~ msgid "Prev"
+#~ msgstr "Précédent"
+
+#~ msgid "Start Here!"
+#~ msgstr "Commencer ici !"
+
+#~ msgid "Use Animations"
+#~ msgstr "Utiliser des animations"
+
+#~ msgid "Watch Video Tutorial"
+#~ msgstr "Voir le tutoriel vidéo"
+
+#~ msgid "Antique"
+#~ msgstr "Antique"
+
+#~ msgid "Black & White"
+#~ msgstr "Noir et blanc"
+
+#~ msgid "Boost"
+#~ msgstr "Renforcé"
+
+#~ msgid "Concentrate"
+#~ msgstr "Concentré"
+
+#~ msgid "Country"
+#~ msgstr "Pays"
+
+#~ msgid "Darken"
+#~ msgstr "Sombre"
+
+#~ msgid "Dream"
+#~ msgstr "Songe"
+
+#~ msgid "Everglow"
+#~ msgstr "Terne"
+
+#~ msgid "Forest"
+#~ msgstr "Forêt"
+
+#~ msgid "Fresh Blue"
+#~ msgstr "Bleu clair"
+
+#~ msgid "Frozen"
+#~ msgstr "Gelé"
+
+#~ msgid "Her Majesty"
+#~ msgstr "Sa Majesté"
+
+#~ msgid "Light"
+#~ msgstr "Clair"
+
+#~ msgid "Orange Peel"
+#~ msgstr "Peau d’orange"
+
+#~ msgid "Rain"
+#~ msgstr "Pluie"
+
+#~ msgid "Retro"
+#~ msgstr "Rétro"
+
+#~ msgid "Sepia"
+#~ msgstr "Sépia"
+
+#~ msgid "Summer"
+#~ msgstr "Été"
+
+#~ msgid "Tender"
+#~ msgstr "Tendre"
+
+#~ msgid "Vintage"
+#~ msgstr "Vintage"
+
+#~ msgid "Washed"
+#~ msgstr "Délavé"
+
+#~ msgid "Image filter"
+#~ msgstr "Filtre d’image"
+
+#~ msgid "Filter:"
+#~ msgstr "Filtre :"
+
+#~ msgid "Important notice"
+#~ msgstr "Remarque importante"
+
+#~ msgid ""
+#~ "You have an outdated version of WPBakery Page Builder Design Options. It "
+#~ "is required to review and save it."
+#~ msgstr ""
+#~ "Vous disposez d'une version obsolète des réglages de WPBakery Éditeur de "
+#~ "page. Il faut l'examiner et l'enregistrer."
+
+#~ msgid "Open Design Options"
+#~ msgstr "Ouvrir les Options de style"
+
+#~ msgid "Role Manager"
+#~ msgstr "Gestion des rôles"
+
+#~ msgid "Roles Manager"
+#~ msgstr "Gestion des rôles"
+
+#~ msgid "About"
+#~ msgstr "À propos"
+
+#~ msgid "What's New"
+#~ msgstr "Nouveautés"
+
+#~ msgid "Resources"
+#~ msgstr "Ressources"
+
+#~ msgid "Choose Backend or Frontend editor."
+#~ msgstr "Choisissez l’éditeur classique ou l’éditeur visuel."
+
+#~ msgid "Add Elements"
+#~ msgstr "Ajouter des éléments"
+
+#~ msgid "Add new element or start with a template."
+#~ msgstr "Ajoutez un nouvel élément ou démarrez avec un modèle."
+
+#~ msgid "Rows and Columns"
+#~ msgstr "Rangées et colonnes"
+
+#~ msgid ""
+#~ "This is a row container. Divide it into columns and style it. You can add "
+#~ "elements into columns."
+#~ msgstr ""
+#~ "Voici une rangée. Divisez-la en colonnes et donnez lui du style. Vous "
+#~ "pouvez ajouter des éléments dans les colonnes."
+
+#~ msgid "Control Elements"
+#~ msgstr "Éléments de contrôle"
+
+#~ msgid ""
+#~ "You can edit your element at any time and drag it around your layout."
+#~ msgstr ""
+#~ "Vous pouvez modifier un élément n’importe quand et le déplacer ou bon "
+#~ "vous semble."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "P.S. Learn more at our <a href=\"%s\" target=\"_blank\">Knowledge Base</"
+#~| "a>."
+#~ msgid "P.S. Learn more at our %sKnowledge Base%s."
+#~ msgstr ""
+#~ "N.B. Rendez-vous sur notre <a href=\"%s\" target=\"_blank\">Base de "
+#~ "connaissance</a>."
+
+# @ js_composer
+#~ msgid "No Gravity forms found."
+#~ msgstr "Aucun Gravity Form trouvé"
+
+# @ js_composer
+#~ msgid "Select a form to display."
+#~ msgstr "Sélectionnez un formulaire à afficher."
+
+# @ js_composer
+#~ msgid "Gravity Form"
+#~ msgstr "Gravity Form"
+
+# @ js_composer
+#~ msgid "Place Gravity form"
+#~ msgstr "Placer un Gravity Form"
+
+# @ js_composer
+#~ msgid "Form"
+#~ msgstr "Formulaire"
+
+# @ js_composer
+#~ msgid "Select a form to add it to your post or page."
+#~ msgstr "Sélectionnez un formulaire à afficher dans une page ou un article"
+
+# @ js_composer
+#~ msgid "Display Form Title"
+#~ msgstr "Afficher le titre du formulaire"
+
+# @ js_composer
+#~ msgid "Would you like to display the forms title?"
+#~ msgstr "Voulez-vous afficher les titres de formulaires?"
+
+# @ js_composer
+#~ msgid "Display Form Description"
+#~ msgstr "Afficher la description du formulaire"
+
+# @ js_composer
+#~ msgid "Would you like to display the forms description?"
+#~ msgstr "Voulez-vous afficher la description des formulaires?"
+
+# @ js_composer
+#~ msgid "Enable AJAX?"
+#~ msgstr "Autoriser AJAX?"
+
+# @ js_composer
+#~ msgid "Enable AJAX submission?"
+#~ msgstr "Permettre la soumission AJAX?"
+
+# @ js_composer
+#~ msgid "Tab Index"
+#~ msgstr "Tableau index"
+
+# @ js_composer
+#~ msgid ""
+#~ "(Optional) Specify the starting tab index for the fields of this form. "
+#~ "Leave blank if you're not sure what this is."
+#~ msgstr ""
+#~ "(Optionnel) Spécifier l'index de départ du tableau pour les champs de ce "
+#~ "formulaire. Laisser à blanc si vous n'êtes pas sûr de ce que c'est."
+
+#, fuzzy
+#~| msgid "Disable Classic editor"
+#~ msgid "Disable Gutenberg Editor"
+#~ msgstr "Désactiver le Mode classique"
+
+#~ msgid "WPBakery Page Builder Settings"
+#~ msgstr "Réglages de WPBakery Éditeur de page"
+
+#~ msgid "Settings"
+#~ msgstr "Réglages"
+
+#~ msgid "About WPBakery Page Builder"
+#~ msgstr "À propos de WPBakery Éditeur de page"
+
+# @ js_composer
+#~ msgid "Add/remove picture"
+#~ msgstr "Ajouter/supprimer photo"
+
+# @ js_composer
+#~ msgid "Finish Adding Images"
+#~ msgstr "Ajout d’images terminé"
+
+# @ js_composer
+#~ msgid "Add Image"
+#~ msgstr "Ajouter une image"
+
+# @ js_composer
+#~ msgid "Add Images"
+#~ msgstr "Ajouter des images"
+
+#~ msgid "Backend Editor"
+#~ msgstr "Éditeur de l’administration"
+
+#~ msgid "Frontend Editor"
+#~ msgstr "Éditeur visuel"
+
+#~ msgid "Classic Mode"
+#~ msgstr "Mode classique"
+
+#~ msgid "Enter template name you want to save."
+#~ msgstr "Entrez un nom pour le modèle à enregistrer."
+
+# @ js_composer
+#~ msgid ""
+#~ "Confirm deleting \"{template_name}\" template, press Cancel to leave. "
+#~ "This action cannot be undone."
+#~ msgstr ""
+#~ "Confirmer la sélection du thème \"{template_name}\" , cliquez \\\"annuler"
+#~ "\\\" pour quitter. Cette action est définitive."
+
+# @ js_composer
+#~ msgid "Press OK to delete section, Cancel to leave"
+#~ msgstr "Cliquez sur OK pour supprimer cette section, ANNULER pour quitter"
+
+# @ js_composer
+#~ msgid "Drag and drop me in the column"
+#~ msgstr "Cliquez/glissez moi dans la colonne"
+
+# @ js_composer
+#~ msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+#~ msgstr ""
+#~ "Pressez OK pour supprimer l'onglet \"{tab_name}\", ou Annuler pour "
+#~ "quitter."
+
+# @ js_composer
+#~ msgid "Slide"
+#~ msgstr "Diapositive"
+
+# @ js_composer
+#~ msgid "Please enter new tab title"
+#~ msgstr "Merci d'entrer le nom du nouvel onglet"
+
+# @ js_composer
+#~ msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+#~ msgstr ""
+#~ "Cliquez sur Ok pour supprimer la section  \"{tab_name}\", ANNULER pour "
+#~ "quitter"
+
+# @ js_composer
+#~ msgid "Please enter new section title"
+#~ msgstr "Merci d'entrer un nouveau nom de section"
+
+# @ js_composer
+#~ msgid "Error. Please try again."
+#~ msgstr "Erreur. Veuillez réessayer."
+
+# @ js_composer
+#~ msgid ""
+#~ "If you close this window all shortcode settings will be lost. Close this "
+#~ "window?"
+#~ msgstr ""
+#~ "Si vous fermez cette fenêtre, tous les réglages de shortcodes seront "
+#~ "perdus. Fermer la fenêtre?"
+
+# @ js_composer
+#~ msgid "Select element type"
+#~ msgstr "Sélectionner un type d'élément"
+
+# @ js_composer
+#~ msgid "Media gallery"
+#~ msgstr "Galerie média"
+
+# @ js_composer
+#~ msgid "Element settings"
+#~ msgstr "Paramètres de l’élément"
+
+# @ js_composer
+#~ msgid "Add tab"
+#~ msgstr "Ajouter un onglet"
+
+# @ js_composer
+#~ msgid "Are you sure you want to convert to new version?"
+#~ msgstr "Êtes-vous sûr(e) de vouloir convertir vers la nouvelle version?"
+
+# @ js_composer
+#~ msgid "Loading..."
+#~ msgstr "Chargement..."
+
+# @ js_composer
+#~ msgid "Are you sure that you want to remove all your data?"
+#~ msgstr "Êtes-vous certain(e) de vouloir supprimer toutes vos données?"
+
+# @ default
+#~ msgid "Loop settings"
+#~ msgstr "Paramètres de boucle"
+
+# @ js_composer
+#~ msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+#~ msgstr "Mauvais format de ligne. Par exemple : 1/2 + 1/2 ou span6 + span6"
+
+# @ js_composer
+#~ msgid "Row background color"
+#~ msgstr "Couleur de fond de la rangée"
+
+# @ js_composer
+#~ msgid "Row background image"
+#~ msgstr "Image de fond de la rangée"
+
+# @ js_composer
+#~ msgid "Column background color"
+#~ msgstr "Couleur de fond de colonne"
+
+# @ js_composer
+#~ msgid "Column background image"
+#~ msgstr "Image de fond de la colonne"
+
+# @ js_composer
+#~ msgid "Guides ON"
+#~ msgstr "Guides activés"
+
+# @ js_composer
+#~ msgid "Guides OFF"
+#~ msgstr "Guides désactivés"
+
+#~ msgid "New template successfully saved."
+#~ msgstr "Nouveau modèle enregistré avec succès."
+
+# @ js_composer
+#~ msgid "Template added to the page."
+#~ msgstr "Modèle ajouté à la page."
+
+#~ msgid "Error while saving template."
+#~ msgstr "Erreur pendant l’enregistrement."
+
+# @ js_composer
+#~ msgid "Page settings updated!"
+#~ msgstr "Paramètres de la page mis à jour !"
+
+# @ js_composer
+#~ msgid "Update all"
+#~ msgstr "Tout mettre à jour"
+
+# @ js_composer
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr ""
+#~ "Les changements effectués seront perdus si vous naviguez vers une autre "
+#~ "page."
+
+# @ js_composer
+#, php-format
+#~ msgid "%s saved!"
+#~ msgstr "%s enregistré !"
+
+# @ js_composer
+#, php-format
+#~ msgid "%s deleted!"
+#~ msgstr "%s supprimé !"
+
+# @ js_composer
+#~ msgid "Loading Google Font failed"
+#~ msgstr "Chargement Google Fonts échoué"
+
+# @ js_composer
+#~ msgid "Loading Font..."
+#~ msgstr "Chargement de la police..."
+
+# @ js_composer
+#~ msgid "Unable to load Google Fonts"
+#~ msgstr "Impossible de charger le Google Font"
+
+#~ msgid "no title"
+#~ msgstr "sans titre"
+
+#~ msgid "Saved!"
+#~ msgstr "Enregistré !"
+
+#~ msgid "Failed to Save!"
+#~ msgstr "Impossible d'enregistrer !"
+
+#~ msgid "You are about to delete this preset. This action can not be undone."
+#~ msgstr ""
+#~ "Vous êtes sur le point de supprimer ce réglage. Cette action est "
+#~ "irréversible."
+
+#~ msgid "Downloaded"
+#~ msgstr "Téléchargé"
+
+# @ js_composer
+#~ msgid "Update"
+#~ msgstr "Mettre à jour"
+
+#~ msgid "Failed to download template"
+#~ msgstr "Échec du téléchargement du modèle"
+
+#~ msgid "Element successfully removed."
+#~ msgstr "Élément supprimé avec succès."
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Shortcode updated!"
+#~ msgid "Successfully updated!"
+#~ msgstr "Shortcode mis à jour !"
+
+#~ msgid "Pink"
+#~ msgstr "Rose"
+
+#~ msgid "Violet"
+#~ msgstr "Violet"
+
+#~ msgid "Peacoc"
+#~ msgstr "Paon"
+
+#~ msgid "Chino"
+#~ msgstr "Chiné"
+
+#~ msgid "Mulled Wine"
+#~ msgstr "Vin chaud"
+
+#~ msgid "Vista Blue"
+#~ msgstr "Bleu"
+
+#~ msgid "Sky"
+#~ msgstr "Bleu ciel"
+
+#~ msgid "Juicy pink"
+#~ msgstr "Rose intense"
+
+#~ msgid "Sandy brown"
+#~ msgstr "Marron roux"
+
+#~ msgid "Purple"
+#~ msgstr "Pourpre"
+
+#~ msgid "White"
+#~ msgstr "Blanc"
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong name for shortcode:%s. Name required"
+#~ msgstr "Mauvais nom pour le shortcode:%s. Nom requis."
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong base for shortcode:%s. Base required"
+#~ msgstr "Mauvais base de shortcode :%s Base requise"
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+#~ msgstr ""
+#~ "Mauvais attribut pour le shortcode  '%s' . Attribut 'param_name' est "
+#~ "requis"
+
+# @ js_composer
+#, php-format
+#~ msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+#~ msgstr ""
+#~ "Mauvais setting_name pour le shortcode : %s. La base ne peut être modifiée"
+
+#~ msgid "Template library"
+#~ msgstr "Bibliothèque de modèles"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Désolé, une erreur s’est produite."
+
+#~ msgid "Invalid file type"
+#~ msgstr "Type du fichier non valide"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "La taille du fichier distant est incorrecte"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Fichier vide téléchargé"
+
+# @ js_composer
+#~ msgid "General"
+#~ msgstr "Général"
+
+# @ js_composer
+#~ msgid "Edit"
+#~ msgstr "Modifier"
+
+#, php-format
+#~ msgid "Edit %s with WPBakery Page Builder"
+#~ msgstr "Modifier %s avec WPBakery Éditeur de page"
+
+#~ msgid "(no title)"
+#~ msgstr "(sans titre)"
+
+# @ js_composer
+#~ msgid "Desktop"
+#~ msgstr "Bureau"
+
+# @ js_composer
+#~ msgid "Tablet landscape mode"
+#~ msgstr "Tablette en mode paysage"
+
+# @ js_composer
+#~ msgid "Tablet portrait mode"
+#~ msgstr "Tablette en mode portrait"
+
+# @ js_composer
+#~ msgid "Smartphone landscape mode"
+#~ msgstr "Portable en mode paysage"
+
+# @ js_composer
+#~ msgid "Smartphone portrait mode"
+#~ msgstr "Portable en mode portrait"
+
+# @ js_composer
+#~ msgid "Responsive preview"
+#~ msgstr "Aperçu de l’adaptation"
+
+# @ js_composer
+#~ msgid "Cancel all changes and return to WP dashboard"
+#~ msgstr "Annuler toutes les modifications et retourner au Tableau de bord"
+
+#~ msgid "Save Draft"
+#~ msgstr "Enregistrer le brouillon"
+
+# @ js_composer
+#~ msgid "Save as Pending"
+#~ msgstr "Enregistrer comme latent"
+
+# @ js_composer
+#~ msgid "Publish"
+#~ msgstr "Publier"
+
+# @ js_composer
+#~ msgid "Submit for Review"
+#~ msgstr "Envoyer pour révision"
+
+#, fuzzy
+#~| msgid "WPBakery Page Builder"
+#~ msgid "Exit WPBakery Page Builder edit mode"
+#~ msgstr "Éditeur de page"
+
+# @ js_composer
+#~ msgid "Page settings"
+#~ msgstr "Paramètres de la page"
+
+# @ js_composer
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Full screen"
+#~ msgstr "Plein écran"
+
+#~ msgid "Exit full screen"
+#~ msgstr "Quitter le plein écran"
+
+# @ js_composer
+#~ msgid "Add new element"
+#~ msgstr "Ajouter un nouvel élément"
+
+# @ js_composer
+#~ msgid "Templates"
+#~ msgstr "Modèles"
+
+# @ js_composer
+#~ msgid "Frontend"
+#~ msgstr "Éditeur visuel"
+
+# @ js_composer
+#~ msgid "Preview"
+#~ msgstr "Prévisualisation"
+
+#~ msgid "Access denied"
+#~ msgstr "Accès refusé"
+
+# @ js_composer
+#~ msgid "Save current layout as a template"
+#~ msgstr "Enregistrer la mise en page actuelle en tant que modèle"
+
+#, fuzzy
+#~| msgid "Template"
+#~ msgid "Template name"
+#~ msgstr "Modèle"
+
+#~ msgid "Save Template"
+#~ msgstr "Enregistrer le modèle"
+
+#~ msgid "Preview template"
+#~ msgstr "Aperçu du modèle"
+
+#~ msgid "Add template"
+#~ msgstr "Ajouter un modèle"
+
+# @ js_composer
+#~ msgid "Delete template"
+#~ msgstr "Supprimer le modèle"
+
+#~ msgid "My Templates"
+#~ msgstr "Mes modèles"
+
+#~ msgid "Default Templates"
+#~ msgstr "Modèles par défaut"
+
+#~ msgid "No title"
+#~ msgstr "Sans titre"
+
+#~ msgid "Shortcode Mapper"
+#~ msgstr "Éditeur de raccourcis"
+
+#~ msgid ""
+#~ "WPBakery Page Builder Shortcode Mapper adds custom 3rd party vendors "
+#~ "shortcodes to the list of WPBakery Page Builder content elements menu "
+#~ "(Note: to map shortcode it needs to be installed on site)."
+#~ msgstr ""
+#~ "L’éditeur de raccourci de WPBakery Éditeur de page vous permet d’ajouter "
+#~ "des raccourcis de développeurs tiers à la liste des éléments disponibles "
+#~ "pour WPBakery (Notez que pour définir un raccourci, il doit être installé "
+#~ "sur le site)."
+
+#~ msgid "Map Shortcode"
+#~ msgstr "Ajouter un raccourci"
+
+#~ msgid "Shortcode string"
+#~ msgstr "Chaîne du raccourci"
+
+# @ default
+#~ msgid "Please enter valid shortcode"
+#~ msgstr "Veuillez saisir un raccourci valide"
+
+#~ msgid "Parse Shortcode"
+#~ msgstr "Analyser le raccourci"
+
+# @ js_composer
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid ""
+#~ "Enter valid shortcode (Example: [my_shortcode first_param="
+#~ "\"first_param_value\"]My shortcode content[/my_shortcode])."
+#~ msgstr ""
+#~ "Entrez un raccourci valide (Exemple : [mon_raccourci premier_parametre="
+#~ "\"valeur_premier_parametre\"]Le contenu du raccourci[/mon_raccourci])."
+
+#~ msgid "General Information"
+#~ msgstr "Informations générales"
+
+# @ js_composer
+#~ msgid "Tag:"
+#~ msgstr "Tag:"
+
+# @ js_composer
+#~ msgid "Description:"
+#~ msgstr "Description :"
+
+# @ js_composer
+#~ msgid "Category:"
+#~ msgstr "Catégorie :"
+
+# @ default
+#~ msgid "Comma separated categories names"
+#~ msgstr "Noms des catégories séparés par des virgules"
+
+# @ js_composer
+#~ msgid "Include content param into shortcode"
+#~ msgstr "Incluez les paramètres nécessaires dans le shortcode"
+
+#~ msgid "Shortcode Parameters"
+#~ msgstr "Paramètres de raccourci"
+
+#~ msgid "Add Param"
+#~ msgstr "Ajouter un paramètre"
+
+# @ js_composer
+#~ msgid "Save Changes"
+#~ msgstr "Sauvegarder les modifications"
+
+# @ js_composer
+#~ msgid "Delete"
+#~ msgstr "Supprimer"
+
+# @ js_composer
+#~ msgid "Drag row to reorder"
+#~ msgstr "Glissez pour réorganiser"
+
+#~ msgid "Delete this param"
+#~ msgstr "Supprimer ce paramètre"
+
+# @ js_composer
+#~ msgid "Param name"
+#~ msgstr "Nom du paramètre"
+
+# @ js_composer
+#~ msgid "Required value"
+#~ msgstr "Valeur"
+
+#~ msgid "Use only letters, numbers and underscore."
+#~ msgstr "N’utilisez que des lettres, des chiffres et des tirets bas."
+
+# @ js_composer
+#~ msgid "Please use only letters, numbers and underscore."
+#~ msgstr ""
+#~ "Merci d'utiliser uniquement des lettres, des chiffres et des tirets bas "
+#~ "(tirets de la touche 8)"
+
+# @ js_composer
+#~ msgid "Heading for field in shortcode edit form."
+#~ msgstr "En-tête pour le champs dans le formulaire d'édition de shortcode"
+
+# @ js_composer
+#~ msgid "Field type"
+#~ msgstr "Type de champ"
+
+# @ js_composer
+#~ msgid "Select field type"
+#~ msgstr "Sélectionner un type de champ"
+
+# @ js_composer
+#~ msgid "Textfield"
+#~ msgstr "Champ de texte"
+
+# @ js_composer
+#~ msgid "Textarea"
+#~ msgstr "Zone de texte"
+
+# @ js_composer
+#~ msgid "Textarea HTML"
+#~ msgstr "Zone de texte HTML"
+
+#~ msgid "Hidden"
+#~ msgstr "Masqué"
+
+# @ js_composer
+#~ msgid "Field type for shortcode edit form."
+#~ msgstr "Type de champs pour le formulaire d'édition de shortcode"
+
+# @ js_composer
+#~ msgid "Default value"
+#~ msgstr "Valeur par défaut"
+
+#~ msgid "WPBakery Page Builder successfully activated."
+#~ msgstr "WPBakery Éditeur de page activé avec succès."
+
+#~ msgid "WPBakery Page Builder successfully deactivated."
+#~ msgstr "WPBakery Éditeur de page désactivé avec succès."
+
+# @ js_composer
+#, fuzzy, php-format
+#~| msgid "Error. Please try again."
+#~ msgid "%s. Please try again."
+#~ msgstr "Erreur. Veuillez réessayer."
+
+#~ msgid "Something went wrong. Please contact us for support."
+#~ msgstr "Un problème est survenu. Contactez-nous pour obtenir de l’aide."
+
+#~ msgid "Invalid license key"
+#~ msgstr "Clé de licence invalide"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Hola! Would you like to receive automatic updates and unlock premium "
+#~| "support? Please <a href=\"%s\">activate your copy</a> of WPBakery Page "
+#~| "Builder."
+#~ msgid ""
+#~ "Hola! Would you like to receive automatic updates and unlock premium "
+#~ "support? Please %sactivate your copy%s of WPBakery Page Builder."
+#~ msgstr ""
+#~ "Hey ! Vous souhaitez recevoir les mises à jour automatiquement et accéder "
+#~ "au support premium ? Veuillez <a href=\"%s\">activer votre copie</a> de "
+#~ "WPBakery Éditeur de page."
+
+#~ msgid "Dismiss this notice."
+#~ msgstr "Ne plus afficher."
+
+#~ msgid "Roles settings successfully saved."
+#~ msgstr "Paramètres des rôles enregistrés avec succès."
+
+# @ js_composer
+#~ msgid "General Settings"
+#~ msgstr "Réglages généraux"
+
+# @ js_composer
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personnalisé"
+
+# @ js_composer
+#~ msgid "Product License"
+#~ msgstr "Licence produit"
+
+# @ js_composer
+#~ msgid "Main accent color"
+#~ msgstr "Couleur de l'accent principal"
+
+# @ js_composer
+#~ msgid "Hover color"
+#~ msgstr "Couleur au survol"
+
+# @ js_composer
+#~ msgid "Call to action background color"
+#~ msgstr "Couleur de fond de l'appel à action"
+
+# @ js_composer
+#~ msgid "Google maps background color"
+#~ msgstr "Couleur de fond des plans Google"
+
+# @ js_composer
+#~ msgid "Post slider caption background color"
+#~ msgstr "Couleur de fond des légendes de slider d'articles"
+
+# @ js_composer
+#~ msgid "Progress bar background color"
+#~ msgstr "Couleur de fond de la barre de progression"
+
+# @ js_composer
+#~ msgid "Separator border color"
+#~ msgstr "Couleur des bordures de séparateur"
+
+# @ js_composer
+#~ msgid "Tabs navigation background color"
+#~ msgstr "Couleur de fond des onglets"
+
+# @ js_composer
+#~ msgid "Active tab background color"
+#~ msgstr "Couleur de fond de l'onglet actif"
+
+# @ js_composer
+#~ msgid "Disable responsive content elements"
+#~ msgstr "Désactiver les éléments responsive"
+
+# @ js_composer
+#~ msgid "Google fonts subsets"
+#~ msgstr "Sous-ensembles Google Fonts"
+
+# @ js_composer
+#~ msgid "Use custom design options"
+#~ msgstr "Utilisez des options de style personnalisées"
+
+# @ js_composer
+#~ msgid "Elements bottom margin"
+#~ msgstr "Marge basse des éléments"
+
+# @ js_composer
+#~ msgid "Grid gutter width"
+#~ msgstr "Largeur des bordures de grille"
+
+# @ js_composer
+#~ msgid "Mobile screen width"
+#~ msgstr "Largeur d'écran mobile"
+
+# @ js_composer
+#~ msgid "Paste your CSS code"
+#~ msgstr "Collez votre code CSS"
+
+# @ js_composer
+#~ msgid "Are you sure you want to reset to defaults?"
+#~ msgstr ""
+#~ "Êtes-vous sûr(e) de vouloir réinitialiser vers les paramètres par défaut?"
+
+#~ msgid "Saving..."
+#~ msgstr "Enregistrement…"
+
+#~ msgid "Design Options successfully saved."
+#~ msgstr "Options de style enregistrées avec succès."
+
+#~ msgid "Design Options could not be saved"
+#~ msgstr "Les Options de style n’ont pas pu être enregistrées"
+
+# @ js_composer
+#~ msgid "Are you sure you want to delete this shortcode?"
+#~ msgstr "Êtes-vous sûr(e) de vouloir supprimer ce shortcode?"
+
+# @ js_composer
+#~ msgid "Are you sure you want to delete the shortcode's param?"
+#~ msgstr ""
+#~ "Êtes-vous sûr(e) de vouloir réinitialiser vers les paramètres par défaut?"
+#~ "supprimer les paramètres de ce shortcode?"
+
+# @ js_composer
+#~ msgid "My shortcodes"
+#~ msgstr "Mes raccourcis"
+
+# @ js_composer
+#~ msgid "Shortcode name is required."
+#~ msgstr "Un nom de raccourci est requis."
+
+# @ js_composer
+#~ msgid "Please enter valid shortcode tag."
+#~ msgstr "Merci de saisir un tag de shortcode valide"
+
+# @ js_composer
+#~ msgid "Please enter all required fields for params."
+#~ msgstr "Merci de saisir tous les champs requis pour les paramètres"
+
+# @ js_composer
+#~ msgid "New shortcode mapped from string!"
+#~ msgstr "Nouveau shortcode mappé depuis la chaine"
+
+# @ js_composer
+#~ msgid "Shortcode updated!"
+#~ msgstr "Shortcode mis à jour !"
+
+# @ js_composer
+#~ msgid "Content param can not be added manually, please use checkbox."
+#~ msgstr ""
+#~ "Le paramètre de contenu ne peut être ajouté manuellement, merci de cocher "
+#~ "une case."
+
+# @ js_composer
+#, php-format
+#~ msgid "Param %s already exists. Param names must be unique."
+#~ msgstr ""
+#~ "Le paramètre %s existe déjà. Les noms de paramètres doivent être uniques."
+
+# @ js_composer
+#~ msgid "Please use only letters, numbers and underscore for param name"
+#~ msgstr ""
+#~ "Merci de n'utiliser que des lettres, des chiffres et le tiret bas (touche "
+#~ "de clavier 8) pour nommer votre paramètre"
+
+# @ js_composer
+#~ msgid "Please enter valid shortcode to parse!"
+#~ msgstr "Merci de saisir un shortcode valide à analyser"
+
+#~ msgid "Add custom CSS code to the plugin without modifying files."
+#~ msgstr ""
+#~ "Ajoutez du CSS personnalisé à l’extension sans avoir à modifier de "
+#~ "fichiers."
+
+# @ js_composer
+#~ msgid "Enable"
+#~ msgstr "Activer"
+
+# @ js_composer
+#~ msgid ""
+#~ "Here you can tweak default WPBakery Page Builder content elements visual "
+#~ "appearance. By default WPBakery Page Builder is using neutral light-grey "
+#~ "theme. Changing \"Main accent color\" will affect all content elements if "
+#~ "no specific \"content block\" related color is set."
+#~ msgstr ""
+#~ "Vous pouvez ici régler l'apparence visuelle par défaut des éléments de "
+#~ "WPBakery Éditeur de page. Par défaut, l’Éditeur de page utilise un thème "
+#~ "gris neutre. Changer la \\\"couleur d'accent principal\\\" affectera tous "
+#~ "les blocs encore non personnalisés."
+
+# @ js_composer
+#~ msgid "Invalid Margin value."
+#~ msgstr "Valeur de marge invalides."
+
+# @ js_composer
+#~ msgid "Invalid Gutter value."
+#~ msgstr "Valeur de bordure invalide"
+
+# @ js_composer
+#~ msgid "Invalid \"Responsive max\" value."
+#~ msgstr "Valeur \\\"max responsive\\\" invalide"
+
+# @ js_composer
+#~ msgid ""
+#~ "Something went wrong: js_composer_front_custom.css could not be created."
+#~ msgstr ""
+#~ "Une erreur est survenue : js_composer_front_custom.css ne peut être créé."
+
+# @ js_composer
+#~ msgid "js_composer_front_custom.css could not be created. Connection error."
+#~ msgstr ""
+#~ "js_composer_front_custom.css ne peut être créé. Erreur de connexion."
+
+# @ js_composer
+#, php-format
+#~ msgid ""
+#~ "js_composer_front_custom.css could not be created. Cannot write custom "
+#~ "css to \"%s\"."
+#~ msgstr ""
+#~ "js_composer_front_custom.css ne peut pas être créé. Impossible d'écrire "
+#~ "un css personnalisé pour \"%s\"."
+
+# @ js_composer
+#~ msgid ""
+#~ "js_composer_front_custom.css could not be created. Problem with access."
+#~ msgstr ""
+#~ "js_composer_front_custom.css ne peut pas être créé. Problème d'accès."
+
+# @ js_composer
+#~ msgid "Something went wrong: custom.css could not be created."
+#~ msgstr "Une erreur est survenue  : le CSS personnalisé ne peut être créé"
+
+# @ js_composer
+#~ msgid "custom.css could not be created. Connection error."
+#~ msgstr "Le CSS personnalisé ne peut être créé. Erreur de connexion."
+
+# @ js_composer
+#, fuzzy, php-format
+#~| msgid "custom.css could not be created. Cannot write custom css to \""
+#~ msgid "custom.css could not be created. Cannot write custom css to %s."
+#~ msgstr ""
+#~ "Le CSS personnalisé ne peut être créé. Impossible d'écrire le CSS "
+#~ "personnalisé vers \""
+
+# @ js_composer
+#~ msgid "custom.css could not be created. Problem with access."
+#~ msgstr "custom.css ne peut pas être créé. Problème d'accès."
+
+# @ js_composer
+#, php-format
+#~ msgid "Edit %s"
+#~ msgstr "Modifier %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Clone %s"
+#~ msgstr "Dupliquer %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Delete %s"
+#~ msgstr "Supprimer %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Append to this %s"
+#~ msgstr "Ajouter à ces %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Prepend to this %s"
+#~ msgstr "Faire précéder à ces %s"
+
+#, php-format
+#~ msgid "Move this %s"
+#~ msgstr "Déplacer %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Edit this %s"
+#~ msgstr "Modifier ce %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Clone this %s"
+#~ msgstr "Dupliquer ce %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Delete this %s"
+#~ msgstr "Supprimer ce %s"
+
+# @ js_composer
+#~ msgid "Add images"
+#~ msgstr "Ajouter des images"
+
+#~ msgid "Single block (no animation)"
+#~ msgstr "Bloc unique (pas d’animation)"
+
+#~ msgid "Double block (no animation)"
+#~ msgstr "Double bloc (pas d’animation)"
+
+#~ msgid "Fade in"
+#~ msgstr "Fondu entrant"
+
+#~ msgid "Scale in"
+#~ msgstr "Zoom"
+
+#~ msgid "Scale in with rotation"
+#~ msgstr "Zoom avec rotation"
+
+#~ msgid "Blur out"
+#~ msgstr "Flou sortant"
+
+#~ msgid "Slide in from left"
+#~ msgstr "Slide in from left"
+
+#~ msgid "Slide in from right"
+#~ msgstr "Slide in from right"
+
+#~ msgid "Slide bottom"
+#~ msgstr "Slide bottom"
+
+#~ msgid "Slide top"
+#~ msgstr "Slide top"
+
+#~ msgid "Go top"
+#~ msgstr "Retour en haut"
+
+#~ msgid "Go bottom"
+#~ msgstr "Aller en bas"
+
+#~ msgid "Delete this grid item "
+#~ msgstr "Supprimer cet élément de grille "
+
+# @ js_composer
+#~ msgid "Custom layout"
+#~ msgstr "Mise en forme personnalisée"
+
+# @ js_composer
+#~ msgid "Add column"
+#~ msgstr "Ajouter une colonne"
+
+# @ js_composer
+#~ msgid "Delete this row"
+#~ msgstr "Supprimer cette rangée"
+
+# @ js_composer
+#~ msgid "Edit this row"
+#~ msgstr "Modifier cette rangée"
+
+# @ js_composer
+#~ msgid "Clone this row"
+#~ msgstr "Dupliquer cette rangée"
+
+# @ js_composer
+#~ msgid "Toggle row"
+#~ msgstr "Rétracter la ligne"
+
+# @ js_composer
+#~ msgid "Add image"
+#~ msgstr "Ajouter une image"
+
+# @ js_composer
+#~ msgid "Error! Can't connect to filesystem"
+#~ msgstr "Erreur, impossibilité de se connecter au fichier système"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "To receive automatic updates license activation is required. Please "
+#~| "visit %s to activate your WPBakery Page Builder."
+#~ msgid ""
+#~ "To receive automatic updates license activation is required. Please visit "
+#~ "%sSettings%s to activate your WPBakery Page Builder."
+#~ msgstr ""
+#~ "Pour recevoir des mises à jour, une activation est requise. Veuillez "
+#~ "visiter %s pour activer WPBakery Éditeur de page."
+
+#~ msgid "Downloading package..."
+#~ msgstr "Téléchargement du paquet…"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "To receive automatic updates license activation is required. Please "
+#~| "visit %s to activate your WPBakery Page Builder."
+#~ msgid ""
+#~ "To receive automatic updates license activation is required. Please visit "
+#~ "%ssettings%s to activate your WPBakery Page Builder."
+#~ msgstr ""
+#~ "Pour recevoir des mises à jour, une activation est requise. Veuillez "
+#~ "visiter %s pour activer WPBakery Éditeur de page."
+
+#~ msgid "Field name"
+#~ msgstr "Nom du champ"
+
+#~ msgid "Field group"
+#~ msgstr "Groupe de champs"
+
+#~ msgid "Show label"
+#~ msgstr "Afficher l’étiquette"
+
+#~ msgid "Align"
+#~ msgstr "Aligner"
+
+# @ js_composer
+#~ msgid "left"
+#~ msgstr "gauche"
+
+# @ js_composer
+#~ msgid "right"
+#~ msgstr "droite"
+
+# @ js_composer
+#~ msgid "center"
+#~ msgstr "au centre"
+
+# @ js_composer
+#~ msgid "justify"
+#~ msgstr "justifier"
+
+#~ msgid "Select alignment."
+#~ msgstr "Sélectionnez l'alignement."
+
+# @ js_composer
+#~ msgid "No contact forms found"
+#~ msgstr "Pas de formulaire de contact trouvé"
+
+# @ js_composer
+#~ msgid "Contact Form 7"
+#~ msgstr "Contact Form 7"
+
+# @ js_composer
+#~ msgid "Place Contact Form7"
+#~ msgstr "Placer un contact Form 7"
+
+# @ js_composer
+#~ msgid "Select contact form"
+#~ msgstr "Sélectionner le formulaire de contact"
+
+# @ js_composer
+#~ msgid "Choose previously created contact form from the drop down list."
+#~ msgstr "Choisir un formulaire déjà enregistré depuis le menu déroulant"
+
+# @ js_composer
+#~ msgid "No sliders found"
+#~ msgstr "Pas de sliders trouvés"
+
+# @ js_composer
+#~ msgid "Layer Slider"
+#~ msgstr "Layer slider"
+
+# @ js_composer
+#~ msgid "Place LayerSlider"
+#~ msgstr "Placer un LayerSlider"
+
+# @ js_composer
+#~ msgid "LayerSlider ID"
+#~ msgstr "ID LayerSlider"
+
+# @ js_composer
+#~ msgid "Select your LayerSlider."
+#~ msgstr "Sélectionnez votre LayerSlider."
+
+# @ js_composer
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+# @ js_composer
+#~ msgid "Place Revolution slider"
+#~ msgstr "Placer un Revolution Slider"
+
+# @ js_composer
+#~ msgid "Select your Revolution Slider."
+#~ msgstr "Sélectionnez votre Revolution Slider."
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Menu order"
+#~ msgid "Menu order & title"
+#~ msgstr "Ordre du menu"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Exclude"
+#~ msgid "Include"
+#~ msgstr "Exclure"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Custom links"
+#~ msgid "Custom post__in"
+#~ msgstr "Liens personnalisés"
+
+#~ msgid "Cart"
+#~ msgstr "Panier"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Checkout"
+#~ msgstr "Commander"
+
+#~ msgid "My Account"
+#~ msgstr "Mon compte"
+
+#~ msgid "Order count"
+#~ msgstr "Nombre de commandes"
+
+#~ msgid ""
+#~ "You can specify the number or order to show, it's set by default to 15 "
+#~ "(use -1 to display all orders.)"
+#~ msgstr ""
+#~ "Vous pouvez spécifier le nombre de commandes à afficher, il est défini à "
+#~ "15 par défaut (entrez -1 pour les afficher toutes.)"
+
+#~ msgid "Recent products"
+#~ msgstr "Produits récents"
+
+#~ msgid "Lists recent products"
+#~ msgstr "Listes des produits récents"
+
+#~ msgid "Per page"
+#~ msgstr "Par page"
+
+#~ msgid ""
+#~ "The \"per_page\" shortcode determines how many products to show on the "
+#~ "page"
+#~ msgstr ""
+#~ "Le raccourci \"per_page\" définit le nombre de produits à afficher sur la "
+#~ "page"
+
+#~ msgid "Columns"
+#~ msgstr "Colonnes"
+
+# @ js_composer
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s."
+#~ msgstr "Désigne l’ordre ascendant ou descendant. Plus à t %s."
+
+#~ msgid "Featured products"
+#~ msgstr "Produits à la une"
+
+#~ msgid "Product"
+#~ msgstr "Produit"
+
+#~ msgid "Products"
+#~ msgstr "Produits"
+
+#~ msgid "Add to cart"
+#~ msgstr "Ajouter au panier"
+
+#~ msgid "Product page"
+#~ msgstr "Page produit"
+
+#~ msgid "Product category"
+#~ msgstr "Catégorie de produit"
+
+#~ msgid "Category"
+#~ msgstr "Catégorie"
+
+#~ msgid "Product categories"
+#~ msgstr "Catégories de produits"
+
+#~ msgid "Number"
+#~ msgstr "Numéro"
+
+#~ msgid "List of product categories"
+#~ msgstr "Liste des catégories de produits"
+
+#~ msgid "Sale products"
+#~ msgstr "Produits en promotion"
+
+#~ msgid "Top Rated Products"
+#~ msgstr "Produits les mieux notés"
+
+#~ msgid "Product Attribute"
+#~ msgstr "Attribut de produit"
+
+#~ msgid "Attribute"
+#~ msgstr "Attribut"
+
+#~ msgid "Taxonomy values"
+#~ msgstr "Valeurs de taxonomie"
+
+#~ msgid "Related Products"
+#~ msgstr "Produits similaires"
+
+#~ msgid "Id"
+#~ msgstr "ID"
+
+#~ msgid "Sku"
+#~ msgstr "SKU"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "SKU"
+#~ msgstr "Référence"
+
+#~ msgid "Price"
+#~ msgstr "Prix"
+
+#~ msgid "Regular Price"
+#~ msgstr "Prix de base"
+
+#~ msgid "Sale Price"
+#~ msgstr "Prix soldé"
+
+#~ msgid "Price html"
+#~ msgstr "Prix ​​HTML"
+
+#~ msgid "Reviews count"
+#~ msgstr "Nombre d’avis"
+
+#~ msgid "Short description"
+#~ msgstr "Description courte"
+
+#~ msgid "Dimensions"
+#~ msgstr "Dimensions"
+
+#~ msgid "Rating count"
+#~ msgstr "Nombre de notes"
+
+#~ msgid "Weight"
+#~ msgstr "Poids"
+
+#~ msgid "Is on sale"
+#~ msgstr "En solde"
+
+#~ msgid "Custom field"
+#~ msgstr "Champ personnalisé"
+
+#~ msgid "Order number"
+#~ msgstr "Commande"
+
+#~ msgid "Currency"
+#~ msgstr "Monnaie"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Status"
+#~ msgstr "Statut"
+
+#~ msgid "Payment method"
+#~ msgstr "Méthode de paiement"
+
+#~ msgid "Customer Note"
+#~ msgstr "Note du client"
+
+#~ msgid "Customer API"
+#~ msgstr "API client"
+
+#~ msgid "Content type"
+#~ msgstr "Type contenu"
+
+# @ js_composer
+#~ msgid "Order"
+#~ msgstr "Odre"
+
+# @ js_composer
+#~ msgid "Added"
+#~ msgstr "Ajouté"
+
+# @ js_composer
+#~ msgid "Taxonomies"
+#~ msgstr "Taxonomies"
+
+# @ js_composer
+#~ msgid "CSS Animation"
+#~ msgstr "Animation CSS"
+
+# @ js_composer
+#~ msgid "Top to bottom"
+#~ msgstr "Du haut vers le bas"
+
+# @ js_composer
+#~ msgid "Bottom to top"
+#~ msgstr "Du bas vers le haut"
+
+# @ js_composer
+#~ msgid "Left to right"
+#~ msgstr "De gauche à droite"
+
+# @ js_composer
+#~ msgid "Right to left"
+#~ msgstr "De droite à gauche"
+
+# @ js_composer
+#~ msgid "Appear from center"
+#~ msgstr "Apparition à partir du centre"
+
+#~ msgid "Bouncing Entrances"
+#~ msgstr "Entrées en rebondissement"
+
+#~ msgid "bounceIn"
+#~ msgstr "bounceIn"
+
+#~ msgid "bounceInDown"
+#~ msgstr "bounceInDown"
+
+#~ msgid "bounceInLeft"
+#~ msgstr "bounceInLeft"
+
+#~ msgid "bounceInRight"
+#~ msgstr "bounceInRight"
+
+#~ msgid "bounceInUp"
+#~ msgstr "bounceInUp"
+
+#~ msgid "Bouncing Exits"
+#~ msgstr "Sorties en rebondissement"
+
+#~ msgid "bounceOut"
+#~ msgstr "bounceOut"
+
+#~ msgid "bounceOutDown"
+#~ msgstr "bounceOutDown"
+
+#~ msgid "bounceOutLeft"
+#~ msgstr "bounceOutLeft"
+
+#~ msgid "bounceOutRight"
+#~ msgstr "bounceOutRight"
+
+#~ msgid "bounceOutUp"
+#~ msgstr "bounceOutUp"
+
+#~ msgid "Fading Entrances"
+#~ msgstr "Entrées en fondu"
+
+#~ msgid "fadeIn"
+#~ msgstr "fadeIn"
+
+#~ msgid "fadeInDown"
+#~ msgstr "fadeInDown"
+
+#~ msgid "fadeInDownBig"
+#~ msgstr "fadeInDownBig"
+
+#~ msgid "fadeInLeft"
+#~ msgstr "fadeInLeft"
+
+#~ msgid "fadeInLeftBig"
+#~ msgstr "fadeInLeftBig"
+
+#~ msgid "fadeInRight"
+#~ msgstr "fadeInRight"
+
+#~ msgid "fadeInRightBig"
+#~ msgstr "fadeInRightBig"
+
+#~ msgid "fadeInUp"
+#~ msgstr "fadeInUp"
+
+#~ msgid "fadeInUpBig"
+#~ msgstr "fadeInUpBig"
+
+#~ msgid "Fading Exits"
+#~ msgstr "Sorties en fondu"
+
+#~ msgid "fadeOut"
+#~ msgstr "fadeOut"
+
+#~ msgid "fadeOutDown"
+#~ msgstr "fadeOutDown"
+
+#~ msgid "fadeOutDownBig"
+#~ msgstr "fadeOutDownBig"
+
+#~ msgid "fadeOutLeft"
+#~ msgstr "fadeOutLeft"
+
+#~ msgid "fadeOutLeftBig"
+#~ msgstr "fadeOutLeftBig"
+
+#~ msgid "fadeOutRight"
+#~ msgstr "fadeOutRight"
+
+#~ msgid "fadeOutRightBig"
+#~ msgstr "fadeOutRightBig"
+
+#~ msgid "fadeOutUp"
+#~ msgstr "fadeOutUp"
+
+#~ msgid "fadeOutUpBig"
+#~ msgstr "fadeOutUpBig"
+
+#~ msgid "Flippers"
+#~ msgstr "Éjecteur"
+
+#~ msgid "flip"
+#~ msgstr "flip"
+
+#~ msgid "flipInX"
+#~ msgstr "flipInX"
+
+#~ msgid "flipInY"
+#~ msgstr "flipInY"
+
+#~ msgid "flipOutX"
+#~ msgstr "flipOutX"
+
+#~ msgid "flipOutY"
+#~ msgstr "flipOutY"
+
+#~ msgid "Lightspeed"
+#~ msgstr "Vitesse de la lumière"
+
+#~ msgid "lightSpeedIn"
+#~ msgstr "lightSpeedIn"
+
+#~ msgid "lightSpeedOut"
+#~ msgstr "lightSpeedOut"
+
+#~ msgid "Rotating Entrances"
+#~ msgstr "Entrées en rotation"
+
+#~ msgid "rotateIn"
+#~ msgstr "rotateIn"
+
+#~ msgid "rotateInDownLeft"
+#~ msgstr "rotateInDownLeft"
+
+#~ msgid "rotateInDownRight"
+#~ msgstr "rotateInDownRight"
+
+#~ msgid "rotateInUpLeft"
+#~ msgstr "rotateInUpLeft"
+
+#~ msgid "rotateInUpRight"
+#~ msgstr "rotateInUpRight"
+
+#~ msgid "Rotating Exits"
+#~ msgstr "Sorties en rotation"
+
+#~ msgid "rotateOut"
+#~ msgstr "rotateOut"
+
+#~ msgid "rotateOutDownLeft"
+#~ msgstr "rotateOutDownLeft"
+
+#~ msgid "rotateOutDownRight"
+#~ msgstr "rotateOutDownRight"
+
+#~ msgid "rotateOutUpLeft"
+#~ msgstr "rotateOutUpLeft"
+
+#~ msgid "rotateOutUpRight"
+#~ msgstr "rotateOutUpRight"
+
+#~ msgid "Specials"
+#~ msgstr "Spéciales"
+
+#~ msgid "hinge"
+#~ msgstr "hinge"
+
+#~ msgid "rollIn"
+#~ msgstr "rollIn"
+
+#~ msgid "rollOut"
+#~ msgstr "rollOut"
+
+#~ msgid "Zoom Entrances"
+#~ msgstr "Entrées en zoomant"
+
+#~ msgid "zoomIn"
+#~ msgstr "zoomIn"
+
+#~ msgid "zoomInDown"
+#~ msgstr "zoomInDown"
+
+#~ msgid "zoomInLeft"
+#~ msgstr "zoomInLeft"
+
+#~ msgid "zoomInRight"
+#~ msgstr "zoomInRight"
+
+#~ msgid "zoomInUp"
+#~ msgstr "zoomInUp"
+
+#~ msgid "Zoom Exits"
+#~ msgstr "Sorties en zoomant"
+
+#~ msgid "zoomOut"
+#~ msgstr "zoomOut"
+
+#~ msgid "zoomOutDown"
+#~ msgstr "zoomOutDown"
+
+#~ msgid "zoomOutLeft"
+#~ msgstr "zoomOutLeft"
+
+#~ msgid "zoomOutRight"
+#~ msgstr "zoomOutRight"
+
+#~ msgid "zoomOutUp"
+#~ msgstr "zoomOutUp"
+
+#~ msgid "Slide Entrances"
+#~ msgstr "Entrées en glissant"
+
+#~ msgid "slideInDown"
+#~ msgstr "slideInDown"
+
+#~ msgid "slideInLeft"
+#~ msgstr "slideInLeft"
+
+#~ msgid "slideInRight"
+#~ msgstr "slideInRight"
+
+#~ msgid "slideInUp"
+#~ msgstr "slideInUp"
+
+#~ msgid "Slide Exits"
+#~ msgstr "Sorties en glissant"
+
+#~ msgid "slideOutDown"
+#~ msgstr "slideOutDown"
+
+#~ msgid "slideOutLeft"
+#~ msgstr "slideOutLeft"
+
+#~ msgid "slideOutRight"
+#~ msgstr "slideOutRight"
+
+#~ msgid "slideOutUp"
+#~ msgstr "slideOutUp"
+
+#~ msgid "Animate it"
+#~ msgstr "L’animer"
+
+#~ msgid "Click here and start typing..."
+#~ msgstr "Cliquez ici et commencez à écrire…"
+
+# @ js_composer
+#~ msgid "Default value from width attribute"
+#~ msgstr "Valeur de largeur par défaut"
+
+# @ js_composer
+#~ msgid "Inherit from smaller"
+#~ msgstr "Hériter de la plus petite valeur"
+
+# @ js_composer
+#~ msgid "No offset"
+#~ msgstr "Pas de décalage"
+
+#~ msgid "Border style"
+#~ msgstr "Style de bordure"
+
+#~ msgid "Border radius"
+#~ msgstr "Rayon de la bordure"
+
+# @ js_composer
+#~ msgid "Box controls"
+#~ msgstr "Contrôles de boite"
+
+# @ js_composer
+#~ msgid "Simplify controls"
+#~ msgstr "Simplifier les contrôles %s"
+
+# @ js_composer
+#~ msgid "Theme defaults"
+#~ msgstr "Valeurs par défaut"
+
+#, fuzzy
+#~| msgid "Washed"
+#~ msgid "dashed"
+#~ msgstr "Délavé"
+
+#, fuzzy
+#~| msgid "Hidden"
+#~ msgid "hidden"
+#~ msgstr "Masqué"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Inherit: "
+#~ msgid "inherit"
+#~ msgstr "Inhérence "
+
+# @ js_composer
+#~ msgid "Cover"
+#~ msgstr "Couverture"
+
+# @ js_composer
+#~ msgid "Contain"
+#~ msgstr "Contient"
+
+# @ js_composer
+#~ msgid "No Repeat"
+#~ msgstr "Pas de répétition"
+
+# @ js_composer
+#~ msgid "Repeat"
+#~ msgstr "Répéter"
+
+# @ js_composer
+#~ msgid "Element tag"
+#~ msgstr "Mot clé de l'élément"
+
+# @ js_composer
+#~ msgid "Font size"
+#~ msgstr "Taille de police"
+
+# @ js_composer
+#~ msgid "Text align"
+#~ msgstr "Alignement du texte"
+
+# @ js_composer
+#~ msgid "Line height"
+#~ msgstr "Hauteur de ligne"
+
+# @ js_composer
+#~ msgid "Font Family"
+#~ msgstr "Famille de police"
+
+# @ js_composer
+#~ msgid "Font style"
+#~ msgstr "Style de police"
+
+# @ js_composer
+#~ msgid "italic"
+#~ msgstr "italique"
+
+# @ js_composer
+#~ msgid "bold"
+#~ msgstr "gras"
+
+#, fuzzy
+#~| msgid "Add row"
+#~ msgid "Add New"
+#~ msgstr "Ajouter une rangée"
+
+#~ msgid "From all categories"
+#~ msgstr "De toutes les catégories"
+
+#~ msgid "Uncategorized"
+#~ msgstr "Non classé"
+
+# @ js_composer
+#~ msgid "Build query"
+#~ msgstr "Construire la requête"
+
+#~ msgid "Post count"
+#~ msgstr "Nombre d’articles"
+
+#~ msgid "Individual posts/pages"
+#~ msgstr "Articles/Pages individuels"
+
+# @ js_composer
+#~ msgid "Manage options"
+#~ msgstr "Gérer les options"
+
+# @ js_composer
+#~ msgid "Close"
+#~ msgstr "Fermer"
+
+#~ msgid "Add row"
+#~ msgstr "Ajouter une rangée"
+
+#~ msgid "Drag to reorder"
+#~ msgstr "Glissez pour réorganiser"
+
+#~ msgid "Add Grid template"
+#~ msgstr "Ajouter un modèle de grille"
+
+#~ msgid "Grid Builder"
+#~ msgstr "Éditeur de grille"
+
+#~ msgid "Grid template"
+#~ msgstr "Modèle de grille"
+
+#~ msgid "Edit Grid template"
+#~ msgstr "Modifier le modèle"
+
+#~ msgid "View Grid template"
+#~ msgstr "Voir le modèle"
+
+#~ msgid "Search Grid templates"
+#~ msgstr "Chercher un modèle"
+
+#~ msgid "Builder"
+#~ msgstr "Éditeur"
+
+#~ msgid "Post title"
+#~ msgstr "Titre de l’article"
+
+#, php-format
+#~ msgid "%s/12 width"
+#~ msgstr "Largeur %s/12"
+
+#~ msgid "Grid Templates"
+#~ msgstr "Modèles de grille"
+
+#~ msgid "Custom Grid Templates"
+#~ msgstr "Modèles de grille personnalisés"
+
+#~ msgid "Add link"
+#~ msgstr "Ajouter un lien"
+
+#~ msgid "Post link"
+#~ msgstr "Lien de l’article"
+
+#~ msgid "Post author"
+#~ msgstr "Auteur de l’article"
+
+#~ msgid "Large image"
+#~ msgstr "Grande image"
+
+#~ msgid "Select link option."
+#~ msgstr "Sélectionnez l’option du lien."
+
+#~ msgid "Add custom link."
+#~ msgstr "Ajouter un lien personnalisé."
+
+#~ msgid ""
+#~ "Note: Featured image overwrites background image and color from \"Design "
+#~ "Options\"."
+#~ msgstr ""
+#~ "Note : l’image à la une écrasera l’image d’arrière-plan et/ou la couleur "
+#~ "définies dans les \"Options de style\"."
+
+#~ msgid "Use custom fonts?"
+#~ msgstr "Utiliser des polices personnalisées ?"
+
+#~ msgid "Custom fonts"
+#~ msgstr "Polices personnalisées"
+
+#~ msgid "Grid Item"
+#~ msgstr "Élément de grille"
+
+#~ msgid "Zone"
+#~ msgstr "Zone"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Height mode"
+#~ msgstr "Mode hauteur"
+
+#~ msgid "Original"
+#~ msgstr "Original"
+
+#~ msgid "Enter custom height."
+#~ msgstr "Entrez une hauteur personnalisée."
+
+# @ js_composer
+#~ msgid "Hover"
+#~ msgstr "Survol"
+
+# @ js_composer
+#~ msgid "Additional"
+#~ msgstr "Additionnel"
+
+#~ msgid "Post Title"
+#~ msgstr "Titre de l’article"
+
+#~ msgid "Post"
+#~ msgstr "Article"
+
+#~ msgid "Title of current post"
+#~ msgstr "Titre de l’article actuel"
+
+#~ msgid "Post Excerpt"
+#~ msgstr "Extrait de l’article"
+
+#~ msgid "Post Author"
+#~ msgstr "Auteur de l’article"
+
+#~ msgid "Post Categories"
+#~ msgstr "Catégories d’articles"
+
+#~ msgid "Add link to category?"
+#~ msgstr "Ajouter un lien à la catégorie ?"
+
+#~ msgid "Comma"
+#~ msgstr "Virgule"
+
+#~ msgid "Post Image"
+#~ msgstr "Image de l’article"
+
+#~ msgid "Featured image"
+#~ msgstr "Image à la une"
+
+#~ msgid "Post Date"
+#~ msgstr "Date de l’article"
+
+#~ msgid "Custom Field"
+#~ msgstr "Champ personnalisé"
+
+#~ msgid "Elements"
+#~ msgstr "Éléments"
+
+#~ msgid "Justify"
+#~ msgstr "Justifier"
+
+#~ msgid "Basic grid: Default"
+#~ msgstr "Grille de base : par défaut"
+
+# @ js_composer
+#~ msgid "Read more"
+#~ msgstr "Lire plus"
+
+#~ msgid "Basic grid: Scale in with rotation"
+#~ msgstr "Grille de base : Zoom avant avec rotation"
+
+#~ msgid "Basic grid: Fade with side content"
+#~ msgstr "Grille de base : Fondu avec contenu latéral"
+
+#~ msgid "Basic grid: Slide bottom with icon"
+#~ msgstr "Grille de base : Glisser du bas avec icône"
+
+#~ msgid "Basic grid: Vertical flip"
+#~ msgstr "Grille de base : Retournement vertical"
+
+#~ msgid "Basic grid: No animation"
+#~ msgstr "Grille de base : Aucune animation"
+
+#~ msgid "Basic grid: Text first"
+#~ msgstr "Grille de base : Texte en premier"
+
+#~ msgid "Basic grid: Slide from left"
+#~ msgstr "Grille de base : Glisser de la gauche"
+
+#~ msgid "Basic grid: Slide from top"
+#~ msgstr "Grille de base : Glisser du haut"
+
+#~ msgid "READ MORE"
+#~ msgstr "EN SAVOIR PLUS"
+
+#~ msgid "Media grid: Default"
+#~ msgstr "Médias : par défaut"
+
+# @ js_composer
+#~ msgid "Select URL"
+#~ msgstr "Sélectionnez une URL"
+
+# @ js_composer
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ js_composer
+#~ msgid "Loading, please wait..."
+#~ msgstr "Chargement, merci de patienter..."
+
+# @ js_composer
+#~ msgid "Crunching..."
+#~ msgstr "Écrasement…"
+
+#~ msgid "Search element by name"
+#~ msgstr "Chercher un élément"
+
+# @ js_composer
+#~ msgid "Other"
+#~ msgstr "Autres"
+
+#~ msgid "Deprecated"
+#~ msgstr "Obsolètes"
+
+#~ msgid "My Elements"
+#~ msgstr "Mes éléments"
+
+# @ js_composer
+#, php-format
+#~ msgid "Drag to move %s"
+#~ msgstr "Glisser pour déplacer %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Prepend to %s"
+#~ msgstr "Préfixer à %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Append to %s"
+#~ msgstr "Joindre à %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Show %s controls"
+#~ msgstr "Afficher ls contrôles %s"
+
+# @ js_composer
+#~ msgid "Change layout"
+#~ msgstr "Modifier la mise en page"
+
+# @ js_composer
+#, php-format
+#~ msgid "Add new %s"
+#~ msgstr "Ajouter nouveau %s"
+
+# @ js_composer
+#~ msgid "Element Title"
+#~ msgstr "Titre de l'élément"
+
+# @ js_composer
+#~ msgid "Enter element title."
+#~ msgstr "Entrez le titre de l'élément."
+
+# @ js_composer
+#~ msgid "Save changes"
+#~ msgstr "Sauvegarder les modifications"
+
+#~ msgid "Template Title"
+#~ msgstr "Titre du modèle"
+
+#~ msgid "Save as template"
+#~ msgstr "Enregistrer comme modèle"
+
+#~ msgid "Save as Element"
+#~ msgstr "Enregistrer comme élément"
+
+#, fuzzy
+#~| msgid "no title"
+#~ msgid "Untitled"
+#~ msgstr "sans titre"
+
+#~ msgid "Element Settings"
+#~ msgstr "Options de l'élément"
+
+#, fuzzy
+#~| msgid "You have blank page <br> Start adding content or templates"
+#~ msgid "Start adding content or templates"
+#~ msgstr "Votre page est vide<br>Commencez à ajouter du contenu ou un modèle"
+
+#~ msgid "Add Element"
+#~ msgstr "Ajouter un élément"
+
+# @ js_composer
+#~ msgid "Add element"
+#~ msgstr "Ajouter un élément"
+
+# @ js_composer
+#~ msgid "Add text block"
+#~ msgstr "Ajouter un bloc de texte"
+
+#~ msgid "Add Text Block"
+#~ msgstr "Ajouter un bloc de texte"
+
+#, php-format
+#~ msgid "Don't know where to start? Visit our %s."
+#~ msgstr "Vous ne savez par où commencer ? Visitez notre %s."
+
+#~ msgid "knowledge base"
+#~ msgstr "base de connaissance"
+
+# @ js_composer
+#~ msgid "Close panel"
+#~ msgstr "Fermer l’onglet"
+
+# @ js_composer
+#~ msgid "Hide panel"
+#~ msgstr "Cacher l’onglet"
+
+#~ msgid "Edit Elements"
+#~ msgstr "Modifier les éléments"
+
+#, fuzzy
+#~| msgid "Template library"
+#~ msgid "Exit Template Library"
+#~ msgstr "Bibliothèque de modèles"
+
+#~ msgid "Activate WPBakery Page Builder"
+#~ msgstr "Activer WPBakery Éditeur de page"
+
+# @ js_composer
+#~ msgid "Activate License"
+#~ msgstr "Activer la licence"
+
+#~ msgid "Download Template"
+#~ msgstr "Télécharger le modèle"
+
+#~ msgid "Downloading template ... please wait!"
+#~ msgstr "Téléchargement du modèle... Veuillez patienter !"
+
+#~ msgid "Download Templates"
+#~ msgstr "Télécharger les modèles"
+
+#~ msgid "Access Library"
+#~ msgstr "Accéder à la bibliothèque"
+
+#~ msgid ""
+#~ "Elements within this list are deprecated and are no longer supported in "
+#~ "newer versions of WPBakery Page Builder."
+#~ msgstr ""
+#~ "Les éléments de cette liste sont obsolètes et ne seront donc plus mis à "
+#~ "jour dans les futures versions de WPBakery Éditeur de page."
+
+#~ msgid ""
+#~ "Your user role have restricted access to content elements. If required, "
+#~ "contact your site administrator to change WPBakery Page Builder Role "
+#~ "Manager settings for your user role."
+#~ msgstr ""
+#~ "Votre rôle d’utilisateur a un accès restreint aux éléments de contenu. Si "
+#~ "nécessaire, contactez l’administrateur de votre site pour modifier les "
+#~ "paramètres de l’Éditeur de page."
+
+# @ js_composer
+#~ msgid "Manage elements"
+#~ msgstr "Gérer les éléments"
+
+#~ msgid "Page Settings"
+#~ msgstr "Paramètres de la page"
+
+# @ js_composer
+#~ msgid "Please enter page title"
+#~ msgstr "Saisissez un titre de page"
+
+# @ js_composer
+#~ msgid "Custom CSS settings"
+#~ msgstr "Paramètres CSS personnalisés"
+
+#~ msgid ""
+#~ "Enter custom CSS (Note: it will be outputted only on this particular "
+#~ "page)."
+#~ msgstr ""
+#~ "Entrez votre CSS personnalisé ici (Notez qu’il ne sera interprété que sur "
+#~ "cette page)."
+
+#~ msgid "Manage My Elements"
+#~ msgstr "Gérer mes éléments"
+
+#~ msgid "Remove existing elements"
+#~ msgstr "Supprimer les éléments existants"
+
+# @ js_composer
+#~ msgid "Delete element"
+#~ msgstr "Supprimer l’élément"
+
+#~ msgid "Row Layout"
+#~ msgstr "Disposition de la rangée"
+
+# @ js_composer
+#~ msgid "Row layout"
+#~ msgstr "Disposition de la rangée"
+
+#~ msgid "Select row layout from predefined options."
+#~ msgstr "Sélectionner une mise en page depuis les pré-réglages."
+
+# @ js_composer
+#~ msgid "Enter custom layout for your row"
+#~ msgstr "Saisir un disposition personnalisée pour votre ligne"
+
+# @ js_composer
+#~ msgid ""
+#~ "Change particular row layout manually by specifying number of columns and "
+#~ "their size value."
+#~ msgstr ""
+#~ "Changer une disposition particulière de ligne en spécifiant le nombre de "
+#~ "colonnes et la valeur de leurs dimensions"
+
+#~ msgid "Disable Classic editor"
+#~ msgstr "Désactiver le Mode classique"
+
+#~ msgid "Enabled"
+#~ msgstr "Activé"
+
+#~ msgid "Enabled and default"
+#~ msgstr "Activé et par défaut"
+
+#~ msgid "Disabled"
+#~ msgstr "Désactivé"
+
+# @ js_composer
+#~ msgid "Backend editor"
+#~ msgstr "Éditeur "
+
+#~ msgid "Drag and Drop"
+#~ msgstr "Glisser et déposer"
+
+#~ msgid "Frontend editor"
+#~ msgstr "Éditeur visuel"
+
+#~ msgid "Pages only"
+#~ msgstr "Pages seulement"
+
+#~ msgid "Element Presets"
+#~ msgstr "Éléments prédéfinis"
+
+#~ msgid "Settings options"
+#~ msgstr "Réglages"
+
+#~ msgid "Element"
+#~ msgstr "Élément"
+
+#~ msgid "Edit only"
+#~ msgstr "Modifier seulement"
+
+#~ msgid "Apply templates only"
+#~ msgstr "Appliquer les modèles seulement"
+
+#, fuzzy
+#~| msgid "About WPBakery Page Builder"
+#~ msgid "Allow to use Custom HTML in WPBakery Page Builder."
+#~ msgstr "À propos de WPBakery Éditeur de page"
+
+#~ msgid "Post type"
+#~ msgstr "Type d’article"
+
+#~ msgid "Template"
+#~ msgstr "Modèle"
+
+#~ msgid "Guide tours"
+#~ msgstr "Visites guidées"
+
+#~ msgid "Done"
+#~ msgstr "Terminé"
+
+#~ msgid "Reset"
+#~ msgstr "Réinitialiser"
+
+#~ msgid "Restore Default"
+#~ msgstr "Restaurer les réglages par défaut"
+
+#~ msgid ""
+#~ "You have activated WPBakery Page Builder version which allows you to "
+#~ "access all the customer benefits. Thank you for choosing WPBakery Page "
+#~ "Builder as your page builder. If you do not wish to use WPBakery Page "
+#~ "Builder on this WordPress site you can deactivate your license below."
+#~ msgstr ""
+#~ "Vous avez activé la version de l’Éditeur de page qui vous permet "
+#~ "d’accéder à tous ses avantages. Merci d’avoir choisi WPBakery Éditeur de "
+#~ "page pour éditer vos pages. Si vous ne souhaitez plus utiliser l’Éditeur "
+#~ "de page sur ce site, vous pouvez désactiver votre licence ci-dessous."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "In order to receive all benefits of WPBakery Page Builder, you need to "
+#~| "activate your copy of the plugin. By activating WPBakery Page Builder "
+#~| "license you will unlock premium options - <strong>direct plugin updates</"
+#~| "strong>, access to <strong>template library</strong> and "
+#~| "<strong>official support.</strong>"
+#~ msgid ""
+#~ "In order to receive all benefits of WPBakery Page Builder, you need to "
+#~ "activate your copy of the plugin. By activating WPBakery Page Builder "
+#~ "license you will unlock premium options - %1$sdirect plugin updates%2$s, "
+#~ "access to %1$stemplate library%2$s and %1$sofficial support.%2$s"
+#~ msgstr ""
+#~ "Dans le but de profiter de tous les avantages de l’Éditeur de page, vous "
+#~ "devez activer votre copie de l’extension. En activant la licence de "
+#~ "l’Éditeur de page, vous déverrouillerez les fonctionnalités premium - "
+#~ "<strong>les mises à jour en direct</strong> et <strong>l’accès au support "
+#~ "officiel.</strong>"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Don't have direct license yet? <a href=\"%s\" target=\"_blank\">Purchase "
+#~| "WPBakery Page Builder license</a>."
+#~ msgid ""
+#~ "Don't have direct license yet? %sPurchase WPBakery Page Builder license%s."
+#~ msgstr ""
+#~ "Vous n’avez pas encore de licence ? <a href=\"%s\" target=\"_blank"
+#~ "\">Acheter une licence WPBakery Éditeur de page</a>."
+
+#~ msgid ""
+#~ "Congratulations! You are about to use most powerful time saver for "
+#~ "WordPress ever - page builder plugin with Frontend and Backend editors by "
+#~ "WPBakery."
+#~ msgstr ""
+#~ "Félicitations ! Vous êtes sur le point d’utiliser l’une des extensions "
+#~ "les plus rapides pour WordPress - extension de mise en page avec éditeurs "
+#~ "administration et visuel par WPBakery."
+
+#, php-format
+#~ msgid "Version %s"
+#~ msgstr "Version %s"
+
+#~ msgid "New to WPBakery Page Builder or Looking for More Information?"
+#~ msgstr ""
+#~ "Nouveau sur l’Éditeur de page ou à la recherche de plus d’informations ?"
+
+#, fuzzy
+#~| msgid "Product introduction"
+#~ msgid "Introduction"
+#~ msgstr "Introduction de produit"
+
+#, fuzzy
+#~| msgid "Resources"
+#~ msgid "Support and Resources"
+#~ msgstr "Ressources"
+
+#, fuzzy
+#~| msgid "Dimensions"
+#~ msgid "Licensing"
+#~ msgstr "Dimensions"
+
+#, fuzzy
+#~| msgid "Regular Price"
+#~ msgid "Regular License"
+#~ msgstr "Prix de base"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Activate License"
+#~ msgid "Extended License"
+#~ msgstr "Activer la licence"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Active section"
+#~ msgid "Activation"
+#~ msgstr "Section active"
+
+#, fuzzy
+#~| msgid "Content type"
+#~ msgid "Content Type"
+#~ msgstr "Type contenu"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Landing Page"
+#~ msgid "Learning More"
+#~ msgstr "Page d’accueil"
+
+#, fuzzy
+#~| msgid "Control Elements"
+#~ msgid "Content Elements"
+#~ msgstr "Éléments de contrôle"
+
+#, fuzzy
+#~| msgid "Open Design Options"
+#~ msgid "Element Design Options"
+#~ msgstr "Ouvrir les Options de style"
+
+#, fuzzy
+#~| msgid "Responsive Options"
+#~ msgid "Responsive Settings"
+#~ msgstr "Options d’adaptation"
+
+#, fuzzy
+#~| msgid "Image filter"
+#~ msgid "Image filters"
+#~ msgstr "Filtre d’image"
+
+#, fuzzy
+#~| msgid "WPBakery Page Builder"
+#~ msgid "WPBakery Page Builder \"How To's\""
+#~ msgstr "Éditeur de page"
+
+#, fuzzy
+#~| msgid "Add icon?"
+#~ msgid "Add - ons"
+#~ msgstr "Ajouter une icône ?"
+
+#, fuzzy
+#~| msgid "Template"
+#~ msgid "Templatera"
+#~ msgstr "Modèle"
+
+#, fuzzy
+#~| msgid "General Information"
+#~ msgid "Theme Integration"
+#~ msgstr "Informations générales"
+
+#, fuzzy
+#~| msgid "Inner Row"
+#~ msgid "Inner API"
+#~ msgstr "Rangée intérieure"
+
+#~ msgid "Visit Knowledge Base for more information"
+#~ msgstr "Rendez-vous sur la Base de connaissance pour plus d’informations"
+
+#~ msgid ""
+#~ "There are several resources available to WPBakery Page Builder users to "
+#~ "help you to get around plugin:"
+#~ msgstr ""
+#~ "Un certain nombre de ressources est disponible pour les utilisateurs de "
+#~ "l’Éditeur de page pour vous aider à utiliser l’extension :"
+
+#, fuzzy
+#~| msgid "Official Support"
+#~ msgid "Official website"
+#~ msgstr "Support officiel"
+
+#, fuzzy
+#~| msgid "knowledge base"
+#~ msgid "Official Knowledge Base"
+#~ msgstr "base de connaissance"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video Academy"
+#~ msgstr "Lecteur vidéo"
+
+#, fuzzy
+#~| msgid "Official Support"
+#~ msgid "Official support"
+#~ msgstr "Support officiel"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Facebook Like"
+#~ msgid "Facebook page"
+#~ msgstr "J’aime Facebook"
+
+# @ js_composer
+#, fuzzy
+#~| msgid "Balloon Twitter icon"
+#~ msgid "Twitter account"
+#~ msgstr "Bulle avec icône Twitter"
+
+#~ msgid "Official Support"
+#~ msgstr "Support officiel"
+
+#, fuzzy
+#~| msgid "Activate WPBakery Page Builder"
+#~ msgid "A Hassle-Free WordPress Page Builder"
+#~ msgstr "Activer WPBakery Éditeur de page"
+
+# @ js_composer
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Responsive design settings are currently disabled. You can enable them "
+#~| "in WPBakery Page Builder <a href=\"%s\">settings page</a> by unchecking "
+#~| "\"Disable responsive content elements\"."
+#~ msgid ""
+#~ "Responsive design settings are currently disabled. You can enable them in "
+#~ "WPBakery Page Builder %ssettings page%s by unchecking \"Disable "
+#~ "responsive content elements\"."
+#~ msgstr ""
+#~ "Les réglages de sont actuellement désactivés. Vous pouvez les activer "
+#~ "dans <a href=\"%s\">les réglages</a> de WPBakery Éditeur de page en "
+#~ "décochant la case \"Désactiver les éléments responsive\"."
+
+# @ js_composer
+#~ msgid "Device"
+#~ msgstr "Terminal"
+
+# @ js_composer
+#~ msgid "Hide on device?"
+#~ msgstr "Cacher pour le terminal?"
+
+# @ js_composer
+#~ msgid "Inherit: "
+#~ msgstr "Inhérence "
+
+# @ js_composer
+#~ msgid "Inherit from default"
+#~ msgstr "Inhérence par défaut"
+
+# @ js_composer
+#~ msgid "Google Fonts preview"
+#~ msgstr "Prévisualisation Google Fonts"
+
+# @ js_composer
+#~ msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+#~ msgstr "Les chaussettes de l’archiduchesse sont-elles sèches archi sèches ?"
+
+#, php-format
+#~ msgid "View all posts in %s"
+#~ msgstr "Voir tous les articles dans %s"
+
+# @ js_composer
+#, php-format
+#~ msgid "Permalink to %s"
+#~ msgstr "Permalien vers %s"
+
+# @ js_composer
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "Section vide. Modifiez une page pour ajouter du contenu ici."
+
+# @ js_composer
+#~ msgid "View stream on flickr"
+#~ msgstr "Voir le flux sur Flickr"
+
+# @ js_composer
+#~ msgid "Item"
+#~ msgstr "Élément"
+
+# @ js_composer
+#~ msgid "Nothing found."
+#~ msgstr "Aucun résultat."
+
+# @ js_composer
+#~ msgid "Empty tab. Edit page to add content here."
+#~ msgstr "Onglet vide. Modifiez la page pour ajouter du contenu ici."
+
+# @ js_composer
+#~ msgid "Previous tab"
+#~ msgstr "Onglet précédent"
+
+# @ js_composer
+#~ msgid "Next tab"
+#~ msgstr "Onglet suivant"
+
+#~ msgid "Tweet to"
+#~ msgstr "Tweeter à"
+
+# @ js_composer
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+# @ js_composer
+#~ msgid "Open prettyPhoto"
+#~ msgstr "Ouvrir PrettyPhoto"
+
+# @ js_composer
+#~ msgid "Animated carousel with posts"
+#~ msgstr "Carrousel animé avec articles"
+
+# @ js_composer
+#~ msgid "Carousel content"
+#~ msgstr "Contenu du carrousel"
+
+# @ js_composer
+#~ msgid "Create WordPress loop, to populate content from your site."
+#~ msgstr "Créer une boucle WordPress pour densifier le contenu de votre site."
+
+# @ js_composer
+#~ msgid "Teaser layout"
+#~ msgstr "Disposition du Teaser"
+
+# @ js_composer
+#~ msgid ""
+#~ "Control teasers look. Enable blocks and place them in desired order. "
+#~ "Note: This setting can be overrriden on post to post basis."
+#~ msgstr ""
+#~ "Contrôlez le design de vos Teasers, Activez les blocs puis placez-les "
+#~ "dans l'ordre désiré. Note : ce paramètre peut être édité sur une base "
+#~ "d'article par article"
+
+# @ js_composer
+#~ msgid "Thumbnail"
+#~ msgstr "Miniature"
+
+# @ js_composer
+#~ msgid "Teaser/Excerpt"
+#~ msgstr "Teaser/Résumé"
+
+# @ js_composer
+#~ msgid "Full content"
+#~ msgstr "Contenu intégral"
+
+# @ js_composer
+#~ msgid "Read more link"
+#~ msgstr "Lien En savoir plus"
+
+# @ js_composer
+#~ msgid "Link target"
+#~ msgstr "Cible du lien"
+
+# @ js_composer
+#~ msgid "If \"YES\" pagination control will be removed"
+#~ msgstr "si \"OUI\" les contrôles de navigation seront supprimés"
+
+# @ js_composer
+#~ msgid "If \"YES\" prev/next control will be removed"
+#~ msgstr "Si OUI, les boutons précédent et suivant seront supprimés"
+
+# @ js_composer
+#~ msgid "If \"YES\" part of the next slide will be visible on the right side"
+#~ msgstr ""
+#~ "si \"YES\"  , une partie du slide suivant sera visible sur le côté droit"
+
+# @ js_composer
+#~ msgid "Posts in grid view"
+#~ msgstr "Articles en vue grille"
+
+# @ js_composer
+#~ msgid "Grids content"
+#~ msgstr "Contenu des grilles"
+
+# @ js_composer
+#~ msgid "Columns count"
+#~ msgstr "Compte de colonnes"
+
+# @ js_composer
+#~ msgid "Select columns count."
+#~ msgstr "Sélectionnez le nombre de colonnes."
+
+# @ js_composer
+#~ msgid "Select to add animated category filter to your posts grid."
+#~ msgstr ""
+#~ "Sélectionner pour ajouter des filtres de catégories animés à votre grille "
+#~ "d'articles."
+
+# @ js_composer
+#~ msgid "Layout mode"
+#~ msgstr "Mode de disposition"
+
+# @ js_composer
+#~ msgid "Fit rows"
+#~ msgstr "Adaptation aux lignes"
+
+# @ js_composer
+#~ msgid "Masonry"
+#~ msgstr "Champ obligatoire"
+
+# @ js_composer
+#~ msgid "Teaser layout template."
+#~ msgstr "Template du teaser"
+
+# @ js_composer
+#~ msgid ""
+#~ "%s cloned. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s"
+#~ "\">Edit now?</a>"
+#~ msgstr ""
+#~ "%s cloné. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s"
+#~ "\">Éditer maintenant?</a>"
+
+#~ msgid "Add"
+#~ msgstr "Ajouter"
+
+# @ js_composer
+#~ msgid "Hello World"
+#~ msgstr "Bonjour tout le monde"
+
+# @ js_composer
+#~ msgid "Foo attribute"
+#~ msgstr "Attribut Foo"
+
+# @ js_composer
+#~ msgid "I'm foo attribute"
+#~ msgstr "Attribut je suis Foo"
+
+# @ js_composer
+#~ msgid "Enter foo value."
+#~ msgstr "Entrez la valeur Foo"
+
+# @ js_composer
+#~ msgid "I'm hello world"
+#~ msgstr "Bonjour tout le monde"
+
+# @ js_composer
+#~ msgid "Enter your content."
+#~ msgstr "Saisissez votre contenu."
+
+# @ js_composer
+#~ msgid "Drop down example"
+#~ msgstr "Exemple de menu déroulant"
+
+# @ js_composer
+#~ msgid "One, two or three?"
+#~ msgstr "Un, deux ou trois?"
+
+# @ js_composer
+#~ msgid ""
+#~ "Template file is missing for `%s` shortcode. Make sure you have `%s` file "
+#~ "in your theme folder."
+#~ msgstr ""
+#~ "Template file is missing for `%s` shortcode. Make sure you have `%s` file "
+#~ "in your theme folder."
+
+#~ msgid ""
+#~ "To receive automatic updates license activation is required. Please visit "
+#~ "<a href=\""
+#~ msgstr ""
+#~ "Pour recevoir des mises à jour automatiques, une activation est requise."
+
+#~ msgid "settings"
+#~ msgstr "réglages"
+
+# @ js_composer
+#~ msgid "VC: Custom Teaser"
+#~ msgstr "VC : Teaser personnalisé"
+
+# @ js_composer
+#~ msgid "Empty title"
+#~ msgstr "Titre vide"
+
+# @ js_composer
+#~ msgid "Excerpt"
+#~ msgstr "Résumé"
+
+# @ js_composer
+#~ msgid "Featered"
+#~ msgstr "En avant"
+
+# @ js_composer
+#~ msgid "Link text"
+#~ msgstr "Texte du lien"
+
+# @ js_composer
+#~ msgid "Link to big image"
+#~ msgstr "Lien vers l'image en taille réelle"
+
+# @ js_composer
+#~ msgid "Add custom image"
+#~ msgstr "Ajouter une image personnalisée"
+
+# @ js_composer
+#~ msgid "Enable custom teaser"
+#~ msgstr "Activer le teaser personnalisé"
+
+# @ js_composer
+#~ msgid "Link to"
+#~ msgstr "Lier à"
+
+# @ js_composer
+#~ msgid "On post"
+#~ msgstr "Sur l'article"
+
+# @ js_composer
+#~ msgid "Big image"
+#~ msgstr "Image en taille réelle"
+
+# @ js_composer
+#~ msgid "Featured"
+#~ msgstr "Mis en avant"

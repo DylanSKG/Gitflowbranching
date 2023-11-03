@@ -1,0 +1,4183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 15:34+0100\n"
+"PO-Revision-Date: 2021-12-01 15:34+0100\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: evange <info@evange.co.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: ./config/.\n"
+"X-Poedit-SearchPath-1: ./include/.\n"
+
+#: config/./containers/shortcode-vc-column-inner.php:10
+msgid "Inner Column"
+msgstr ""
+
+#: config/./structure/shortcode-vc-raw-js.php:21
+#, fuzzy
+#| msgid "Enter your content."
+msgid "Enter your js here!"
+msgstr "あなたのコンテンツを入力してください"
+
+#: include/./classes/core/class-vc-base.php:738
+#, php-format
+msgid "%%s cloned. %sEdit now?%s"
+msgstr ""
+
+#: include/./classes/editors/class-vc-edit-form-fields.php:225
+msgid "Edit"
+msgstr "編集"
+
+#: include/./classes/editors/class-vc-frontend-editor.php:493
+msgid "(no title)"
+msgstr "（タイトルなし）"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:71
+msgid "Responsive preview"
+msgstr "レスポンシブプレビュー"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:146
+msgid "Exit WPBakery Page Builder edit mode"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:31
+msgid "Redo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:35
+msgid "Undo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:98
+#: include/./classes/updaters/class-vc-updater.php:129
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "Page settings"
+msgstr "ページ設定"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "CSS"
+msgstr "CSS"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:119
+msgid "Full screen"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:126
+msgid "Exit full screen"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:136
+msgid "Add new element"
+msgstr "新しい要素を追加"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:151
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:30
+msgid "Templates"
+msgstr "テンプレート"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Preview"
+msgstr "プレビュー"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Update"
+msgstr "更新"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:99
+msgid "Template name"
+msgstr "テンプレート名"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:189
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:216
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:87
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:88
+msgid "Preview template"
+msgstr ""
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:190
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:217
+msgid "Add template"
+msgstr ""
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:194
+msgid "Delete template"
+msgstr "テンプレートの削除"
+
+#: include/./classes/settings/automapper/class-vc-automapper.php:28
+msgid "Shortcode Mapper"
+msgstr ""
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:540
+#: include/./templates/editors/partials/backend_controls.tpl.php:31
+#: include/./templates/editors/partials/frontend_controls.tpl.php:18
+#: include/./templates/editors/partials/frontend_controls.tpl.php:42
+#: include/./templates/editors/partials/frontend_controls.tpl.php:76
+#: include/./templates/editors/partials/frontend_controls.tpl.php:100
+#: include/./templates/editors/partials/frontend_controls.tpl.php:131
+#: include/./templates/editors/partials/frontend_controls.tpl.php:158
+#: include/./templates/editors/partials/frontend_controls.tpl.php:192
+#: include/./templates/editors/partials/frontend_controls.tpl.php:217
+#: include/./templates/editors/partials/frontend_controls.tpl.php:254
+#: include/./templates/editors/partials/frontend_controls.tpl.php:282
+#, php-format
+msgid "Edit %s"
+msgstr "%s 編集"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:35
+#: include/./templates/editors/partials/frontend_controls.tpl.php:23
+#: include/./templates/editors/partials/frontend_controls.tpl.php:48
+#: include/./templates/editors/partials/frontend_controls.tpl.php:82
+#: include/./templates/editors/partials/frontend_controls.tpl.php:140
+#: include/./templates/editors/partials/frontend_controls.tpl.php:199
+#: include/./templates/editors/partials/frontend_controls.tpl.php:223
+#: include/./templates/editors/partials/frontend_controls.tpl.php:262
+#: include/./templates/editors/partials/frontend_controls.tpl.php:290
+#, php-format
+msgid "Clone %s"
+msgstr "%s 複製"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:39
+#: include/./templates/editors/partials/frontend_controls.tpl.php:26
+#: include/./templates/editors/partials/frontend_controls.tpl.php:51
+#: include/./templates/editors/partials/frontend_controls.tpl.php:85
+#: include/./templates/editors/partials/frontend_controls.tpl.php:143
+#: include/./templates/editors/partials/frontend_controls.tpl.php:164
+#: include/./templates/editors/partials/frontend_controls.tpl.php:202
+#: include/./templates/editors/partials/frontend_controls.tpl.php:226
+#: include/./templates/editors/partials/frontend_controls.tpl.php:266
+#: include/./templates/editors/partials/frontend_controls.tpl.php:294
+#, php-format
+msgid "Delete %s"
+msgstr "%s 削除"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:68
+#, php-format
+msgid "Append to this %s"
+msgstr "%s に追加"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:70
+#, php-format
+msgid "Prepend to this %s"
+msgstr "%s の前に追加"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:73
+#, php-format
+msgid "Move this %s"
+msgstr "%s を移動"
+
+#: include/./classes/shortcodes/paginator/class-vc-pageable.php:51
+msgid "Load more"
+msgstr "もっと読み込む"
+
+#: include/./classes/shortcodes/vc-column.php:46
+msgid "Append to this column"
+msgstr "このカラムに追加"
+
+#: include/./classes/shortcodes/vc-column.php:48
+#: include/./params/vc_grid_element/vc_grid_element.php:223
+msgid "Prepend to this column"
+msgstr "このカラムの前に追加"
+
+#: include/./classes/shortcodes/vc-column.php:55
+msgid "Edit this column"
+msgstr "このカラムの編集"
+
+#: include/./classes/shortcodes/vc-column.php:56
+msgid "Delete this column"
+msgstr "このカラムを削除"
+
+#: include/./classes/shortcodes/vc-gitem.php:100
+msgid "Add to this grid item"
+msgstr ""
+
+#: include/./classes/shortcodes/vc-gitem.php:106
+msgid "Edit this grid item"
+msgstr "このグリッド項目を編集"
+
+#: include/./classes/shortcodes/vc-gitem.php:112
+msgid "Delete this grid item "
+msgstr "このグリッド項目を削除"
+
+#: include/./classes/shortcodes/vc-row.php:52
+msgid "Custom layout"
+msgstr "カスタムレイアウト"
+
+#: include/./classes/shortcodes/vc-row.php:70
+#: include/./classes/shortcodes/vc-section.php:57
+#: include/./templates/params/param_group/inner_content.tpl.php:7
+msgid "Drag row to reorder"
+msgstr "行をドラッグして順序を変更する"
+
+#: include/./classes/shortcodes/vc-row.php:75
+#: include/./classes/shortcodes/vc-section.php:62
+msgid "Add column"
+msgstr "カラム追加"
+
+#: include/./classes/shortcodes/vc-row.php:76
+#: include/./classes/shortcodes/vc-section.php:63
+#: include/./params/vc_grid_element/vc_grid_element.php:193
+msgid "Delete this row"
+msgstr "この行を削除"
+
+#: include/./classes/shortcodes/vc-row.php:77
+#: include/./classes/shortcodes/vc-section.php:64
+msgid "Edit this row"
+msgstr "この行を編集"
+
+#: include/./classes/shortcodes/vc-row.php:78
+#: include/./classes/shortcodes/vc-section.php:65
+#: include/./templates/params/param_group/inner_content.tpl.php:11
+msgid "Clone this row"
+msgstr "この行を複製"
+
+#: include/./classes/shortcodes/vc-row.php:79
+#: include/./templates/params/param_group/inner_content.tpl.php:12
+msgid "Toggle row"
+msgstr "トルグ行"
+
+#: include/./classes/shortcodes/vc-tab.php:6
+msgid "Tab"
+msgstr "Tab"
+
+#: include/./classes/shortcodes/vc-tour.php:23
+msgid "Slide"
+msgstr "スライド"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:60
+#: include/./classes/vendors/plugins/acf/shortcode.php:58
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:83
+msgid "left"
+msgstr "左"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:61
+#: include/./classes/vendors/plugins/acf/shortcode.php:59
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:84
+msgid "right"
+msgstr "右"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:62
+#: include/./classes/vendors/plugins/acf/shortcode.php:60
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:85
+msgid "center"
+msgstr "中央"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:63
+#: include/./classes/vendors/plugins/acf/shortcode.php:61
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:86
+msgid "justify"
+msgstr "ジャストフィット"
+
+#: include/./params/autocomplete/autocomplete.php:76
+msgid "Click here and start typing..."
+msgstr ""
+
+#: include/./params/default_params.php:273
+msgid "Add image"
+msgstr "画像追加"
+
+#: include/./params/default_params.php:275
+msgid "Add images"
+msgstr "画像追加"
+
+#: include/./params/vc_grid_element/vc_grid_element.php:264
+msgid "Drag to reorder"
+msgstr "ドラッグで順序を変更する"
+
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:44
+msgid "Grid element settings"
+msgstr "グリッド要素の設定"
+
+#: include/./params/vc_grid_item/templates.php:9
+#: include/./params/vc_grid_item/templates.php:13
+#: include/./params/vc_grid_item/templates.php:17
+#: include/./params/vc_grid_item/templates.php:21
+#: include/./params/vc_grid_item/templates.php:49
+#: include/./params/vc_grid_item/templates.php:53
+#: include/./params/vc_grid_item/templates.php:57
+#: include/./params/vc_grid_item/templates.php:77
+#: include/./params/vc_grid_item/templates.php:85
+msgid "Read more"
+msgstr "もっと見る"
+
+#: include/./params/vc_grid_item/templates.php:45
+msgid "READ MORE"
+msgstr ""
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:16
+#: include/./templates/editors/partials/frontend_controls.tpl.php:14
+#: include/./templates/editors/partials/frontend_controls.tpl.php:36
+#: include/./templates/editors/partials/frontend_controls.tpl.php:69
+#: include/./templates/editors/partials/frontend_controls.tpl.php:93
+#: include/./templates/editors/partials/frontend_controls.tpl.php:124
+#: include/./templates/editors/partials/frontend_controls.tpl.php:151
+#: include/./templates/editors/partials/frontend_controls.tpl.php:185
+#: include/./templates/editors/partials/frontend_controls.tpl.php:210
+#: include/./templates/editors/partials/frontend_controls.tpl.php:247
+#: include/./templates/editors/partials/frontend_controls.tpl.php:275
+#, php-format
+msgid "Drag to move %s"
+msgstr "ドラッグして %s を移動する"
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:27
+#: include/./templates/editors/partials/frontend_controls.tpl.php:45
+#: include/./templates/editors/partials/frontend_controls.tpl.php:79
+#: include/./templates/editors/partials/frontend_controls.tpl.php:103
+#: include/./templates/editors/partials/frontend_controls.tpl.php:161
+#: include/./templates/editors/partials/frontend_controls.tpl.php:220
+#: include/./templates/editors/partials/frontend_controls.tpl.php:286
+#, php-format
+msgid "Prepend to %s"
+msgstr "先頭に %s を追加 "
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:58
+#: include/./templates/editors/partials/frontend_controls.tpl.php:113
+#: include/./templates/editors/partials/frontend_controls.tpl.php:174
+#: include/./templates/editors/partials/frontend_controls.tpl.php:236
+#: include/./templates/editors/partials/frontend_controls.tpl.php:305
+#, php-format
+msgid "Append to %s"
+msgstr "%s に追加"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:88
+#: include/./templates/editors/partials/frontend_controls.tpl.php:106
+#: include/./templates/editors/partials/frontend_controls.tpl.php:146
+#: include/./templates/editors/partials/frontend_controls.tpl.php:167
+#: include/./templates/editors/partials/frontend_controls.tpl.php:205
+#: include/./templates/editors/partials/frontend_controls.tpl.php:229
+#: include/./templates/editors/partials/frontend_controls.tpl.php:270
+#: include/./templates/editors/partials/frontend_controls.tpl.php:298
+#, php-format
+msgid "Show %s controls"
+msgstr "%s のコントロールを表示"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:134
+msgid "Change layout"
+msgstr "レイアウトの変更"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:137
+#: include/./templates/editors/partials/frontend_controls.tpl.php:196
+#: include/./templates/editors/partials/frontend_controls.tpl.php:258
+#, php-format
+msgid "Add new %s"
+msgstr "新しい %s を追加"
+
+#: include/./templates/params/param_group/inner_content.tpl.php:10
+msgid "Delete this param"
+msgstr ""
+
+#: include/./templates/params/vc_grid_item/attributes/post_categories.php:28
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: include/./templates/shortcodes/post_block/_item.php:24
+#: include/./templates/shortcodes/vc_posts_slider.php:170
+#, php-format
+msgid "Permalink to %s"
+msgstr "%s への固定リンク"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Previous tab"
+msgstr "前のタブ"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Next tab"
+msgstr "次のタブ"
+
+#~ msgid "Pixel"
+#~ msgstr "ピクセル"
+
+#~ msgid "Text"
+#~ msgstr "テキスト"
+
+#~ msgid "Text on the button"
+#~ msgstr "ボタンのテキスト"
+
+#~ msgid "URL (Link)"
+#~ msgstr "URL (リンク)"
+
+#~ msgid "Style"
+#~ msgstr "スタイル"
+
+#~ msgid "Custom"
+#~ msgstr "カスタム"
+
+#~ msgid "Background"
+#~ msgstr "背景"
+
+#~ msgid "Shape"
+#~ msgstr "形状"
+
+#~ msgid "Rounded"
+#~ msgstr "角丸"
+
+#~ msgid "Square"
+#~ msgstr "四角"
+
+#~ msgid "Round"
+#~ msgstr "円形"
+
+#~ msgid "Color"
+#~ msgstr "色"
+
+#~ msgid "Select button color."
+#~ msgstr "ボタンの色の選択"
+
+#~ msgid "Size"
+#~ msgstr "サイズ"
+
+#~ msgid "Alignment"
+#~ msgstr "整列"
+
+#~ msgid "Select button alignment."
+#~ msgstr "ボタン配置選択"
+
+#~ msgid "Inline"
+#~ msgstr "列"
+
+#~ msgid "Left"
+#~ msgstr "左"
+
+#~ msgid "Right"
+#~ msgstr "右"
+
+#~ msgid "Center"
+#~ msgstr "中央"
+
+#~ msgid "Select icon alignment."
+#~ msgstr "アイコンの配置の選択"
+
+#~ msgid "Icon"
+#~ msgstr "アイコン"
+
+#~ msgid "Select icon from library."
+#~ msgstr "ライブラリからアイコンを選択"
+
+#~ msgid "Extra class name"
+#~ msgstr "特別なclass名"
+
+#~ msgid "Design Options"
+#~ msgstr "デザインオプション"
+
+#~ msgid "Button"
+#~ msgstr "ボタン"
+
+#~ msgid "Content"
+#~ msgstr "コンテンツ"
+
+#~ msgid "Eye catching button"
+#~ msgstr "目を引くボタン"
+
+#~ msgid "Heading"
+#~ msgstr "見出し"
+
+#~ msgid "Hey! I am first heading line feel free to change me"
+#~ msgstr "ヘイ！私が最初の見出し行を気軽に変更することができます"
+
+#~ msgid "Enable Google fonts."
+#~ msgstr "Googleのフォントを有効にする"
+
+#~ msgid "Text color"
+#~ msgstr "テキストカラー"
+
+#~ msgid "I am promo text. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "これはプロモーションテキストです。このテキストを変更するには、編集ボタンをクリックします。"
+
+#~ msgid "Width"
+#~ msgstr "幅"
+
+#~ msgid "No"
+#~ msgstr "なし"
+
+#~ msgid "Catch visitors attention with CTA block"
+#~ msgstr "CTAブロックとキャッチの訪問者の注目"
+
+#~ msgid "1 column - 1/12"
+#~ msgstr "1カラム　1/12"
+
+#~ msgid "2 columns - 1/6"
+#~ msgstr "2カラム 6分の1"
+
+#~ msgid "3 columns - 1/4"
+#~ msgstr "3カラム 4分の1"
+
+#~ msgid "4 columns - 1/3"
+#~ msgstr "4カラム 3分の１"
+
+#~ msgid "5 columns - 5/12"
+#~ msgstr "5カラム　5/12"
+
+#~ msgid "6 columns - 1/2"
+#~ msgstr "6カラム　半分"
+
+#~ msgid "7 columns - 7/12"
+#~ msgstr "7カラム　7/12"
+
+#~ msgid "8 columns - 2/3"
+#~ msgstr "8カラム　2/3"
+
+#~ msgid "9 columns - 3/4"
+#~ msgstr "9カラム　3/4"
+
+#~ msgid "10 columns - 5/6"
+#~ msgstr "10カラム 5/6"
+
+#~ msgid "11 columns - 11/12"
+#~ msgstr "11カラム 11/12"
+
+#~ msgid "12 columns - 1/1"
+#~ msgstr "12カラム Fullwidth"
+
+#~ msgid "Select column width."
+#~ msgstr "列幅を選択します。"
+
+#~ msgid "Responsiveness"
+#~ msgstr "レスポンシブ"
+
+#~ msgid "Adjust column for different screen sizes. Control width, offset and visibility settings."
+#~ msgstr "異なる画面サイズの列を調整します。制御幅、オフセットおよび表示設定。"
+
+#~ msgid "Column"
+#~ msgstr "カラム"
+
+#~ msgid "Yes"
+#~ msgstr "はい"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Simple"
+#~ msgstr "シンプル"
+
+#~ msgid "Image"
+#~ msgstr "画像"
+
+#~ msgid "Select image from media library."
+#~ msgstr "メディアライブラリから画像を選択"
+
+#~ msgid "Default"
+#~ msgstr "デフォルト"
+
+#~ msgid "Row"
+#~ msgstr "行"
+
+#~ msgid "Place content elements inside the row"
+#~ msgstr "行内のコンテンツ要素を置く"
+
+#~ msgid "Row stretch"
+#~ msgstr "行伸縮"
+
+#~ msgid "Stretch row"
+#~ msgstr "伸縮行"
+
+#~ msgid "Stretch row and content"
+#~ msgstr "伸縮行と内容"
+
+#~ msgid "Section"
+#~ msgstr "セクション"
+
+#~ msgid "Text Block"
+#~ msgstr "テキストブロック"
+
+#~ msgid "A block of text with WYSIWYG editor"
+#~ msgstr "WYSIWYGエディタを使用してテキストのブロック"
+
+#, fuzzy
+#~| msgid "<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>"
+#~ msgid "I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "<p>私は、テキストブロックです。このテキストを変更するには、[編集]ボタンをクリックします。ここからはテキストブロックの例文が並びます。テキストを入力する場合これらを消去して入力してください</p>"
+
+#~ msgid "Empty Space"
+#~ msgstr "空きスペース"
+
+#~ msgid "Blank space with custom height"
+#~ msgstr "カスタムの高さと空白"
+
+#~ msgid "Height"
+#~ msgstr "高さ"
+
+#~ msgid "Flickr Widget"
+#~ msgstr "Flickrのウィジェット"
+
+#~ msgid "Widget title"
+#~ msgstr "ウィジェットのタイトル"
+
+#~ msgid "Flickr ID"
+#~ msgstr "Flickr ID"
+
+#, php-format
+#~ msgid "To find your flickID visit %s."
+#~ msgstr "あなたのflickID %s 訪問を見つける。"
+
+#~ msgid "Number of photos"
+#~ msgstr "写真の枚数"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "User"
+#~ msgstr "ユーザー"
+
+#~ msgid "Group"
+#~ msgstr "グループ"
+
+#~ msgid "Random"
+#~ msgstr "ランダム"
+
+#~ msgid "Image Gallery"
+#~ msgstr "画像ギャラリー"
+
+#~ msgid "Responsive image gallery"
+#~ msgstr "レスポンシブ画像ギャラリー"
+
+#~ msgid "Gallery type"
+#~ msgstr "ギャラリータイプ"
+
+#~ msgid "Flex slider fade"
+#~ msgstr "フレックススライダーフェード"
+
+#~ msgid "Flex slider slide"
+#~ msgstr "フレックススライダースライド"
+
+#~ msgid "Nivo slider"
+#~ msgstr "Nivoスライダー"
+
+#~ msgid "Image grid"
+#~ msgstr "画像グリッド"
+
+#~ msgid "Select gallery type."
+#~ msgstr "ギャラリータイプ選択"
+
+#~ msgid "Disable"
+#~ msgstr "無効"
+
+#~ msgid "Auto rotate slides each X seconds."
+#~ msgstr "オートスライドを各X秒を回転させる"
+
+#~ msgid "Images"
+#~ msgstr "画像"
+
+#~ msgid "Select images from media library."
+#~ msgstr "メディアライブラリから画像を選択します"
+
+#~ msgid "Image size"
+#~ msgstr "画像サイズ"
+
+#~ msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+#~ msgstr "画像サイズを入力します。例：現在のテーマで定義されたサムネイル、中、大規模なフルまたは他のサイズ。 200x100（幅X高さ）：またはピクセル単位で画像サイズを入力してください。 \"thumbnail\" サイズを使用する場合は空白のまま。"
+
+#, fuzzy
+#~| msgid "Stripes Light"
+#~ msgid "Open Lightbox"
+#~ msgstr "明るいストライプ"
+
+#~ msgid "Open custom link"
+#~ msgstr "カスタムリンクを開く"
+
+#~ msgid "Custom links"
+#~ msgstr "カスタムリンク"
+
+#~ msgid "Custom link target"
+#~ msgstr "カスタムリンクターゲット"
+
+#~ msgid "Select where to open  custom links."
+#~ msgstr "カスタムリンクを開くために選択します"
+
+#~ msgid "Google Maps"
+#~ msgstr "Google Maps"
+
+#~ msgid "Map block"
+#~ msgstr "Mapブロック"
+
+#~ msgid "Map embed iframe"
+#~ msgstr "Map 埋め込み iframe"
+
+#~ msgid "Map height"
+#~ msgstr "Map 高さ"
+
+#, fuzzy
+#~ msgid "Primary Title"
+#~ msgstr "投稿タイトル"
+
+#, fuzzy
+#~ msgid "Hover Title"
+#~ msgstr "投稿タイトル"
+
+#, fuzzy
+#~ msgid "Primary title"
+#~ msgstr "ページタイトル"
+
+#, fuzzy
+#~ msgid "Hover Box Element"
+#~ msgstr "グリッド要素"
+
+#, fuzzy
+#~ msgid "Primary title alignment"
+#~ msgstr "画像配置"
+
+#, fuzzy
+#~ msgid "Select text alignment for primary title."
+#~ msgstr "テキストの配置を選択"
+
+#, fuzzy
+#~ msgid "Hover title"
+#~ msgstr "フォームタイトル"
+
+#, fuzzy
+#~ msgid "Hover title alignment"
+#~ msgstr "整列選択"
+
+#, fuzzy
+#~ msgid "Select text alignment for hovered title."
+#~ msgstr "テキストの配置を選択"
+
+#, fuzzy
+#~ msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr "これはプロモーションテキストです。このテキストを変更するには、編集ボタンをクリックします。"
+
+#, fuzzy
+#~ msgid "Select block shape."
+#~ msgstr "メッセージボックス形状の選択"
+
+#~ msgid "Background Color"
+#~ msgstr "背景色"
+
+#, fuzzy
+#~ msgid "Select block alignment."
+#~ msgstr "ボタン配置選択"
+
+#, fuzzy
+#~ msgid "Hover Button"
+#~ msgstr "Google+ボタン"
+
+#, fuzzy
+#~ msgid "Hover Box"
+#~ msgstr "ホバー"
+
+#, fuzzy
+#~ msgid "Animated flip box with image and text"
+#~ msgstr "画像と動画カルーセル"
+
+#~ msgid "Image Carousel"
+#~ msgstr "画像カルーセル"
+
+#~ msgid "Animated carousel with images"
+#~ msgstr "画像と動画カルーセル"
+
+#~ msgid "Carousel size"
+#~ msgstr "カルーセルサイズ"
+
+#~ msgid "Enter image size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size. If used slides per view, this will be used to define carousel wrapper size."
+#~ msgstr "画像サイズを入力します。例：現在のテーマで定義されたサムネイル、中、大規模なフルまたは他のサイズ。 200x100（幅X高さ）：またはピクセル単位で画像サイズを入力してください。 \"thumbnail\" サイズを使用する場合は空白のまま。表示毎に使用スライドする場合、これは、カルーセルラッパーの大きさを定義するために使用される。"
+
+#~ msgid "Horizontal"
+#~ msgstr "水平"
+
+#~ msgid "Vertical"
+#~ msgstr "垂直"
+
+#~ msgid "Slider speed"
+#~ msgstr "スライダースピード"
+
+#~ msgid "Slides per view"
+#~ msgstr "表示毎のスライド"
+
+#~ msgid "Slider autoplay"
+#~ msgstr "スライダー自動再生"
+
+#~ msgid "Hide pagination control"
+#~ msgstr "ページ処理コントロール隠す"
+
+#~ msgid "Hide prev/next buttons"
+#~ msgstr "前へ/次へのボタンを隠す"
+
+#~ msgid "Partial view"
+#~ msgstr "部分表示"
+
+#~ msgid "Slider loop"
+#~ msgstr "スライダーループ"
+
+#~ msgid "Line Chart"
+#~ msgstr "折れ線グラフ"
+
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Custom color"
+#~ msgstr "カスタム色"
+
+#~ msgid "Animation"
+#~ msgstr "アニメーション"
+
+#~ msgid "Informational"
+#~ msgstr "情報"
+
+#~ msgid "Warning"
+#~ msgstr "警告"
+
+#~ msgid "Success"
+#~ msgstr "成功"
+
+#~ msgid "Error"
+#~ msgstr "エラー"
+
+#~ msgid "Informational Classic"
+#~ msgstr "古い情報"
+
+#~ msgid "Warning Classic"
+#~ msgstr "古い警告"
+
+#~ msgid "Success Classic"
+#~ msgstr "古い成功"
+
+#~ msgid "Error Classic"
+#~ msgstr "古いエラー"
+
+#~ msgid "Message Box"
+#~ msgstr "メッセージボックス"
+
+#~ msgid "Notification box"
+#~ msgstr "通知ボックス"
+
+#~ msgid "Message Box Presets"
+#~ msgstr "メッセージボックスの事前定義"
+
+#~ msgid "Select predefined message box design or choose \"Custom\" for custom styling."
+#~ msgstr "事前に定義されたメッセージボックスのデザインを選択するか、カスタムのスタイリングのために \"Custom\" を選択します。"
+
+#~ msgid "Select message box shape."
+#~ msgstr "メッセージボックス形状の選択"
+
+#~ msgid "Select message box color."
+#~ msgstr "メッセージボックスの色の選択"
+
+#~ msgid "Icon library"
+#~ msgstr "アイコンライブラリ"
+
+#, fuzzy
+#~| msgid "Font Awesome"
+#~ msgid "Font Awesome 5"
+#~ msgstr "Font Awesome"
+
+#~ msgid "Open Iconic"
+#~ msgstr "アイコンを開く"
+
+#~ msgid "Typicons"
+#~ msgstr "Typicons"
+
+#~ msgid "Entypo"
+#~ msgstr "Entypo"
+
+#~ msgid "Linecons"
+#~ msgstr "Linecons"
+
+#, fuzzy
+#~| msgid "Select icon library."
+#~ msgid "Choose icon library."
+#~ msgstr "アイコンライブラリの選択"
+
+#, fuzzy
+#~| msgid "Select icon from library."
+#~ msgid "Choose icon from library."
+#~ msgstr "ライブラリからアイコンを選択"
+
+#~ msgid "Message text"
+#~ msgstr "メッセージテキスト"
+
+#, fuzzy
+#~| msgid "<p>I am message box. Click edit button to change this text.</p>"
+#~ msgid "I am message box. Click edit button to change this text."
+#~ msgstr "<p>ここはメッセージボックスです。このテキストを変更するには、[編集]ボタンをクリックします。</p>"
+
+#~ msgid "Pie Chart"
+#~ msgstr "円図表"
+
+#~ msgid "Animated pie chart"
+#~ msgstr "アニメーション円グラフ"
+
+#~ msgid "Units"
+#~ msgstr "単位"
+
+#~ msgid "Select pie chart color."
+#~ msgstr "円グラフの色を選択"
+
+#~ msgid "Posts Slider"
+#~ msgstr "投稿スライダー"
+
+#~ msgid "Slider with WP Posts"
+#~ msgstr "WP投稿スライダー"
+
+#~ msgid "Slider type"
+#~ msgstr "スライダタイプ"
+
+#~ msgid "Select slider type."
+#~ msgstr "スライダータイプ選択"
+
+#~ msgid "Post types"
+#~ msgstr "投稿タイプ"
+
+#~ msgid "Description"
+#~ msgstr "説明"
+
+#~ msgid "No description"
+#~ msgstr "説明なし"
+
+#~ msgid "Teaser (Excerpt)"
+#~ msgstr "ティーザー（抜粋）"
+
+#~ msgid "Output post title?"
+#~ msgstr "出力記事のタイトル？"
+
+#~ msgid "If selected, title will be printed before the teaser text."
+#~ msgstr "選択した場合は、タイトルがティザーテキストの前に印刷されます。"
+
+#~ msgid "Link"
+#~ msgstr "リンク"
+
+#~ msgid "Link to post"
+#~ msgstr "投稿へのリンク"
+
+#~ msgid "Link to bigger image"
+#~ msgstr "大きな画像へのリンク"
+
+#~ msgid "No link"
+#~ msgstr "リンクなし"
+
+#~ msgid "Link type."
+#~ msgstr "リンクタイプ"
+
+#~ msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+#~ msgstr "ここで各スライドのリンクを入力します。改行（Enter）で連携を分割します。"
+
+#~ msgid "Thumbnail size"
+#~ msgstr "サムネイルサイズ"
+
+#~ msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) . "
+#~ msgstr "サムネイルサイズを入力します。例：現在のテーマで定義されたサムネイル、中、大規模なフルまたは他のサイズ。 200x100（幅X高さ）：またはピクセル単位で画像サイズを入力してください。"
+
+#~ msgid "Post/Page IDs"
+#~ msgstr "投稿 / 投稿ID"
+
+#~ msgid "Categories"
+#~ msgstr "カテゴリ"
+
+#~ msgid "Order by"
+#~ msgstr "並び順"
+
+#~ msgid "Date"
+#~ msgstr "日付"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Author"
+#~ msgstr "著者"
+
+#~ msgid "Modified"
+#~ msgstr "変更後"
+
+#~ msgid "Comment count"
+#~ msgstr "コメント数"
+
+#~ msgid "Menu order"
+#~ msgstr "メニュー順"
+
+#, php-format
+#~ msgid "Select how to sort retrieved posts. More at %s."
+#~ msgstr "検索された記事をソートする方法を選択します。 %s の詳細。"
+
+#~ msgid "Descending"
+#~ msgstr "下行"
+
+#~ msgid "Ascending"
+#~ msgstr "上昇"
+
+#~ msgid "Custom Color"
+#~ msgstr "カスタム色"
+
+#~ msgid "Progress Bar"
+#~ msgstr "プログレスバー"
+
+#~ msgid "Animated progress bar"
+#~ msgstr "アニメーションプログレスバー"
+
+#~ msgid "Label"
+#~ msgstr "ラベル"
+
+#~ msgid "Select bar background color."
+#~ msgstr "バーの背景色を選択"
+
+#~ msgid "Select custom background color for bars."
+#~ msgstr "バーのカスタム背景色を選択"
+
+#~ msgid "Options"
+#~ msgstr "オプション"
+
+#~ msgid "Gap"
+#~ msgstr "間隔"
+
+#~ msgid "Separator"
+#~ msgstr "区切り"
+
+#~ msgid "Horizontal separator line"
+#~ msgstr "水平区切り線"
+
+#~ msgid "Select separator alignment."
+#~ msgstr "区切り位置の選択"
+
+#~ msgid "Custom Border Color"
+#~ msgstr "カスタム境界線の色"
+
+#~ msgid "Select border color for your element."
+#~ msgstr "あなたの要素の境界線の色を選択"
+
+#~ msgid "Border width"
+#~ msgstr "境界線の幅"
+
+#~ msgid "Element width"
+#~ msgstr "要素横幅"
+
+#~ msgid "Single Image"
+#~ msgstr "単一画像"
+
+#~ msgid "Simple image with CSS animation"
+#~ msgstr "CSSアニメーションでシンプルな画像"
+
+#~ msgid "Image alignment"
+#~ msgstr "画像配置"
+
+#~ msgid "Select image alignment."
+#~ msgstr "選択した画像の配置"
+
+#~ msgid "Image style"
+#~ msgstr "画像スタイル"
+
+#~ msgid "Border color"
+#~ msgstr "境界線の色"
+
+#~ msgid "Border color."
+#~ msgstr "境界線の色"
+
+#~ msgid "Zoom"
+#~ msgstr "ズーム"
+
+#~ msgid "Image link"
+#~ msgstr "画像リンク"
+
+#~ msgid "Link Target"
+#~ msgstr "リンク先"
+
+#~ msgid "Separator with Text"
+#~ msgstr "区切りテキスト"
+
+#~ msgid "Horizontal separator line with heading"
+#~ msgstr "見出しの水平区切り線"
+
+#~ msgid "Title position"
+#~ msgstr "タイトル位置"
+
+#~ msgid "Select title location."
+#~ msgstr "タイトルの場所を選択します。"
+
+#~ msgid "Separator alignment"
+#~ msgstr "区切り配置"
+
+#~ msgid "Custom separator color for your element."
+#~ msgstr "あなたの要素のカスタム区切り色。"
+
+#~ msgid "Separator element width in percents."
+#~ msgstr "区切り要素は横幅はパーセント値"
+
+#~ msgid "Toggle title"
+#~ msgstr "トグルタイトル"
+
+#~ msgid "Toggle content"
+#~ msgstr "トグルコンテンツ"
+
+#, fuzzy
+#~| msgid "<p>Toggle content goes here, click edit button to change this text.</p>"
+#~ msgid "Toggle content goes here, click edit button to change this text."
+#~ msgstr "<p>ここにトグルはコンテンツです。このテキストを変更するには、[編集]ボタンをクリックします。</p>"
+
+#~ msgid "Toggle block content."
+#~ msgstr "トグルブロックの内容"
+
+#~ msgid "Default state"
+#~ msgstr "デフォルトの状態"
+
+#~ msgid "Closed"
+#~ msgstr "閉じる"
+
+#~ msgid "Open"
+#~ msgstr "開く"
+
+#~ msgid "Select \"Open\" if you want toggle to be open by default."
+#~ msgstr "デフォルトで開くに切り替えたい場合は \"Open\" を選択します。"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Toggle element for Q&A block"
+#~ msgstr "Q＆A ブロックのトグル要素"
+
+#~ msgid "Video Player"
+#~ msgstr "ビデオプレイヤー"
+
+#~ msgid "Embed YouTube/Vimeo player"
+#~ msgstr "YouTube/Vimeo プレイヤー有効化"
+
+#~ msgid "Video link"
+#~ msgstr "ビデオリンク"
+
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video aspect ratio"
+#~ msgstr "ビデオプレイヤー"
+
+#, fuzzy
+#~ msgid "ZigZag Separator"
+#~ msgstr "区切り"
+
+#, fuzzy
+#~ msgid "Horizontal zigzag separator line"
+#~ msgstr "水平区切り線"
+
+#~ msgid "Select color for your element."
+#~ msgstr "あなたの要素の色を選択"
+
+#~ msgid "Small"
+#~ msgstr "小"
+
+#~ msgid "Medium"
+#~ msgstr "中"
+
+#~ msgid "Large"
+#~ msgstr "大"
+
+#, fuzzy
+#~ msgid "Select separator border width."
+#~ msgstr "区切り位置の選択"
+
+#~ msgid "Custom Heading"
+#~ msgstr "見出しカスタム"
+
+#~ msgid "Text with Google fonts"
+#~ msgstr "Googleのフォントを使用したテキスト"
+
+#, fuzzy
+#~ msgid "Note: If you are using non-latin characters be sure to activate them under Settings/WPBakery Page Builder/General Settings."
+#~ msgstr "あなたは非ラテン文字を使用している場合は設定/ WPBakery Page Builder/一般設定でそれらをアクティブにしてください。"
+
+#~ msgid "Select element tag."
+#~ msgstr "要素タグ選択"
+
+#~ msgid "Select text alignment."
+#~ msgstr "テキストの配置を選択"
+
+#~ msgid "Enter font size."
+#~ msgstr "フォントサイズを入力"
+
+#~ msgid "Enter line height."
+#~ msgstr "行の高さを入力"
+
+#~ msgid "Select font family."
+#~ msgstr "フォントファミリを選択"
+
+#~ msgid "Select font styling."
+#~ msgstr "フォントスタイルを選択"
+
+#~ msgid "Select icon library."
+#~ msgstr "アイコンライブラリの選択"
+
+#~ msgid "Select custom icon color."
+#~ msgstr "カスタムアイコンの色を選択"
+
+#~ msgid "Circle"
+#~ msgstr "サークル"
+
+#~ msgid "Outline Circle"
+#~ msgstr "サークルアウトライン"
+
+#~ msgid "Outline Square"
+#~ msgstr "正方形アウトライン"
+
+#~ msgid "Outline Rounded"
+#~ msgstr "角丸アウトライン"
+
+#~ msgid "Icon size."
+#~ msgstr "アイコンサイズ"
+
+#~ msgid "Icon alignment"
+#~ msgstr "アイコンの配置"
+
+#~ msgid "Add link to icon."
+#~ msgstr "アイコンのリンクを追加"
+
+#~ msgid "Collapsible content panels"
+#~ msgstr "折りたたみコンテンツパネル"
+
+#~ msgid "Active section"
+#~ msgstr "アクティブセクション"
+
+#~ msgid "Add section"
+#~ msgstr "セクションを追加"
+
+#~ msgid "Section 1"
+#~ msgstr "Section 1"
+
+#~ msgid "Section 2"
+#~ msgstr "Section 2"
+
+#~ msgid "Target"
+#~ msgstr "ターゲット"
+
+#~ msgid "Select button size."
+#~ msgstr "ボタンサイズ選択"
+
+#~ msgid "Click edit button to change this text."
+#~ msgstr "このテキストを変更するには、編集ボタンをクリックします。"
+
+#~ msgid "Button position"
+#~ msgstr "ボタン位置"
+
+#~ msgid "Google+ Button"
+#~ msgstr "Google+ボタン"
+
+#~ msgid "Social"
+#~ msgstr "ソーシャル"
+
+#~ msgid "Recommend on Google"
+#~ msgstr "Google+でおすすめ"
+
+#~ msgid "Button size"
+#~ msgstr "ボタンサイズ"
+
+#~ msgid "Standard"
+#~ msgstr "標準"
+
+#~ msgid "Tall"
+#~ msgstr "高い"
+
+#~ msgid "Annotation"
+#~ msgstr "注釈"
+
+#~ msgid "Bubble"
+#~ msgstr "バブル"
+
+#~ msgid "Tab ID"
+#~ msgstr "タブID"
+
+#~ msgid "Tabbed content"
+#~ msgstr "タブ付きのコンテンツ"
+
+#~ msgid "Auto rotate tabs each X seconds."
+#~ msgstr "自動はタブの各X秒を回転させる"
+
+#~ msgid "Tab 1"
+#~ msgstr "Tab 1"
+
+#~ msgid "Tab 2"
+#~ msgstr "Tab 2"
+
+#~ msgid "Vertical tabbed content"
+#~ msgstr "垂直はタブ付きコンテンツ"
+
+#~ msgid "Auto rotate slides"
+#~ msgstr "オートスライドを回転させる"
+
+#~ msgid "Custom query"
+#~ msgstr "カスタムクエリ"
+
+#~ msgid "List of IDs"
+#~ msgstr "IDの一覧"
+
+#~ msgid "Data source"
+#~ msgstr "データソース"
+
+#~ msgid "Select content type for your grid."
+#~ msgstr "あなたのグリッドのコンテンツタイプを選択"
+
+#~ msgid "Include only"
+#~ msgstr "インクルードのみ"
+
+#~ msgid "Add posts, pages, etc. by title."
+#~ msgstr "タイトルの投稿追加, ページ, 等"
+
+#~ msgid "Narrow data source"
+#~ msgstr "狭いデータソース"
+
+#~ msgid "Enter categories, tags or custom taxonomies."
+#~ msgstr "カテゴリ、タグまたはカスタム分類法を入力します"
+
+#~ msgid "Total items"
+#~ msgstr "すべての項目"
+
+#~ msgid "Set max limit for items in grid or enter -1 to display all (limited to 1000)."
+#~ msgstr "グリッド内のアイテムの最大制限値を設定するかすべてを表示するには-1を入力する（限界は1000）"
+
+#~ msgid "Display Style"
+#~ msgstr "表示スタイル"
+
+#~ msgid "Show all"
+#~ msgstr "すべて表示"
+
+#~ msgid "Load more button"
+#~ msgstr "もっと見るボタン"
+
+#~ msgid "Lazy loading"
+#~ msgstr "遅延ロード"
+
+#~ msgid "Pagination"
+#~ msgstr "ページ送り"
+
+#~ msgid "Select display style for grid."
+#~ msgstr "グリッド表示スタイルを選択"
+
+#~ msgid "Items per page"
+#~ msgstr "ページごとのアイテム"
+
+#~ msgid "Number of items to show per page."
+#~ msgstr "アイテムの数はページごとに表示する。"
+
+#~ msgid "Show filter"
+#~ msgstr "表示フィルタ"
+
+#~ msgid "Append filter to grid."
+#~ msgstr "グリッドにフィルタを追加します"
+
+#~ msgid "Grid elements per row"
+#~ msgstr "行ごとのグリッド要素"
+
+#~ msgid "Select number of single grid elements per row."
+#~ msgstr "行ごとに単一のグリッド要素の数を選択"
+
+#~ msgid "Select gap between grid elements."
+#~ msgstr "グリッド要素の間のギャップを選択"
+
+#~ msgid "Order by post ID"
+#~ msgstr "投稿IDの並び順"
+
+#~ msgid "Last modified date"
+#~ msgstr "最終更新日"
+
+#~ msgid "Post/page parent ID"
+#~ msgstr "投稿/ページ親ID"
+
+#~ msgid "Number of comments"
+#~ msgstr "コメントの数"
+
+#~ msgid "Menu order/Page Order"
+#~ msgstr "メニュー順序/ページの順序"
+
+#~ msgid "Meta value"
+#~ msgstr "メタ値"
+
+#~ msgid "Meta value number"
+#~ msgstr "メタ値数"
+
+#~ msgid "Random order"
+#~ msgstr "順不同"
+
+#~ msgid "Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then meta key is required."
+#~ msgstr "タイプ順序選択。もし \"Meta value\" か \"Meta value Number\" はその後選択された場合のメタキーが必要です。"
+
+#~ msgid "Select sorting order."
+#~ msgstr "ソート順を選択"
+
+#~ msgid "Meta key"
+#~ msgstr "メタキー"
+
+#~ msgid "Input meta key for grid ordering."
+#~ msgstr "グリッド順序の入力メタキー"
+
+#~ msgid "Offset"
+#~ msgstr "オフセット"
+
+#~ msgid "Number of grid elements to displace or pass over."
+#~ msgstr "グリッド要素の数は変位または上を通過"
+
+#~ msgid "Exclude"
+#~ msgstr "除外"
+
+#~ msgid "Exclude posts, pages, etc. by title."
+#~ msgstr "タイトルでの記事を除外, ページ, 等"
+
+#~ msgid "Filter by"
+#~ msgstr "フィルタ"
+
+#~ msgid "Filter"
+#~ msgstr "フィルタ"
+
+#~ msgid "Select filter source."
+#~ msgstr "選択したフィルタのソース"
+
+#~ msgid "Enter categories, tags won't be shown in the filters list"
+#~ msgstr "カテゴリ、タグまたはカスタム分類法を入力します"
+
+#~ msgid "Less Rounded"
+#~ msgstr "少しの角丸"
+
+#~ msgid "Border"
+#~ msgstr "境界線"
+
+#~ msgid "Rounded Border"
+#~ msgstr "角丸境界線"
+
+#~ msgid "Less Rounded Border"
+#~ msgstr "少しの角丸境界線"
+
+#~ msgid "Filled"
+#~ msgstr "塗りつぶし"
+
+#~ msgid "Rounded Filled"
+#~ msgstr "塗りつぶし角丸"
+
+#~ msgid "Dropdown"
+#~ msgstr "ドロップダウン"
+
+#~ msgid "Select filter display style."
+#~ msgstr "フィルタの表示スタイル選択"
+
+#~ msgid "All"
+#~ msgstr "すべて"
+
+#~ msgid "Select filter alignment."
+#~ msgstr "フィルタ整列を選択"
+
+#~ msgid "Select filter color."
+#~ msgstr "フィルタの色を選択"
+
+#~ msgid "Filter size"
+#~ msgstr "フィルタサイズ"
+
+#~ msgid "Select filter size."
+#~ msgstr "フィルタサイズ選択"
+
+#~ msgid "Arrows design"
+#~ msgstr "矢印のデザイン"
+
+#~ msgid "Simple Circle Border"
+#~ msgstr "シンプルなサークル境界線"
+
+#~ msgid "Simple Circle"
+#~ msgstr "シンプルなサークル"
+
+#~ msgid "Simple Square"
+#~ msgstr "シンプルな正方形"
+
+#~ msgid "Simple Square Rounded"
+#~ msgstr "シンプルな正方形角丸"
+
+#~ msgid "Simple Rounded"
+#~ msgstr "シンプルな角丸"
+
+#~ msgid "Rounded Circle Border"
+#~ msgstr "角丸サークル境界線"
+
+#~ msgid "Rounded Circle"
+#~ msgstr "角丸サークル"
+
+#~ msgid "Rounded Square"
+#~ msgstr "角丸正方形"
+
+#~ msgid "Simple Arrow"
+#~ msgstr "シンプルな矢印"
+
+#~ msgid "Simple Rounded Arrow"
+#~ msgstr "シンプルな角丸矢印"
+
+#~ msgid "Select design for arrows."
+#~ msgstr "矢印のためのデザインを選択"
+
+#~ msgid "Arrows position"
+#~ msgstr "矢印の位置"
+
+#~ msgid "Inside Wrapper"
+#~ msgstr "内側のラッパー"
+
+#~ msgid "Outside Wrapper"
+#~ msgstr "外側のラッパー"
+
+#~ msgid "Arrows will be displayed inside or outside grid."
+#~ msgstr "矢印は内部またはグリッド外に表示されます"
+
+#~ msgid "Arrows color"
+#~ msgstr "矢印の色"
+
+#~ msgid "Select color for arrows."
+#~ msgstr "矢印の色を選択します"
+
+#~ msgid "Pagination style"
+#~ msgstr "ページ区切りスタイル"
+
+#~ msgid "Square Dots"
+#~ msgstr "正方形ドット"
+
+#~ msgid "Radio Dots"
+#~ msgstr "ラジオドット"
+
+#~ msgid "Point Dots"
+#~ msgstr "点ドット"
+
+#~ msgid "Fill Square Dots"
+#~ msgstr "正方形ドットを塗りつぶし"
+
+#~ msgid "Rounded Fill Square Dots"
+#~ msgstr "正方形ドットを塗りつぶし角丸"
+
+#~ msgid "Pagination Default"
+#~ msgstr "既定のページネーション"
+
+#~ msgid "Outline Default Dark"
+#~ msgstr "既定は暗いアウトライン"
+
+#~ msgid "Outline Default Light"
+#~ msgstr "既定は明るいアウトライン"
+
+#~ msgid "Pagination Rounded"
+#~ msgstr "角丸ページネーション"
+
+#~ msgid "Outline Rounded Dark"
+#~ msgstr "角丸暗いアウトライン"
+
+#~ msgid "Outline Rounded Light"
+#~ msgstr "角丸明るいアウトライン"
+
+#~ msgid "Pagination Square"
+#~ msgstr "正方形ページネーション"
+
+#~ msgid "Outline Square Dark"
+#~ msgstr "正方形暗いアウトライン"
+
+#~ msgid "Outline Square Light"
+#~ msgstr "正方形明るいアウトライン"
+
+#~ msgid "Pagination Rounded Square"
+#~ msgstr "角丸正方形ページネーション"
+
+#~ msgid "Outline Rounded Square Dark"
+#~ msgstr "角丸正方形暗いアウトライン"
+
+#~ msgid "Outline Rounded Square Light"
+#~ msgstr "角丸正方形明るいアウトライン"
+
+#~ msgid "Stripes Dark"
+#~ msgstr "暗いストライプ"
+
+#~ msgid "Stripes Light"
+#~ msgstr "明るいストライプ"
+
+#~ msgid "Select pagination style."
+#~ msgstr "ページ区切りスタイルの選択"
+
+#~ msgid "Pagination color"
+#~ msgstr "ページネーションの色"
+
+#~ msgid "Select pagination color."
+#~ msgstr "ページネーションの色を選択"
+
+#~ msgid "Loop pages?"
+#~ msgstr "ループページ？"
+
+#~ msgid "Allow items to be repeated in infinite loop (carousel)."
+#~ msgstr "許可項目は無限ループで繰り返される（カルーセル）"
+
+#~ msgid "Autoplay delay"
+#~ msgstr "自動再生遅延"
+
+#~ msgid "Enter value in seconds. Set -1 to disable autoplay."
+#~ msgstr "秒単位で値を入力します。-1で設定すると自動再生を無効にする。"
+
+#~ msgid "Animation In"
+#~ msgstr "アニメーションする"
+
+#~ msgid "Select \"animation in\" for page transition."
+#~ msgstr "\"animation in\"ページ遷移のために選択"
+
+#~ msgid "Animation Out"
+#~ msgstr "アニメーションアウト"
+
+#~ msgid "Select \"animation out\" for page transition."
+#~ msgstr "\"animation out\" ページ遷移のために選択"
+
+#~ msgid "Grid element template"
+#~ msgstr "グリッド要素テンプレート"
+
+#, php-format
+#~ msgid "%sCreate new%s template or %smodify selected%s. Predefined templates will be cloned."
+#~ msgstr "%s新しく作成するか%s  テンプレートを %s変更%s して選択します。定義済みのテンプレートは複製されます。"
+
+#~ msgid "Button style"
+#~ msgstr "ボタンのスタイル"
+
+#~ msgid "Select button style."
+#~ msgstr "ボタンスタイルの選択"
+
+#~ msgid "Button color"
+#~ msgstr "ボタンの色"
+
+#~ msgid "Post Grid"
+#~ msgstr "投稿グリッド"
+
+#~ msgid "Posts, pages or custom posts in grid"
+#~ msgstr "投稿, ページかカスタム投稿はグリッド"
+
+#~ msgid "Post Masonry Grid"
+#~ msgstr "メーソンリグリッドを投稿"
+
+#~ msgid "Posts, pages or custom posts in masonry grid"
+#~ msgstr "投稿, ページかカスタム投稿はメーソンリグリッド"
+
+#~ msgid "Masonry Media Grid"
+#~ msgstr "メーソンリメディアグリッド"
+
+#~ msgid "Media Grid"
+#~ msgstr "メディアグリッド"
+
+#~ msgid "Same window"
+#~ msgstr "同じウィンドウ"
+
+#~ msgid "New window"
+#~ msgstr "新しいウィンドウ"
+
+#~ msgid "Alert"
+#~ msgstr "アラート"
+
+#~ msgid "Info"
+#~ msgstr "インフォ"
+
+#~ msgid "Tick"
+#~ msgstr "チェック"
+
+#~ msgid "Explanation"
+#~ msgstr "解説"
+
+#~ msgid "Address book"
+#~ msgstr "アドレス帳"
+
+#~ msgid "Alarm clock"
+#~ msgstr "目覚まし時計"
+
+#~ msgid "Anchor"
+#~ msgstr "アンカー"
+
+#~ msgid "Application Image"
+#~ msgstr "アプリケーションイメージ"
+
+#~ msgid "Arrow"
+#~ msgstr "矢印"
+
+#~ msgid "Asterisk"
+#~ msgstr "アスタリスク"
+
+#~ msgid "Hammer"
+#~ msgstr "ハマー"
+
+#~ msgid "Balloon"
+#~ msgstr "バルーン"
+
+#~ msgid "Balloon Buzz"
+#~ msgstr "バルーンバズ"
+
+#~ msgid "Balloon Facebook"
+#~ msgstr "バルーンFacebook"
+
+#~ msgid "Balloon Twitter"
+#~ msgstr "バルーンTwitter"
+
+#~ msgid "Battery"
+#~ msgstr "バッテリー"
+
+#~ msgid "Binocular"
+#~ msgstr "双眼鏡"
+
+#~ msgid "Document Excel"
+#~ msgstr "エクセル"
+
+#~ msgid "Document Image"
+#~ msgstr "画像"
+
+#~ msgid "Document Music"
+#~ msgstr "音楽"
+
+#~ msgid "Document Office"
+#~ msgstr "Office"
+
+#~ msgid "Document PDF"
+#~ msgstr "PDF"
+
+#~ msgid "Document Powerpoint"
+#~ msgstr "パワポ"
+
+#~ msgid "Document Word"
+#~ msgstr "ワード"
+
+#~ msgid "Bookmark"
+#~ msgstr "ブックマーク"
+
+#~ msgid "Camcorder"
+#~ msgstr "ビデオカメラ"
+
+#~ msgid "Camera"
+#~ msgstr "毛ミスター亜"
+
+#~ msgid "Chart"
+#~ msgstr "図表"
+
+#~ msgid "Chart pie"
+#~ msgstr "円図表"
+
+#~ msgid "Clock"
+#~ msgstr "時計"
+
+#~ msgid "Fire"
+#~ msgstr "炎"
+
+#~ msgid "Heart"
+#~ msgstr "ハート"
+
+#~ msgid "Mail"
+#~ msgstr "メール"
+
+#~ msgid "Play"
+#~ msgstr "再生"
+
+#~ msgid "Shield"
+#~ msgstr "盾"
+
+#~ msgid "Video"
+#~ msgstr "ビデオ"
+
+#~ msgid "Grey"
+#~ msgstr "グレイ"
+
+#~ msgid "Blue"
+#~ msgstr "青"
+
+#~ msgid "Turquoise"
+#~ msgstr "ターコイズ"
+
+#~ msgid "Green"
+#~ msgstr "緑"
+
+#~ msgid "Orange"
+#~ msgstr "オレンジ"
+
+#~ msgid "Red"
+#~ msgstr "赤"
+
+#~ msgid "Black"
+#~ msgstr "黒"
+
+#~ msgid "Mini"
+#~ msgstr "最小"
+
+#~ msgid "Address book icon"
+#~ msgstr "アドレス帳のアイコン"
+
+#~ msgid "Alarm clock icon"
+#~ msgstr "目覚まし時計のアイコン"
+
+#~ msgid "Anchor icon"
+#~ msgstr "アンカーアイコン"
+
+#~ msgid "Application Image icon"
+#~ msgstr "アプリケーション画像アイコン"
+
+#~ msgid "Arrow icon"
+#~ msgstr "矢印アイコン"
+
+#~ msgid "Asterisk icon"
+#~ msgstr "アスタリスクのアイコン"
+
+#~ msgid "Hammer icon"
+#~ msgstr "ハンマーのアイコン"
+
+#~ msgid "Balloon icon"
+#~ msgstr "バルーンアイコン"
+
+#~ msgid "Balloon Buzz icon"
+#~ msgstr "バルーンBuzzアイコン"
+
+#~ msgid "Balloon Facebook icon"
+#~ msgstr "バルーンFacebookアイコン"
+
+#~ msgid "Balloon Twitter icon"
+#~ msgstr "バルーンTwitterアイコン"
+
+#~ msgid "Battery icon"
+#~ msgstr "バッテリーアイコン"
+
+#~ msgid "Binocular icon"
+#~ msgstr "双眼鏡アイコン"
+
+#~ msgid "Document Excel icon"
+#~ msgstr "エクセルアイコン"
+
+#~ msgid "Document Image icon"
+#~ msgstr "画像アイコン"
+
+#~ msgid "Document Music icon"
+#~ msgstr "音楽アイコン"
+
+#~ msgid "Document Office icon"
+#~ msgstr "Officeアイコン"
+
+#~ msgid "Document PDF icon"
+#~ msgstr "PDFアイコン"
+
+#~ msgid "Document Powerpoint icon"
+#~ msgstr "パワポアイコン"
+
+#~ msgid "Document Word icon"
+#~ msgstr "ワードアイコン"
+
+#~ msgid "Bookmark icon"
+#~ msgstr "ブックマークアイコン"
+
+#~ msgid "Camcorder icon"
+#~ msgstr "ビデオカメラアイコン"
+
+#~ msgid "Camera icon"
+#~ msgstr "カメラアイコン"
+
+#~ msgid "Chart icon"
+#~ msgstr "図表アイコン"
+
+#~ msgid "Chart pie icon"
+#~ msgstr "円図表アイコン"
+
+#~ msgid "Clock icon"
+#~ msgstr "時計アイコン"
+
+#~ msgid "Fire icon"
+#~ msgstr "炎アイコ"
+
+#~ msgid "Heart icon"
+#~ msgstr "ハートアイコン"
+
+#~ msgid "Mail icon"
+#~ msgstr "メールアイコン"
+
+#~ msgid "Play icon"
+#~ msgstr "再生アイコン"
+
+#~ msgid "Shield icon"
+#~ msgstr "盾アイコン"
+
+#~ msgid "Video icon"
+#~ msgstr "ビデオアイコン"
+
+#~ msgid "Facebook Like"
+#~ msgstr "Facebook いいね"
+
+#~ msgid "Button type"
+#~ msgstr "ボタンタイプ"
+
+#~ msgid "Select button type."
+#~ msgstr "ボタンタイプ選択"
+
+#~ msgid "Pinterest"
+#~ msgstr "ピンタレスト"
+
+#~ msgid "Pinterest button"
+#~ msgstr "ピンタレストボタン"
+
+#~ msgid "No count"
+#~ msgstr "カウントなし"
+
+#~ msgid "Select button layout."
+#~ msgstr "ボタンレイアウトの選択"
+
+#~ msgid "Tweetmeme Button"
+#~ msgstr "Tweetmemeのボタン"
+
+#~ msgid "Language"
+#~ msgstr "言語"
+
+#~ msgid "Raw HTML"
+#~ msgstr "HTMLコード"
+
+#~ msgid "Structure"
+#~ msgstr "構造"
+
+#~ msgid "Enter your HTML content."
+#~ msgstr "あなたのHTMLコンテンツを入力します"
+
+#~ msgid "Raw JS"
+#~ msgstr "JSコード"
+
+#~ msgid "Widgetised Sidebar"
+#~ msgstr "ウィジェット化サイドバー"
+
+#~ msgid "Sidebar"
+#~ msgstr "サイドバー"
+
+#~ msgid "Landing Page"
+#~ msgstr "ランディングページ"
+
+#~ msgid "Call to Action Page"
+#~ msgstr "ページの呼び出しアクション"
+
+#~ msgid "Feature List"
+#~ msgstr "機能一覧"
+
+#~ msgid "Description Page"
+#~ msgstr "説明ページ"
+
+#~ msgid "Service List"
+#~ msgstr "サービス一覧"
+
+#~ msgid "Product Page"
+#~ msgstr "製品ページ"
+
+#~ msgid "FAQ section"
+#~ msgstr "FAQセクション"
+
+#~ msgid "About section"
+#~ msgstr "セクションについて"
+
+#~ msgid "About with features"
+#~ msgstr "機能を持つについて"
+
+#~ msgid "Three image description"
+#~ msgstr "三つの画像の説明"
+
+#~ msgid "News list"
+#~ msgstr "ニュース一覧"
+
+#~ msgid "Product description"
+#~ msgstr "製品説明"
+
+#~ msgid "Description with accordion"
+#~ msgstr "アコーディオンと説明"
+
+#~ msgid "Two column list"
+#~ msgstr "2つの列リスト"
+
+#~ msgid "About with tour section"
+#~ msgstr "ツアーセクションについて"
+
+#~ msgid "Rounded image description"
+#~ msgstr "角丸画像の説明"
+
+#~ msgid "Description with success message"
+#~ msgstr "成功メッセージと説明"
+
+#~ msgid "Images with tab description"
+#~ msgstr "タブ説明と画像"
+
+#~ msgid "Square on background"
+#~ msgstr "背景上の正方形"
+
+#~ msgid "Product description with tabs"
+#~ msgstr "タブ付きの製品説明"
+
+#~ msgid "Description with headings"
+#~ msgstr "見出しと説明"
+
+#~ msgid "Video with description"
+#~ msgstr "説明とビデオ"
+
+#~ msgid "Description with buttons"
+#~ msgstr "ボタン付きの説明"
+
+#~ msgid "Map and Contacts"
+#~ msgstr "地図と問い合わせ"
+
+#~ msgid "Help section"
+#~ msgstr "ヘルプセクション"
+
+#~ msgid "Screen description"
+#~ msgstr "画面説明"
+
+#~ msgid "Description with round images"
+#~ msgstr "丸い画像を説明"
+
+#~ msgid "FAQ in three columns"
+#~ msgstr "3列のFAQ"
+
+#~ msgid "Centre description"
+#~ msgstr "センターの説明"
+
+#~ msgid "Description with gallery"
+#~ msgstr "ギャラリーと説明"
+
+#~ msgid "Centre description with image"
+#~ msgstr "画像とセンターの説明"
+
+#~ msgid "Description with thumbnails"
+#~ msgstr "サムネイルと説明"
+
+#~ msgid "About with left gallery"
+#~ msgstr "左のギャラリーについて"
+
+#~ msgid "Five image layout"
+#~ msgstr "5つの画像レイアウト"
+
+#~ msgid "Accordion news list"
+#~ msgstr "アコーディオンニュース一覧"
+
+#~ msgid "Product with social icons"
+#~ msgstr "ソーシャルアイコンを持つ製品"
+
+#~ msgid "Complex news layout"
+#~ msgstr "複雑なニュースのレイアウト"
+
+#~ msgid "Product list with CTA"
+#~ msgstr "CTAと製品一覧"
+
+#~ msgid "Intro with features"
+#~ msgstr "機能を備えたイントロ"
+
+#~ msgid "Image gallery with description"
+#~ msgstr "説明と画像ギャラリー"
+
+#~ msgid "Team members"
+#~ msgstr "チームメンバー"
+
+#~ msgid "Large image with thumbnails"
+#~ msgstr "サムネイルを持つ大きな画像"
+
+#~ msgid "Complex news layout II"
+#~ msgstr "複雑なニュースのレイアウトII"
+
+#~ msgid "Service description layout"
+#~ msgstr "サービスの説明レイアウト"
+
+#~ msgid "Accordion"
+#~ msgstr "アコーディオン"
+
+#~ msgid "Plus"
+#~ msgstr "プラス"
+
+#~ msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+#~ msgstr "あなたが異なる特定のコンテンツ要素のスタイルを希望する場合は、クラス名を追加するには、このフィールドを使用して、あなたのCSSファイルでそれを参照してください。"
+
+#~ msgid "Tabs"
+#~ msgstr "タブ"
+
+#~ msgid "Tour"
+#~ msgstr "ツアー"
+
+#~ msgid "Archives"
+#~ msgstr "アーカイブ"
+
+#~ msgid "WordPress Widgets"
+#~ msgstr "WordPressのウィジェット"
+
+#~ msgid "A monthly archive of your sites posts"
+#~ msgstr "あなたのサイトの投稿の月別アーカイブ"
+
+#~ msgid "What text use as a widget title. Leave blank to use default widget title."
+#~ msgstr "何をテキストウィジェットのタイトルとして使用しますか？デフォルトのウィジェットのタイトルを使用する場合は空白のまま。"
+
+#~ msgid "Show post counts"
+#~ msgstr "投稿カウントの表示"
+
+#~ msgid "Calendar"
+#~ msgstr "カレンダー"
+
+#~ msgid "A calendar of your sites posts"
+#~ msgstr "あなたのサイトの記事のカレンダー"
+
+#~ msgid "A list or dropdown of categories"
+#~ msgstr "カテゴリの一覧またはドロップダウン"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "階層表示"
+
+#~ msgid "Custom Menu"
+#~ msgstr "カスタムメニュー"
+
+#~ msgid "Use this widget to add one of your custom menus as a widget"
+#~ msgstr "ウィジェットとしてカスタムメニューの1つを追加するにはこのウィジェットを使用"
+
+#~ msgid "Menu"
+#~ msgstr "メニュー"
+
+#, fuzzy, php-format
+#~| msgid "Custom menus not found. Please visit <b>Appearance > Menus</b> page to create new menu."
+#~ msgid "Custom menus not found. Please visit %sAppearance > Menus%s page to create new menu."
+#~ msgstr "カスタムメニューが見つかりません。<b>外観 > メニュー</b>をご覧ください。ページに新しいメニューを作成します。"
+
+#~ msgid "All Links"
+#~ msgstr "すべてのリンク"
+
+#~ msgid "Links"
+#~ msgstr "リンク"
+
+#~ msgid "Your blogroll"
+#~ msgstr "あなたのブログロール"
+
+#~ msgid "Link Category"
+#~ msgstr "カテゴリーリンク"
+
+#~ msgid "Link title"
+#~ msgstr "リンクタイトル"
+
+#~ msgid "Link rating"
+#~ msgstr "リンクの評価"
+
+#~ msgid "Link ID"
+#~ msgstr "リンクID"
+
+#~ msgid "Show Link Image"
+#~ msgstr "画像リンク表示"
+
+#~ msgid "Show Link Name"
+#~ msgstr "リンク名表示"
+
+#~ msgid "Show Link Description"
+#~ msgstr "リンク説明表示"
+
+#~ msgid "Show Link Rating"
+#~ msgstr "リンクの評価表示"
+
+#~ msgid "Number of links to show"
+#~ msgstr "リンク数を表示する"
+
+#~ msgid "Meta"
+#~ msgstr "メタ"
+
+#~ msgid "Log in/out, admin, feed and WordPress links"
+#~ msgstr "ログイン / ログアウト, 管理者, フィードとワードプレスのリンク"
+
+#~ msgid "Pages"
+#~ msgstr "ページ"
+
+#~ msgid "Your sites WordPress Pages"
+#~ msgstr "あなたのサイトのWordPressページ"
+
+#~ msgid "Page title"
+#~ msgstr "ページタイトル"
+
+#~ msgid "Page order"
+#~ msgstr "ページの順序"
+
+#~ msgid "Page ID"
+#~ msgstr "ページID"
+
+#~ msgid "Recent Posts"
+#~ msgstr "最近の投稿"
+
+#~ msgid "The most recent posts on your site"
+#~ msgstr "あなたのサイトの最新の投稿"
+
+#~ msgid "Display post date?"
+#~ msgstr "掲載日付？"
+
+#~ msgid "Recent Comments"
+#~ msgstr "最近のコメント"
+
+#~ msgid "The most recent comments"
+#~ msgstr "もっとも最近のコメント"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Entries from any RSS or Atom feed"
+#~ msgstr "すべてのRSSやAtomフィードからエントリ"
+
+#~ msgid "RSS feed URL"
+#~ msgstr "RSSフィードURL"
+
+#~ msgid "Enter the RSS feed URL."
+#~ msgstr "RSSフィードのURLを入力してください"
+
+#~ msgid "Items"
+#~ msgstr "アイテム"
+
+#~ msgid "10 - Default"
+#~ msgstr "10 - 下書き"
+
+#~ msgid "Display item author if available?"
+#~ msgstr "項目で著者が利用可能な場合表示？"
+
+#~ msgid "Display item date?"
+#~ msgstr "項目日付表示？"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "A search form for your site"
+#~ msgstr "あなたのサイトの検索フォーム"
+
+#~ msgid "Tag Cloud"
+#~ msgstr "タグクラウド"
+
+#~ msgid "Your most used tags in cloud format"
+#~ msgstr "最もよく使われるタグをクラウド形式で表示"
+
+#~ msgid "Tags"
+#~ msgstr "タグ"
+
+#~ msgid "Taxonomy"
+#~ msgstr "分類"
+
+#~ msgid "Arbitrary text or HTML"
+#~ msgstr "任意のテキストまたはHTML"
+
+#~ msgid "Finish"
+#~ msgstr "完了"
+
+#~ msgid "Next"
+#~ msgstr "次"
+
+#~ msgid "Prev"
+#~ msgstr "前"
+
+#~ msgid "Start Here!"
+#~ msgstr "ここでスタート！"
+
+#~ msgid "Start easy - use predefined template as a starting point and modify it."
+#~ msgstr "簡単スタート - 出発点としてあらかじめ定義されたテンプレートを使用し、それを修正する。"
+
+#~ msgid "Use Animations"
+#~ msgstr "使用アニメーション"
+
+#~ msgid "Select animation preset for grid element. \"Hover\" state will be added next to the \"Normal\" state tab."
+#~ msgstr "グリッド要素を選択アニメーションプリセット。 \"Hover\"の状態は\"Normal\" の状態タブの隣に追加されます。"
+
+#~ msgid "Style Design Options"
+#~ msgstr "デザインオプションスタイル"
+
+#~ msgid "Edit \"Normal\" state to set \"Featured image\" as a background, control zone sizing proportions and other design options (Height mode: Select \"Original\" to scale image without cropping)."
+#~ msgstr "編集は \"Normal\" の状態が背景, コントロールゾーンのサイジング割合およびその他のデザインオプションとして \"Featured image\" を設定する（高さモード：トリミングなしで画像を拡大縮小する \"Original\" を選択）"
+
+#~ msgid "Extend Element"
+#~ msgstr "要素を拡張"
+
+#~ msgid "Additional content zone can be added to grid element edges (Note: This zone can not be animated)."
+#~ msgstr "追加コンテンツのゾーンは、グリッド要素の端に追加することができる（注：このゾーンはアニメーション化することはできません）"
+
+#~ msgid "Watch Video Tutorial"
+#~ msgstr "チュートリアル動画を見る"
+
+#~ msgid "Have a look how easy it is to work with grid element builder."
+#~ msgstr "それがグリッド要素ビルダーで作業することがいかに簡単であるかを見てください。"
+
+#~ msgid "Rain"
+#~ msgstr "雨"
+
+#~ msgid "No Gravity forms found."
+#~ msgstr "重力フォームが見つかりませんでした。"
+
+#~ msgid "Select a form to display."
+#~ msgstr "表示するフォームを選択します"
+
+#~ msgid "Gravity Form"
+#~ msgstr "重力フォーム"
+
+#~ msgid "Place Gravity form"
+#~ msgstr "重力フォームを配置"
+
+#~ msgid "Form"
+#~ msgstr "フォーム"
+
+#~ msgid "Select a form to add it to your post or page."
+#~ msgstr "あなたの投稿やページに追加しフォームを選択します。"
+
+#~ msgid "Display Form Title"
+#~ msgstr "フォームタイトルを表示"
+
+#~ msgid "Would you like to display the forms title?"
+#~ msgstr "あなたはフォームのタイトルを表示しますか？"
+
+#~ msgid "Display Form Description"
+#~ msgstr "フォームの説明を表示"
+
+#~ msgid "Would you like to display the forms description?"
+#~ msgstr "あなたはフォームの説明を表示しますか？"
+
+#~ msgid "Enable AJAX?"
+#~ msgstr "AJAXを有効にしますか？"
+
+#~ msgid "Enable AJAX submission?"
+#~ msgstr "AJAXの送信を有効にしますか？"
+
+#~ msgid "Tab Index"
+#~ msgstr "タブインデックス"
+
+#~ msgid "(Optional) Specify the starting tab index for the fields of this form. Leave blank if you're not sure what this is."
+#~ msgstr "(省略可能) このフォームのフィールドの開始タブインデックスを指定します。あなたはこれが何であるかわからない場合は空白のままにしてくさだい。"
+
+#, fuzzy
+#~ msgid "Gutenberg Editor"
+#~ msgstr "フロントエンド"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder Settings"
+#~ msgstr "ページ設定"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "Add/remove picture"
+#~ msgstr "画像を追加/削除"
+
+#~ msgid "Finish Adding Images"
+#~ msgstr "画像追加の完了"
+
+#~ msgid "Add Image"
+#~ msgstr "画像追加"
+
+#~ msgid "Add Images"
+#~ msgstr "画像追加"
+
+#, fuzzy
+#~ msgid "Frontend Editor"
+#~ msgstr "フロントエンド"
+
+#~ msgid "Confirm deleting \"{template_name}\" template, press Cancel to leave. This action cannot be undone."
+#~ msgstr "\"{template_name}\" テンプレートの削除の確認,  削除しない場合はキャンセルキーを押す。辞める場合はそのままに。このアクションは元に戻すことはできません。"
+
+#~ msgid "Press OK to delete section, Cancel to leave"
+#~ msgstr "セクションを削除するにはOKキーを押す。キャンセルの場合はそのままにする。"
+
+#~ msgid "Drag and drop me in the column"
+#~ msgstr "カラム内でドラッグ＆ドロップする"
+
+#~ msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+#~ msgstr "タブはOKを押して削除する \"{tab_name}\" 、 そのままにするにはキャンセルを押す。"
+
+#~ msgid "Please enter new tab title"
+#~ msgstr "新しいタブのタイトルを入力してください"
+
+#~ msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+#~ msgstr "セクションはOKを押して削除する \"{tab_name}\"。そのままにするにはキャンセルを押す。"
+
+#~ msgid "Please enter new section title"
+#~ msgstr "新しいセクションのタイトルを入力してください"
+
+#~ msgid "Error. Please try again."
+#~ msgstr "エラーが発生しました。もう一度やり直してください。"
+
+#~ msgid "If you close this window all shortcode settings will be lost. Close this window?"
+#~ msgstr "このウィンドウを閉じると、すべてのショートコードの設定が失われます。このウィンドウを閉じますか？"
+
+#~ msgid "Select element type"
+#~ msgstr "要素タイプを選択"
+
+#~ msgid "Media gallery"
+#~ msgstr "メディアギャラリー"
+
+#~ msgid "Element settings"
+#~ msgstr "要素設定"
+
+#~ msgid "Add tab"
+#~ msgstr "タブ追加"
+
+#~ msgid "Are you sure you want to convert to new version?"
+#~ msgstr "新しいバージョンに変換してもよろしいですか？"
+
+#~ msgid "Loading..."
+#~ msgstr "読み込み中･･･"
+
+#~ msgid "Set Image"
+#~ msgstr "画像セット"
+
+#~ msgid "Are you sure that you want to remove all your data?"
+#~ msgstr "すべてのデータを削除しますか？"
+
+#~ msgid "Loop settings"
+#~ msgstr "ループ設定"
+
+#~ msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+#~ msgstr "間違った行レイアウト形式！例: 1/2 + 1/2 か span6 + span6."
+
+#~ msgid "Row background color"
+#~ msgstr "行の背景色"
+
+#~ msgid "Row background image"
+#~ msgstr "行の背景画像"
+
+#~ msgid "Column background color"
+#~ msgstr "カラムの背景色"
+
+#~ msgid "Column background image"
+#~ msgstr "カラムの背景画像"
+
+#~ msgid "Guides ON"
+#~ msgstr "ガイドON"
+
+#~ msgid "Guides OFF"
+#~ msgstr "ガイドOFF"
+
+#~ msgid "Template added to the page."
+#~ msgstr "テンプレートがページに追加"
+
+#~ msgid "Template successfully removed."
+#~ msgstr "テンプレートが正常に削除"
+
+#~ msgid "Page settings updated!"
+#~ msgstr "ページ設定を更新！"
+
+#~ msgid "Update all"
+#~ msgstr "すべての更新"
+
+#~ msgid "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "あなたがこのページから移動した場合あなたが行った変更は失われます。"
+
+#, php-format
+#~ msgid "%s saved!"
+#~ msgstr "%s 保存!"
+
+#, php-format
+#~ msgid "%s deleted!"
+#~ msgstr "%s 削除!"
+
+#~ msgid "Loading Google Font failed"
+#~ msgstr "Googleフォントのロードが失敗した"
+
+#~ msgid "Loading Font..."
+#~ msgstr "フォントを読み込んでいます..."
+
+#~ msgid "Unable to load Google Fonts"
+#~ msgstr "Googleフォントをロードできません"
+
+#, fuzzy
+#~ msgid "Element successfully removed."
+#~ msgstr "テンプレートが正常に削除"
+
+#, fuzzy
+#~| msgid "Shortcode updated!"
+#~ msgid "Successfully updated!"
+#~ msgstr "ショートコード更新！"
+
+#, php-format
+#~ msgid "Wrong name for shortcode:%s. Name required"
+#~ msgstr "ショートコードの間違った名前：%s 名前必須"
+
+#, php-format
+#~ msgid "Wrong base for shortcode:%s. Base required"
+#~ msgstr "ショートコードの間違った基本：%s 基本必須"
+
+#, php-format
+#~ msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+#~ msgstr "'%s' はショートコードの間違った属性。属性 'param_name' は必須"
+
+#, php-format
+#~ msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+#~ msgstr "ショートコードの間違った setting_name:%s 基本を変更することはできません。"
+
+#~ msgid "General"
+#~ msgstr "一般"
+
+#~ msgid "Desktop"
+#~ msgstr "デスクトップ"
+
+#~ msgid "Tablet landscape mode"
+#~ msgstr "タブレット横長モード"
+
+#~ msgid "Tablet portrait mode"
+#~ msgstr "タブレット縦長モード"
+
+#~ msgid "Smartphone landscape mode"
+#~ msgstr "スマートフォン横長モード"
+
+#~ msgid "Smartphone portrait mode"
+#~ msgstr "スマートフォン縦長モード"
+
+#~ msgid "Cancel all changes and return to WP dashboard"
+#~ msgstr "すべての変更をキャンセルしWPのダッシュボードに戻る"
+
+#~ msgid "Save as Pending"
+#~ msgstr "保留中として保存"
+
+#~ msgid "Publish"
+#~ msgstr "公開する"
+
+#~ msgid "Submit for Review"
+#~ msgstr "レビュー用に送信"
+
+#~ msgid "Frontend"
+#~ msgstr "フロントエンド"
+
+#~ msgid "Save current layout as a template"
+#~ msgstr "テンプレートとして現在のレイアウトを保存する"
+
+#~ msgid "My Templates"
+#~ msgstr "マイテンプレート"
+
+#~ msgid "Default Templates"
+#~ msgstr "既定のテンプレート"
+
+#~ msgid "No title"
+#~ msgstr "タイトルなし"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder Shortcode Mapper adds custom 3rd party vendors shortcodes to the list of WPBakery Page Builder content elements menu (Note: to map shortcode it needs to be installed on site)."
+#~ msgstr "お使いのカスタムまたはサードパーティは、WPBakery Page Builderの要素メニューの一覧にショートコードのベンダーに追加するために、WPBakery Page Builderのショートコードマッパーを使用してください。ショートコードを登録するためには、それをWordPressのサイトにインストールする必要があります。"
+
+#~ msgid "Please enter valid shortcode"
+#~ msgstr "有効なショートコードを入力してください。"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "Tag:"
+#~ msgstr "タグ:"
+
+#~ msgid "Description:"
+#~ msgstr "概要："
+
+#~ msgid "Category:"
+#~ msgstr "カテゴリ："
+
+#~ msgid "Comma separated categories names"
+#~ msgstr "カテゴリ名はカンマ区切り"
+
+#~ msgid "Include content param into shortcode"
+#~ msgstr "ショートコードへのコンテンツパラメータをインクルード"
+
+#~ msgid "Save Changes"
+#~ msgstr "変更保存"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Param name"
+#~ msgstr "パラメータ名"
+
+#~ msgid "Required value"
+#~ msgstr "必須値"
+
+#~ msgid "Please use only letters, numbers and underscore."
+#~ msgstr "文字、数字やアンダースコアを使用してください。"
+
+#~ msgid "Heading for field in shortcode edit form."
+#~ msgstr "ショートコードの編集フォームのフィールドの見出し"
+
+#~ msgid "Field type"
+#~ msgstr "フィールドタイプ"
+
+#~ msgid "Select field type"
+#~ msgstr "フィールドタイプ選択"
+
+#~ msgid "Textfield"
+#~ msgstr "テキストフィールド"
+
+#~ msgid "Textarea"
+#~ msgstr "テキストエリア"
+
+#~ msgid "Textarea HTML"
+#~ msgstr "テキストエリアHTML"
+
+#~ msgid "Field type for shortcode edit form."
+#~ msgstr "ショートコードの編集フォームのフィールドタイプ"
+
+#~ msgid "Default value"
+#~ msgstr "デフォルト値"
+
+#, fuzzy, php-format
+#~| msgid "Error. Please try again."
+#~ msgid "%s. Please try again."
+#~ msgstr "エラーが発生しました。もう一度やり直してください。"
+
+#, fuzzy, php-format
+#~ msgid "Hola! Would you like to receive automatic updates and unlock premium support? Please %sactivate your copy%s of WPBakery Page Builder."
+#~ msgstr "ライセンスアクティベーションが必要な場合の自動アップデータを取得する。<a href=\""
+
+#~ msgid "General Settings"
+#~ msgstr "一般設定"
+
+#~ msgid "Custom CSS"
+#~ msgstr "カスタムCSS"
+
+#~ msgid "Product License"
+#~ msgstr "製品ライセンス"
+
+#~ msgid "Main accent color"
+#~ msgstr "メインアクセントの色"
+
+#~ msgid "Hover color"
+#~ msgstr "ホバー色"
+
+#~ msgid "Call to action background color"
+#~ msgstr "背景色の呼び出しのアクション"
+
+#~ msgid "Google maps background color"
+#~ msgstr "Google Map背景色"
+
+#~ msgid "Post slider caption background color"
+#~ msgstr "投稿スライダーキャプションの背景色"
+
+#~ msgid "Progress bar background color"
+#~ msgstr "プログレスバーの背景色"
+
+#~ msgid "Separator border color"
+#~ msgstr "境界線の色の区切り"
+
+#~ msgid "Tabs navigation background color"
+#~ msgstr "タブナビゲーションの背景色"
+
+#~ msgid "Active tab background color"
+#~ msgstr "アクティブなタブの背景色"
+
+#~ msgid "Disable responsive content elements"
+#~ msgstr "レスポンシブコンテンツ要素を無効にする"
+
+#~ msgid "Google fonts subsets"
+#~ msgstr "Googleフォントのサブセット"
+
+#~ msgid "Use custom design options"
+#~ msgstr "カスタムデザインオプションを使用"
+
+#~ msgid "Elements bottom margin"
+#~ msgstr "要素の下マージン"
+
+#~ msgid "Grid gutter width"
+#~ msgstr "グリッド側溝の幅"
+
+#~ msgid "Mobile screen width"
+#~ msgstr "モバイル画面の幅"
+
+#~ msgid "Paste your CSS code"
+#~ msgstr "CSSのコードを貼り付け"
+
+#~ msgid "Are you sure you want to reset to defaults?"
+#~ msgstr "デフォルトにリセットしてもよろしいていますか？"
+
+#~ msgid "Are you sure you want to delete this shortcode?"
+#~ msgstr "このショートコードを削除してもよろしいていますか？"
+
+#~ msgid "Are you sure you want to delete the shortcode's param?"
+#~ msgstr "あなたはショートコードのパラメータを削除してもよろしいていますか？"
+
+#~ msgid "My shortcodes"
+#~ msgstr "マイショートコード"
+
+#~ msgid "Shortcode name is required."
+#~ msgstr "ショートコード名は必須です"
+
+#~ msgid "Please enter valid shortcode tag."
+#~ msgstr "有効なショートコードタグを入力してください"
+
+#~ msgid "Please enter all required fields for params."
+#~ msgstr "パラメータのために必要なすべてのフィールドを入力してください。"
+
+#~ msgid "New shortcode mapped from string!"
+#~ msgstr "文字列から登録された新しいショートコード！"
+
+#~ msgid "Shortcode updated!"
+#~ msgstr "ショートコード更新！"
+
+#~ msgid "Content param can not be added manually, please use checkbox."
+#~ msgstr "コンテンツパラメータを手動でチェックボックスを使用して追加することはできません。"
+
+#, php-format
+#~ msgid "Param %s already exists. Param names must be unique."
+#~ msgstr "パラメータ %s はすでに存在しています。 パラメータ名は一意である必要があります。"
+
+#~ msgid "Please use only letters, numbers and underscore for param name"
+#~ msgstr "文字、数字とアンダースコアを使用してパラメータ名にしてください"
+
+#~ msgid "Please enter valid shortcode to parse!"
+#~ msgstr "解析するために有効なショートコードを入力してください！"
+
+#~ msgid "Enable"
+#~ msgstr "有効にする"
+
+#, fuzzy
+#~ msgid "Here you can tweak default WPBakery Page Builder content elements visual appearance. By default WPBakery Page Builder is using neutral light-grey theme. Changing \"Main accent color\" will affect all content elements if no specific \"content block\" related color is set."
+#~ msgstr "ここではWPBakery Page Builderのコンテンツ要素を視覚的な外観をデフォルト微調整することができます。既定のWPBakery Page Builderでニュートラルライトグレーのテーマを使用しています。具体的な \"content block\" に関連する色が設定されていない場合は、\"Main accent color\" を変更するとすべてのコンテンツ要素に影響します。"
+
+#~ msgid "Invalid Margin value."
+#~ msgstr "無効なマージン値"
+
+#~ msgid "Invalid Gutter value."
+#~ msgstr "無効な溝値"
+
+#~ msgid "Invalid \"Responsive max\" value."
+#~ msgstr "\"Responsive max\" の無効な値"
+
+#~ msgid "Something went wrong: js_composer_front_custom.css could not be created."
+#~ msgstr "何かが間違っていた：js_composer_front_custom.cssが作成できませんでした。"
+
+#~ msgid "js_composer_front_custom.css could not be created. Connection error."
+#~ msgstr "js_composer_front_custom.cssを作成できませんでした。接続エラー。"
+
+#, php-format
+#~ msgid "js_composer_front_custom.css could not be created. Cannot write custom css to \"%s\"."
+#~ msgstr "js_composer_front_custom.cssを作成できませんでした。\"%s\"のためのカスタムCSSを書き込むことができません。"
+
+#~ msgid "js_composer_front_custom.css could not be created. Problem with access."
+#~ msgstr "js_composer_front_custom.cssを作成できませんでした。アクセス通報。"
+
+#~ msgid "Something went wrong: custom.css could not be created."
+#~ msgstr "何かが間違っていた：のcustom.cssは作成できませんでした。"
+
+#~ msgid "custom.css could not be created. Connection error."
+#~ msgstr "custom.cssはを作成できませんでした。接続エラー。"
+
+#, fuzzy, php-format
+#~| msgid "custom.css could not be created. Cannot write custom css to \""
+#~ msgid "custom.css could not be created. Cannot write custom css to %s."
+#~ msgstr "custom.cssはを作成できませんでした。カスタムCSS書き込むことができません \""
+
+#~ msgid "custom.css could not be created. Problem with access."
+#~ msgstr "custom.cssはを作成できませんでした。アクセス通報。"
+
+#, php-format
+#~ msgid "Edit this %s"
+#~ msgstr "%sを編集"
+
+#, php-format
+#~ msgid "Clone this %s"
+#~ msgstr "%s を複製"
+
+#, php-format
+#~ msgid "Delete this %s"
+#~ msgstr "%s を削除"
+
+#~ msgid "Fade in"
+#~ msgstr "フェードイン"
+
+#~ msgid "Scale in"
+#~ msgstr "スケールイン"
+
+#~ msgid "Scale in with rotation"
+#~ msgstr "回転とスケール"
+
+#~ msgid "Blur out"
+#~ msgstr "ぼかし"
+
+#~ msgid "Blur scale out"
+#~ msgstr "スケールアウトぼかし"
+
+#~ msgid "Slide in from left"
+#~ msgstr "左からスライド"
+
+#~ msgid "Slide in from right"
+#~ msgstr "右からスライド"
+
+#~ msgid "Slide bottom"
+#~ msgstr "下からスライド"
+
+#~ msgid "Slide top"
+#~ msgstr "上からスライド"
+
+#~ msgid "Vertical flip in with fade"
+#~ msgstr "フェードと垂直フリップ"
+
+#~ msgid "Horizontal flip in with fade"
+#~ msgstr "フェードと水平フリップ"
+
+#~ msgid "Go top"
+#~ msgstr "上へ"
+
+#~ msgid "Go bottom"
+#~ msgstr "下へ"
+
+#~ msgid "Error! Can't connect to filesystem"
+#~ msgstr "エラー！ファイルシステムに接続できません"
+
+#, fuzzy, php-format
+#~ msgid "To receive automatic updates license activation is required. Please visit %sSettings%s to activate your WPBakery Page Builder."
+#~ msgstr "ライセンスアクティベーションが必要な場合の自動アップデータを取得する。<a href=\""
+
+#, fuzzy, php-format
+#~ msgid "To receive automatic updates license activation is required. Please visit %ssettings%s to activate your WPBakery Page Builder."
+#~ msgstr "ライセンスアクティベーションが必要な場合の自動アップデータを取得する。<a href=\""
+
+#~ msgid "Field name"
+#~ msgstr "項目名"
+
+#, fuzzy
+#~| msgid "Select field from group."
+#~ msgid "Choose field from group."
+#~ msgstr "グループから項目選択"
+
+#~ msgid "Advanced Custom Field"
+#~ msgstr "高度なカスタムフィールド"
+
+#~ msgid "Field group"
+#~ msgstr "項目グループ"
+
+#~ msgid "Select field group."
+#~ msgstr "項目グループ選択"
+
+#~ msgid "Show label"
+#~ msgstr "ラベル表示"
+
+#~ msgid "Enter label to display before key value."
+#~ msgstr "キー値の前に表示するラベルを入力します。"
+
+#~ msgid "Align"
+#~ msgstr "整列"
+
+#~ msgid "Select alignment."
+#~ msgstr "整列選択"
+
+#~ msgid "No contact forms found"
+#~ msgstr "いいえコンタクトフォームが見つかりませんでした"
+
+#~ msgid "Contact Form 7"
+#~ msgstr "Contact Form 7"
+
+#~ msgid "Place Contact Form7"
+#~ msgstr "Contact Form7を配置"
+
+#~ msgid "Select contact form"
+#~ msgstr "コンタクトフォームを選択"
+
+#~ msgid "Choose previously created contact form from the drop down list."
+#~ msgstr "ドロップダウンリストから以前に作成したコンタクトフォームを選択します。"
+
+#~ msgid "No sliders found"
+#~ msgstr "スライダーが見つかりませんでした"
+
+#~ msgid "Layer Slider"
+#~ msgstr "Layer Slider"
+
+#~ msgid "Place LayerSlider"
+#~ msgstr "Layer Sliderを配置"
+
+#~ msgid "LayerSlider ID"
+#~ msgstr "LayerSlider ID"
+
+#~ msgid "Select your LayerSlider."
+#~ msgstr "LayerSliderを選択"
+
+#~ msgid "Ninja Forms"
+#~ msgstr "Ninja Forms"
+
+#~ msgid "Place Ninja Form"
+#~ msgstr "Ninja Formsを配置"
+
+#~ msgid "Select ninja form"
+#~ msgstr "Ninja Formsを選択"
+
+#~ msgid "Choose previously created ninja form from the drop down list."
+#~ msgstr "ドロップダウン一覧から以前に作成した忍者のフォームを選択してください。"
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+#~ msgid "Place Revolution slider"
+#~ msgstr "Revolution Sliderを配置"
+
+#~ msgid "Select your Revolution Slider."
+#~ msgstr "Revolution Sliderを選択"
+
+#, fuzzy
+#~| msgid "Menu order"
+#~ msgid "Menu order & title"
+#~ msgstr "メニュー順"
+
+#, fuzzy
+#~| msgid "Include only"
+#~ msgid "Include"
+#~ msgstr "インクルードのみ"
+
+#, fuzzy
+#~| msgid "Custom links"
+#~ msgid "Custom post__in"
+#~ msgstr "カスタムリンク"
+
+#~ msgid "Cart"
+#~ msgstr "カート"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Displays the cart contents"
+#~ msgstr "カートの内容を表示します"
+
+#~ msgid "Checkout"
+#~ msgstr "カートを確認"
+
+#~ msgid "Displays the checkout"
+#~ msgstr "カート内容を表示"
+
+#~ msgid "Order Tracking Form"
+#~ msgstr "申し込みトラッキングフォーム"
+
+#~ msgid "Lets a user see the status of an order"
+#~ msgstr "利用者は申し込みの状況を見ることができます"
+
+#~ msgid "My Account"
+#~ msgstr "マイアカウント"
+
+#~ msgid "Shows the \"my account\" section"
+#~ msgstr "\"my account\"セクションを表示"
+
+#~ msgid "Order count"
+#~ msgstr "申し込み数"
+
+#~ msgid "You can specify the number or order to show, it's set by default to 15 (use -1 to display all orders.)"
+#~ msgstr "あなたが数字または表示する順序を指定でき、それは15をデフォルトで設定（-1を使用するとすべての申し込みを表示）"
+
+#~ msgid "Recent products"
+#~ msgstr "最近の製品"
+
+#~ msgid "Lists recent products"
+#~ msgstr "最近の製品の一覧を表示"
+
+#~ msgid "Per page"
+#~ msgstr "ページ毎"
+
+#~ msgid "The \"per_page\" shortcode determines how many products to show on the page"
+#~ msgstr "\"per_page\" のショートコードはページにいくつもの製品を表示する方法を決定する"
+
+#~ msgid "Columns"
+#~ msgstr "カラム"
+
+#~ msgid "The columns attribute controls how many columns wide the products should be before wrapping."
+#~ msgstr "カラムは製品はラッピング前にどうあるべきか多くの列が広い制御します。"
+
+#, php-format
+#~ msgid "Select how to sort retrieved products. More at %s."
+#~ msgstr "検索された製品をソートする方法を選択します。%s の詳細。"
+
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s."
+#~ msgstr "昇順または降順を指定します。%s の詳細。"
+
+#~ msgid "Featured products"
+#~ msgstr "おすすめ商品"
+
+#~ msgid "Display products set as \"featured\""
+#~ msgstr "ディスプレイ製品は \"featured\" に設定"
+
+#~ msgid "Product"
+#~ msgstr "製品"
+
+#~ msgid "Show a single product by ID or SKU"
+#~ msgstr "IDまたはSKUによって単一の製品を表示"
+
+#~ msgid "Select identificator"
+#~ msgstr "識別子を選択"
+
+#~ msgid "Input product ID or product SKU or product title to see suggestions"
+#~ msgstr "製品IDを入力または製品SKUまたは製品タイトルを提案する"
+
+#~ msgid "Products"
+#~ msgstr "製品"
+
+#~ msgid "Show multiple products by ID or SKU."
+#~ msgstr "IDまたはSKUによって複数の製品を表示します"
+
+#, php-format
+#~ msgid "Select how to sort retrieved products. More at %s. Default by Title"
+#~ msgstr "検索された製品をソートする方法を選択します。%s の詳細。既定のタイトル"
+
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s. Default by ASC"
+#~ msgstr "昇順または降順を指定します。 %s の詳細。ASCがデフォルト"
+
+#~ msgid "Enter List of Products"
+#~ msgstr "製品のリストを入力してください"
+
+#~ msgid "Add to cart"
+#~ msgstr "カートに追加"
+
+#~ msgid "Show multiple products by ID or SKU"
+#~ msgstr "IDまたはSKUによって複数の製品を表示"
+
+#~ msgid "Wrapper inline style"
+#~ msgstr "ラッパー行内スタイル指定"
+
+#~ msgid "Add to cart URL"
+#~ msgstr "カートURLに追加"
+
+#~ msgid "Show URL on the add to cart button"
+#~ msgstr "買い物かごに入れるボタンに表示するURL"
+
+#~ msgid "Product page"
+#~ msgstr "製品ページ"
+
+#~ msgid "Show single product by ID or SKU"
+#~ msgstr "IDまたはSKUによって単一の製品を表示"
+
+#~ msgid "Product category"
+#~ msgstr "製品カテゴリ"
+
+#~ msgid "Show multiple products in a category"
+#~ msgstr "カテゴリに複数の製品を表示"
+
+#, fuzzy
+#~| msgid "How much items per page to show"
+#~ msgid "How much items to show"
+#~ msgstr "ページあたりどのくらいのアイテムを表示する"
+
+#~ msgid "How much columns grid"
+#~ msgstr "どのくらいの列グリッド"
+
+#~ msgid "Category"
+#~ msgstr "カテゴリ"
+
+#~ msgid "Product category list"
+#~ msgstr "商品カテゴリ一覧"
+
+#~ msgid "Product categories"
+#~ msgstr "製品カテゴリ"
+
+#~ msgid "Display product categories loop"
+#~ msgstr "製品カテゴリループの表示"
+
+#~ msgid "Number"
+#~ msgstr "数"
+
+#~ msgid "The `number` field is used to display the number of products."
+#~ msgstr "`number` フィールドは、製品の数を表示するために使用される。"
+
+#~ msgid "Hide empty"
+#~ msgstr "空は隠す"
+
+#~ msgid "List of product categories"
+#~ msgstr "製品カテゴリ一覧"
+
+#~ msgid "Sale products"
+#~ msgstr "セール品"
+
+#~ msgid "List all products on sale"
+#~ msgstr "販売上のすべての製品を一覧表示"
+
+#~ msgid "Best Selling Products"
+#~ msgstr "ベストセラー製品"
+
+#~ msgid "List best selling products on sale"
+#~ msgstr "発売中のベストセラー製品を一覧表示"
+
+#~ msgid "Top Rated Products"
+#~ msgstr "高評価製品"
+
+#~ msgid "Product Attribute"
+#~ msgstr "製品属性"
+
+#~ msgid "List products with an attribute shortcode"
+#~ msgstr "属性ショートコードと製品一覧"
+
+#~ msgid "Attribute"
+#~ msgstr "属性"
+
+#~ msgid "List of product taxonomy attribute"
+#~ msgstr "製品分類属性の一覧"
+
+#~ msgid "Taxonomy values"
+#~ msgstr "分類値"
+
+#~ msgid "Related Products"
+#~ msgstr "関連製品"
+
+#~ msgid "List related products"
+#~ msgstr "関連製品一覧"
+
+#~ msgid "Please note: the \"per_page\" shortcode argument will determine how many products are shown on a page. This will not add pagination to the shortcode. "
+#~ msgstr "ご注意：\"per_page\" ショートコード引数がページに表示されるいくつかの製品を決定します。これはショートコードを改ページを追加しません。"
+
+#~ msgid "Id"
+#~ msgstr "ID"
+
+#~ msgid "Sku"
+#~ msgstr "SKU"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Slug"
+#~ msgstr "スラッグ"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Price"
+#~ msgstr "価格"
+
+#~ msgid "Regular Price"
+#~ msgstr "定価"
+
+#~ msgid "Sale Price"
+#~ msgstr "セール価格"
+
+#~ msgid "Price html"
+#~ msgstr "価格HTML"
+
+#~ msgid "Reviews count"
+#~ msgstr "レビュー数"
+
+#~ msgid "Short description"
+#~ msgstr "簡単な説明"
+
+#~ msgid "Dimensions"
+#~ msgstr "大きさ"
+
+#~ msgid "Rating count"
+#~ msgstr "評価数"
+
+#~ msgid "Weight"
+#~ msgstr "重量"
+
+#~ msgid "Is on sale"
+#~ msgstr "発売中"
+
+#~ msgid "Custom field"
+#~ msgstr "カスタムフィールド"
+
+#~ msgid "Order number"
+#~ msgstr "申し込み番号"
+
+#~ msgid "Currency"
+#~ msgstr "通貨"
+
+#~ msgid "Total"
+#~ msgstr "合計"
+
+#~ msgid "Status"
+#~ msgstr "状態"
+
+#~ msgid "Payment method"
+#~ msgstr "支払方法"
+
+#~ msgid "Billing address city"
+#~ msgstr "お支払いの都市"
+
+#~ msgid "Billing address country"
+#~ msgstr "お支払いの国"
+
+#~ msgid "Shipping address city"
+#~ msgstr "配送先住所の市"
+
+#~ msgid "Shipping address country"
+#~ msgstr "配送先住所の国"
+
+#~ msgid "Customer Note"
+#~ msgstr "顧客メモ"
+
+#~ msgid "Customer API"
+#~ msgstr "顧客API"
+
+#~ msgid "WooCommerce field"
+#~ msgstr "WooCommerce 項目"
+
+#~ msgid "Woocommerce"
+#~ msgstr "Woocommerce"
+
+#~ msgid "Content type"
+#~ msgstr "コンテンツタイプ"
+
+#~ msgid "Order"
+#~ msgstr "注文"
+
+#~ msgid "Select Woo Commerce post type."
+#~ msgstr "WooCommerce投稿タイプを選択"
+
+#~ msgid "Product field name"
+#~ msgstr "製品項目名"
+
+#, fuzzy
+#~| msgid "Select field from product."
+#~ msgid "Choose field from product."
+#~ msgstr "製品から項目選択"
+
+#~ msgid "Product custom key"
+#~ msgstr "製品のカスタムキー"
+
+#~ msgid "Enter custom key."
+#~ msgstr "カスタムキーを入力します"
+
+#~ msgid "Order fields"
+#~ msgstr "注文項目"
+
+#, fuzzy
+#~| msgid "Select field from order."
+#~ msgid "Choose field from order."
+#~ msgstr "注文からフィールドを選択"
+
+#~ msgid "Order custom key"
+#~ msgstr "受注カスタムキー"
+
+#~ msgid "Added"
+#~ msgstr "追加された"
+
+#~ msgid "Taxonomies"
+#~ msgstr "分類"
+
+#~ msgid "Wrong vc_map object. Base attribute is required"
+#~ msgstr "間違ったvc_map object. 基本属性は必須です"
+
+#~ msgid "CSS Animation"
+#~ msgstr "CSSアニメーション"
+
+#~ msgid "Top to bottom"
+#~ msgstr "上から下"
+
+#~ msgid "Bottom to top"
+#~ msgstr "下から上"
+
+#~ msgid "Left to right"
+#~ msgstr "左から右"
+
+#~ msgid "Right to left"
+#~ msgstr "右から左"
+
+#~ msgid "Appear from center"
+#~ msgstr "中心から現れる"
+
+#~ msgid "Attention Seekers"
+#~ msgstr "お申し込み注意"
+
+#~ msgid "bounce"
+#~ msgstr "バウンス"
+
+#~ msgid "flash"
+#~ msgstr "ひらめき"
+
+#~ msgid "pulse"
+#~ msgstr "脈動"
+
+#~ msgid "rubberBand"
+#~ msgstr "輪ゴム"
+
+#~ msgid "shake"
+#~ msgstr "シェイク"
+
+#~ msgid "swing"
+#~ msgstr "スウィング"
+
+#~ msgid "tada"
+#~ msgstr "tada"
+
+#~ msgid "wobble"
+#~ msgstr "ぐらつく"
+
+#~ msgid "Bouncing Entrances"
+#~ msgstr "バウンス閲覧開始"
+
+#~ msgid "bounceIn"
+#~ msgstr "バウンスイン"
+
+#~ msgid "bounceInDown"
+#~ msgstr "バウンスインダウン"
+
+#~ msgid "bounceInLeft"
+#~ msgstr "バウンスイン左"
+
+#~ msgid "bounceInRight"
+#~ msgstr "バウンスイン右"
+
+#~ msgid "bounceInUp"
+#~ msgstr "バウンスインアップ"
+
+#~ msgid "Bouncing Exits"
+#~ msgstr "バウンス終了"
+
+#~ msgid "bounceOut"
+#~ msgstr "バウンスアウト"
+
+#~ msgid "bounceOutDown"
+#~ msgstr "バウンスアウトダウン"
+
+#~ msgid "bounceOutLeft"
+#~ msgstr "バウンスアウト左"
+
+#~ msgid "bounceOutRight"
+#~ msgstr "バウンスアウト右"
+
+#~ msgid "bounceOutUp"
+#~ msgstr "バウンスアウトアップ"
+
+#~ msgid "Fading Entrances"
+#~ msgstr "フェード閲覧開始"
+
+#~ msgid "fadeIn"
+#~ msgstr "フェードイン"
+
+#~ msgid "fadeInDown"
+#~ msgstr "フェードインダウン"
+
+#~ msgid "fadeInDownBig"
+#~ msgstr "フェードインダウン大"
+
+#~ msgid "fadeInLeft"
+#~ msgstr "フェードイン左"
+
+#~ msgid "fadeInLeftBig"
+#~ msgstr "フェードイン左大"
+
+#~ msgid "fadeInRight"
+#~ msgstr "フェードイン右"
+
+#~ msgid "fadeInRightBig"
+#~ msgstr "フェードイン右大"
+
+#~ msgid "fadeInUp"
+#~ msgstr "フェードイン上"
+
+#~ msgid "fadeInUpBig"
+#~ msgstr "フェードイン上大"
+
+#~ msgid "Fading Exits"
+#~ msgstr "フェードイン終了"
+
+#~ msgid "fadeOut"
+#~ msgstr "フェードアウト"
+
+#~ msgid "fadeOutDown"
+#~ msgstr "フェードアウト下"
+
+#~ msgid "fadeOutDownBig"
+#~ msgstr "フェードアウト下大"
+
+#~ msgid "fadeOutLeft"
+#~ msgstr "フェードアウト左"
+
+#~ msgid "fadeOutLeftBig"
+#~ msgstr "フェードアウト左大"
+
+#~ msgid "fadeOutRight"
+#~ msgstr "フェードアウト右"
+
+#~ msgid "fadeOutRightBig"
+#~ msgstr "フェードアウト右大"
+
+#~ msgid "fadeOutUp"
+#~ msgstr "フェードアウト上"
+
+#~ msgid "fadeOutUpBig"
+#~ msgstr "フェードアウト上大"
+
+#~ msgid "Flippers"
+#~ msgstr "フリッパー"
+
+#~ msgid "flip"
+#~ msgstr "フリップ"
+
+#~ msgid "flipInX"
+#~ msgstr "フリップインX"
+
+#~ msgid "flipInY"
+#~ msgstr "フリップインY"
+
+#~ msgid "flipOutX"
+#~ msgstr "フリップアウトX"
+
+#~ msgid "flipOutY"
+#~ msgstr "フリップアウトY"
+
+#~ msgid "Lightspeed"
+#~ msgstr "ライトスピード"
+
+#~ msgid "lightSpeedIn"
+#~ msgstr "ライトスピードイン"
+
+#~ msgid "lightSpeedOut"
+#~ msgstr "ライトスピードアウト"
+
+#~ msgid "Rotating Entrances"
+#~ msgstr "回転閲覧開始"
+
+#~ msgid "rotateIn"
+#~ msgstr "ローテートイン"
+
+#~ msgid "rotateInDownLeft"
+#~ msgstr "ローテートイン下左"
+
+#~ msgid "rotateInDownRight"
+#~ msgstr "ローテートイン下右"
+
+#~ msgid "rotateInUpLeft"
+#~ msgstr "ローテートイン上左"
+
+#~ msgid "rotateInUpRight"
+#~ msgstr "ローテートイン上右"
+
+#~ msgid "Rotating Exits"
+#~ msgstr "ローテート終了"
+
+#~ msgid "rotateOut"
+#~ msgstr "ローテートアウト"
+
+#~ msgid "rotateOutDownLeft"
+#~ msgstr "ローテートアウト下左"
+
+#~ msgid "rotateOutDownRight"
+#~ msgstr "ローテートアウト下右"
+
+#~ msgid "rotateOutUpLeft"
+#~ msgstr "ローテートアウト上左"
+
+#~ msgid "rotateOutUpRight"
+#~ msgstr "ローテートアウト上右"
+
+#~ msgid "Specials"
+#~ msgstr "スペシャル"
+
+#~ msgid "hinge"
+#~ msgstr "ヒンジ"
+
+#~ msgid "rollIn"
+#~ msgstr "ロールイン"
+
+#~ msgid "rollOut"
+#~ msgstr "ロールアウト"
+
+#~ msgid "Zoom Entrances"
+#~ msgstr "ズーム閲覧開始"
+
+#~ msgid "zoomIn"
+#~ msgstr "ズームイン"
+
+#~ msgid "zoomInDown"
+#~ msgstr "ズームイン下"
+
+#~ msgid "zoomInLeft"
+#~ msgstr "ズームイン左"
+
+#~ msgid "zoomInRight"
+#~ msgstr "ズームイン右"
+
+#~ msgid "zoomInUp"
+#~ msgstr "ズームイン上"
+
+#~ msgid "Zoom Exits"
+#~ msgstr "ズーム終了"
+
+#~ msgid "zoomOut"
+#~ msgstr "ズームアウト"
+
+#~ msgid "zoomOutDown"
+#~ msgstr "ズームアウト下"
+
+#~ msgid "zoomOutLeft"
+#~ msgstr "ズームアウト左"
+
+#~ msgid "zoomOutRight"
+#~ msgstr "ズームアウト右"
+
+#~ msgid "zoomOutUp"
+#~ msgstr "ズームアウト上"
+
+#~ msgid "Slide Entrances"
+#~ msgstr "スライド閲覧開始"
+
+#~ msgid "slideInDown"
+#~ msgstr "スライドイン下"
+
+#~ msgid "slideInLeft"
+#~ msgstr "スライドイン左"
+
+#~ msgid "slideInRight"
+#~ msgstr "スライドイン右"
+
+#~ msgid "slideInUp"
+#~ msgstr "スライドイン上"
+
+#~ msgid "Slide Exits"
+#~ msgstr "スライド終了"
+
+#~ msgid "slideOutDown"
+#~ msgstr "スライドアウト下"
+
+#~ msgid "slideOutLeft"
+#~ msgstr "スライドアウト左"
+
+#~ msgid "slideOutRight"
+#~ msgstr "スライドアウト右"
+
+#~ msgid "slideOutUp"
+#~ msgstr "スライドアウト上"
+
+#~ msgid "Animate it"
+#~ msgstr "アニメーション開始"
+
+#~ msgid "Default value from width attribute"
+#~ msgstr "横幅属性のデフォルト値"
+
+#~ msgid "Inherit from smaller"
+#~ msgstr "より少なく継承する"
+
+#~ msgid "No offset"
+#~ msgstr "オフセットなし"
+
+#~ msgid "Box controls"
+#~ msgstr "ボックスコントロール"
+
+#~ msgid "Simplify controls"
+#~ msgstr "コントロールを簡素化"
+
+#~ msgid "Theme defaults"
+#~ msgstr "デフォルトのテーマ"
+
+#, fuzzy
+#~| msgid "Inherit: "
+#~ msgid "inherit"
+#~ msgstr "継承："
+
+#~ msgid "Cover"
+#~ msgstr "カバー"
+
+#~ msgid "Contain"
+#~ msgstr "コンテイン"
+
+#~ msgid "No Repeat"
+#~ msgstr "リピートなし"
+
+#~ msgid "Repeat"
+#~ msgstr "リピート"
+
+#~ msgid "Element tag"
+#~ msgstr "要素タグ"
+
+#~ msgid "Font size"
+#~ msgstr "フォントサイズ"
+
+#~ msgid "Text align"
+#~ msgstr "テキストの整列"
+
+#~ msgid "Line height"
+#~ msgstr "行の高さ"
+
+#~ msgid "Font Family"
+#~ msgstr "Font Family"
+
+#~ msgid "Font style"
+#~ msgstr "フォントスタイル"
+
+#~ msgid "italic"
+#~ msgstr "斜形"
+
+#~ msgid "bold"
+#~ msgstr "強調"
+
+#, fuzzy
+#~| msgid "Add row"
+#~ msgid "Add New"
+#~ msgstr "行追加"
+
+#, fuzzy
+#~| msgid "No Gravity forms found."
+#~ msgid "No Gutenberg attrs found."
+#~ msgstr "重力フォームが見つかりませんでした。"
+
+#~ msgid "From all categories"
+#~ msgstr "すべてのカテゴリから"
+
+#~ msgid "Uncategorized"
+#~ msgstr "未分類"
+
+#~ msgid "Build query"
+#~ msgstr "クエリの構築"
+
+#~ msgid "Manage options"
+#~ msgstr "管理オプション"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgid "Add row"
+#~ msgstr "行追加"
+
+#~ msgid "Builder"
+#~ msgstr "ビルダー"
+
+#~ msgid "If you add this template, all your current changes will be removed. Are you sure you want to add template?"
+#~ msgstr "このテンプレートを追加した場合にすべての現在の変更が削除されます。テンプレートを追加してもよろしいでしょ？"
+
+#~ msgid "Post title"
+#~ msgstr "投稿タイトル"
+
+#~ msgid "The WordPress Excerpt is an optional summary or description of a post; in short, a post summary."
+#~ msgstr "WordPressの抜粋はオプションの要約または投稿の記述である。要するに投稿の要約。"
+
+#~ msgid "Grid Templates"
+#~ msgstr "グリッドテンプレート"
+
+#~ msgid "Add link"
+#~ msgstr "リンク追加"
+
+#~ msgid "Post link"
+#~ msgstr "投稿リンク"
+
+#~ msgid "Large image"
+#~ msgstr "大型画像"
+
+#~ msgid "Large image (prettyPhoto)"
+#~ msgstr "大型画像(prettyPhoto)"
+
+#~ msgid "Select link option."
+#~ msgstr "リンクオプションの選択"
+
+#~ msgid "Add custom link."
+#~ msgstr "カスタムリンクを追加"
+
+#~ msgid "Use featured image on background?"
+#~ msgstr "背景に注目の画像を使用しますか？"
+
+#~ msgid "Use custom fonts?"
+#~ msgstr "カスタムフォントを使用しますか？"
+
+#~ msgid "Custom fonts"
+#~ msgstr "カスタムフォント"
+
+#~ msgid "Main grid item"
+#~ msgstr "メイングリッド項目"
+
+#~ msgid "A/B block"
+#~ msgstr "A/B ブロック"
+
+#~ msgid "Zone"
+#~ msgstr "ゾーン"
+
+#~ msgid "Normal"
+#~ msgstr "通常"
+
+#~ msgid "Height mode"
+#~ msgstr "高さモード"
+
+#~ msgid "Original"
+#~ msgstr "オプション"
+
+#~ msgid "Sizing proportions for height and width. Select \"Original\" to scale image without cropping."
+#~ msgstr "高さと幅のための比率をサイジング。トリミングなしで画像を拡大縮小を \"Original\"  を選択します。"
+
+#~ msgid "Enter custom height."
+#~ msgstr "カスタム高さを入力します"
+
+#~ msgid "Hover"
+#~ msgstr "ホバー"
+
+#, fuzzy
+#~ msgid "Additional"
+#~ msgstr "追加のブロック"
+
+#~ msgid "Post Title"
+#~ msgstr "投稿タイトル"
+
+#~ msgid "Post"
+#~ msgstr "投稿"
+
+#~ msgid "Title of current post"
+#~ msgstr "現在の投稿のタイトル"
+
+#~ msgid "Post Excerpt"
+#~ msgstr "投稿抜粋"
+
+#~ msgid "Excerpt or manual excerpt"
+#~ msgstr "抜粋または手動抜粋"
+
+#~ msgid "Post Image"
+#~ msgstr "投稿画像"
+
+#~ msgid "Featured image"
+#~ msgstr "注目の画像"
+
+#~ msgid "Post Date"
+#~ msgstr "投稿日付"
+
+#~ msgid "Post publish date"
+#~ msgstr "投稿は日付を公表"
+
+#~ msgid "Elements"
+#~ msgstr "要素"
+
+#~ msgid "Custom fields data from meta values of the post."
+#~ msgstr "投稿のメタ値からカスタムフィールドのデータ"
+
+#~ msgid "Field key name"
+#~ msgstr "フィールドキー名"
+
+#~ msgid "Basic grid: Default"
+#~ msgstr "基本グリッド: デフォルト"
+
+#~ msgid "Basic grid: Scale in with rotation"
+#~ msgstr "基本グリッド: 回転とスケール"
+
+#~ msgid "Basic grid: Fade with side content"
+#~ msgstr "基本グリッド: サイドコンテンツとフェード"
+
+#~ msgid "Basic grid: Slide bottom with icon"
+#~ msgstr "基本グリッド: アイコンの底部をスライドさせる"
+
+#~ msgid "Basic grid: Vertical flip"
+#~ msgstr "基本グリッド: 垂直フリップ"
+
+#~ msgid "Basic grid: No animation"
+#~ msgstr "基本グリッド: アニメーションなし"
+
+#~ msgid "Basic grid: Go top slideout"
+#~ msgstr "基本グリッド: 上へスライドアウトする"
+
+#~ msgid "Basic grid: Text first"
+#~ msgstr "基本グリッド: 第1 テキスト"
+
+#~ msgid "Basic grid: Slide from left"
+#~ msgstr "基本グリッド: スライドを左へ"
+
+#~ msgid "Basic grid: Slide from top"
+#~ msgstr "基本グリッド: スライドを上へ"
+
+#~ msgid "Masonry grid: Default"
+#~ msgstr "メーソンリグリッド: デフォルト"
+
+#~ msgid "Masonry grid: Fade in"
+#~ msgstr "メーソンリグリッド: フェードイン"
+
+#~ msgid "Masonry grid: Icon slide out"
+#~ msgstr "メーソンリグリッド: アイコンをスライドアウト"
+
+#~ msgid "Masonry grid: Slide from left"
+#~ msgstr "メーソンリグリッド: 左へスライド"
+
+#~ msgid "Masonry grid: Go top"
+#~ msgstr "メーソンリグリッド: 上へ"
+
+#~ msgid "Masonry grid: Overlay with rotation"
+#~ msgstr "メーソンリグリッド: 回転して上書き"
+
+#~ msgid "Masonry grid: Blur out"
+#~ msgstr "メーソンリグリッド: ぼかす"
+
+#~ msgid "Masonry grid: Scale with rotation"
+#~ msgstr "メーソンリグリッド: 回転して円形化"
+
+#~ msgid "Masonry grid: Slideo out from right"
+#~ msgstr "メーソンリグリッド: 右へスライドアウト"
+
+#~ msgid "Masonry grid: With side content"
+#~ msgstr "メーソンリグリッド: コンテンツをスライド"
+
+#~ msgid "Media grid: Default"
+#~ msgstr "メディアグリッド: デフォルト"
+
+#~ msgid "Media grid: Simple overlay"
+#~ msgstr "メディアグリッド: シンプルに上書き"
+
+#~ msgid "Media grid: Fade in with icon"
+#~ msgstr "メディアグリッド: アイコンをフェードイン"
+
+#~ msgid "Media grid: Bordered scale with title"
+#~ msgstr "メディアグリッド: タイトルを円形境界線"
+
+#~ msgid "Media grid: Scale with rotation"
+#~ msgstr "メディアグリッド: 回転して円形化"
+
+#~ msgid "Media grid: Slide out caption"
+#~ msgstr "メディアグリッド: スライドアウトしてキャプション表示"
+
+#~ msgid "Media grid: Horizontal flip with fade"
+#~ msgstr "メディアグリッド: フェードと水平フリップ"
+
+#~ msgid "Media grid: Blur with content block"
+#~ msgstr "メディアグリッド: コンテンツブロックにぼかし"
+
+#~ msgid "Media grid: Slide in title"
+#~ msgstr "メディアグリッド: タイトルをスライド"
+
+#~ msgid "Media grid: Scale in with icon"
+#~ msgstr "メディアグリッド: アイコンを円形化"
+
+#~ msgid "Masonry media: Default"
+#~ msgstr "メーソンリメディア: デフォルト"
+
+#~ msgid "Masonry media: Bordered scale"
+#~ msgstr "メーソンリメディア: 縁取りスケール"
+
+#~ msgid "Masonry media: Solid blur out"
+#~ msgstr "メーソンリメディア: 境界線ぼかし"
+
+#~ msgid "Masonry media: Scale with rotation light"
+#~ msgstr "メーソンリメディア: 明るく回転するスケール"
+
+#~ msgid "Masonry media: Slide with title and caption"
+#~ msgstr "メーソンリメディア: タイトルとキャプションをスライドさせる"
+
+#~ msgid "Masonry media: Scale with content block"
+#~ msgstr "メーソンリメディア: コンテンツブロックとスケール"
+
+#~ msgid "Masonry media: Simple overlay"
+#~ msgstr "メーソンリメディア: シンプルに上書き"
+
+#~ msgid "Masonry media: Slide top"
+#~ msgstr "メーソンリメディア: 上へスライド"
+
+#~ msgid "Masonry media: Simple blur with scale"
+#~ msgstr "メーソンリメディア: スケールを使用した単純なぼかし"
+
+#~ msgid "Select URL"
+#~ msgstr "URL選択"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Loading, please wait..."
+#~ msgstr "読み込み中、しばらくお待ちください..."
+
+#~ msgid "Crunching..."
+#~ msgstr "クランチ..."
+
+#~ msgid "Other"
+#~ msgstr "その他"
+
+#, fuzzy
+#~ msgid "My Elements"
+#~ msgstr "要素"
+
+#, fuzzy
+#~ msgid "Element Title"
+#~ msgstr "要素横幅"
+
+#, fuzzy
+#~ msgid "Enter element title."
+#~ msgstr "フォントサイズを入力"
+
+#~ msgid "Save changes"
+#~ msgstr "変更保存"
+
+#, fuzzy
+#~ msgid "Save as Element"
+#~ msgstr "保留中として保存"
+
+#~ msgid "Add Element"
+#~ msgstr "要素を追加"
+
+#~ msgid "Add element"
+#~ msgstr "要素を追加"
+
+#~ msgid "Add text block"
+#~ msgstr "テキストブロックを追加"
+
+#~ msgid "Close panel"
+#~ msgstr "パネルを閉じる"
+
+#~ msgid "Hide panel"
+#~ msgstr "パネルを非表示"
+
+#~ msgid "Edit Elements"
+#~ msgstr "要素編集"
+
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "ライセンスをアクティブ化"
+
+#, fuzzy
+#~ msgid "Manage elements"
+#~ msgstr "新しい要素を追加"
+
+#~ msgid "Page Settings"
+#~ msgstr "ページ設定"
+
+#~ msgid "Please enter page title"
+#~ msgstr "ページのタイトルを入力してください"
+
+#~ msgid "Custom CSS settings"
+#~ msgstr "カスタムCSS設定"
+
+#, fuzzy
+#~ msgid "Manage My Elements"
+#~ msgstr "要素"
+
+#, fuzzy
+#~ msgid "Delete element"
+#~ msgstr "要素タグ選択"
+
+#~ msgid "Row Layout"
+#~ msgstr "行レイアウト"
+
+#~ msgid "Row layout"
+#~ msgstr "行レイアウト"
+
+#~ msgid "Enter custom layout for your row"
+#~ msgstr "あなたの行のためにカスタムレイアウトを入力してください"
+
+#~ msgid "Change particular row layout manually by specifying number of columns and their size value."
+#~ msgstr "手動で列の数とそれらのサイズの値を指定することで、特定の行のレイアウトを変更します。"
+
+#~ msgid "Backend editor"
+#~ msgstr "バックエンドエディタ"
+
+#, fuzzy
+#~| msgid "Product"
+#~ msgid "Introduction"
+#~ msgstr "製品"
+
+#, fuzzy
+#~| msgid "Dimensions"
+#~ msgid "Licensing"
+#~ msgstr "大きさ"
+
+#, fuzzy
+#~| msgid "Regular Price"
+#~ msgid "Regular License"
+#~ msgstr "定価"
+
+#, fuzzy
+#~ msgid "Extended License"
+#~ msgstr "ライセンスをアクティブ化"
+
+#, fuzzy
+#~| msgid "Pagination"
+#~ msgid "Plugin Installation"
+#~ msgstr "ページ送り"
+
+#, fuzzy
+#~| msgid "Active section"
+#~ msgid "Activation"
+#~ msgstr "アクティブセクション"
+
+#, fuzzy
+#~| msgid "Content type"
+#~ msgid "Content Type"
+#~ msgstr "コンテンツタイプ"
+
+#, fuzzy
+#~| msgid "Landing Page"
+#~ msgid "Learning More"
+#~ msgstr "ランディングページ"
+
+#, fuzzy
+#~| msgid "Extend Element"
+#~ msgid "Content Elements"
+#~ msgstr "要素を拡張"
+
+#, fuzzy
+#~| msgid "Style Design Options"
+#~ msgid "Element Design Options"
+#~ msgstr "デザインオプションスタイル"
+
+#, fuzzy
+#~| msgid "Responsiveness"
+#~ msgid "Responsive Settings"
+#~ msgstr "レスポンシブ"
+
+#, fuzzy
+#~| msgid "Image size"
+#~ msgid "Image filters"
+#~ msgstr "画像サイズ"
+
+#, fuzzy
+#~ msgid "WPBakery Page Builder \"How To's\""
+#~ msgstr "ページ設定"
+
+#, fuzzy
+#~| msgid "Add column"
+#~ msgid "Add - ons"
+#~ msgstr "カラム追加"
+
+#, fuzzy
+#~| msgid "Templates"
+#~ msgid "Templatera"
+#~ msgstr "テンプレート"
+
+#, fuzzy
+#~| msgid "Three image description"
+#~ msgid "Theme Integration"
+#~ msgstr "三つの画像の説明"
+
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video Academy"
+#~ msgstr "ビデオプレイヤー"
+
+#, fuzzy
+#~| msgid "Facebook Like"
+#~ msgid "Facebook page"
+#~ msgstr "Facebook いいね"
+
+#, fuzzy
+#~| msgid "Balloon Twitter icon"
+#~ msgid "Twitter account"
+#~ msgstr "バルーンTwitterアイコン"
+
+#, fuzzy, php-format
+#~ msgid "Responsive design settings are currently disabled. You can enable them in WPBakery Page Builder %ssettings page%s by unchecking \"Disable responsive content elements\"."
+#~ msgstr "レスポンシブデザインの設定は現在無効になっています。あなたがこのチェックを外すことでWPBakery Page Builderの<a href=\"%s\">設定ページ</a>で\"Disable responsive content elements\"からそれらを有効にすることができます "
+
+#~ msgid "Device"
+#~ msgstr "デバイス"
+
+#~ msgid "Hide on device?"
+#~ msgstr "デバイス上で非表示にするには？"
+
+#~ msgid "Inherit: "
+#~ msgstr "継承："
+
+#~ msgid "Inherit from default"
+#~ msgstr "デフォルトを継承"
+
+#~ msgid "Google Fonts preview"
+#~ msgstr "Googleのフォントプレビュー"
+
+#~ msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+#~ msgstr "気難しいウィザードは、悪の女王とジャックのために有毒な醸造を作る。"
+
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "空のセクション。 編集ページがここにコンテンツを追加"
+
+#~ msgid "View stream on flickr"
+#~ msgstr "flickrのストリーム表示"
+
+#~ msgid "Item"
+#~ msgstr "アイテム"
+
+#~ msgid "Nothing found."
+#~ msgstr "何もみつかりません"
+
+#~ msgid "Empty tab. Edit page to add content here."
+#~ msgstr "空のタブ。 編集ページがここにコンテンツを追加"
+
+#~ msgid "Tweet"
+#~ msgstr "つぶやき"
+
+#~ msgid "Open prettyPhoto"
+#~ msgstr "prettyPhotoで開く"
+
+#~ msgid "Animated carousel with posts"
+#~ msgstr "投稿にアニメーションカルーセル"
+
+#~ msgid "Carousel content"
+#~ msgstr "カルーセルコンテンツ"
+
+#~ msgid "Create WordPress loop, to populate content from your site."
+#~ msgstr "あなたのサイトからコンテンツを取り込むために、WordPressのループを作成します。"
+
+#~ msgid "Teaser layout"
+#~ msgstr "ティザーのレイアウト"
+
+#~ msgid "Control teasers look. Enable blocks and place them in desired order. Note: This setting can be overrriden on post to post basis."
+#~ msgstr "ティザーコントロールが見える。ブロックを有効にして、望ましい順序でそれらを配置。注：この設定は基礎を投稿するには投稿に上書きすることができます。"
+
+#~ msgid "Thumbnail"
+#~ msgstr "サムネイル"
+
+#~ msgid "Teaser/Excerpt"
+#~ msgstr "ティザー/抜粋"
+
+#~ msgid "Full content"
+#~ msgstr "全コンテンツ"
+
+#~ msgid "Read more link"
+#~ msgstr "もっと読むリンク"
+
+#~ msgid "Link target"
+#~ msgstr "リンクターゲット"
+
+#~ msgid "If \"YES\" pagination control will be removed"
+#~ msgstr "もし \"YES\" でページ処理コントロールが削除された場合"
+
+#~ msgid "If \"YES\" prev/next control will be removed"
+#~ msgstr "もし \"YES\" で前へ/次へのコントロールが削除された場合"
+
+#~ msgid "If \"YES\" part of the next slide will be visible on the right side"
+#~ msgstr "もし \"YES\" の場合は次のスライドの部分は、右側に表示されます"
+
+#~ msgid "Posts in grid view"
+#~ msgstr "グリッド表示で投稿"
+
+#~ msgid "Grids content"
+#~ msgstr "グリッドコンテンツ"
+
+#~ msgid "Columns count"
+#~ msgstr "列は数える"
+
+#~ msgid "Select columns count."
+#~ msgstr "選択した列を数える"
+
+#~ msgid "Select to add animated category filter to your posts grid."
+#~ msgstr "あなたの投稿グリッドにアニメーションのカテゴリフィルタを追加する場合に選択します。"
+
+#~ msgid "Layout mode"
+#~ msgstr "レイアウトモード"
+
+#~ msgid "Fit rows"
+#~ msgstr "行フィット"
+
+#~ msgid "Masonry"
+#~ msgstr "メーソンリー"
+
+#~ msgid "Teaser layout template."
+#~ msgstr "ティーザーレイアウトテンプレート"
+
+#~ msgid "Build custom query according to <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\">WordPress Codex</a>."
+#~ msgstr "<a href=\"http://codex.wordpress.org/Function_Reference/query_posts\">WordPress Codex</a>に応じてカスタムクエリを構築"
+
+#~ msgid "%s cloned. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s\">Edit now?</a>"
+#~ msgstr "%s 複製。 <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s\">今すぐ編集？</a>"
+
+#~ msgid "Toggle editor's guides"
+#~ msgstr "トグルエディタガイド"
+
+#~ msgid "Hello World"
+#~ msgstr "ようこそ！"
+
+#~ msgid "Foo attribute"
+#~ msgstr "Fooの属性"
+
+#~ msgid "I'm foo attribute"
+#~ msgstr "私は、fooの属性だ"
+
+#~ msgid "Enter foo value."
+#~ msgstr "fooの値を入力します。"
+
+#~ msgid "I'm hello world"
+#~ msgstr "I'm hello world"
+
+#~ msgid "Drop down example"
+#~ msgstr "例のドロップダウン"
+
+#~ msgid "One, two or three?"
+#~ msgstr "1つ、2つまたは3つ？"
+
+#~ msgid "Template file is missing for `%s` shortcode. Make sure you have `%s` file in your theme folder."
+#~ msgstr "テンプレートファイルは、 `%s` のショートコードのために欠落しています。あなたのテーマフォルダ内の `%s` ファイルがあることを確認してください。"
+
+#~ msgid "To receive automatic updates license activation is required. Please visit <a href=\""
+#~ msgstr "ライセンスアクティベーションが必要な場合の自動アップデータを取得する。<a href=\""
+
+#~ msgid "VC: Custom Teaser"
+#~ msgstr "VC: カスタムティザー"
+
+#~ msgid "Empty title"
+#~ msgstr "空欄のタイトル"
+
+#~ msgid "Excerpt"
+#~ msgstr "抜粋"
+
+#~ msgid "Featered"
+#~ msgstr "注目"
+
+#~ msgid "Link text"
+#~ msgstr "テキストリンク"
+
+#~ msgid "Link to big image"
+#~ msgstr "大きな画像へのリンク"
+
+#~ msgid "Add custom image"
+#~ msgstr "カスタム画像を追加"
+
+#~ msgid "Enable custom teaser"
+#~ msgstr "カスタムティザーを有効にする"
+
+#, fuzzy
+#~ msgid "New Icons"
+#~ msgstr "アイコン"
+
+#, fuzzy
+#~ msgid "Icon Library Updates"
+#~ msgstr "アイコンライブラリ"
+
+#~ msgid "Link to"
+#~ msgstr "へのリンク"
+
+#~ msgid "On post"
+#~ msgstr "投稿に"
+
+#~ msgid "Big image"
+#~ msgstr "大きな画像"
+
+#~ msgid "Featured"
+#~ msgstr "注目"

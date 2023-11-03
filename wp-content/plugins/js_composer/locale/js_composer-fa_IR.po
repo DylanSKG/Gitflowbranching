@@ -1,0 +1,7034 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 15:34+0100\n"
+"PO-Revision-Date: 2021-12-01 15:34+0100\n"
+"Last-Translator: Alireza Hesari <www.alirezahesari."
+"ir>@<alirezahesari1812@gmail.com>\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ./config/.\n"
+"X-Poedit-SearchPath-1: ./include/.\n"
+
+#: config/./containers/shortcode-vc-column-inner.php:10
+msgid "Inner Column"
+msgstr "ستون داخلی"
+
+#: config/./structure/shortcode-vc-raw-js.php:21
+#, fuzzy
+#| msgid "Enter your Twitter username."
+msgid "Enter your js here!"
+msgstr "نام کاربری توئیتر خود را وارد نمایید ."
+
+#: include/./classes/core/class-vc-base.php:738
+#, php-format
+msgid "%%s cloned. %sEdit now?%s"
+msgstr ""
+
+#: include/./classes/editors/class-vc-edit-form-fields.php:225
+msgid "Edit"
+msgstr "ویرایش"
+
+#: include/./classes/editors/class-vc-frontend-editor.php:493
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:71
+msgid "Responsive preview"
+msgstr "پیش نمایش واکنش گرا"
+
+#: include/./classes/editors/navbar/class-vc-navbar-frontend.php:146
+msgid "Exit WPBakery Page Builder edit mode"
+msgstr "خروج از مد ویرایش WPBakery Page Builder"
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:31
+msgid "Redo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar-undoredo.php:35
+msgid "Undo"
+msgstr ""
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:98
+#: include/./classes/updaters/class-vc-updater.php:129
+msgid "WPBakery Page Builder"
+msgstr "ویژوال کامپوزر"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "Page settings"
+msgstr "تنظیمات صفحه"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:112
+msgid "CSS"
+msgstr "css(سی اس اس)"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:119
+msgid "Full screen"
+msgstr "تمام عرض"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:126
+msgid "Exit full screen"
+msgstr "تمام عرض"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:136
+msgid "Add new element"
+msgstr "افزودن المان"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:151
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:30
+msgid "Templates"
+msgstr "الگو ها"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: include/./classes/editors/navbar/class-vc-navbar.php:177
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:99
+msgid "Template name"
+msgstr "نام قالب"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:189
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:216
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:87
+#: include/./params/vc_grid_item/editor/popups/class-vc-templates-editor-grid-item.php:88
+msgid "Preview template"
+msgstr "پیش نمایش الگو"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:190
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:217
+msgid "Add template"
+msgstr "اضافه کردن الگو"
+
+#: include/./classes/editors/popups/class-vc-templates-panel-editor.php:194
+msgid "Delete template"
+msgstr "پاک کردن قالب"
+
+#: include/./classes/settings/automapper/class-vc-automapper.php:28
+msgid "Shortcode Mapper"
+msgstr "قرار دهنده کد کوتاه"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:540
+#: include/./templates/editors/partials/backend_controls.tpl.php:31
+#: include/./templates/editors/partials/frontend_controls.tpl.php:18
+#: include/./templates/editors/partials/frontend_controls.tpl.php:42
+#: include/./templates/editors/partials/frontend_controls.tpl.php:76
+#: include/./templates/editors/partials/frontend_controls.tpl.php:100
+#: include/./templates/editors/partials/frontend_controls.tpl.php:131
+#: include/./templates/editors/partials/frontend_controls.tpl.php:158
+#: include/./templates/editors/partials/frontend_controls.tpl.php:192
+#: include/./templates/editors/partials/frontend_controls.tpl.php:217
+#: include/./templates/editors/partials/frontend_controls.tpl.php:254
+#: include/./templates/editors/partials/frontend_controls.tpl.php:282
+#, php-format
+msgid "Edit %s"
+msgstr "ویرایش  %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:35
+#: include/./templates/editors/partials/frontend_controls.tpl.php:23
+#: include/./templates/editors/partials/frontend_controls.tpl.php:48
+#: include/./templates/editors/partials/frontend_controls.tpl.php:82
+#: include/./templates/editors/partials/frontend_controls.tpl.php:140
+#: include/./templates/editors/partials/frontend_controls.tpl.php:199
+#: include/./templates/editors/partials/frontend_controls.tpl.php:223
+#: include/./templates/editors/partials/frontend_controls.tpl.php:262
+#: include/./templates/editors/partials/frontend_controls.tpl.php:290
+#, php-format
+msgid "Clone %s"
+msgstr "Clone %s(کلون)"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcode.php:541
+#: include/./templates/editors/partials/backend_controls.tpl.php:39
+#: include/./templates/editors/partials/frontend_controls.tpl.php:26
+#: include/./templates/editors/partials/frontend_controls.tpl.php:51
+#: include/./templates/editors/partials/frontend_controls.tpl.php:85
+#: include/./templates/editors/partials/frontend_controls.tpl.php:143
+#: include/./templates/editors/partials/frontend_controls.tpl.php:164
+#: include/./templates/editors/partials/frontend_controls.tpl.php:202
+#: include/./templates/editors/partials/frontend_controls.tpl.php:226
+#: include/./templates/editors/partials/frontend_controls.tpl.php:266
+#: include/./templates/editors/partials/frontend_controls.tpl.php:294
+#, php-format
+msgid "Delete %s"
+msgstr "حذف %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:68
+#, php-format
+msgid "Append to this %s"
+msgstr "ضمیمه کردن به این %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:70
+#, php-format
+msgid "Prepend to this %s"
+msgstr "افزودن به این %s"
+
+#: include/./classes/shortcodes/core/class-wpbakeryshortcodescontainer.php:73
+#, php-format
+msgid "Move this %s"
+msgstr "انتقال این  %s"
+
+#: include/./classes/shortcodes/paginator/class-vc-pageable.php:51
+msgid "Load more"
+msgstr "بارگزاری موارد بیشتر"
+
+#: include/./classes/shortcodes/vc-column.php:46
+msgid "Append to this column"
+msgstr "ضمیمه به این ستون"
+
+#: include/./classes/shortcodes/vc-column.php:48
+#: include/./params/vc_grid_element/vc_grid_element.php:223
+msgid "Prepend to this column"
+msgstr "افزودن به این ستون"
+
+#: include/./classes/shortcodes/vc-column.php:55
+msgid "Edit this column"
+msgstr "ویرایش به این ستون"
+
+#: include/./classes/shortcodes/vc-column.php:56
+msgid "Delete this column"
+msgstr "حذف این ستون"
+
+#: include/./classes/shortcodes/vc-gitem.php:100
+msgid "Add to this grid item"
+msgstr "اضافه کردن به این آیتم شبکه بندی"
+
+#: include/./classes/shortcodes/vc-gitem.php:106
+msgid "Edit this grid item"
+msgstr "ویرایش این آیتم شبکه بندی"
+
+#: include/./classes/shortcodes/vc-gitem.php:112
+msgid "Delete this grid item "
+msgstr "حذف این آیتم شبکه بندی"
+
+#: include/./classes/shortcodes/vc-row.php:52
+msgid "Custom layout"
+msgstr "طرح سفارشی"
+
+#: include/./classes/shortcodes/vc-row.php:70
+#: include/./classes/shortcodes/vc-section.php:57
+#: include/./templates/params/param_group/inner_content.tpl.php:7
+msgid "Drag row to reorder"
+msgstr "ردیف را برای مرتب سازی مجدد درگ کنید"
+
+#: include/./classes/shortcodes/vc-row.php:75
+#: include/./classes/shortcodes/vc-section.php:62
+msgid "Add column"
+msgstr "افزودن ستون"
+
+#: include/./classes/shortcodes/vc-row.php:76
+#: include/./classes/shortcodes/vc-section.php:63
+#: include/./params/vc_grid_element/vc_grid_element.php:193
+msgid "Delete this row"
+msgstr "حذف این ردیف"
+
+#: include/./classes/shortcodes/vc-row.php:77
+#: include/./classes/shortcodes/vc-section.php:64
+msgid "Edit this row"
+msgstr "ویرایش این ردیف"
+
+#: include/./classes/shortcodes/vc-row.php:78
+#: include/./classes/shortcodes/vc-section.php:65
+#: include/./templates/params/param_group/inner_content.tpl.php:11
+msgid "Clone this row"
+msgstr "Clone کردن این ردیف"
+
+#: include/./classes/shortcodes/vc-row.php:79
+#: include/./templates/params/param_group/inner_content.tpl.php:12
+msgid "Toggle row"
+msgstr "تاگل ردیف"
+
+#: include/./classes/shortcodes/vc-tab.php:6
+msgid "Tab"
+msgstr "تب"
+
+#: include/./classes/shortcodes/vc-tour.php:23
+msgid "Slide"
+msgstr "اسلاید"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:60
+#: include/./classes/vendors/plugins/acf/shortcode.php:58
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:83
+msgid "left"
+msgstr "چپ"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:61
+#: include/./classes/vendors/plugins/acf/shortcode.php:59
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:84
+msgid "right"
+msgstr "راست"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:62
+#: include/./classes/vendors/plugins/acf/shortcode.php:60
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:85
+msgid "center"
+msgstr "وسط"
+
+#: include/./classes/vendors/plugins/acf/grid-item-shortcodes.php:63
+#: include/./classes/vendors/plugins/acf/shortcode.php:61
+#: include/./classes/vendors/plugins/woocommerce/grid-item-shortcodes.php:86
+msgid "justify"
+msgstr "تراز"
+
+#: include/./params/autocomplete/autocomplete.php:76
+msgid "Click here and start typing..."
+msgstr "برای آپدیت کلیک کنید"
+
+#: include/./params/default_params.php:273
+msgid "Add image"
+msgstr "افزودن تصویر"
+
+#: include/./params/default_params.php:275
+msgid "Add images"
+msgstr "افزودن تصاویر"
+
+#: include/./params/vc_grid_element/vc_grid_element.php:264
+msgid "Drag to reorder"
+msgstr "کشیدن به ضبط کننده"
+
+#: include/./params/vc_grid_item/editor/navbar/class-vc-navbar-grid-item.php:44
+msgid "Grid element settings"
+msgstr "تنظیمات المان"
+
+#: include/./params/vc_grid_item/templates.php:9
+#: include/./params/vc_grid_item/templates.php:13
+#: include/./params/vc_grid_item/templates.php:17
+#: include/./params/vc_grid_item/templates.php:21
+#: include/./params/vc_grid_item/templates.php:49
+#: include/./params/vc_grid_item/templates.php:53
+#: include/./params/vc_grid_item/templates.php:57
+#: include/./params/vc_grid_item/templates.php:77
+#: include/./params/vc_grid_item/templates.php:85
+msgid "Read more"
+msgstr "بیشتر بخوانید"
+
+#: include/./params/vc_grid_item/templates.php:45
+msgid "READ MORE"
+msgstr "مطالعه بیشتر"
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:16
+#: include/./templates/editors/partials/frontend_controls.tpl.php:14
+#: include/./templates/editors/partials/frontend_controls.tpl.php:36
+#: include/./templates/editors/partials/frontend_controls.tpl.php:69
+#: include/./templates/editors/partials/frontend_controls.tpl.php:93
+#: include/./templates/editors/partials/frontend_controls.tpl.php:124
+#: include/./templates/editors/partials/frontend_controls.tpl.php:151
+#: include/./templates/editors/partials/frontend_controls.tpl.php:185
+#: include/./templates/editors/partials/frontend_controls.tpl.php:210
+#: include/./templates/editors/partials/frontend_controls.tpl.php:247
+#: include/./templates/editors/partials/frontend_controls.tpl.php:275
+#, php-format
+msgid "Drag to move %s"
+msgstr "درگ کنید برای جابجایی  %s"
+
+#: include/./templates/editors/partials/backend_controls.tpl.php:27
+#: include/./templates/editors/partials/frontend_controls.tpl.php:45
+#: include/./templates/editors/partials/frontend_controls.tpl.php:79
+#: include/./templates/editors/partials/frontend_controls.tpl.php:103
+#: include/./templates/editors/partials/frontend_controls.tpl.php:161
+#: include/./templates/editors/partials/frontend_controls.tpl.php:220
+#: include/./templates/editors/partials/frontend_controls.tpl.php:286
+#, php-format
+msgid "Prepend to %s"
+msgstr "افزودن به %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:58
+#: include/./templates/editors/partials/frontend_controls.tpl.php:113
+#: include/./templates/editors/partials/frontend_controls.tpl.php:174
+#: include/./templates/editors/partials/frontend_controls.tpl.php:236
+#: include/./templates/editors/partials/frontend_controls.tpl.php:305
+#, php-format
+msgid "Append to %s"
+msgstr "ضمیمه کردن به %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:88
+#: include/./templates/editors/partials/frontend_controls.tpl.php:106
+#: include/./templates/editors/partials/frontend_controls.tpl.php:146
+#: include/./templates/editors/partials/frontend_controls.tpl.php:167
+#: include/./templates/editors/partials/frontend_controls.tpl.php:205
+#: include/./templates/editors/partials/frontend_controls.tpl.php:229
+#: include/./templates/editors/partials/frontend_controls.tpl.php:270
+#: include/./templates/editors/partials/frontend_controls.tpl.php:298
+#, php-format
+msgid "Show %s controls"
+msgstr "نمایش کنترلهای  %s"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:134
+msgid "Change layout"
+msgstr "تغییر طرح"
+
+#: include/./templates/editors/partials/frontend_controls.tpl.php:137
+#: include/./templates/editors/partials/frontend_controls.tpl.php:196
+#: include/./templates/editors/partials/frontend_controls.tpl.php:258
+#, php-format
+msgid "Add new %s"
+msgstr "افزودن %s جدید"
+
+#: include/./templates/params/param_group/inner_content.tpl.php:10
+msgid "Delete this param"
+msgstr "حذف کردن این پارامتر"
+
+#: include/./templates/params/vc_grid_item/attributes/post_categories.php:28
+#, php-format
+msgid "View all posts in %s"
+msgstr "مشاهده تمام پست ها در%s"
+
+#: include/./templates/shortcodes/post_block/_item.php:24
+#: include/./templates/shortcodes/vc_posts_slider.php:170
+#, php-format
+msgid "Permalink to %s"
+msgstr "پرمالینک به %s"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Previous tab"
+msgstr "تب قبلی"
+
+#: include/./templates/shortcodes/vc_tabs.php:52
+msgid "Next tab"
+msgstr "تب بعدی"
+
+#~ msgid "Pixel"
+#~ msgstr "پیکسل"
+
+#~ msgid "Classic Grey"
+#~ msgstr "طوسی کلاسیک"
+
+#~ msgid "Classic Blue"
+#~ msgstr "آبی کلاسیک"
+
+#~ msgid "Classic Turquoise"
+#~ msgstr "فیروزه کلاسیک"
+
+#~ msgid "Classic Green"
+#~ msgstr "سبز کلاسک"
+
+#~ msgid "Classic Orange"
+#~ msgstr "پرتقالی کلاسک"
+
+#~ msgid "Classic Red"
+#~ msgstr "قرمز کلاسیک"
+
+#~ msgid "Classic Black"
+#~ msgstr "مشکی کلاسیک"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Text on the button"
+#~ msgstr "متن دکمه"
+
+#~ msgid "URL (Link)"
+#~ msgstr "URL (لینک)"
+
+#~ msgid "Add link to button."
+#~ msgstr "اضافه کردن لینک به دکمه ."
+
+#~ msgid "Style"
+#~ msgstr "استایل"
+
+#~ msgid "Select button display style."
+#~ msgstr "انتخاب استایل دکمه"
+
+#~ msgid "Modern"
+#~ msgstr "مدرن"
+
+#~ msgid "Classic"
+#~ msgstr "کلاسیک"
+
+#~ msgid "Flat"
+#~ msgstr "فلت"
+
+#~ msgid "Outline"
+#~ msgstr "طرح کلی"
+
+#~ msgid "3d"
+#~ msgstr "3بعدی"
+
+#~ msgid "Custom"
+#~ msgstr "سفارشی"
+
+#~ msgid "Outline custom"
+#~ msgstr "نمای کلی سفارشی"
+
+#~ msgid "Gradient"
+#~ msgstr "گرادیانت"
+
+#~ msgid "Gradient Custom"
+#~ msgstr "گرادیات سفارشی"
+
+#~ msgid "Gradient Color 1"
+#~ msgstr "ترکیب رنگی 1"
+
+#~ msgid "Select first color for gradient."
+#~ msgstr "یک ترکیب رنگی انتخاب کنید."
+
+#~ msgid "Gradient Color 2"
+#~ msgstr "ترکیب رنگی2"
+
+#~ msgid "Select second color for gradient."
+#~ msgstr "یک ترکیب رنگی دومی انتخاب کنید."
+
+#~ msgid "Button Text Color"
+#~ msgstr "رنگ متن دکمه"
+
+#~ msgid "Select button text color."
+#~ msgstr "یک رنگ برای متن دکمه انتخاب کنید."
+
+#~ msgid "Background"
+#~ msgstr "پس زمینه"
+
+#~ msgid "Select custom background color for your element."
+#~ msgstr "رنگ پس زمینه سفارشی برای عنصر خود را انتخاب کنید."
+
+#~ msgid "Select custom text color for your element."
+#~ msgstr "رنگ متن سفارشی برای عنصر خود را انتخاب کنید."
+
+#~ msgid "Outline and Text"
+#~ msgstr "طرح کلی و متن"
+
+#~ msgid "Select outline and text color for your element."
+#~ msgstr "انتخاب طرح و رنگ متن برای عنصر خود ."
+
+#~ msgid "Hover background"
+#~ msgstr "پشت زمینه با هوور"
+
+#~ msgid "Select hover background color for your element."
+#~ msgstr "انتخاب رنگ پس زمینه شناور برای عنصر خود ."
+
+#~ msgid "Hover text"
+#~ msgstr "متن هوور"
+
+#~ msgid "Select hover text color for your element."
+#~ msgstr "انتخاب رنگ متن شناور برای عنصر خود ."
+
+#~ msgid "Shape"
+#~ msgstr "شکل"
+
+#~ msgid "Select button shape."
+#~ msgstr "شکل دکمه را انتخاب کنید."
+
+#~ msgid "Rounded"
+#~ msgstr "گرد شده"
+
+#~ msgid "Square"
+#~ msgstr "مربع"
+
+#~ msgid "Round"
+#~ msgstr "گرد"
+
+#~ msgid "Color"
+#~ msgstr "رنگ"
+
+#~ msgid "Select button color."
+#~ msgstr "انتخاب رنگ دکمه"
+
+#~ msgid "Size"
+#~ msgstr "سایز"
+
+#~ msgid "Select button display size."
+#~ msgstr "انتخاب اندازه نمایش دکمه  ."
+
+#~ msgid "Alignment"
+#~ msgstr "ترازبندی"
+
+#~ msgid "Select button alignment."
+#~ msgstr "انتخاب مکان دکمه"
+
+#~ msgid "Inline"
+#~ msgstr "اینلاین"
+
+#~ msgid "Left"
+#~ msgstr "چپ"
+
+#~ msgid "Right"
+#~ msgstr "راست"
+
+#~ msgid "Center"
+#~ msgstr "وسط"
+
+#~ msgid "Set full width button?"
+#~ msgstr "تنظیم دکمه تمام عرض ؟"
+
+#~ msgid "Add icon?"
+#~ msgstr "اضافه کردن آیکون؟"
+
+#~ msgid "Icon Alignment"
+#~ msgstr "ترازبندی آیکون"
+
+#~ msgid "Select icon alignment."
+#~ msgstr "انتخاب مکان آیکون"
+
+#~ msgid "Icon"
+#~ msgstr "آیکون"
+
+#~ msgid "Select icon from library."
+#~ msgstr "آیکون را از کتابخانه انتخاب کنید."
+
+#~ msgid "Element ID"
+#~ msgstr "آی دی  المان"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Enter section ID (Note: make sure it is unique and valid according to <a "
+#~| "href=\"%s\" target=\"_blank\">w3c specification</a>)."
+#~ msgid ""
+#~ "Enter element ID (Note: make sure it is unique and valid according to "
+#~ "%sw3c specification%s)."
+#~ msgstr ""
+#~ "وارد کردن شناسه بخش بخش (مطمئن شوید که یکتا و معتبر باشد<a href=\"%s\" "
+#~ "target=\"_blank\">w3c specification</a>)."
+
+#~ msgid "Extra class name"
+#~ msgstr "نام کلاس اضافی"
+
+#~ msgid ""
+#~ "Style particular content element differently - add a class name and refer "
+#~ "to it in custom CSS."
+#~ msgstr ""
+#~ "سبک خاص محتوای محتوا به صورت متفاوت - یک نام کلاس اضافه کنید و به آن در "
+#~ "CSS سفارشی مراجعه کنید."
+
+#~ msgid "Advanced on click action"
+#~ msgstr "انتخاب عملکرد پیشرفته برای کلیک موس"
+
+#~ msgid "Insert inline onclick javascript action."
+#~ msgstr "قرار دادن عمل درون خطی جاوا اسکریپت"
+
+#~ msgid "On click code"
+#~ msgstr "در حالت کلیک"
+
+#~ msgid "Enter onclick action code."
+#~ msgstr "کد عمل کلیک را وارد کنید."
+
+#~ msgid "CSS box"
+#~ msgstr "جعبه CSS"
+
+#~ msgid "Design Options"
+#~ msgstr "تنظیمات طراحی"
+
+#~ msgid "Button"
+#~ msgstr "دکمه"
+
+#~ msgid "Content"
+#~ msgstr "محتوا"
+
+#~ msgid "Eye catching button"
+#~ msgstr "دکمه چشمگیر"
+
+#~ msgid "Heading"
+#~ msgstr "هدینگ"
+
+#~ msgid "Subheading"
+#~ msgstr "زیرسربرگ"
+
+#~ msgid "Hey! I am first heading line feel free to change me"
+#~ msgstr "سلام! من اولین خط هدینگ هستم، آزادی که منو تغییر بدی :)"
+
+#~ msgid "Enter text for heading line."
+#~ msgstr "متن را برای عنوان خط وارد کنید."
+
+#~ msgid "Use custom font?"
+#~ msgstr "استفاده از فونت سفارشی؟"
+
+#~ msgid "Enable Google fonts."
+#~ msgstr "فعال کردن فونت های گوگل."
+
+#~ msgid "Enter text for subheading line."
+#~ msgstr "متن برای خط زیرسربرگ را وارد کنید."
+
+#~ msgid "Enable custom font option."
+#~ msgstr "فعال کردن گزینه های سفارشی فونت."
+
+#~ msgid "Text alignment"
+#~ msgstr "ترازبندی متن"
+
+#~ msgid "Select text alignment in \"Call to Action\" block."
+#~ msgstr ""
+#~ "تراز دلخواه برای متن انتخاب کنید در \\ \"فراخوانی برای اقدام \" بلوک."
+
+#~ msgid "Select call to action shape."
+#~ msgstr "انتخاب شکل اطلاع رسانی"
+
+#~ msgid "Select call to action display style."
+#~ msgstr "انتخاب نوع نمایش اطلاع رسانی"
+
+#~ msgid "Background color"
+#~ msgstr "رنگ پشت زمینه"
+
+#~ msgid "Select custom background color."
+#~ msgstr "انتخاب رنگ پس زمینه سفارشی"
+
+#~ msgid "Text color"
+#~ msgstr "رنگ متن"
+
+#~ msgid "Select custom text color."
+#~ msgstr "انتخاب رنگ متن سفارشی"
+
+#~ msgid "Select color schema."
+#~ msgstr "انتخاب طرح رنگ."
+
+#~ msgid ""
+#~ "I am promo text. Click edit button to change this text. Lorem ipsum dolor "
+#~ "sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~ "ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr ""
+#~ "من متن تبلیغی هستم. برای تغییر این متن روی کلید ویرایش کلیک کنید. Lorem "
+#~ "ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus "
+#~ "nec ullamcorper mattis, pulvinar dapibus leo."
+
+#~ msgid "Width"
+#~ msgstr "عرض"
+
+#~ msgid "Select call to action width (percentage)."
+#~ msgstr "انتخاب عرض اطلاع رسانی ( درصد )"
+
+#~ msgid "Add button"
+#~ msgstr "اضافه کردن دکمه"
+
+#~ msgid "Add button for call to action."
+#~ msgstr "اضافه کردن دکمه برای اطلاع رسانی"
+
+#~ msgid "No"
+#~ msgstr "خیر"
+
+#~ msgid "Top"
+#~ msgstr "بالا"
+
+#~ msgid "Bottom"
+#~ msgstr "پایین"
+
+#~ msgid "Add icon for call to action."
+#~ msgstr "اضافه کردن آیکون به اطلاع رسانی"
+
+#~ msgid "Place icon on border?"
+#~ msgstr "مکان آیکون در حاشیه ؟"
+
+#~ msgid "Display icon on call to action element border."
+#~ msgstr "نمایش آیکون اطلاع رسانی بر روی حاشیه عنصر"
+
+#~ msgid "Call to Action"
+#~ msgstr "فراخوانی برای اقدام"
+
+#~ msgid "Catch visitors attention with CTA block"
+#~ msgstr "توجه بازدیدکنندگان را با بلاک CTA جلب کنید"
+
+#~ msgid "Place content elements inside the inner column"
+#~ msgstr "محل محتوای عنصر در ستون داخلی"
+
+#~ msgid "1 column - 1/12"
+#~ msgstr "1 ستون - 1/12"
+
+#~ msgid "2 columns - 1/6"
+#~ msgstr "2 ستون - 1/6"
+
+#~ msgid "3 columns - 1/4"
+#~ msgstr "3 ستون - 1/4"
+
+#~ msgid "4 columns - 1/3"
+#~ msgstr "4 ستون - 1/3 "
+
+#~ msgid "5 columns - 5/12"
+#~ msgstr "5 ستون - 5/12 "
+
+#~ msgid "6 columns - 1/2"
+#~ msgstr "6 ستون - 1/2"
+
+#~ msgid "7 columns - 7/12"
+#~ msgstr "7 ستون - 7/12"
+
+#~ msgid "8 columns - 2/3"
+#~ msgstr "8 ستون - 2/3"
+
+#~ msgid "9 columns - 3/4"
+#~ msgstr "9 ستون - 3/4"
+
+#~ msgid "10 columns - 5/6"
+#~ msgstr "10 ستون - 5/6"
+
+#~ msgid "11 columns - 11/12"
+#~ msgstr "11 ستون - 11/12 "
+
+#~ msgid "12 columns - 1/1"
+#~ msgstr "12 ستون - 1/1"
+
+#~ msgid "Responsive Options"
+#~ msgstr "تنظیمات ریسپانسیو"
+
+#~ msgid "Select column width."
+#~ msgstr "انتخاب عرض ستون"
+
+#~ msgid "Responsiveness"
+#~ msgstr "واکنش گرایی"
+
+#~ msgid ""
+#~ "Adjust column for different screen sizes. Control width, offset and "
+#~ "visibility settings."
+#~ msgstr ""
+#~ "تنظیم ستونها برای سایزهای اسکرین متفاوت. کنترل عرض، آفست و تنظیمات نمایان "
+#~ "بودن"
+
+#~ msgid "Column"
+#~ msgstr "ستون"
+
+#~ msgid "Place content elements inside the column"
+#~ msgstr "محل محتوای عنصر در داخل ستون"
+
+#~ msgid "Use video background?"
+#~ msgstr "استفاده از پس زمینه های ویدئویی؟"
+
+#~ msgid "If checked, video will be used as row background."
+#~ msgstr "اگر انتخاب شود ویدئو برای پس زمینه ردیف استفاده می شود."
+
+#~ msgid "Yes"
+#~ msgstr "بله"
+
+#~ msgid "YouTube link"
+#~ msgstr "لینک یوتیوپ"
+
+#~ msgid "Add YouTube link."
+#~ msgstr "اظافه کردن لینک یوتیوپ"
+
+#~ msgid "Parallax"
+#~ msgstr "پارالکس"
+
+#~ msgid "None"
+#~ msgstr "هیچکدام"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "With fade"
+#~ msgstr "همراه با محو شدن"
+
+#~ msgid "Add parallax type background for row."
+#~ msgstr "اضافه کردن نوع متحرک بودن پس زمینه برای ردیف"
+
+#~ msgid ""
+#~ "Add parallax type background for row (Note: If no image is specified, "
+#~ "parallax will use background image from Design Options)."
+#~ msgstr ""
+#~ "اضافه کردن نوع متحرک بودن پس زمینه برای ردیف ( اگر تصویری اختصاص داده "
+#~ "نشده باشد ، از تصویر تنظیمات طراحی استفاده خواهد شد"
+
+#~ msgid "Image"
+#~ msgstr "تصویر"
+
+#~ msgid "Select image from media library."
+#~ msgstr "تصویر را از کتابخانه رسانه ها انتخاب کنید."
+
+#~ msgid "Parallax speed"
+#~ msgstr "سرعت پارالاکس"
+
+#~ msgid ""
+#~ "Enter parallax speed ratio (Note: Default value is 1.5, min value is 1)"
+#~ msgstr ""
+#~ "سرعت پارالاکس را تنظیم کنید (نکته : پیشفرض 1.5 هست. کمترین مقدار 1 است)"
+
+#~ msgid "Inner Row"
+#~ msgstr "سطر داخلی"
+
+#~ msgid "Place content elements inside the inner row"
+#~ msgstr "محل محتوای عنصر در سطر داخلی"
+
+#~ msgid "Row ID"
+#~ msgstr "شناسه ردیف"
+
+#, php-format
+#~ msgid ""
+#~ "Enter optional row ID. Make sure it is unique, and it is valid as w3c "
+#~ "specification: %s (Must not have spaces)"
+#~ msgstr ""
+#~ "آی دی اختیاری سطر را وارد کنید.مطمئن شوید آی دی انتخابی را قبلا استفاده "
+#~ "نکرده اید و اون معتبر است از لحاظ خصوصیات w3c : %s ( نباید فاصله داشته "
+#~ "باشد )"
+
+#~ msgid "link"
+#~ msgstr "لینک"
+
+#~ msgid "Equal height"
+#~ msgstr "ارتفاع برابر"
+
+#~ msgid "If checked columns will be set to equal height."
+#~ msgstr "اگر این گزینه را انتخاب کنید ارتفاع ستون ها برابر می شود."
+
+#, fuzzy
+#~| msgid "If checked columns will be set to equal height."
+#~ msgid "If checked columns will be reversed in RTL."
+#~ msgstr "اگر این گزینه را انتخاب کنید ارتفاع ستون ها برابر می شود."
+
+#~ msgid "Content position"
+#~ msgstr "موقعیت محتوا"
+
+#~ msgid "Default"
+#~ msgstr "پیشفرض"
+
+#~ msgid "Middle"
+#~ msgstr "وسط"
+
+#~ msgid "Select content position within columns."
+#~ msgstr "انتخاب موقعیت محتوا در داخل ستون ها ."
+
+#~ msgid "Columns gap"
+#~ msgstr "فاصله ستون ها"
+
+#~ msgid "Select gap between columns in row."
+#~ msgstr "انتخاب فاصله بین ستون های یک ردیف"
+
+#~ msgid "Disable row"
+#~ msgstr "غیر فعال کردن ردیف"
+
+#~ msgid ""
+#~ "If checked the row won't be visible on the public side of your website. "
+#~ "You can switch it back any time."
+#~ msgstr ""
+#~ "اگر تیک زده شود، این ردیف در سمت های وب سایت به صورت عمومی نمایش داده می "
+#~ "شود. شما می توانید آن را به زمانی عقب تر تغییر دهید."
+
+#~ msgid "Row"
+#~ msgstr "ردیف"
+
+#~ msgid "Place content elements inside the row"
+#~ msgstr "المانهای محتوا را در ردیف قرار بده."
+
+#~ msgid "Row stretch"
+#~ msgstr "ردیف کشش"
+
+#~ msgid "Stretch row"
+#~ msgstr "ردیف کشیده"
+
+#~ msgid "Stretch row and content"
+#~ msgstr "کشیدگی ردیف و محتوا"
+
+#~ msgid "Stretch row and content (no paddings)"
+#~ msgstr "کشیدگی ردیف و محتوا  ( بدون حاشیه داخلی )"
+
+#~ msgid ""
+#~ "Select stretching options for row and content (Note: stretched may not "
+#~ "work properly if parent container has \"overflow: hidden\" CSS property)."
+#~ msgstr ""
+#~ "انتخاب تنظیمات کشش برای ردیف و محتوا ( کشش ممکن هست به خاطر تنظیمات والد "
+#~ "خود کار نکند )"
+
+#~ msgid "Full height row?"
+#~ msgstr "ارتفاع کامل ردیف؟"
+
+#~ msgid "If checked row will be set to full height."
+#~ msgstr "اگر این گزینه انتخاب شود ردیف حداکثر ارتفاع را خواهد داشت."
+
+#~ msgid "Columns position"
+#~ msgstr "موقعیت ستون ها"
+
+#~ msgid "Stretch"
+#~ msgstr "کشیده"
+
+#~ msgid "Select columns position within row."
+#~ msgstr "انتخاب موقعیت ستون ها داخل ردیف"
+
+#~ msgid "Section"
+#~ msgstr "بخش"
+
+#~ msgid "Group multiple rows in section"
+#~ msgstr "گروه چندین ردیف در بخش"
+
+#~ msgid "Section stretch"
+#~ msgstr "بخش کشش"
+
+#~ msgid "Stretch section"
+#~ msgstr "کشش بخش"
+
+#~ msgid "Stretch section and content"
+#~ msgstr "بخش کشش و محتوا"
+
+#~ msgid ""
+#~ "Select stretching options for section and content (Note: stretched may "
+#~ "not work properly if parent container has \"overflow: hidden\" CSS "
+#~ "property)."
+#~ msgstr ""
+#~ "انتخاب کشش برای بخش و محتوا (توجه داشته باشید: کشش ممکن است به درستی کار "
+#~ "نکند اگر مخزن پدر دارای ویژگی \"overflow: hidden\" CSS باشد)."
+
+#~ msgid "Full height section?"
+#~ msgstr "ارتفاع کامل بخش قهرمان؟"
+
+#~ msgid "If checked section will be set to full height."
+#~ msgstr "اگر این گزینه انتخاب شود ردیف حداکثر ارتفاع را خواهد داشت."
+
+#~ msgid "Select content position within section."
+#~ msgstr "انتخاب موقعیت محتوا در داخل ستون ها ."
+
+#~ msgid "If checked, video will be used as section background."
+#~ msgstr "اگر انتخاب شود ویدئو برای پس زمینه ردیف استفاده می شود."
+
+#~ msgid "Add parallax type background for section."
+#~ msgstr "اضافه کردن پس زمینه نوع اختلاف منظر بخش."
+
+#~ msgid ""
+#~ "Add parallax type background for section (Note: If no image is specified, "
+#~ "parallax will use background image from Design Options)."
+#~ msgstr ""
+#~ "اضافه کردن پس زمینه نوع اختلاف منظر برای ردیف (توجه: اگر هیچ تصویر مشخص "
+#~ "شده است، اختلاف منظر تصویر پس زمینه از گزینه های طراحی استفاده کنید)."
+
+#~ msgid "Section ID"
+#~ msgstr "شناسه بخش"
+
+#~ msgid "Disable section"
+#~ msgstr "غیر فعال کردن بخش"
+
+#~ msgid ""
+#~ "If checked the section won't be visible on the public side of your "
+#~ "website. You can switch it back any time."
+#~ msgstr ""
+#~ "اگر تیک زده شود، این ردیف در سمت های وب سایت به صورت عمومی نمایش داده می "
+#~ "شود. شما می توانید آن را به زمانی عقب تر تغییر دهید."
+
+#~ msgid "Text Block"
+#~ msgstr "بلاک متن"
+
+#~ msgid "A block of text with WYSIWYG editor"
+#~ msgstr "بلاک متن با ویرایشگر WYSIWYG "
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>I am text block. Click edit button to change this text. Lorem ipsum "
+#~| "dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~| "ullamcorper mattis, pulvinar dapibus leo.</p>"
+#~ msgid ""
+#~ "I am text block. Click edit button to change this text. Lorem ipsum dolor "
+#~ "sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+#~ "ullamcorper mattis, pulvinar dapibus leo."
+#~ msgstr ""
+#~ "<p> من یک بلاک متن هستم، روی دکمه ویرایش کلیک کنید تا این متن را تغییر "
+#~ "دهید.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit "
+#~ "tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>"
+
+#~ msgid "Empty Space"
+#~ msgstr "فضای خالی"
+
+#~ msgid "Blank space with custom height"
+#~ msgstr "فضای خالی با ارتفاع سفارشی"
+
+#~ msgid "Height"
+#~ msgstr "ارتفاع"
+
+#~ msgid "Enter empty space height (Note: CSS measurement units allowed)."
+#~ msgstr ""
+#~ "وارد کردن ارتفاع فضای خالی ( اجازه استفاده از واحد های اندازه گیری css را "
+#~ "دارید )"
+
+#~ msgid "Flickr Widget"
+#~ msgstr "ابزارک flickr"
+
+#~ msgid "Image feed from Flickr account"
+#~ msgstr "آدرس تصویر از حساب کاربری فلیکر"
+
+#~ msgid "Widget title"
+#~ msgstr "عنوان ابزارک"
+
+#~ msgid ""
+#~ "Enter text used as widget title (Note: located above content element)."
+#~ msgstr "وارد کردن متن برای عنوان ابزارک ( بالای محتوا نشان داده می شود )"
+
+#~ msgid "Flickr ID"
+#~ msgstr "Flickr ID(ایدی فیلکیلر)"
+
+#, php-format
+#~ msgid "To find your flickID visit %s."
+#~ msgstr "برای یافتن flickr ID از %s. بازدید کنید."
+
+#~ msgid "Number of photos"
+#~ msgstr "تعداد تصاویر"
+
+#~ msgid "Select number of photos to display."
+#~ msgstr "انتخاب تعداد تصاویر برای نمایش"
+
+#~ msgid "Type"
+#~ msgstr "نوع"
+
+#~ msgid "User"
+#~ msgstr "کاربر"
+
+#~ msgid "Group"
+#~ msgstr "گروه"
+
+#~ msgid "Select photo stream type."
+#~ msgstr "انتخاب نوع حرکت عکس"
+
+#~ msgid "Display order"
+#~ msgstr "نمایش بر اساس"
+
+#~ msgid "Latest first"
+#~ msgstr "ابتدا تازه‌ها"
+
+#~ msgid "Random"
+#~ msgstr "تصادفی"
+
+#~ msgid "Select photo display order."
+#~ msgstr "انتخاب نمایش تصویر بر اساس"
+
+#~ msgid "Image Gallery"
+#~ msgstr "گالری تصاویر"
+
+#~ msgid "Responsive image gallery"
+#~ msgstr "گالری تصویر واکنش گرا"
+
+#~ msgid "Gallery type"
+#~ msgstr "نوع گالری"
+
+#~ msgid "Flex slider fade"
+#~ msgstr "اسلایدر فلکس - محو"
+
+#~ msgid "Flex slider slide"
+#~ msgstr "اسلایدر فلکس - اسلاید"
+
+#~ msgid "Nivo slider"
+#~ msgstr "اسلایدر nivo"
+
+#~ msgid "Image grid"
+#~ msgstr "جدول تصویر"
+
+#~ msgid "Select gallery type."
+#~ msgstr "انتخاب نوع گالری"
+
+#~ msgid "Auto rotate"
+#~ msgstr "چرخش خودکار"
+
+#~ msgid "Disable"
+#~ msgstr "غیرفعال کردن"
+
+#~ msgid "Auto rotate slides each X seconds."
+#~ msgstr "چرخش اتوماتیک اسلایدها هر X ثانیه."
+
+#~ msgid "Image source"
+#~ msgstr "آدرس تصویر"
+
+#~ msgid "Media library"
+#~ msgstr "کتابخانه رسانه ها"
+
+#~ msgid "External links"
+#~ msgstr "لینک خارجی"
+
+#~ msgid "Select image source."
+#~ msgstr "انتخاب منبع تصویر"
+
+#~ msgid "Images"
+#~ msgstr "تصاویر"
+
+#~ msgid "Select images from media library."
+#~ msgstr "انتخاب تصاویر از کتابخانه رسانه ها"
+
+#~ msgid ""
+#~ "Enter external link for each gallery image (Note: divide links with "
+#~ "linebreaks (Enter))."
+#~ msgstr ""
+#~ "(: لینک شکاف با پرش به خط (وارد) نشده است) لینک های خارجی برای هر تصویر "
+#~ "گالری وارد کنید."
+
+#~ msgid "Image size"
+#~ msgstr "سایز تصویر"
+
+#~ msgid ""
+#~ "Enter image size. Example: thumbnail, medium, large, full or other sizes "
+#~ "defined by current theme. Alternatively enter image size in pixels: "
+#~ "200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+#~ msgstr ""
+#~ "سایز تصویر را وارد کنید. مثال: بندانگشتی ، متوسط ، بزرگ، تمام و یا "
+#~ "سایزهای دیگری که توسط قالب تعریف شده است. به همین ترتیب سایز تصویر را به "
+#~ "پیکسل وارد کنید: 200x100 (Width x Height). برای استفاده از سایز "
+#~ "\"thumbnail\" آنرا خالی رها کنید."
+
+#~ msgid "Enter image size in pixels. Example: 200x100 (Width x Height)."
+#~ msgstr "اندازه تصویر را به پیکسل وارد کنید مثال: 200x100 (عرض x ارتفاع )"
+
+#~ msgid "On click action"
+#~ msgstr "عملکرد کلیک کردن"
+
+#~ msgid "Link to large image"
+#~ msgstr "لینک به تصویر بزرگ"
+
+#, fuzzy
+#~| msgid "Stripes Light"
+#~ msgid "Open Lightbox"
+#~ msgstr "راه راه روشن"
+
+#~ msgid "Open custom link"
+#~ msgstr "باز کردن لینک سفارشی"
+
+#~ msgid "Select action for click action."
+#~ msgstr "انتخاب عملکرد برای کلیک موس"
+
+#~ msgid "Custom links"
+#~ msgstr "لینکهای سفارشی"
+
+#~ msgid ""
+#~ "Enter links for each slide (Note: divide links with linebreaks (Enter))."
+#~ msgstr ""
+#~ "وارد کردن لینک ها برای هر سمت (  لینک ها را با enter از هم جدا کنید )."
+
+#~ msgid "Custom link target"
+#~ msgstr "لینک هدف"
+
+#~ msgid "Select where to open  custom links."
+#~ msgstr "انتخاب کنید که لینکهای سفارشی کجا باز شوند."
+
+#~ msgid "Google Maps"
+#~ msgstr "گوگل مپ"
+
+#~ msgid "Map block"
+#~ msgstr "بلاک نقشه"
+
+#~ msgid "Map embed iframe"
+#~ msgstr "قراردادن لینک  IFRAME نقشه"
+
+#, php-format
+#~ msgid ""
+#~ "Visit %s to create your map (Step by step: 1) Find location 2) Click the "
+#~ "cog symbol in the lower right corner and select \"Share or embed map\" 3) "
+#~ "On modal window select \"Embed map\" 4) Copy iframe code and paste it)."
+#~ msgstr ""
+#~ "دیدن %s برای ساختن نقشه تان(گام به گام1.پیدا کردن لوکیشن 2.کلیک روی چرخ "
+#~ "دنده در پایین گوشه سمت راست و انتخاب\"اشتراک گذاری یا قراردادن نقشه \"3."
+#~ "انتخاب \" قرار دادن نقشه \"در پنجره معین4.کپی کد ifram و جای گذاری آن)."
+
+#~ msgid "Google maps"
+#~ msgstr "گوگل مپ"
+
+#~ msgid "Map height"
+#~ msgstr "ارتفاع نقشه"
+
+#~ msgid "Enter map height (in pixels or leave empty for responsive map)."
+#~ msgstr "ارتفاع نقشه را وارد کنید (به پیکسل یا ترک خالی برای نقشه پاسخگو)."
+
+#~ msgid "Hover Block"
+#~ msgstr "بلاک متن"
+
+#~ msgid "Image Carousel"
+#~ msgstr "Carousel تصویر"
+
+#~ msgid "Animated carousel with images"
+#~ msgstr "Carousel متحرک با تصاویر"
+
+#~ msgid "Carousel size"
+#~ msgstr "اندازه تصویر متحرک"
+
+#~ msgid ""
+#~ "Enter image size. Example: thumbnail, medium, large, full or other sizes "
+#~ "defined by current theme. Alternatively enter image size in pixels: "
+#~ "200x100 (Width x Height). Leave empty to use \"thumbnail\" size. If used "
+#~ "slides per view, this will be used to define carousel wrapper size."
+#~ msgstr ""
+#~ "اندازه تصویر را وارد کنید. به عنوان مثال: ریز، متوسط، بزرگ، کامل و یا "
+#~ "سایر اندازه های تعریف شده توسط تم فعلی. 200x100 (عرض x ارتفاع): روش دیگر "
+#~ "اندازه تصویر به پیکسل را وارد کنید. خالی بگذارید به استفاده از \"ریز\" "
+#~ "اندازه. اگر اسلاید مورد استفاده در این دیدگاه، این استفاده می شود برای "
+#~ "تعریف اندازه لفاف بسته بندی چرخ فلک."
+
+#~ msgid "Open custom links"
+#~ msgstr "بازکردن لینک های سفارشی"
+
+#~ msgid "Select action for click event."
+#~ msgstr "انتخاب رخداد پس از کلیک و عمل"
+
+#~ msgid "Select how to open custom links."
+#~ msgstr "انتخاب کنید که لینک‌های سفارشی چظور باز شوند."
+
+#~ msgid "Slider orientation"
+#~ msgstr "جهت اسلایدر"
+
+#~ msgid "Horizontal"
+#~ msgstr "افقی"
+
+#~ msgid "Vertical"
+#~ msgstr "عمودی"
+
+#~ msgid "Select slider position (Note: this affects swiping orientation)."
+#~ msgstr ""
+#~ "انتخاب موقعیت اسلایدر (توجه داشته باشید: این جهت گیری را تحت تاثیر قرار "
+#~ "کشیدن)."
+
+#~ msgid "Slider speed"
+#~ msgstr "سرعت اسلایدر"
+
+#~ msgid "Duration of animation between slides (in ms)."
+#~ msgstr "مدت زمان انیمیشن بین اسلاید (به میلی ثانیه)."
+
+#~ msgid "Slides per view"
+#~ msgstr "اسلایدها به ازای هر مشاهده"
+
+#~ msgid "Enter number of slides to display at the same time."
+#~ msgstr "تعداد اسلاید را وارد کنید برای نمایش در همان زمان."
+
+#~ msgid "Slider autoplay"
+#~ msgstr "پخش اتوماتیک اسلایدر"
+
+#~ msgid "Enable autoplay mode."
+#~ msgstr "فعالسازی حالت پخش کننده اتوماتیک"
+
+#~ msgid "Hide pagination control"
+#~ msgstr "پنهانسازی کنترل صفحه بندی"
+
+#~ msgid "If checked, pagination controls will be hidden."
+#~ msgstr "اگر علامت زده شود، کنترل صفحه بندی پنهان خواهد شد."
+
+#~ msgid "Hide prev/next buttons"
+#~ msgstr "مخفی کردن دکمه های قبلی/بعدی"
+
+#~ msgid "If checked, prev/next buttons will be hidden."
+#~ msgstr "اگر علامت زده شود، دکمه های قبلی / بعدی پنهان خواهد شد."
+
+#~ msgid "Partial view"
+#~ msgstr "مشاهده قسمتی"
+
+#~ msgid "If checked, part of the next slide will be visible."
+#~ msgstr "اگر علامت زده شود، بخشی از اسلاید بعدی قابل مشاهده است."
+
+#~ msgid "Slider loop"
+#~ msgstr "حلقه ی اسلایدر"
+
+#~ msgid "Enable slider loop mode."
+#~ msgstr "فعالسازی حالت تکرارشونده اسلایدر"
+
+#~ msgid "Line Chart"
+#~ msgstr "نمودار خطی"
+
+#~ msgid "Line and Bar charts"
+#~ msgstr "نمودار خطی و میله ای"
+
+#~ msgid "Design"
+#~ msgstr "طراحی"
+
+#~ msgid "Line"
+#~ msgstr "خط"
+
+#~ msgid "Bar"
+#~ msgstr "بار"
+
+#~ msgid "Select type of chart."
+#~ msgstr "انتخاب نوع نمودار."
+
+#~ msgid "Select chart color style."
+#~ msgstr "انتخاب طرح رنگ نمودار."
+
+#~ msgid "Show legend?"
+#~ msgstr "نمایش افسانه ای ؟"
+
+#~ msgid "If checked, chart will have legend."
+#~ msgstr "اگر علامت زده شود ، نمودار به صورت افسانه ای قرار میگیرد"
+
+#~ msgid "Show hover values?"
+#~ msgstr "نمایش مقادیر موقع رفتن موس"
+
+#~ msgid "If checked, chart will show values on hover."
+#~ msgstr "نمایش مقادیر ستون ها موقع رفتن موس روی نمودار"
+
+#~ msgid "X-axis values"
+#~ msgstr "ارزش محور - X"
+
+#~ msgid "Enter values for axis (Note: separate values with \";\")."
+#~ msgstr "وارد کردن مقادیر محور افقی ( با \" ; \" از هم جدا شوند )."
+
+#~ msgid "Values"
+#~ msgstr "مقدار"
+
+#~ msgid "One"
+#~ msgstr "یک"
+
+#~ msgid "Two"
+#~ msgstr "دو"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Enter title for chart dataset."
+#~ msgstr "عنوان برای مجموعه داده چارت را وارد کنید."
+
+#~ msgid "Y-axis values"
+#~ msgstr "ارزش محور - Y"
+
+#~ msgid "Select chart color."
+#~ msgstr "انتخاب رنگ نمودار"
+
+#~ msgid "Custom color"
+#~ msgstr "رنگ سفارشی"
+
+#~ msgid "Select custom chart color."
+#~ msgstr "انتخاب رنگ سفارشی نمودار"
+
+#~ msgid "Animation"
+#~ msgstr "انیمیشن "
+
+#~ msgid "Select animation style."
+#~ msgstr "انتخاب استایل انیمیشن"
+
+#~ msgid "Informational"
+#~ msgstr "اطلاعات"
+
+#~ msgid "Warning"
+#~ msgstr "هشدار"
+
+#~ msgid "Success"
+#~ msgstr "موفقیت"
+
+#~ msgid "Error"
+#~ msgstr "خطا"
+
+#~ msgid "Informational Classic"
+#~ msgstr "آگاهی کلاسیک"
+
+#~ msgid "Warning Classic"
+#~ msgstr "هشدار کلاسیک"
+
+#~ msgid "Success Classic"
+#~ msgstr "موفقیت کلاسیک"
+
+#~ msgid "Error Classic"
+#~ msgstr "خطای کلاسیک"
+
+#~ msgid "Message Box"
+#~ msgstr "باکس پیغام"
+
+#~ msgid "Notification box"
+#~ msgstr "باکس اطلاع رسانی"
+
+#~ msgid "Message Box Presets"
+#~ msgstr "جعبه پیام از پیش تنظیم شده"
+
+#~ msgid ""
+#~ "Select predefined message box design or choose \"Custom\" for custom "
+#~ "styling."
+#~ msgstr "انتخاب طرح جعبه پیام از پیش تعریف شده یا انتخاب استایل سفارشی"
+
+#~ msgid "Select message box design style."
+#~ msgstr "انتخاب طرح استایل جعبه پیام"
+
+#~ msgid "Select message box shape."
+#~ msgstr "انتخاب شکل جعبه پیام"
+
+#~ msgid "Select message box color."
+#~ msgstr "انتخاب رنگ جعبه پیام"
+
+#~ msgid "Icon library"
+#~ msgstr "کتابخانه ی آیکون"
+
+#, fuzzy
+#~| msgid "Font Awesome"
+#~ msgid "Font Awesome 5"
+#~ msgstr "فونت  Awesome"
+
+#~ msgid "Open Iconic"
+#~ msgstr "شمایل باز"
+
+#~ msgid "Typicons"
+#~ msgstr "نوع آیکونها"
+
+#~ msgid "Entypo"
+#~ msgstr "Entypo(انتیپو)"
+
+#~ msgid "Linecons"
+#~ msgstr "خطوط با هم"
+
+#~ msgid "Mono Social"
+#~ msgstr "مونو اجتماعی"
+
+#, fuzzy
+#~| msgid "Select icon library."
+#~ msgid "Choose icon library."
+#~ msgstr "آیکون را از کتابخانه انتخاب کنید."
+
+#, fuzzy
+#~| msgid "Select icon from library."
+#~ msgid "Choose icon from library."
+#~ msgstr "آیکون را از کتابخانه انتخاب کنید."
+
+#~ msgid "Message text"
+#~ msgstr "متن پیغام"
+
+#, fuzzy
+#~| msgid "<p>I am message box. Click edit button to change this text.</p>"
+#~ msgid "I am message box. Click edit button to change this text."
+#~ msgstr ""
+#~ "<p> من یک باکس پیغام هستم. بر روی دکمه ویرایش کلیک کنید تا متن تغییر کند. "
+#~ "</p>"
+
+#~ msgid "Pie Chart"
+#~ msgstr "نمودار دایره"
+
+#~ msgid "Animated pie chart"
+#~ msgstr "نمودار دایره ای متحرک"
+
+#~ msgid "Value"
+#~ msgstr "مقدار"
+
+#~ msgid "Enter value for graph (Note: choose range from 0 to 100)."
+#~ msgstr "وارد کردم مقدار برای شکاف ( بین 0 تا 100 )"
+
+#~ msgid "Label value"
+#~ msgstr "مقدار برچسب"
+
+#~ msgid ""
+#~ "Enter label for pie chart (Note: leaving empty will set value from \"Value"
+#~ "\" field)."
+#~ msgstr ""
+#~ "وارد کردن عنوان برای نمودار دایره ای ( برای انتخاب عنوان از فیلد مقدار "
+#~ "خالی بگذارید )\"Value\" field\""
+
+#~ msgid "Units"
+#~ msgstr "واحدها"
+
+#~ msgid ""
+#~ "Enter measurement units (Example: %, px, points, etc. Note: graph value "
+#~ "and units will be appended to graph title)."
+#~ msgstr ""
+#~ "وارد کردن واحد های اندازه گیری (Example: %, px, points, etc. Note: graph "
+#~ "value and units will be appended to graph title)."
+
+#~ msgid "Select pie chart color."
+#~ msgstr "انتخاب رنگ نمودار دایره ای."
+
+#~ msgid "Select custom color."
+#~ msgstr "انتخاب رنگ سفارشی"
+
+#~ msgid "Posts Slider"
+#~ msgstr "اسلایدر پستها"
+
+#~ msgid "Slider with WP Posts"
+#~ msgstr "اسلایدر با پستهای وردپرس"
+
+#~ msgid "Slider type"
+#~ msgstr "نوع اسلایدر"
+
+#~ msgid "Select slider type."
+#~ msgstr "نوع اسلایدر را انتخاب کنید."
+
+#~ msgid "Slider count"
+#~ msgstr "بدون شمارش"
+
+#~ msgid ""
+#~ "Enter number of slides to display (Note: Enter \"All\" to display all "
+#~ "slides)."
+#~ msgstr ""
+#~ "وارد کردن تعداد اسلایدها برای نمایش ( وارد کردن  \"All\" برای نمایش همه )"
+
+#~ msgid "Post types"
+#~ msgstr "پست تایپها"
+
+#~ msgid "Select source for slider."
+#~ msgstr "انتخاب منبع تصویر"
+
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+#~ msgid "No description"
+#~ msgstr "بدون توضیحات"
+
+#~ msgid "Teaser (Excerpt)"
+#~ msgstr "تیزر (excerpt)"
+
+#~ msgid ""
+#~ "Select source to use for description (Note: some sliders do not support "
+#~ "it)."
+#~ msgstr ""
+#~ "انتخاب منبع برای استفاده توضیحات ( بعضی اسلایدر ها از آن پشتیبانی نمی "
+#~ "کنند )"
+
+#~ msgid "Output post title?"
+#~ msgstr "خروجی عنوان پست؟"
+
+#~ msgid "If selected, title will be printed before the teaser text."
+#~ msgstr "اگر انتخاب شود، عنوان قبل از متن تیزر پرینت میشود."
+
+#~ msgid "Link"
+#~ msgstr "لینک"
+
+#~ msgid "Link to post"
+#~ msgstr "لینک به پست"
+
+#~ msgid "Link to bigger image"
+#~ msgstr "لینک به تصویر بزرگتر"
+
+#~ msgid "No link"
+#~ msgstr "بدون لینک"
+
+#~ msgid "Link type."
+#~ msgstr "نوع لینک."
+
+#~ msgid ""
+#~ "Enter links for each slide here. Divide links with linebreaks (Enter)."
+#~ msgstr ""
+#~ "لینکها را برای هر اسلاید وارد کنید. لینکها را با اینتر از هم جدا کنید"
+
+#~ msgid "Thumbnail size"
+#~ msgstr "سایز بندانگشتی"
+
+#~ msgid ""
+#~ "Enter thumbnail size. Example: thumbnail, medium, large, full or other "
+#~ "sizes defined by current theme. Alternatively enter image size in pixels: "
+#~ "200x100 (Width x Height) . "
+#~ msgstr ""
+#~ "سایز بندانگشتی را وارد کنید. مثال: بندانگشتی ، متوسط ، بزرگ ، کامل یا "
+#~ "سایزهای تعریف شده دیگر توسط قالب فعلی. به همین ترتیب سایز تصویر را به "
+#~ "پیکسل وارد کنید:  200x100 (Width x Height) . "
+
+#~ msgid "Post/Page IDs"
+#~ msgstr "ID پست/صفحه"
+
+#~ msgid ""
+#~ "Enter page/posts IDs to display only those records (Note: separate values "
+#~ "by commas (,)). Use this field in conjunction with \"Post types\" field."
+#~ msgstr ""
+#~ "وارد کردن آی دی برگه/مطالب برا نمایش مطالب آنها ( با کاما , جدا شوند ) از "
+#~ "این فیلد در ترکیب با \"انواع مطالب\" استفاده شود"
+
+#~ msgid "Categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid ""
+#~ "Enter categories by names to narrow output (Note: only listed categories "
+#~ "will be displayed, divide categories with linebreak (Enter))."
+#~ msgstr ""
+#~ "وارد کردن دسته بندی ها بر اساس نام ها برای خروجی های کوچک ( برای نمایش "
+#~ "لیست دسته بندی های ، با enter  تقسیم بندی شوند )"
+
+#~ msgid "Order by"
+#~ msgstr "مرتب سازی بر اساس"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid "ID"
+#~ msgstr "ID(ایدی)"
+
+#~ msgid "Author"
+#~ msgstr "نویسنده"
+
+#~ msgid "Modified"
+#~ msgstr "تنظیم شده"
+
+#~ msgid "Comment count"
+#~ msgstr "تعداد دیدگاه"
+
+#~ msgid "Menu order"
+#~ msgstr "ترتیب منو"
+
+#, php-format
+#~ msgid "Select how to sort retrieved posts. More at %s."
+#~ msgstr "انتخاب چگونگی مرتب سازی پستهای بازیابی شده. بیشتر در %s."
+
+#~ msgid "Sort order"
+#~ msgstr "مرتب سازی بر اساس"
+
+#~ msgid "Descending"
+#~ msgstr "نزولی"
+
+#~ msgid "Ascending"
+#~ msgstr "صعودی"
+
+#, php-format
+#~ msgid "Select ascending or descending order. More at %s."
+#~ msgstr "انتخاب صعودی یا نزولی بودن، بیشتر در %s."
+
+#~ msgid "Custom Color"
+#~ msgstr "رنگ سفارشی"
+
+#~ msgid "Progress Bar"
+#~ msgstr "نوار پیشرفت"
+
+#~ msgid "Animated progress bar"
+#~ msgstr "نوار پیشرفت متحرک"
+
+#~ msgid "Enter values for graph - value, title and color."
+#~ msgstr ""
+#~ "وارد کردن مقادیر برای اشکال - مقدار،عنوان و رنگ value, title and color."
+
+#~ msgid "Development"
+#~ msgstr "گسترش دادن"
+
+#~ msgid "Marketing"
+#~ msgstr "بازاریابی"
+
+#~ msgid "Label"
+#~ msgstr "برچسب"
+
+#~ msgid "Enter text used as title of bar."
+#~ msgstr "وارد کردن متن برای استفاده عنوان نوار"
+
+#~ msgid "Enter value of bar."
+#~ msgstr "وارد کردن مقدار نوار"
+
+#~ msgid "Select single bar background color."
+#~ msgstr "انتخاب رنگ پس زمینه یک نوار"
+
+#~ msgid "Select custom single bar background color."
+#~ msgstr "انتخاب رنگ پس زمینه سفارشی یک نوار"
+
+#~ msgid "Custom text color"
+#~ msgstr "رنگ متن سفارشی "
+
+#~ msgid "Select custom single bar text color."
+#~ msgstr "انتخاب رنگ متن سفارشی یک نوار"
+
+#~ msgid "Select bar background color."
+#~ msgstr "انتخاب رنگ پس زمینه بار"
+
+#~ msgid "Bar custom background color"
+#~ msgstr "رنگ سفارشی  پس زمینه نوارها"
+
+#~ msgid "Select custom background color for bars."
+#~ msgstr "انتخاب رنگ پس زمینه سفارشی برای بارها"
+
+#~ msgid "Bar custom text color"
+#~ msgstr "رنگ سفارشی متن نوار"
+
+#~ msgid "Select custom text color for bars."
+#~ msgstr "انتخاب رنگ سفارشی برای متن نوار"
+
+#~ msgid "Options"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Add stripes"
+#~ msgstr "اضافه کردن خط راه راه"
+
+#~ msgid "Add animation (Note: visible only with striped bar)."
+#~ msgstr "اضافه کردن انیمیشن ( قابل نمایش فقط همراه با نوار راه راه )"
+
+#~ msgid "Round Chart"
+#~ msgstr "نمودار حلقه ای"
+
+#~ msgid "Pie"
+#~ msgstr "پای"
+
+#~ msgid "Doughnut"
+#~ msgstr "حلقه ای"
+
+#~ msgid "Gap"
+#~ msgstr "اندازه خالی"
+
+#~ msgid "Select gap size."
+#~ msgstr "انتخاب اندازه شکاف بین اجزای نمودار"
+
+#~ msgid "Outline color"
+#~ msgstr "رنگ نمای کلی"
+
+#~ msgid "Select outline color."
+#~ msgstr "انتخاب رنگ نمای کلی"
+
+#~ msgid "Custom outline color"
+#~ msgstr "رنگ نمای کلی سفارشی"
+
+#~ msgid "Select custom outline color."
+#~ msgstr "انتخاب رنگ سفارشی نمای کلی"
+
+#~ msgid "Enter title for chart area."
+#~ msgstr "وارد کردن عنوان برای این قسمت از نمودار"
+
+#~ msgid "Enter value for area."
+#~ msgstr "وارد کردن مقدار این قسمت از نمودار"
+
+#~ msgid "Select area color."
+#~ msgstr "انتخاب رنگ این ناحیه"
+
+#~ msgid "Select custom area color."
+#~ msgstr "انتخاب رنگ متن سفارشی"
+
+#~ msgid "Separator"
+#~ msgstr "جداکننده"
+
+#~ msgid "Horizontal separator line"
+#~ msgstr "خط جداکننده افقی"
+
+#~ msgid "Select color of separator."
+#~ msgstr "رنگ مرز جداکننده"
+
+#~ msgid "Select separator alignment."
+#~ msgstr "انتخاب مکان دکمه"
+
+#~ msgid "Custom Border Color"
+#~ msgstr "رنگ سفارشی مرزها"
+
+#~ msgid "Select border color for your element."
+#~ msgstr "انتخاب رنگ مرزهای المانها"
+
+#~ msgid "Separator display style."
+#~ msgstr "سبک جداکننده"
+
+#~ msgid "Border width"
+#~ msgstr "عرض کادر"
+
+#~ msgid "Select border width (pixels)."
+#~ msgstr "عرض کادر را انتخاب کنید (پیکسل)."
+
+#~ msgid "Element width"
+#~ msgstr "عرض المان"
+
+#~ msgid "Select separator width (percentage)."
+#~ msgstr "انتخاب عرض اطلاع رسانی ( درصد )"
+
+#~ msgid "Single Image"
+#~ msgstr "تصویر تکی"
+
+#~ msgid "Simple image with CSS animation"
+#~ msgstr "تصویر ساده با css انیمیشن"
+
+#~ msgid "External link"
+#~ msgstr "لینک خارجی"
+
+#~ msgid "Featured Image"
+#~ msgstr "ویژگی تصویر"
+
+#~ msgid "Select external link."
+#~ msgstr "انتخاب لینک خارجی"
+
+#~ msgid ""
+#~ "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" "
+#~ "or other sizes defined by theme). Alternatively enter size in pixels "
+#~ "(Example: 200x100 (Width x Height))."
+#~ msgstr ""
+#~ "وارد کردن سایز عکس به صورت  \"thumbnail\", \"medium\", \"large\", \"full"
+#~ "\"  یا به پیکسل 200x100 (Width x Height)"
+
+#~ msgid "Caption"
+#~ msgstr "عنوان"
+
+#~ msgid "Enter text for image caption."
+#~ msgstr "وارد کردن متن برای عنوان عکس"
+
+#~ msgid "Add caption?"
+#~ msgstr "اضافه کردن عنوان؟"
+
+#~ msgid "Add image caption."
+#~ msgstr "اضافه کردن عنوان عکس"
+
+#~ msgid "Image alignment"
+#~ msgstr "جای تصویر"
+
+#~ msgid "Select image alignment."
+#~ msgstr "انتخاب مکان تصویر"
+
+#~ msgid "Image style"
+#~ msgstr "استایل تصویر"
+
+#~ msgid "Select image display style."
+#~ msgstr "انتخاب استایل نمایش تصویر"
+
+#~ msgid "Border color"
+#~ msgstr "رنگ مرزبندی"
+
+#~ msgid "Border color."
+#~ msgstr "رنگ مرزبندی."
+
+#~ msgid "Zoom"
+#~ msgstr "زوم"
+
+#~ msgid "Image link"
+#~ msgstr "لینک تصویر"
+
+#~ msgid ""
+#~ "Enter URL if you want this image to have a link (Note: parameters like "
+#~ "\"mailto:\" are also accepted)."
+#~ msgstr ""
+#~ "اگر می خواهید این عکس لینک داشته باشد، لینک مورد نظر خود را وارد کنید "
+#~ "(Note: parameters like \"mailto:\" are also accepted)."
+
+#~ msgid "Link Target"
+#~ msgstr "لینک هدف"
+
+#~ msgid "Separator with Text"
+#~ msgstr "جداکننده با متن"
+
+#~ msgid "Horizontal separator line with heading"
+#~ msgstr "خط جداکننده افقی با heading"
+
+#~ msgid "Add text to separator."
+#~ msgstr "جداکننده با متن"
+
+#~ msgid "Title position"
+#~ msgstr "مکان عنوان"
+
+#~ msgid "Select title location."
+#~ msgstr "انتخاب مکان عنوان"
+
+#~ msgid "Separator alignment"
+#~ msgstr "ترازبندی"
+
+#~ msgid "Custom separator color for your element."
+#~ msgstr "رنگ سفارشی جداکننده برای المان شما"
+
+#~ msgid "Separator element width in percents."
+#~ msgstr "عرض المان جداکننده به  درصد."
+
+#~ msgid "Toggle title"
+#~ msgstr "عنوان تاگل"
+
+#~ msgid "Enter title of toggle block."
+#~ msgstr "وارد کردن عنوان برای بلاک با خاصیت باز و بسته شدن"
+
+#~ msgid "Toggle content"
+#~ msgstr "محتوای تاگل"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>Toggle content goes here, click edit button to change this text.</p>"
+#~ msgid "Toggle content goes here, click edit button to change this text."
+#~ msgstr ""
+#~ "<p>محتوای تاگل در این قسمت قرار میگیرد ، بر روی دکمه ویرایش کلیک کنید تا "
+#~ "این متن تغییر کنید </p>"
+
+#~ msgid "Toggle block content."
+#~ msgstr "محتوای بلاک تاگل"
+
+#~ msgid "Select toggle design style."
+#~ msgstr "انتخاب طرح استایل جعبه پیام"
+
+#~ msgid "Icon color"
+#~ msgstr "رنگ ایکون"
+
+#~ msgid "Select icon color."
+#~ msgstr "رنگ آیکون باز کردن منو در موبایل"
+
+#~ msgid "Select toggle size"
+#~ msgstr "انتخاب اندازه نمایش دکمه  ."
+
+#~ msgid "Default state"
+#~ msgstr "حالت پیش فرض"
+
+#~ msgid "Closed"
+#~ msgstr "بسته"
+
+#~ msgid "Open"
+#~ msgstr "باز"
+
+#~ msgid "Select \"Open\" if you want toggle to be open by default."
+#~ msgstr "\"Open\" را انتخاب کنید اگر میخواهید که به صورت پیش فرض باز باشد."
+
+#~ msgid "FAQ"
+#~ msgstr "سوالات متداول"
+
+#~ msgid "Toggle element for Q&A block"
+#~ msgstr "تاگل کردن المان برای بلاک Q&A"
+
+#~ msgid "Video Player"
+#~ msgstr "ویدئو پلیر"
+
+#~ msgid "Embed YouTube/Vimeo player"
+#~ msgstr "Embed YouTube/Vimeo player"
+
+#~ msgid "Video link"
+#~ msgstr "لینک ویدئو"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Enter link to video (Note: read more about available formats at "
+#~| "WordPress <a href=\"%s\" target=\"_blank\">codex page</a>)."
+#~ msgid ""
+#~ "Enter link to video (Note: read more about available formats at WordPress "
+#~ "%scodex page%s)."
+#~ msgstr ""
+#~ "وارد کردن لینک به ویدئو (Note: read more about available formats at "
+#~ "WordPress <a href=\"%s\" target=\"_blank\">codex page</a>)."
+
+#~ msgid "Video width"
+#~ msgstr "عرض ویدئو"
+
+#~ msgid "Select video width (percentage)."
+#~ msgstr "عرض ویدئو را انتخاب کنید (درصد)."
+
+#, fuzzy
+#~| msgid "Video aspect ration"
+#~ msgid "Video aspect ratio"
+#~ msgstr "نسبت ابعاد ویدئو"
+
+#~ msgid "Select video aspect ratio."
+#~ msgstr "نسبت ابعاد ویدئو را انتخاب کنید."
+
+#~ msgid "Select video alignment."
+#~ msgstr "تراز فیلم انتخاب کنید."
+
+#~ msgid "Select color for your element."
+#~ msgstr "انتخاب رنگ المان."
+
+#~ msgid "Extra small"
+#~ msgstr "خیلی کوچک"
+
+#~ msgid "Small"
+#~ msgstr "کوچک"
+
+#~ msgid "Medium"
+#~ msgstr "متوسط"
+
+#~ msgid "Large"
+#~ msgstr "بزرگ"
+
+#~ msgid "Extra large"
+#~ msgstr "خیلی بزرگ"
+
+#~ msgid "Custom Heading"
+#~ msgstr "heading سفارشی"
+
+#~ msgid "Text with Google fonts"
+#~ msgstr "عنوان دلخواه برای فونت گوگل"
+
+#~ msgid "Text source"
+#~ msgstr "منبع متن"
+
+#~ msgid "Custom text"
+#~ msgstr "متن دلخواه"
+
+#~ msgid "Post or Page Title"
+#~ msgstr "عنوان صفحه"
+
+#~ msgid "Select text source."
+#~ msgstr "انتخاب منبع متن"
+
+#~ msgid "This is custom heading element"
+#~ msgstr "heading سفارشی"
+
+#~ msgid ""
+#~ "Note: If you are using non-latin characters be sure to activate them "
+#~ "under Settings/WPBakery Page Builder/General Settings."
+#~ msgstr ""
+#~ "اگر از حروف غیر لاتین استفاده میکنید آن را در قسمت تنظیمات ویژوال کامپوزر "
+#~ "فعال کنید"
+
+#~ msgid "Add link to custom heading."
+#~ msgstr "اضافه کردن لینک به هدینگ سفارشی"
+
+#~ msgid "Select element tag."
+#~ msgstr "انتخاب تگ  المان"
+
+#~ msgid "Select text alignment."
+#~ msgstr "انتخاب مکان متن"
+
+#~ msgid "Enter font size."
+#~ msgstr "سایز فونت را وارد کنید"
+
+#~ msgid "Enter line height."
+#~ msgstr "ارتفاع بین خطوط را وارد کنید."
+
+#~ msgid "Select heading color."
+#~ msgstr "عنوان (رنگ الگو)"
+
+#~ msgid "Use theme default font family?"
+#~ msgstr ""
+#~ "استفاده از خانواده فونت به طور پیش فرض تم\n"
+#~ "؟"
+
+#~ msgid "Use font family from the theme."
+#~ msgstr "استفاده از فونت الگو"
+
+#~ msgid "Select font family."
+#~ msgstr "انتخاب نوع فونت"
+
+#~ msgid "Select font styling."
+#~ msgstr "انتخاب استایل فونت"
+
+#~ msgid "Eye catching icons from libraries"
+#~ msgstr "آیکون های چشم نواز از کتابخانه"
+
+#~ msgid "Material"
+#~ msgstr "متریال"
+
+#~ msgid "Select icon library."
+#~ msgstr "آیکون را از کتابخانه انتخاب کنید."
+
+#~ msgid "Select custom icon color."
+#~ msgstr "انتخاب رنگ متن سفارشی"
+
+#~ msgid "Background shape"
+#~ msgstr "شکل پس زمینه"
+
+#~ msgid "Circle"
+#~ msgstr "دایره"
+
+#~ msgid "Outline Circle"
+#~ msgstr "نمای کلی دایره"
+
+#~ msgid "Outline Square"
+#~ msgstr "نمای کلی مربع"
+
+#~ msgid "Outline Rounded"
+#~ msgstr "نمای کلی حلقه"
+
+#~ msgid "Select background shape and style for icon."
+#~ msgstr "انتخاب پس زمینه شکل و استایل آیکون"
+
+#~ msgid "Select background color for icon."
+#~ msgstr "انتخاب رنگ پس زمینه برای آیکن"
+
+#~ msgid "Custom background color"
+#~ msgstr "رنگ پشت زمینه سفارشی"
+
+#~ msgid "Select custom icon background color."
+#~ msgstr "انتخاب رنگ پس زمینه سفارشی"
+
+#~ msgid "Icon size."
+#~ msgstr "سایز آیکون"
+
+#~ msgid "Icon alignment"
+#~ msgstr "ترازبندی آیکون"
+
+#~ msgid "Add link to icon."
+#~ msgstr "اضافه کردن لینک به آیکون"
+
+#~ msgid "Old Section"
+#~ msgstr "بخش قدیمی"
+
+#~ msgid "Enter accordion section title."
+#~ msgstr "عنوان بخش آکاردیون را وارد نمایید."
+
+#~ msgid "Old Accordion"
+#~ msgstr "آکاردئون قدیمی"
+
+#~ msgid "Collapsible content panels"
+#~ msgstr "پنل محتوای از پیش ساخته شده"
+
+#~ msgid "Active section"
+#~ msgstr "فعالسازی  بخش"
+
+#~ msgid ""
+#~ "Enter section number to be active on load or enter \"false\" to collapse "
+#~ "all sections."
+#~ msgstr ""
+#~ "وارد کردن تعداد بخش برای فعال شدن موقع بارگذاری یا وارد کردن \"false\"  "
+#~ "برای فروپاشی همه بخش ها"
+
+#~ msgid "Allow collapse all sections?"
+#~ msgstr "اجازه فروپاشی همه بخش ها؟"
+
+#~ msgid "If checked, it is allowed to collapse all sections."
+#~ msgstr "با انتخاب این گزینه همه بخش ها از بین می روند"
+
+#~ msgid "Disable keyboard interactions?"
+#~ msgstr "غیر فعال کردن عملکرد کیبورد؟"
+
+#~ msgid ""
+#~ "If checked, disables keyboard arrow interactions (Keys: Left, Up, Right, "
+#~ "Down, Space)."
+#~ msgstr ""
+#~ "اگر این گزینه انتخاب شود کلید های عملیاتی کیبورد غیر فعال می شوند ( کلید "
+#~ "های: چپ، راست، بالا، پایین، فاصله )."
+
+#~ msgid "Add section"
+#~ msgstr "افزودن بخش"
+
+#~ msgid "Section 1"
+#~ msgstr "بخش 1"
+
+#~ msgid "Section 2"
+#~ msgstr "بخش 2"
+
+#~ msgid "Old Button"
+#~ msgstr "دکمه قدیمی"
+
+#~ msgid "Enter text on the button."
+#~ msgstr "وارد کردن متن رو دکمه"
+
+#~ msgid "Enter button link."
+#~ msgstr "وارد کردن لینک دکمه"
+
+#~ msgid "Target"
+#~ msgstr "هدف"
+
+#~ msgid "Select icon to display on button."
+#~ msgstr "انتخاب آیکون برای نمایش روی دکمه"
+
+#~ msgid "Select button size."
+#~ msgstr "انتخاب سایز دکمه"
+
+#~ msgid "Select button display style and shape."
+#~ msgstr "انتخاب استایل نمایش دکمه و شکل"
+
+#~ msgid "Old Call to Action"
+#~ msgstr "فراخوانی برای اقدام"
+
+#~ msgid "Click edit button to change this text."
+#~ msgstr "برای تغییر متن دکمه ویرایش را کلیک کنید"
+
+#~ msgid "Enter text content."
+#~ msgstr "وارد کردن متن محتوا"
+
+#~ msgid "Button icon"
+#~ msgstr "موقعیت آیکون دکمه"
+
+#~ msgid "Button position"
+#~ msgstr "مکان دکمه"
+
+#~ msgid "Old Call to Action Button"
+#~ msgstr "متن دکمه عملیات تماس"
+
+#~ msgid "Select display shape and style."
+#~ msgstr "انتخاب پس زمینه شکل و استایل آیکون"
+
+#~ msgid "Select element width (percentage)."
+#~ msgstr "انتخاب عرض المان ( درصد )"
+
+#~ msgid "Select background color."
+#~ msgstr "انتخاب رنگ پس زمینه"
+
+#~ msgid ""
+#~ "Add link to button (Important: adding link automatically adds button)."
+#~ msgstr ""
+#~ "اضافه کردن لینک به دکمه ( مهم: لینک به صورت اتوماتیک به دکمه اضافه می شود)"
+
+#~ msgid "Add text on the button."
+#~ msgstr "اضافه کردن متن روی دکمه"
+
+#~ msgid "Google+ Button"
+#~ msgstr "دکمه گوگل پلاس"
+
+#~ msgid "Social"
+#~ msgstr "اجتماعی"
+
+#~ msgid "Recommend on Google"
+#~ msgstr "پیشنهاد شده بر گوگل"
+
+#~ msgid "Button size"
+#~ msgstr "سایز دکمه"
+
+#~ msgid "Standard"
+#~ msgstr "استاندارد"
+
+#~ msgid "Tall"
+#~ msgstr "بلند"
+
+#~ msgid "Annotation"
+#~ msgstr "حاشیه نویسی"
+
+#~ msgid "Bubble"
+#~ msgstr "حبابی"
+
+#~ msgid "Select type of annotation."
+#~ msgstr "انتخاب نوع حاشیه نویسی"
+
+#~ msgid ""
+#~ "Minimum width of 120px to display. If annotation is set to \"inline\", "
+#~ "this parameter sets the width in pixels to use for button and its inline "
+#~ "annotation. Default width is 450px."
+#~ msgstr ""
+#~ "حداقل عرض 120px برای نمایش ندارد. اگر حاشیه نویسی است به \"درون خطی\" "
+#~ "تنظیم این پارامتر مجموعه عرض در پیکسل برای استفاده از دکمه و حاشیه نویسی "
+#~ "های درون خطی آن است. عرض پیش فرض 450px است."
+
+#~ msgid "Old Tab"
+#~ msgstr "تب قدیمی"
+
+#~ msgid "Enter title of tab."
+#~ msgstr "لطفا عنوان تب جدید را وارد کنید."
+
+#~ msgid "Tab ID"
+#~ msgstr "ID تب"
+
+#~ msgid "Old Tabs"
+#~ msgstr "تب قدیمی"
+
+#~ msgid "Tabbed content"
+#~ msgstr "محتوای تب بندی شده"
+
+#~ msgid "Auto rotate tabs each X seconds."
+#~ msgstr "چرخش خودکار تب ها هر X ثانیه"
+
+#~ msgid "Tab 1"
+#~ msgstr "تب 1"
+
+#~ msgid "Tab 2"
+#~ msgstr "تب 2"
+
+#~ msgid "Old Tour"
+#~ msgstr "تور قدیمی"
+
+#~ msgid "Vertical tabbed content"
+#~ msgstr "محتوای تب عمومی"
+
+#~ msgid "Auto rotate slides"
+#~ msgstr "چرخش اتوماتیک اسلایدها"
+
+#~ msgid "Load More Button"
+#~ msgstr "دکمه بارگزاری موارد بیشتر"
+
+#~ msgid "Custom query"
+#~ msgstr "پرس و جو سفارشی"
+
+#~ msgid "List of IDs"
+#~ msgstr "وارد کردن یک کاما از هم جدا لیست از شناسه"
+
+#~ msgid "Data source"
+#~ msgstr "منبع"
+
+#~ msgid "Select content type for your grid."
+#~ msgstr "یک نوع پس زمینه برای سایت خود انتخاب کنید."
+
+#~ msgid "Include only"
+#~ msgstr "فقط "
+
+#~ msgid "Add posts, pages, etc. by title."
+#~ msgstr "اضافه کردن مطالب، برگه ها و غیره توسط عنوان"
+
+#~ msgid "Narrow data source"
+#~ msgstr "منبع"
+
+#~ msgid "Enter categories, tags or custom taxonomies."
+#~ msgstr "وارد کردن دسته بندی ها، برچسب ها یا طبقه بندی سفارشی"
+
+#~ msgid "Total items"
+#~ msgstr "جمع آیتم ها"
+
+#~ msgid ""
+#~ "Set max limit for items in grid or enter -1 to display all (limited to "
+#~ "1000)."
+#~ msgstr ""
+#~ "تنظیم حداکثر آیتم های نمایش داده شده در شبکه بندی یا وارد کردن عدد 1 برای "
+#~ "نمایش همه ( محدودیت 1000)."
+
+#~ msgid "Display Style"
+#~ msgstr "نمایش استایل"
+
+#~ msgid "Show all"
+#~ msgstr "نمایش همه"
+
+#~ msgid "Load more button"
+#~ msgstr "دکمه بارگزاری موارد بیشتر"
+
+#~ msgid "Lazy loading"
+#~ msgstr "بارگذاری تنبل"
+
+#~ msgid "Pagination"
+#~ msgstr "صفحه بندی"
+
+#~ msgid "Select display style for grid."
+#~ msgstr "انتخاب استایل دکمه"
+
+#~ msgid "Items per page"
+#~ msgstr "محصولات در هر صفحه"
+
+#~ msgid "Number of items to show per page."
+#~ msgstr "تعداد آیتم ها برای نمایش در هر صفحه"
+
+#~ msgid "Show filter"
+#~ msgstr "نمایش فیلتر"
+
+#~ msgid "Append filter to grid."
+#~ msgstr "قرار دادن فیلتر برای شبکه بندی"
+
+#~ msgid "Grid elements per row"
+#~ msgstr "المان های شبکه بندی در هر ردیف"
+
+#~ msgid "Select number of single grid elements per row."
+#~ msgstr "انتخاب تعداد المان های هر ردیف شبکه بندی"
+
+#~ msgid "Select gap between grid elements."
+#~ msgstr "انتخاب فاصله بین عناصر شبکه ای"
+
+#~ msgid "Order by post ID"
+#~ msgstr "مرتب سازی بر اساس آی دی مطالب"
+
+#~ msgid "Last modified date"
+#~ msgstr "آخرین تاریخ ویرایش"
+
+#~ msgid "Post/page parent ID"
+#~ msgstr "شناسه ی دسته بندی اصلی (والد)"
+
+#~ msgid "Number of comments"
+#~ msgstr "تعداد نظرات "
+
+#~ msgid "Menu order/Page Order"
+#~ msgstr "مرتب سازی منو/مرتب سازی برگه"
+
+#~ msgid "Meta value"
+#~ msgstr "مقدار متا"
+
+#~ msgid "Meta value number"
+#~ msgstr "تعداد مقدار متا"
+
+#~ msgid "Random order"
+#~ msgstr "مرتب سازی تصادفی"
+
+#~ msgid ""
+#~ "Select order type. If \"Meta value\" or \"Meta value Number\" is chosen "
+#~ "then meta key is required."
+#~ msgstr ""
+#~ "انتخاب نوع مرتب سازی. اگر \"مقدار متا\" یا \"تعداد مقدار متا\" انتخاب "
+#~ "شوند باید کلید متا را انتخاب کنید \"Meta value\" or \"Meta value Number\""
+
+#~ msgid "Data Settings"
+#~ msgstr "تنظیمات داده ها"
+
+#~ msgid "Select sorting order."
+#~ msgstr "انتخاب مرتب سازی"
+
+#~ msgid "Meta key"
+#~ msgstr "کلید متا"
+
+#~ msgid "Input meta key for grid ordering."
+#~ msgstr "کلید متا را برای مرتب سازی شبکه بندی وارد کنید"
+
+#~ msgid "Offset"
+#~ msgstr "افست"
+
+#~ msgid "Number of grid elements to displace or pass over."
+#~ msgstr "تعداد المان هایی که باید جاگذاشته شوند یا نادیده گرفته شوند."
+
+#~ msgid "Exclude"
+#~ msgstr "استثنا"
+
+#~ msgid "Exclude posts, pages, etc. by title."
+#~ msgstr "به جز مطالب، برگه ها و غیره توسط عنوان"
+
+#~ msgid "Filter by"
+#~ msgstr "فیلتر بر اساس"
+
+#~ msgid "Filter"
+#~ msgstr "فیلتر"
+
+#~ msgid "Select filter source."
+#~ msgstr "انتخاب منبع تصویر"
+
+#~ msgid "Exclude from filter list"
+#~ msgstr "محروم کردن تصویر شاخص از البوم"
+
+#~ msgid "Enter categories, tags won't be shown in the filters list"
+#~ msgstr ""
+#~ "وارد کردن دسته بندیها و برچسب هایی که قرار نیست در لیست فیلتر نشان داده "
+#~ "شوند."
+
+#~ msgid "Less Rounded"
+#~ msgstr "کمتر دور"
+
+#~ msgid "Border"
+#~ msgstr "مرز (border)"
+
+#~ msgid "Rounded Border"
+#~ msgstr "مرز گرد"
+
+#~ msgid "Less Rounded Border"
+#~ msgstr "گرد شده"
+
+#~ msgid "Filled"
+#~ msgstr "کد امنیتی درست نیست "
+
+#~ msgid "Rounded Filled"
+#~ msgstr "کد امنیتی درست نیست "
+
+#~ msgid "Dropdown"
+#~ msgstr "کشویی"
+
+#~ msgid "Select filter display style."
+#~ msgstr "انتخاب استایل نمایش فیلتر"
+
+#~ msgid "Default title"
+#~ msgstr "عنوان پیشفرض"
+
+#~ msgid "All"
+#~ msgstr "همه"
+
+#~ msgid "Enter default title for filter option display (empty: \"All\")."
+#~ msgstr ""
+#~ "عنوان پیش فرض را وارد کنید برای نمایش گزینه فیلتر (خالی: \"همه\").(empty: "
+#~ "\"All\")"
+
+#~ msgid "Select filter alignment."
+#~ msgstr "انتخاب مکان دکمه"
+
+#~ msgid "Select filter color."
+#~ msgstr "فیلتر بر اساس:"
+
+#~ msgid "Filter size"
+#~ msgstr "سایز فیلتر"
+
+#~ msgid "Select filter size."
+#~ msgstr "انتخاب اندازه نمایش دکمه  ."
+
+#~ msgid "Arrows design"
+#~ msgstr "فلش ها"
+
+#~ msgid "Simple Circle Border"
+#~ msgstr "حاشیه درونی دایره"
+
+#~ msgid "Simple Circle"
+#~ msgstr "دایره ساده"
+
+#~ msgid "Simple Square"
+#~ msgstr "مربع ساده"
+
+#~ msgid "Simple Square Rounded"
+#~ msgstr "مربع ساده گرد شده"
+
+#~ msgid "Simple Rounded"
+#~ msgstr "حلقه ساده"
+
+#~ msgid "Rounded Circle Border"
+#~ msgstr "حاشیه دایره حلقه ای"
+
+#~ msgid "Rounded Circle"
+#~ msgstr "گرد شده"
+
+#~ msgid "Rounded Square"
+#~ msgstr "مربع حلقه ای"
+
+#~ msgid "Simple Arrow"
+#~ msgstr "بردار ساده"
+
+#~ msgid "Simple Rounded Arrow"
+#~ msgstr "بردار گرد شده ساده"
+
+#~ msgid "Select design for arrows."
+#~ msgstr "انتخاب طرح برای بردارها"
+
+#~ msgid "Arrows position"
+#~ msgstr "موقعیت بردار"
+
+#~ msgid "Inside Wrapper"
+#~ msgstr "داخل نگه دارنده"
+
+#~ msgid "Outside Wrapper"
+#~ msgstr "خارج نگه دارنده"
+
+#~ msgid "Arrows will be displayed inside or outside grid."
+#~ msgstr "بردار در داخل یا خارج شبکه بندی نمایش داده شود"
+
+#~ msgid "Arrows color"
+#~ msgstr "رنگ فلش ها"
+
+#~ msgid "Select color for arrows."
+#~ msgstr "انتخاب رنگ برای فلش ها"
+
+#~ msgid "Pagination style"
+#~ msgstr "استایل صفحه بندی"
+
+#~ msgid "Square Dots"
+#~ msgstr "نقطه های مربعی"
+
+#~ msgid "Radio Dots"
+#~ msgstr "ورودی رادیو"
+
+#~ msgid "Point Dots"
+#~ msgstr "نقطه های نقطه ای"
+
+#~ msgid "Fill Square Dots"
+#~ msgstr "نقطه های تو پر مربعی"
+
+#~ msgid "Rounded Fill Square Dots"
+#~ msgstr "نقطه های حلقه ای تو پر مربعی"
+
+#~ msgid "Pagination Default"
+#~ msgstr "صفحه بندی پیش فرض"
+
+#~ msgid "Outline Default Dark"
+#~ msgstr "نمای کلی پیش فرض تیره"
+
+#~ msgid "Outline Default Light"
+#~ msgstr "نمای کلی پیش فرض روشن"
+
+#~ msgid "Pagination Rounded"
+#~ msgstr "صفحه بندی گرد شده"
+
+#~ msgid "Outline Rounded Dark"
+#~ msgstr "نمای کلی گرده شده تیره"
+
+#~ msgid "Outline Rounded Light"
+#~ msgstr "نمای کلی گرد شده روشن"
+
+#~ msgid "Pagination Square"
+#~ msgstr "صفحه بندی"
+
+#~ msgid "Outline Square Dark"
+#~ msgstr "نمای کلی مربع"
+
+#~ msgid "Outline Square Light"
+#~ msgstr "نمای کلی میدان نور"
+
+#~ msgid "Pagination Rounded Square"
+#~ msgstr "صفحه بندی مربعی گرد شده"
+
+#~ msgid "Outline Rounded Square Dark"
+#~ msgstr "نمای کلی مربع گرده شده تیره"
+
+#~ msgid "Outline Rounded Square Light"
+#~ msgstr "نمای کلی مربع گرد شده روشن"
+
+#~ msgid "Stripes Dark"
+#~ msgstr "راه راه تیره"
+
+#~ msgid "Stripes Light"
+#~ msgstr "راه راه روشن"
+
+#~ msgid "Select pagination style."
+#~ msgstr "انتخاب استایل صفحه بندی"
+
+#~ msgid "Pagination color"
+#~ msgstr "رنگ صفحه بندی"
+
+#~ msgid "Select pagination color."
+#~ msgstr "انتخاب رنگ صفحه بندی"
+
+#~ msgid "Loop pages?"
+#~ msgstr "حلقه صفحه ها ؟"
+
+#~ msgid "Allow items to be repeated in infinite loop (carousel)."
+#~ msgstr "اجازه به آیتم ها برای تکرار در حلقه های بینهایت ( اسلاید )"
+
+#~ msgid "Autoplay delay"
+#~ msgstr "نمایش خودکار تاخیر"
+
+#~ msgid "Enter value in seconds. Set -1 to disable autoplay."
+#~ msgstr ""
+#~ "مقدار را به ثانیه وارد کنید ، انتخاب 1 برای غیر فعال کردن نمایش خودکار"
+
+#~ msgid "Animation In"
+#~ msgstr "انیمیشن ورود"
+
+#~ msgid "Select \"animation in\" for page transition."
+#~ msgstr "انتخاب انیمیشن ورود برای حرکت صفحه"
+
+#~ msgid "Animation Out"
+#~ msgstr "انیمیشن خروج"
+
+#~ msgid "Select \"animation out\" for page transition."
+#~ msgstr "انتخاب انیمیشن خروج برای خروج صفحه"
+
+#~ msgid "Grid element template"
+#~ msgstr "الگو المان صفحه بندی"
+
+#, php-format
+#~ msgid ""
+#~ "%sCreate new%s template or %smodify selected%s. Predefined templates will "
+#~ "be cloned."
+#~ msgstr ""
+#~ "ایجاد %s جدید %s الگو یا ویرایش %s انتخاب شده %s . پیش تعریف الگو ایجاد "
+#~ "شد."
+
+#~ msgid "Item Design"
+#~ msgstr "طراحی آیتم"
+
+#~ msgid "Initial loading animation"
+#~ msgstr "انیمیشن بارگذاری اولیه"
+
+#~ msgid "Select initial loading animation for grid element."
+#~ msgstr "انیمیشن بارگذاری اولیه برای عنصر شبکه را انتخاب کنید."
+
+#~ msgid "Button style"
+#~ msgstr "استایل دکمه"
+
+#~ msgid "Select button style."
+#~ msgstr "انتخاب استایل دکمه"
+
+#~ msgid "Button color"
+#~ msgstr "رنگ دکمه"
+
+#~ msgid "Fade In"
+#~ msgstr "محو شدن"
+
+#~ msgid "Post Grid"
+#~ msgstr "شبکه بندی مطالب"
+
+#~ msgid "Posts, pages or custom posts in grid"
+#~ msgstr "مطالب، برگه ها یا مطالب سفارشی در شبکه بندی"
+
+#~ msgid "Post Masonry Grid"
+#~ msgstr "شبکه بندی آجری مطالب"
+
+#~ msgid "Posts, pages or custom posts in masonry grid"
+#~ msgstr "مطالب، برگه ها یا مطالب سفارشی در شبکه بندی آجری"
+
+#~ msgid "Masonry Media Grid"
+#~ msgstr "شبکه بندی آجری رسانه ها"
+
+#~ msgid "Masonry media grid from Media Library"
+#~ msgstr "تصویر را از کتابخانه رسانه ها انتخاب کنید."
+
+#~ msgid "Media Grid"
+#~ msgstr "شبکه بندی رسانه :  تغییر مقیاس حاشیه همراه با عنوان"
+
+#~ msgid "Media grid from Media Library"
+#~ msgstr "تصویر را از کتابخانه رسانه ها انتخاب کنید."
+
+#~ msgid "Same window"
+#~ msgstr "همان پنجره"
+
+#~ msgid "New window"
+#~ msgstr "پنجره جدید"
+
+#~ msgid "Alert"
+#~ msgstr "هشدارها"
+
+#~ msgid "Info"
+#~ msgstr "اطلاعات"
+
+#~ msgid "Tick"
+#~ msgstr "تیک"
+
+#~ msgid "Explanation"
+#~ msgstr "توضیح"
+
+#~ msgid "Address book"
+#~ msgstr "آیکون دفترجه آدرس"
+
+#~ msgid "Alarm clock"
+#~ msgstr "آیکون آلارم ساعت"
+
+#~ msgid "Anchor"
+#~ msgstr "لنگر"
+
+#~ msgid "Application Image"
+#~ msgstr "آیکون تصویر برنامه کاربردی"
+
+#~ msgid "Arrow"
+#~ msgstr "فلش"
+
+#~ msgid "Asterisk"
+#~ msgstr "ستاره"
+
+#~ msgid "Hammer"
+#~ msgstr "چکش"
+
+#~ msgid "Balloon"
+#~ msgstr "بالن"
+
+#~ msgid "Balloon Buzz"
+#~ msgstr "بالن توجه"
+
+#~ msgid "Balloon Facebook"
+#~ msgstr "بالن فیسبوک"
+
+#~ msgid "Balloon Twitter"
+#~ msgstr "بالن تویتر"
+
+#~ msgid "Battery"
+#~ msgstr "باتری"
+
+#~ msgid "Binocular"
+#~ msgstr "دوربین دو چشمی"
+
+#~ msgid "Document Excel"
+#~ msgstr "سند اکسل"
+
+#~ msgid "Document Image"
+#~ msgstr "سند عکس"
+
+#~ msgid "Document Music"
+#~ msgstr "سند موزیک"
+
+#~ msgid "Document Office"
+#~ msgstr "سند آفیس"
+
+#~ msgid "Document PDF"
+#~ msgstr "سند پی دی اف"
+
+#~ msgid "Document Powerpoint"
+#~ msgstr "سند پاورپوینت"
+
+#~ msgid "Document Word"
+#~ msgstr "سند ورد"
+
+#~ msgid "Bookmark"
+#~ msgstr "بوکمارک"
+
+#~ msgid "Camcorder"
+#~ msgstr "دوربین فیلمبرداری"
+
+#~ msgid "Camera"
+#~ msgstr "آیکون دوربین"
+
+#~ msgid "Chart"
+#~ msgstr "نمودار"
+
+#~ msgid "Chart pie"
+#~ msgstr "نمودار دایره ای"
+
+#~ msgid "Clock"
+#~ msgstr "ساعت"
+
+#~ msgid "Fire"
+#~ msgstr "آتش"
+
+#~ msgid "Heart"
+#~ msgstr "قلب"
+
+#~ msgid "Mail"
+#~ msgstr "ایمیل"
+
+#~ msgid "Play"
+#~ msgstr "پلی"
+
+#~ msgid "Shield"
+#~ msgstr "محافظ"
+
+#~ msgid "Video"
+#~ msgstr "فیلم"
+
+#~ msgid "Grey"
+#~ msgstr "خاکستری"
+
+#~ msgid "Blue"
+#~ msgstr "آبی"
+
+#~ msgid "Turquoise"
+#~ msgstr "فیروزه ای"
+
+#~ msgid "Green"
+#~ msgstr "سبز"
+
+#~ msgid "Orange"
+#~ msgstr "نارنجی"
+
+#~ msgid "Red"
+#~ msgstr "قرمز"
+
+#~ msgid "Black"
+#~ msgstr "مشکی"
+
+#~ msgid "Regular"
+#~ msgstr "لستاندارد"
+
+#~ msgid "Mini"
+#~ msgstr "خیلی کوچک"
+
+#~ msgid "Address book icon"
+#~ msgstr "آیکون دفترجه آدرس"
+
+#~ msgid "Alarm clock icon"
+#~ msgstr "آیکون آلارم ساعت"
+
+#~ msgid "Anchor icon"
+#~ msgstr "آیکون نویسنده"
+
+#~ msgid "Application Image icon"
+#~ msgstr "آیکون تصویر برنامه کاربردی"
+
+#~ msgid "Arrow icon"
+#~ msgstr "آیکون پیکان"
+
+#~ msgid "Asterisk icon"
+#~ msgstr "آیکون Asterisk "
+
+#~ msgid "Hammer icon"
+#~ msgstr "آیکون چکش"
+
+#~ msgid "Balloon icon"
+#~ msgstr "آیکون بالون"
+
+#~ msgid "Balloon Buzz icon"
+#~ msgstr "آیکون بیز بالون"
+
+#~ msgid "Balloon Facebook icon"
+#~ msgstr "آیکون فیسبوک بالون"
+
+#~ msgid "Balloon Twitter icon"
+#~ msgstr "آیکون توئیتر بالون"
+
+#~ msgid "Battery icon"
+#~ msgstr "آیکون باتری"
+
+#~ msgid "Binocular icon"
+#~ msgstr "آیکون دوربین"
+
+#~ msgid "Document Excel icon"
+#~ msgstr "آیکون سند اکسل"
+
+#~ msgid "Document Image icon"
+#~ msgstr "آیکون سند تصویر"
+
+#~ msgid "Document Music icon"
+#~ msgstr "آیکون سند موزیک"
+
+#~ msgid "Document Office icon"
+#~ msgstr "آیکون سند آفیس"
+
+#~ msgid "Document PDF icon"
+#~ msgstr "آیکون سند PDF"
+
+#~ msgid "Document Powerpoint icon"
+#~ msgstr "آیکون سند پاورپوینت"
+
+#~ msgid "Document Word icon"
+#~ msgstr "آیکون سند ورد"
+
+#~ msgid "Bookmark icon"
+#~ msgstr "آیکون بوکمارک"
+
+#~ msgid "Camcorder icon"
+#~ msgstr "آیکون دوربین فیلمبرداری"
+
+#~ msgid "Camera icon"
+#~ msgstr "آیکون دوربین"
+
+#~ msgid "Chart icon"
+#~ msgstr "آیکون چت"
+
+#~ msgid "Chart pie icon"
+#~ msgstr "آیکون نمودار دایره ای"
+
+#~ msgid "Clock icon"
+#~ msgstr "آیکون ساعت"
+
+#~ msgid "Fire icon"
+#~ msgstr "آیکون آتش"
+
+#~ msgid "Heart icon"
+#~ msgstr "آیکون قلب"
+
+#~ msgid "Mail icon"
+#~ msgstr "آیکون ایمیل"
+
+#~ msgid "Play icon"
+#~ msgstr "آیکون پخش"
+
+#~ msgid "Shield icon"
+#~ msgstr "آیکون شیلد"
+
+#~ msgid "Video icon"
+#~ msgstr "آیکون ویدئو"
+
+#~ msgid "Facebook Like"
+#~ msgstr "لایک فیسبوک"
+
+#~ msgid "Facebook \"Like\" button"
+#~ msgstr "دکمه لایک فیسبوک"
+
+#~ msgid "Button type"
+#~ msgstr "نوع دکمه"
+
+#~ msgid "Horizontal with count"
+#~ msgstr "افقی با شمارش"
+
+#~ msgid "Vertical with count"
+#~ msgstr "عمودی با شمارش"
+
+#~ msgid "Select button type."
+#~ msgstr "انتخاب نوع دکمه"
+
+#~ msgid "Pinterest"
+#~ msgstr "پینترست"
+
+#~ msgid "Pinterest button"
+#~ msgstr "دکمه پینترست"
+
+#~ msgid "No count"
+#~ msgstr "بدون شمارش"
+
+#~ msgid "Select button layout."
+#~ msgstr "انتخاب طرح دکمه"
+
+#~ msgid "Tweetmeme Button"
+#~ msgstr "دکمه Tweetmeme"
+
+#~ msgid "Tweet button"
+#~ msgstr "دکمه توییت"
+
+#~ msgid "Choose a button"
+#~ msgstr "انتخاب دکمه"
+
+#~ msgid "Share a link"
+#~ msgstr "اشتراک گذاری یک پیوند"
+
+#~ msgid "Follow"
+#~ msgstr "دنبال کردن"
+
+#~ msgid "Hashtag"
+#~ msgstr "هشتگ"
+
+#~ msgid "Mention"
+#~ msgstr "اشاره"
+
+#~ msgid "Select type of Twitter button."
+#~ msgstr "نوع دکمه توئیتر را انتخاب کنید."
+
+#~ msgid "Share url: page URL"
+#~ msgstr "آدرس اشتراک: آدرس صفحه"
+
+#~ msgid "Use the current page url to share?"
+#~ msgstr "استفاده از آدرس فعلی صفحه برای اشتراک گذاری؟"
+
+#~ msgid "Share url: custom URL"
+#~ msgstr "آدرس اشتراک: آدرس سفارشی"
+
+#~ msgid "Enter custom page url which you like to share on twitter?"
+#~ msgstr ""
+#~ "آدرس صفحه سفارشی که می خواهید در توئیتر به اشتراک بگذارید را وارد کنید؟"
+
+#~ msgid "Tweet text: page title"
+#~ msgstr "متن توئیت: عنوان صفحه"
+
+#~ msgid "Use the current page title as tweet text?"
+#~ msgstr "استفاده از عنوان صفحه فعلی به عنوان متن توئیت ؟"
+
+#~ msgid "Tweet text: custom text"
+#~ msgstr "متن توئیت: متن سفارشی"
+
+#~ msgid "Enter the text to be used as a tweet?"
+#~ msgstr "متنی که می خواهید برای توئیت استفاده شود را وارد کنید؟"
+
+#~ msgid "Via @"
+#~ msgstr "به همراه@"
+
+#~ msgid "Enter your Twitter username."
+#~ msgstr "نام کاربری توئیتر خود را وارد نمایید ."
+
+#~ msgid "Recommend @"
+#~ msgstr "توصیه شده @"
+
+#~ msgid "Enter the Twitter username to be recommended."
+#~ msgstr "وارد کردن نام کاربری توئیتر برای توصیه کردن."
+
+#~ msgid "Hashtag #"
+#~ msgstr "هشتگ#"
+
+#~ msgid ""
+#~ "Add a comma-separated list of hashtags to a Tweet using the hashtags "
+#~ "parameter."
+#~ msgstr ""
+#~ "افزودن یک لیست هشتگ جدا شده با کاما برای استفاده از پارامتر هشتگ توئیت."
+
+#~ msgid "User @"
+#~ msgstr "کاربر@"
+
+#~ msgid "Enter username to follow."
+#~ msgstr "نام کاربری را برای پیروی کردن وارد کنید."
+
+#~ msgid "Show username"
+#~ msgstr "نمایش نام کاربری"
+
+#~ msgid "Do you want to show username in button?"
+#~ msgstr "آیا می خواهید نام کاربری بر روی دکمه نمایش داده شود ؟"
+
+#~ msgid "Show followers count"
+#~ msgstr "نمایش تعداد دنبال کنندگان"
+
+#~ msgid "Do you want to displat the follower count in button?"
+#~ msgstr "آیا می خواهید تعداد دنبال کنندگان در دکمه نمایش داده شود ؟"
+
+#~ msgid "Add hashtag to a Tweet using the hashtags parameter"
+#~ msgstr "افزودن هشتگ به توئیت با استفاده از پارامتر هشتگ ها"
+
+#~ msgid "Tweet text: No default text"
+#~ msgstr "متن توئیت: بدون متن پیش فرض"
+
+#~ msgid "Set no default text for tweet?"
+#~ msgstr "می خواهید متن پیش فرض برای توئیت قرار نگیرد ؟"
+
+#~ msgid "Tweet text: custom"
+#~ msgstr "متن توئیت: سفارشی"
+
+#~ msgid "Set custom text for tweet."
+#~ msgstr "متن سفارشی برای توئیت را وارد کنید."
+
+#~ msgid "Enter username to be recommended."
+#~ msgstr "نام کاربری را وارد کنید توصیه می شود."
+
+#~ msgid "Tweet url: No URL"
+#~ msgstr "آدرس توئیت: بدون آدرس"
+
+#~ msgid "Do you want to set no url to be tweeted?"
+#~ msgstr "آیا می خواهید هیچ پیوندی در توئیت درج نشود ؟"
+
+#~ msgid "Tweet url: custom"
+#~ msgstr "آدرس توئیت: سفارشی"
+
+#~ msgid "Enter custom url to be used in the tweet."
+#~ msgstr "آدرس سفارشی برای استفاده در توئیت را وارد کنید."
+
+#~ msgid "Tweet to @"
+#~ msgstr "توئیت به @"
+
+#~ msgid "Enter username where you want to send your tweet."
+#~ msgstr "نام کاربری که می خواهید توئیت ها به آن ارسال شوند را وارد کنید."
+
+#~ msgid "Set no default text of the tweet?"
+#~ msgstr "تنظیم بدون متن به طور پیش فرض از صدای جیر جیر؟"
+
+#~ msgid "Enter custom text for the tweet."
+#~ msgstr "متن دلخواه برای صدای جیر جیر را وارد کنید."
+
+#~ msgid "Enter username to recommend."
+#~ msgstr "وارد کردن نام کاربری برای توصیه کردن."
+
+#~ msgid "Use large button"
+#~ msgstr "استفاده از دکمه بزرگ"
+
+#~ msgid "Do you like to display a larger Tweet button?"
+#~ msgstr "آیا دوست دارید یک دکمه بزرگتر توئیت نمایش داده شود ؟"
+
+#~ msgid "Opt-out of tailoring Twitter"
+#~ msgstr "انتخاب کردن از خیاطی توییتر"
+
+#~ msgid ""
+#~ "Tailored suggestions make building a great timeline. Would you like to "
+#~ "disable this feature?"
+#~ msgstr ""
+#~ "پیشنهادات متناسب ساخت یک جدول زمانی بزرگ است. دوست دارید برای غیر فعال "
+#~ "کردن این ویژگی."
+
+#~ msgid "Language"
+#~ msgstr "زبان"
+
+#~ msgid ""
+#~ "Select button display language or allow it to be automatically defined by "
+#~ "user preferences."
+#~ msgstr ""
+#~ "دکمه زبان نمایش را انتخاب کنید و یا اجازه آن را به صورت خودکار توسط "
+#~ "تنظیمات تعریف شده توسط کاربر."
+
+#~ msgid "Raw HTML"
+#~ msgstr "HTML خام"
+
+#~ msgid "Structure"
+#~ msgstr "ساختار"
+
+#~ msgid "Output raw HTML code on your page"
+#~ msgstr "کد خام HTML خروجی در صفحه شما"
+
+#~ msgid "Enter your HTML content."
+#~ msgstr "محتوای HTML را وارد کنید"
+
+#~ msgid "Raw JS"
+#~ msgstr "JS خام"
+
+#~ msgid "Output raw JavaScript code on your page"
+#~ msgstr "کد خام جاوااسکریپت در خروجی صفحه شما"
+
+#~ msgid "JavaScript Code"
+#~ msgstr "کد جاوااسکریپت"
+
+#~ msgid "Enter your JavaScript code."
+#~ msgstr "کد جاوا اسکریپت خود را وارد کنید."
+
+#~ msgid "Widgetised Sidebar"
+#~ msgstr "سایدبار با ابزارک"
+
+#~ msgid "WordPress widgetised sidebar"
+#~ msgstr "سایدبار با ابزارک"
+
+#~ msgid "Sidebar"
+#~ msgstr "سایدبار"
+
+#~ msgid "Select widget area to display."
+#~ msgstr "انتخاب کنید کدام منطه ویجت خروجی باشد."
+
+#~ msgid "Landing Page"
+#~ msgstr "Landing Page"
+
+#~ msgid "Call to Action Page"
+#~ msgstr "صفحه call to action"
+
+#~ msgid "Feature List"
+#~ msgstr "لیست ویژگی"
+
+#~ msgid "Description Page"
+#~ msgstr "صفحه توضیحات"
+
+#~ msgid "Service List"
+#~ msgstr "لیست خدمات"
+
+#~ msgid "Product Page"
+#~ msgstr "صفحه محصولات"
+
+#~ msgid "FAQ section"
+#~ msgstr "بخش FAQ"
+
+#~ msgid "About section"
+#~ msgstr "بخش درباره"
+
+#~ msgid "About with features"
+#~ msgstr "درباره همره با ویژگی ها"
+
+#~ msgid "Three image description"
+#~ msgstr "توضیحات 3 تصویر"
+
+#~ msgid "News list"
+#~ msgstr "لیست اخبار"
+
+#~ msgid "Product description"
+#~ msgstr "توضیحات محصول"
+
+#~ msgid "Description with accordion"
+#~ msgstr "توضیحات همراه با آکاردئون"
+
+#~ msgid "Two column list"
+#~ msgstr "لیست دو ستونه"
+
+#~ msgid "About with tour section"
+#~ msgstr "درباره همراه با بخش گشت و گذار"
+
+#~ msgid "Rounded image description"
+#~ msgstr "توضیحات تصویر گرد شده"
+
+#~ msgid "Description with success message"
+#~ msgstr "توضیحات همراه با پیام موفقیت"
+
+#~ msgid "Images with tab description"
+#~ msgstr "تصاویر همراه با تب توضیحات"
+
+#~ msgid "Square on background"
+#~ msgstr "چهارگوش روی پس زمینه"
+
+#~ msgid "Product description with tabs"
+#~ msgstr "توضیحات محصول همراه با تب ها"
+
+#~ msgid "Description with headings"
+#~ msgstr "توضیحات همراه با هدینگ ها"
+
+#~ msgid "Video with description"
+#~ msgstr "ویدئو همراه با توضیحات"
+
+#~ msgid "Description with buttons"
+#~ msgstr "توضیحات همراه با دکمه ها"
+
+#~ msgid "Map and Contacts"
+#~ msgstr "نقشه و تماس ها"
+
+#~ msgid "Help section"
+#~ msgstr "بخش راهنما"
+
+#~ msgid "Screen description"
+#~ msgstr "توضیحات صفحه"
+
+#~ msgid "Description with round images"
+#~ msgstr "توضیحات همراه با تصاویر گرد شده"
+
+#~ msgid "FAQ in three columns"
+#~ msgstr "FAQ در سه ستون"
+
+#~ msgid "Centre description"
+#~ msgstr "توضیحات وسط"
+
+#~ msgid "Description with gallery"
+#~ msgstr "توضیحات همراه با گالری"
+
+#~ msgid "Centre description with image"
+#~ msgstr "توضیحات وسط همراه با تصویر"
+
+#~ msgid "Description with thumbnails"
+#~ msgstr "توضیحات همراه با تصاویر کوچک"
+
+#~ msgid "About with left gallery"
+#~ msgstr "درباره همراه با گالری سمت چپ"
+
+#~ msgid "Five image layout"
+#~ msgstr "پنج لایه تصویر"
+
+#~ msgid "Accordion news list"
+#~ msgstr "لیست اخبار آکاردئون"
+
+#~ msgid "Product with social icons"
+#~ msgstr "محصول با آیکون شبکه های اجتماعی"
+
+#~ msgid "Complex news layout"
+#~ msgstr "لایه اخبار پیشرفته"
+
+#~ msgid "Product list with CTA"
+#~ msgstr "لیست محصولات همراه با CTA"
+
+#~ msgid "Intro with features"
+#~ msgstr "آشنایی با ویژگی ها"
+
+#~ msgid "Image gallery with description"
+#~ msgstr "گالری تصاویر همراه با توضیحات"
+
+#~ msgid "Team members"
+#~ msgstr "اعضای تیم"
+
+#~ msgid "Large image with thumbnails"
+#~ msgstr "تصویر بزرگ همراه با تصاویر کوچک"
+
+#~ msgid "Complex news layout II"
+#~ msgstr "لایه اخبار پیشرفته 2"
+
+#~ msgid "Service description layout"
+#~ msgstr "لایه توضیحات سرویس"
+
+#~ msgid "Articles with headings"
+#~ msgstr "موضوعات همراه با هدینگ ها"
+
+#~ msgid "Call to Action section"
+#~ msgstr "بخش اطلاع رسانی"
+
+#~ msgid "Charts section"
+#~ msgstr "بخش نمودارها"
+
+#~ msgid "Chess Grid"
+#~ msgstr "شبکه بندی شطرنجی"
+
+#~ msgid "Features and articles"
+#~ msgstr "ویژگی های و موضوعات"
+
+#~ msgid "Features and charts"
+#~ msgstr "ویژگی ها و نمودارها"
+
+#~ msgid "Features with video parallax"
+#~ msgstr "ویژگی ها همراه با پارالاکس ویدئو"
+
+#~ msgid "Features with full width promo"
+#~ msgstr "ویژگی ها همراه با تبلیغ تمام عرض"
+
+#~ msgid "Full height hero section"
+#~ msgstr "ارتفاع کامل بخش قهرمان"
+
+#~ msgid "Full height with transparent block"
+#~ msgstr "ارتفاع کامل همراه با بلاک شفاف"
+
+#~ msgid "Full height parallax"
+#~ msgstr "ارتفاع کامل پارالاکس"
+
+#~ msgid "Header section with features"
+#~ msgstr "بخش سربرگ همراه با ویژگی ها"
+
+#~ msgid "Helps with icons"
+#~ msgstr "راهنماها همراه با آیکون ها"
+
+#~ msgid "Plain articles"
+#~ msgstr "مقالات آشکار"
+
+#~ msgid "Post portfolio"
+#~ msgstr "ارسال نمونه کار"
+
+#~ msgid "Product introduction"
+#~ msgstr "معرفی محصول"
+
+#~ msgid "Services with block buttons"
+#~ msgstr "سرویس ها همراه با دکمه های بلاک"
+
+#~ msgid "Tabs with features"
+#~ msgstr "تب ها همراه با ویژگی ها"
+
+#~ msgid "Video section"
+#~ msgstr "بخش ویدئو"
+
+#~ msgid "Video promo"
+#~ msgstr "ویدئو تبلیغاتی"
+
+#~ msgid "Equal Feature List"
+#~ msgstr "لیست ویژگی های مساوی"
+
+#~ msgid "Parallax Introduction"
+#~ msgstr "معرفی پارالاکس"
+
+#~ msgid "Three Informative Blocks"
+#~ msgstr "سه بلوک آموزنده"
+
+#~ msgid "Description Articles"
+#~ msgstr "شرح مقالات"
+
+#~ msgid "Full Height Features"
+#~ msgstr "ویژگی های ارتفاع کامل"
+
+#~ msgid "Business Description"
+#~ msgstr "شرح کسب و کار"
+
+#~ msgid "Article Hero Image"
+#~ msgstr "تصویر قهرمان مقاله"
+
+#~ msgid "My Team Members"
+#~ msgstr "اعضای تیم من"
+
+#~ msgid "Hero Image With Description"
+#~ msgstr "تصویر قهرمان با توضیحات"
+
+#~ msgid "Description with Image on Background"
+#~ msgstr "توضیحات همراه با تصویر در پس زمینه"
+
+#~ msgid "Three Image with Article"
+#~ msgstr "سه تصویر با مقاله"
+
+#~ msgid "Accordion"
+#~ msgstr "آکاردیون"
+
+#~ msgid "Select accordion display style."
+#~ msgstr "انتخاب استایل نمایش آکاردئون"
+
+#~ msgid "Select accordion shape."
+#~ msgstr "انتخاب شکل آکاردئون"
+
+#~ msgid "Select accordion color."
+#~ msgstr "انتخاب رنگ آکاردئون"
+
+#~ msgid "Do not fill content area?"
+#~ msgstr "منطقه محتوا را پر نکند ؟"
+
+#~ msgid "Do not fill content area with color."
+#~ msgstr "منطقه محتوا را با رنگ پر نکند"
+
+#~ msgid "Spacing"
+#~ msgstr "فاصله گذاری"
+
+#~ msgid "Select accordion spacing."
+#~ msgstr "انتخاب فاصله گذاری آکاردئون"
+
+#~ msgid "Select accordion gap."
+#~ msgstr "انتخاب فاصله شکاف آکاردئون"
+
+#~ msgid "Select accordion section title alignment."
+#~ msgstr "انتخاب ترازبندی عنوان بخش آکاردئون"
+
+#~ msgid "Autoplay"
+#~ msgstr "پخش خودکار"
+
+#~ msgid ""
+#~ "Select auto rotate for accordion in seconds (Note: disabled by default)."
+#~ msgstr ""
+#~ "انتخاب تعداد چرخش خودکار در ثانیه برای آکاردئون ( به صورت پیش فرض غیر "
+#~ "فعال است)"
+
+#~ msgid "Allow collapse all?"
+#~ msgstr "اجازه بستن همه ؟"
+
+#~ msgid "Allow collapse all accordion sections."
+#~ msgstr "اجازه بستن همه بخش های آکاردئون"
+
+#~ msgid "Chevron"
+#~ msgstr "شورون"
+
+#~ msgid "Plus"
+#~ msgstr "مثبت"
+
+#~ msgid "Triangle"
+#~ msgstr "مثلث"
+
+#~ msgid "Select accordion navigation icon."
+#~ msgstr "آیکون ناوبری اکاردئون را انتخاب کنید"
+
+#~ msgid "Position"
+#~ msgstr "موقعیت"
+
+#~ msgid "Select accordion navigation icon position."
+#~ msgstr "موقعیت آیکون ناوبری اکاردئون را انتخاب کنید"
+
+#~ msgid ""
+#~ "Enter active section number (Note: to have all sections closed on initial "
+#~ "load enter non-existing number)."
+#~ msgstr ""
+#~ "وارد کردن تعداد بخش های فعال ( اگر مقداری وارد نکنید همه ی بخش ها موقع "
+#~ "بارگذاری بسته خواهند بود)"
+
+#~ msgid ""
+#~ "If you wish to style particular content element differently, then use "
+#~ "this field to add a class name and then refer to it in your css file."
+#~ msgstr ""
+#~ "اگر میخواهید به المان خاصی از محتوا استایل متفاوتی دهید، از این فیلد برای "
+#~ "افزودن کلاس استفاده کنید و سپس آنرا به فایل css ارجاع دهید"
+
+#~ msgid "Add Section"
+#~ msgstr "اضافه کردن بخش"
+
+#~ msgid "Pageable Container"
+#~ msgstr "نگهدارنده قابل صفحه بندی"
+
+#~ msgid "Pageable content container"
+#~ msgstr "محتوای نگهدارنده قابل صفحه بندی"
+
+#~ msgid ""
+#~ "Select auto rotate for pageable in seconds (Note: disabled by default)."
+#~ msgstr ""
+#~ "انتخاب چرخش خودکار در ثانیه برای صفحه بندی ( به صورت پیش فرض غیر فعال )"
+
+#~ msgid "Pagination position"
+#~ msgstr "موقعیت صفحه بندی"
+
+#~ msgid "Select pageable navigation position."
+#~ msgstr "انتخاب موقعیت ناوبری صفحه بندی"
+
+#~ msgid "Add icon next to section title."
+#~ msgstr "اضافه کردن آیکون کنار عنوان"
+
+#~ msgid "Before title"
+#~ msgstr "قبل عنوان"
+
+#~ msgid "After title"
+#~ msgstr "بعد عنوان"
+
+#~ msgid "Icon position"
+#~ msgstr "موقعیت آیکون"
+
+#~ msgid "Select icon position."
+#~ msgstr "انتخاب موقعیت آیکون"
+
+#~ msgid "Enter section title (Note: you can leave it empty)."
+#~ msgstr "وارد کردن عنوان بخش ( می تواند خالی باشد )"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Enter section ID (Note: make sure it is unique and valid according to <a "
+#~| "href=\"%s\" target=\"_blank\">w3c specification</a>)."
+#~ msgid ""
+#~ "Enter section ID (Note: make sure it is unique and valid according to "
+#~ "%sw3c specification%s)."
+#~ msgstr ""
+#~ "وارد کردن شناسه بخش بخش (مطمئن شوید که یکتا و معتبر باشد<a href=\"%s\" "
+#~ "target=\"_blank\">w3c specification</a>)."
+
+#~ msgid "Section for Tabs, Tours, Accordions."
+#~ msgstr "بخش زبانه ها، گشت و گذار و آکاردئون ها"
+
+#~ msgid "Tabs"
+#~ msgstr "تب ها"
+
+#~ msgid "Select tabs display style."
+#~ msgstr "انتخاب استایل نمایش زبانه ها"
+
+#~ msgid "Select tabs shape."
+#~ msgstr "انتخاب شکل زبانه ها"
+
+#~ msgid "Select tabs color."
+#~ msgstr "انتخاب رنگ زبانه ها"
+
+#~ msgid "Select tabs spacing."
+#~ msgstr "انتخاب فاصله زبانه ها"
+
+#~ msgid "Select tabs gap."
+#~ msgstr "انتخاب فاصله شکاف زبانه ها"
+
+#~ msgid "Select tabs navigation position."
+#~ msgstr "انتخاب موقعیت ناوبری زبانه ها"
+
+#~ msgid "Select tabs section title alignment."
+#~ msgstr "انتخاب ترازبندی عنوان بخش زبانه ها"
+
+#~ msgid "Select auto rotate for tabs in seconds (Note: disabled by default)."
+#~ msgstr ""
+#~ "انتخاب چرخش خودکار برای زبانه ها در ثانیه ( به صورت پیش فرض غیر فعال )"
+
+#~ msgid "Tour"
+#~ msgstr "تور"
+
+#~ msgid "Select tour display style."
+#~ msgstr "انتخاب استایل نمایش گشت و گذار"
+
+#~ msgid "Select tour shape."
+#~ msgstr "انتخاب شکل گشت و گذار"
+
+#~ msgid "Select tour color."
+#~ msgstr "انتخاب رنگ گشت و گذار"
+
+#~ msgid "Select tour spacing."
+#~ msgstr "انتخاب فاصله گذاری گشت گذار"
+
+#~ msgid "Select tour gap."
+#~ msgstr "انتخاب فاصله شکاف گشت و گذار"
+
+#~ msgid "Select tour navigation position."
+#~ msgstr "انتخاب موقعیت ناوبری گشت و گذار"
+
+#~ msgid "Select tour section title alignment."
+#~ msgstr "انتخاب ترازبندی عنوان بخش گشت و گذار"
+
+#~ msgid "Auto"
+#~ msgstr "خودکار"
+
+#~ msgid "Navigation width"
+#~ msgstr "عرض ناوبری"
+
+#~ msgid "Select tour navigation width."
+#~ msgstr "انتخاب عرض ناوبری گشت و گذار"
+
+#~ msgid "Select auto rotate for tour in seconds (Note: disabled by default)."
+#~ msgstr ""
+#~ "انتخاب گردش خودکار برای گشت و گذار در ثانیه ( به صورت پیش فرض غیر فعال )"
+
+#~ msgid "Archives"
+#~ msgstr "بایگانی ها"
+
+#~ msgid "WordPress Widgets"
+#~ msgstr "ابزارکهای وردپرس"
+
+#~ msgid "A monthly archive of your sites posts"
+#~ msgstr "آرشیو ماهانه از پستهای سایت شما"
+
+#~ msgid ""
+#~ "What text use as a widget title. Leave blank to use default widget title."
+#~ msgstr ""
+#~ "چه متنی برای عنوان ابزارک مورد استفاده قرار گیرد. اگر میخواهید عنوان پیش "
+#~ "فرض قرار گیرد آن را خالی بگذارید."
+
+#~ msgid "Display options"
+#~ msgstr "نمایش تنظیمات"
+
+#~ msgid "Show post counts"
+#~ msgstr "نمایش تعداد پستها"
+
+#~ msgid "Select display options for archives."
+#~ msgstr "انتخاب تنظیمات نمایشی برای بایگانی ها"
+
+#~ msgid "Calendar"
+#~ msgstr "تقویم"
+
+#~ msgid "A calendar of your sites posts"
+#~ msgstr "تقویم پستهای سایت شما"
+
+#~ msgid "A list or dropdown of categories"
+#~ msgstr "یک لیست یا منوی کشویی دسته بندی ها"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "نمایش سلسله مراتبی"
+
+#~ msgid "Select display options for categories."
+#~ msgstr "انتخاب تنظیمات نمایشی برای دسته بندی ها"
+
+#~ msgid "Custom Menu"
+#~ msgstr "منوی سفارشی"
+
+#~ msgid "Use this widget to add one of your custom menus as a widget"
+#~ msgstr ""
+#~ "از این ابزارک برای افزودن یکی از منوهای سفارشیتان به عنوان ابزارک استفاده "
+#~ "کنید."
+
+#~ msgid "Menu"
+#~ msgstr "منو"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+#~| "create new menu."
+#~ msgid ""
+#~ "Custom menus not found. Please visit %sAppearance > Menus%s page to "
+#~ "create new menu."
+#~ msgstr ""
+#~ "منوهای سفارشی پیدا نشدند. لطفا به نمایش>> فهرست بروید تا بتوانید منوی "
+#~ "جدید بسازید."
+
+#~ msgid "Select menu to display."
+#~ msgstr "انتخاب منو برای نمایش"
+
+#~ msgid "All Links"
+#~ msgstr "همه لینک ها"
+
+#~ msgid "Links"
+#~ msgstr "لینکها"
+
+#~ msgid "Your blogroll"
+#~ msgstr "بلاگ رول"
+
+#~ msgid "Link Category"
+#~ msgstr "دسته بندی لینک"
+
+#~ msgid "Link title"
+#~ msgstr "عنوان لینک"
+
+#~ msgid "Link rating"
+#~ msgstr "امتیاز لینک"
+
+#~ msgid "Link ID"
+#~ msgstr "ID لینک"
+
+#~ msgid "Show Link Image"
+#~ msgstr "نمایش تصویر لینک"
+
+#~ msgid "Show Link Name"
+#~ msgstr "نمایش نام لینک"
+
+#~ msgid "Show Link Description"
+#~ msgstr "نمایش توضیحات لینک"
+
+#~ msgid "Show Link Rating"
+#~ msgstr "نمایش امتباز لینک"
+
+#~ msgid "Number of links to show"
+#~ msgstr "تعداد لینکهای مشاهده شده"
+
+#~ msgid "Meta"
+#~ msgstr "متا"
+
+#~ msgid "Log in/out, admin, feed and WordPress links"
+#~ msgstr "ورود / خروج , ادمین, فید و لینکهای وردپرس"
+
+#~ msgid "Pages"
+#~ msgstr "صفحات"
+
+#~ msgid "Your sites WordPress Pages"
+#~ msgstr "صفحات سایت وردپرسی شما"
+
+#~ msgid "Page title"
+#~ msgstr "عنوان صفحه"
+
+#~ msgid "Page order"
+#~ msgstr "ترتیب صفحات"
+
+#~ msgid "Page ID"
+#~ msgstr "ID صفحه"
+
+#~ msgid "Select how to sort pages."
+#~ msgstr "انتخاب نوع مرتب سازی برگه ها"
+
+#~ msgid "Enter page IDs to be excluded (Note: separate values by commas (,))."
+#~ msgstr ""
+#~ "وارد کردن آی دی برگه برای استثنا قرار دادن (توجه: جداکردن مقادیر توسط "
+#~ "کاما ( ، ) )."
+
+#~ msgid "Recent Posts"
+#~ msgstr "پستهای اخیر"
+
+#~ msgid "The most recent posts on your site"
+#~ msgstr "آخرین پستهای سایت شما"
+
+#~ msgid "Number of posts"
+#~ msgstr "تعداد مطالب"
+
+#~ msgid "Enter number of posts to display."
+#~ msgstr "وارد کردن تعداد مطالب برای نمایش"
+
+#~ msgid "Display post date?"
+#~ msgstr "نمایش تاریخ پست؟"
+
+#~ msgid "If checked, date will be displayed."
+#~ msgstr "اگر انتخاب شود، تاریخ نشان داده می شود."
+
+#~ msgid "Recent Comments"
+#~ msgstr "دیدگاههای اخیر"
+
+#~ msgid "The most recent comments"
+#~ msgstr "جدیدترین دیدگاهها"
+
+#~ msgid "Enter number of comments to display."
+#~ msgstr "تعداد اسلاید را وارد کنید برای نمایش در همان زمان."
+
+#~ msgid "RSS"
+#~ msgstr "RSS(ارسس)"
+
+#~ msgid "Entries from any RSS or Atom feed"
+#~ msgstr "مطالب از هر RSS یا Atom خوراک"
+
+#~ msgid "RSS feed URL"
+#~ msgstr "RSS feed URL(خوراک)"
+
+#~ msgid "Enter the RSS feed URL."
+#~ msgstr "URL خوراک RSS را وارد کنید."
+
+#~ msgid "Items"
+#~ msgstr "آیتمها"
+
+#~ msgid "10 - Default"
+#~ msgstr "10- پیش فرض"
+
+#~ msgid "Select how many items to display."
+#~ msgstr "نمایش چند ستون را انتخاب کنید"
+
+#~ msgid "Item content"
+#~ msgstr "آیتم"
+
+#~ msgid "Display item author if available?"
+#~ msgstr "نمایش نویسنده آیتم در صورت موجود بودن؟"
+
+#~ msgid "Display item date?"
+#~ msgstr "نمایش تاریخ آیتم؟"
+
+#~ msgid "Select display options for RSS feeds."
+#~ msgstr "انتخاب تنظیمات نمایشی برای خوراک RSS"
+
+#~ msgid "Search"
+#~ msgstr "جستجو"
+
+#~ msgid "A search form for your site"
+#~ msgstr "یک فرم جستجو برای سایت شما"
+
+#~ msgid "Tag Cloud"
+#~ msgstr "ابر برچسب"
+
+#~ msgid "Your most used tags in cloud format"
+#~ msgstr "بیشترین تگهای استفاده شده توسط شما در قالب ابری"
+
+#~ msgid "Tags"
+#~ msgstr "برچسبها"
+
+#~ msgid "Taxonomy"
+#~ msgstr "طبقه بندی"
+
+#~ msgid "Select source for tag cloud."
+#~ msgstr "ابر برچسب"
+
+#~ msgid "Arbitrary text or HTML"
+#~ msgstr "متن اختیاری یا HTML"
+
+#~ msgid "Default template for post types"
+#~ msgstr "الگو پیش فرض برای انواع نوشته"
+
+#~ msgid "Invalid template or post type."
+#~ msgstr "الگو نامعتبر است و یا نوع پست."
+
+#~ msgid "Finish"
+#~ msgstr "بستن"
+
+#~ msgid "Next"
+#~ msgstr "بعدی"
+
+#~ msgid "Prev"
+#~ msgstr "قبلی"
+
+#~ msgid "Start Here!"
+#~ msgstr "از اینجا شروع کنید!"
+
+#~ msgid ""
+#~ "Start easy - use predefined template as a starting point and modify it."
+#~ msgstr ""
+#~ "شروع آسان -  استفاده از الگو های از پیش تعریف شده به عنوان نقطه شروع و "
+#~ "تغییر آن ."
+
+#~ msgid "Use Animations"
+#~ msgstr "استفاده از انیمیشن ها"
+
+#~ msgid ""
+#~ "Select animation preset for grid element. \"Hover\" state will be added "
+#~ "next to the \"Normal\" state tab."
+#~ msgstr ""
+#~ "استفاده از انیمیشن های از پیش تنظیم شده برای المان های شبکه بندی.  زبانه "
+#~ "شناور به زبانه نرمال اضافه خواهد شد\"Hover\"\"Normal\""
+
+#~ msgid "Style Design Options"
+#~ msgstr "تنظیمات استایل طراحی"
+
+#~ msgid ""
+#~ "Edit \"Normal\" state to set \"Featured image\" as a background, control "
+#~ "zone sizing proportions and other design options (Height mode: Select "
+#~ "\"Original\" to scale image without cropping)."
+#~ msgstr ""
+#~ "ویرایش حالت \"Normal\" برای تنظیم ویژگی های تصویر به عنوان پس زمینه"
+#~ "\"Featured image\"، کنترل نسبت اندازه ها و دیگر تنظیمات طراحی ( در حالت "
+#~ "ارتفاع : انتخاب ( اصلی ) برای مقیاس بندی بدون طراحی )\"Original\""
+
+#~ msgid "Extend Element"
+#~ msgstr "گسترش المان"
+
+#~ msgid ""
+#~ "Additional content zone can be added to grid element edges (Note: This "
+#~ "zone can not be animated)."
+#~ msgstr ""
+#~ "منطقه محتوای اضافی را می توان به لبه عنصر شبکه اضافه شده ( توجه: این "
+#~ "منطقه نباید متحرک باشد )."
+
+#~ msgid "Watch Video Tutorial"
+#~ msgstr "نمایش ویدئو آموزشی"
+
+#~ msgid "Have a look how easy it is to work with grid element builder."
+#~ msgstr "چطور به نظر میاد کار کردن با سازنده المان های شبکه بندی"
+
+#~ msgid "Antique"
+#~ msgstr "قدیمی"
+
+#~ msgid "Black & White"
+#~ msgstr "سیاه و سفید"
+
+#~ msgid "Boost"
+#~ msgstr "بالا بردن"
+
+#~ msgid "Concentrate"
+#~ msgstr "تمرکز"
+
+#~ msgid "Country"
+#~ msgstr "کشور"
+
+#~ msgid "Darken"
+#~ msgstr "تیره کردن"
+
+#~ msgid "Dream"
+#~ msgstr "رویا"
+
+#~ msgid "Everglow"
+#~ msgstr "همیشه در حال تابش"
+
+#~ msgid "Forest"
+#~ msgstr "جنگل"
+
+#~ msgid "Fresh Blue"
+#~ msgstr "نعناع تازه"
+
+#~ msgid "Frozen"
+#~ msgstr "منجمد"
+
+#~ msgid "Her Majesty"
+#~ msgstr "علیاحضرت"
+
+#~ msgid "Light"
+#~ msgstr "روشن"
+
+#~ msgid "Orange Peel"
+#~ msgstr "پوست پرتقال"
+
+#~ msgid "Rain"
+#~ msgstr "باران"
+
+#~ msgid "Retro"
+#~ msgstr "یکپارچه سازی"
+
+#~ msgid "Sepia"
+#~ msgstr "رنگ سوبیایی"
+
+#~ msgid "Summer"
+#~ msgstr "تابستان"
+
+#~ msgid "Tender"
+#~ msgstr "مناقصه"
+
+#~ msgid "Vintage"
+#~ msgstr "محصول"
+
+#~ msgid "Washed"
+#~ msgstr "شسته"
+
+#~ msgid "Image filter"
+#~ msgstr "فیلتر تصویر"
+
+#~ msgid "Filter:"
+#~ msgstr "فیلتر"
+
+#~ msgid "Important notice"
+#~ msgstr "اطلاعیه مهم"
+
+#~ msgid ""
+#~ "You have an outdated version of WPBakery Page Builder Design Options. It "
+#~ "is required to review and save it."
+#~ msgstr ""
+#~ "شما احتمالا از ویژول کامپوسر بروزنشده استفاده می کنید. اون باید بررسی و "
+#~ "ذخیره شود."
+
+#~ msgid "Open Design Options"
+#~ msgstr "بازکردن تنظیمات طراحی"
+
+#~ msgid "Role Manager"
+#~ msgstr "نقش مدیر"
+
+#~ msgid "Roles Manager"
+#~ msgstr "نقش مدیر"
+
+#~ msgid "About"
+#~ msgstr "درباره"
+
+#~ msgid "What's New"
+#~ msgstr "چه خبر؟"
+
+#~ msgid "Resources"
+#~ msgstr "منابع"
+
+#~ msgid "Welcome to WPBakery Page Builder"
+#~ msgstr "به ویژول کامپوسر خوش آمدید"
+
+#~ msgid "Choose Backend or Frontend editor."
+#~ msgstr "نوع ویرایشگر زنده یا پشرفته  خود را انتخاب کنید"
+
+#~ msgid "Add Elements"
+#~ msgstr "اضافه کردن المان"
+
+#~ msgid "Add new element or start with a template."
+#~ msgstr "المان جدید اضافه کنید یا با یک الگو شروع کنید."
+
+#~ msgid "Rows and Columns"
+#~ msgstr "ردیف ها و ستون ها"
+
+#~ msgid ""
+#~ "This is a row container. Divide it into columns and style it. You can add "
+#~ "elements into columns."
+#~ msgstr ""
+#~ "این یک نگهدارنده ردیف است، اون رو به ستون های مختلف تقسیم و استایل دهی "
+#~ "کنید. شما می تونید المان ها رو به ستون ها اضافه کنید."
+
+#~ msgid "Control Elements"
+#~ msgstr "کنترل المان ها"
+
+#~ msgid ""
+#~ "You can edit your element at any time and drag it around your layout."
+#~ msgstr ""
+#~ "شما می توانید المان خود را در هر زمان ویرایش کنید و اون رو داخل لایه حرکت "
+#~ "بدید."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "P.S. Learn more at our <a href=\"%s\" target=\"_blank\">Knowledge Base</"
+#~| "a>."
+#~ msgid "P.S. Learn more at our %sKnowledge Base%s."
+#~ msgstr ""
+#~ "یادگیری بیشتر در <a href=\"%s\" target=\"_blank\">Knowledge Base</a>"
+
+#~ msgid "No Gravity forms found."
+#~ msgstr "فرم gravity پیدا نشد."
+
+#~ msgid "Select a form to display."
+#~ msgstr "فرمی را برای نمایش انتخاب کنید."
+
+#~ msgid "Gravity Form"
+#~ msgstr "فرم Gravity"
+
+#~ msgid "Place Gravity form"
+#~ msgstr "قرار دادن فرم Gravity"
+
+#~ msgid "Form"
+#~ msgstr "فرم"
+
+#~ msgid "Select a form to add it to your post or page."
+#~ msgstr "فرمی را انتخاب کنید تا آن را به پست یا صفحه اضافه کنید."
+
+#~ msgid "Display Form Title"
+#~ msgstr "نمایش عنوان فرم"
+
+#~ msgid "Would you like to display the forms title?"
+#~ msgstr "آیا میخواهید عنوان فرم ها نمایش داده شود؟"
+
+#~ msgid "Display Form Description"
+#~ msgstr "نمایش توضیحات فرم"
+
+#~ msgid "Would you like to display the forms description?"
+#~ msgstr "آیا میخواهید توضیحات فرم نمایش داده شود؟"
+
+#~ msgid "Enable AJAX?"
+#~ msgstr "فعالسازی ajax?"
+
+#~ msgid "Enable AJAX submission?"
+#~ msgstr "فعالسازی ajax برای ارسال؟"
+
+#~ msgid "Tab Index"
+#~ msgstr "ایندکس تب"
+
+#~ msgid ""
+#~ "(Optional) Specify the starting tab index for the fields of this form. "
+#~ "Leave blank if you're not sure what this is."
+#~ msgstr ""
+#~ "(اختیاری) تب ایندکس شروع را برای فیلدهای این فرم مشخص کنید. اگر در مورد "
+#~ "این مورد اطلاعی ندارید آن را خالی بگذارید."
+
+#, fuzzy
+#~| msgid "Disable Classic editor"
+#~ msgid "Disable Gutenberg Editor"
+#~ msgstr "غیر فعال کردن ویرایشگر کلاسیک"
+
+#, fuzzy
+#~| msgid "Backend Editor"
+#~ msgid "Gutenberg Editor"
+#~ msgstr "ویرایش گر پیشرفته"
+
+#~ msgid "WPBakery Page Builder Settings"
+#~ msgstr "تنظیمات ویژوال کامپوزر-WPBakery Page Builder"
+
+#~ msgid "Settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "About WPBakery Page Builder"
+#~ msgstr "درباره ویژوال کامپوزر"
+
+#~ msgid "Add/remove picture"
+#~ msgstr "افزودن/حذف تصویر"
+
+#~ msgid "Finish Adding Images"
+#~ msgstr "اتمام افزودن تصویر"
+
+#~ msgid "Add Image"
+#~ msgstr "افزودن تصویر"
+
+#~ msgid "Add Images"
+#~ msgstr "افزودن تصاویر"
+
+#~ msgid "Backend Editor"
+#~ msgstr "ویرایش گر پیشرفته"
+
+#~ msgid "Enter template name you want to save."
+#~ msgstr "نام الگو خود را برای ذخیره کردن وارد کنید"
+
+#~ msgid ""
+#~ "Confirm deleting \"{template_name}\" template, press Cancel to leave. "
+#~ "This action cannot be undone."
+#~ msgstr ""
+#~ "پاک کردن قالب \"{template_name}\" را تایید کنید یا برای ترک این گزینه "
+#~ "Cancel را بفشارید. این کار قابل بازگشت نیست."
+
+#~ msgid "Press OK to delete section, Cancel to leave"
+#~ msgstr "برای حذف بخش ok را بفشارید و برای ترک Cancel  کنید."
+
+#~ msgid "Drag and drop me in the column"
+#~ msgstr "من را بگیرید و به سمت ستون بکشید."
+
+#~ msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+#~ msgstr "ok را بزنید تا تب  \"{tab_name}\" پاک شود و Cancel  برای لغو."
+
+#~ msgid "Please enter new tab title"
+#~ msgstr "لطفا عنوان تب جدید را وارد کنید."
+
+#~ msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+#~ msgstr ""
+#~ "برای پاک کردن بخش \"{tab_name}\" ok را بفشارید و یا برای ترک Cancel  را "
+#~ "بفشارید."
+
+#~ msgid "Please enter new section title"
+#~ msgstr "لطفا عنوان بخش جدید را وارد کنید."
+
+#~ msgid "Error. Please try again."
+#~ msgstr "خطا، دوباره تلاش کنید."
+
+#~ msgid ""
+#~ "If you close this window all shortcode settings will be lost. Close this "
+#~ "window?"
+#~ msgstr ""
+#~ "اگر این پنجره را ببندید تمام تنظیمات کدهای کوتاه از دست میروند. بسته شود؟"
+
+#~ msgid "Select element type"
+#~ msgstr "انتخاب نوع المان"
+
+#~ msgid "Media gallery"
+#~ msgstr "گالری رسانه"
+
+#~ msgid "Element settings"
+#~ msgstr "تنظیمات المان"
+
+#~ msgid "Add tab"
+#~ msgstr "افزودن تب"
+
+#~ msgid "Are you sure you want to convert to new version?"
+#~ msgstr "آیا مطمئنید که میخواهید به نسخه جدید تبدیل کنید؟"
+
+#~ msgid "Loading..."
+#~ msgstr "در حال بارگذاری..."
+
+#~ msgid "Set Image"
+#~ msgstr "تنظیم تصویر"
+
+#~ msgid "Are you sure that you want to remove all your data?"
+#~ msgstr "آیا مطمئنید که میخواهید تمامی داده ها را حذف کنید؟"
+
+#~ msgid "Loop settings"
+#~ msgstr "تنظیمات loop"
+
+#~ msgid "Custom row layout"
+#~ msgstr "لایه ردیف سفارشی"
+
+#~ msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+#~ msgstr "طرح ردیف نادرست است! مثال:1/2 + 1/2 یا span6 + span6."
+
+#~ msgid "Row background color"
+#~ msgstr "رنگ پس زمینه ردیف"
+
+#~ msgid "Row background image"
+#~ msgstr "تصویر پس زمینه ردیف"
+
+#~ msgid "Column background color"
+#~ msgstr "رنگ پس زمینه ستون"
+
+#~ msgid "Column background image"
+#~ msgstr "تصویر پس زمینه ستون"
+
+#~ msgid "Guides ON"
+#~ msgstr "راهنما روشن"
+
+#~ msgid "Guides OFF"
+#~ msgstr "راهنما خاموش"
+
+#~ msgid "New template successfully saved."
+#~ msgstr "الگو جدید با موفقیت ذخیره شد."
+
+#~ msgid "Template added to the page."
+#~ msgstr "قالب به صفحه افزوده شد."
+
+#~ msgid ""
+#~ "Template added to the page. Template has ID attributes, make sure that "
+#~ "they are not used more than once on the same page."
+#~ msgstr ""
+#~ "الگو به صفحه افزوده شد. الگو دارای آی دی ویژگی ها می باشد. مطمئن شوید از "
+#~ "اون بیشتر از یک بار در صفحه استفاده نشده است."
+
+#~ msgid "Template successfully removed."
+#~ msgstr "الگو با موفقیت حذف شد."
+
+#~ msgid "Template is empty: There is no content to be saved as a template."
+#~ msgstr "الگو خالی است، هیچ محتوایی داخل الگو ذخیره نشده است"
+
+#~ msgid "Error while saving template."
+#~ msgstr "موقع ذخیره الگو خطایی رخ داده است."
+
+#~ msgid "Page settings updated!"
+#~ msgstr "تنظیمات صفحه به روز شد!"
+
+#~ msgid "Update all"
+#~ msgstr "به روز رسانی همه"
+
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "اگر از این صفحه خارج شوید تغییرات اعمال شده، از دست خواهند رفت."
+
+#, php-format
+#~ msgid "%s saved!"
+#~ msgstr "%s ذخیره شد!"
+
+#, php-format
+#~ msgid "%s deleted!"
+#~ msgstr "%s پاک شد!"
+
+#~ msgid "Loading Google Font failed"
+#~ msgstr "بارگذاری فونت گوگل با شکست مواجه شد"
+
+#~ msgid "Loading Font..."
+#~ msgstr "بارگذاری فونت..."
+
+#~ msgid "Unable to load Google Fonts"
+#~ msgstr "قادر به بارگذاری فونت گوگل نبود"
+
+#~ msgid "no title"
+#~ msgstr "بدون عنوان"
+
+#~ msgid ""
+#~ "Error while applying filter to the image. Check your server and memory "
+#~ "settings."
+#~ msgstr ""
+#~ "موقع تایید فیلتر برای عکس خطایی رخ داده است ، سرور و تنظیمات حافظه خود را "
+#~ "چک کنید."
+
+#~ msgid "Saved!"
+#~ msgstr "ذخیره شد!"
+
+#~ msgid "Failed to Save!"
+#~ msgstr "ذخیره نشد!"
+
+#~ msgid "You are about to delete this preset. This action can not be undone."
+#~ msgstr ""
+#~ "شما درباره حذف این پیش تنظیم مطمئن هستید. این عملیات نمی تواند قابل "
+#~ "بازگشت باشد."
+
+#~ msgid "Downloaded"
+#~ msgstr "دانلود شده"
+
+#~ msgid "Failed to download template"
+#~ msgstr "قالب دانلود نشد"
+
+#, fuzzy
+#~| msgid "Shortcode updated!"
+#~ msgid "Successfully updated!"
+#~ msgstr "کدکوتاه به روز شد!"
+
+#~ msgid "Pink"
+#~ msgstr "صورتی"
+
+#~ msgid "Violet"
+#~ msgstr "بنفش"
+
+#~ msgid "Peacoc"
+#~ msgstr "طاووسی"
+
+#~ msgid "Chino"
+#~ msgstr "لیمویی"
+
+#~ msgid "Mulled Wine"
+#~ msgstr "شرابی"
+
+#~ msgid "Vista Blue"
+#~ msgstr "آبی ویستا"
+
+#~ msgid "Sky"
+#~ msgstr "آسمانی"
+
+#~ msgid "Juicy pink"
+#~ msgstr "صورتی شفاف"
+
+#~ msgid "Sandy brown"
+#~ msgstr "قهوه ای ماسه ای"
+
+#~ msgid "Purple"
+#~ msgstr "بنفش"
+
+#~ msgid "White"
+#~ msgstr "سفید"
+
+#, php-format
+#~ msgid "Wrong name for shortcode:%s. Name required"
+#~ msgstr "نام اشتباه برای کد کوتاه. %s. نام الزامی است"
+
+#, php-format
+#~ msgid "Wrong base for shortcode:%s. Base required"
+#~ msgstr "base اشتباه برای کدکوتاه. %s. base الزامی ست."
+
+#, php-format
+#~ msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+#~ msgstr "صفت نادرست برای کد کوتاه  '%s' . صفت  'param_name' الزامی ست."
+
+#, php-format
+#~ msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+#~ msgstr "setting_name نادرست برای کدکوتاه. %s. base قابل تنظیم نیست."
+
+#~ msgid "Template library"
+#~ msgstr "کتابخانه الگو"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "با عرض پوزش، خطایی بوجود آمده است"
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "فایل وجود ندارد، لطفا دوباره امتحان کنید."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "The export file could not be found at <code>%s</code>. It is likely that "
+#~| "this was caused by a permissions problem."
+#~ msgid ""
+#~ "The export file could not be found at %s. It is likely that this was "
+#~ "caused by a permissions problem."
+#~ msgstr ""
+#~ "فایل برون ریزی یافت نمیشود در<code>%s</code> . این احتمال وجود دارد که "
+#~ "مشکل مجوز باعث آن است ."
+
+#, php-format
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "این فایل WXR (version %s)ممکن است با این نسخه از وارد کننده پشتیبانی "
+#~ "نشود. لطفا به روز رسانی کنید."
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "واکشی فایل پیوست فعال نیست"
+
+#~ msgid "Invalid file type"
+#~ msgstr "نوع فایل نامعتبر"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "سرور راه دور پاسخ نمی دهد"
+
+#, php-format
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "بازگشت پاسخ خطا از %1$d %2$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "اندازه فایل ریموت نادرست است"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "سایز فایل بارگیری شده صفر است."
+
+#, php-format
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "فایل ریموت بیش از حد بزرگ است، حداکثر%s"
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "این فایل به نظر WXR نمیرسد، شماره ورژن WXR از دست رفته / نامعتبر است"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "خطایی در هنگام خواندن این فایل WXR"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "جزئیات در بالا نشان داده شده. درون ریز دوباره با یک تجزیه کننده دیگر "
+#~ "امتحان می کند ..."
+
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#, php-format
+#~ msgid "You are using outdated element, it is deprecated since version %s."
+#~ msgstr ""
+#~ "شما از المان قدیمی استفاده می کنید، اون از ورژن %s به بعد توصیه نمی شود."
+
+#, php-format
+#~ msgid "Edit %s with WPBakery Page Builder"
+#~ msgstr "ویرایش  %s با WPBakery Page Builder"
+
+#~ msgid "Edit with WPBakery Page Builder"
+#~ msgstr "ویرایش با WPBakery Page Builder"
+
+#~ msgid "Desktop"
+#~ msgstr "دسکتاپ"
+
+#~ msgid "Tablet landscape mode"
+#~ msgstr "مد landscpae تبلت"
+
+#~ msgid "Tablet portrait mode"
+#~ msgstr "مد portrait تبلت"
+
+#~ msgid "Smartphone landscape mode"
+#~ msgstr "مد landscape تلفن هوشمند"
+
+#~ msgid "Smartphone portrait mode"
+#~ msgstr "مد portrait تلفن هوشمند"
+
+#~ msgid "Cancel all changes and return to WP dashboard"
+#~ msgstr "لغو همه ی تغییرات و بازگشت به داشبورد وردپرس"
+
+#~ msgid "Save Draft"
+#~ msgstr "ذخیره پیشنویس"
+
+#~ msgid "Save as Pending"
+#~ msgstr "ذخیره به عنوان pending"
+
+#~ msgid "Publish"
+#~ msgstr "انتشار"
+
+#~ msgid "Submit for Review"
+#~ msgstr "ارسال برای بازبینی"
+
+#~ msgid "Frontend"
+#~ msgstr "ویرایش زنده"
+
+#~ msgid "Access denied"
+#~ msgstr "کد دسترسی تویتر"
+
+#~ msgid "Save current layout as a template"
+#~ msgstr "ذخیره طرح فعلی به عنوان یک قالب"
+
+#~ msgid "Save Template"
+#~ msgstr "ذخیره الگو"
+
+#~ msgid "Save layout and reuse it on different sections of this site."
+#~ msgstr "ذخیره لایه و استفاده مجدد در بخش های مختلف این سایت"
+
+#~ msgid "Error: wrong template id."
+#~ msgstr "خطا: مشکل آی دی الگو"
+
+#~ msgid "My Templates"
+#~ msgstr "الگوهای من"
+
+#~ msgid "Append previously saved template to the current layout."
+#~ msgstr "اضافه کردن الگو از پیش ذخیره شده برای این لایه"
+
+#~ msgid "Default Templates"
+#~ msgstr "الگوهای پیش فرض"
+
+#~ msgid "Append default template to the current layout."
+#~ msgstr "اضافه کردن الگو پیش فرض برای این لایه"
+
+#~ msgid "No title"
+#~ msgstr "بدون عنوان"
+
+#~ msgid ""
+#~ "WPBakery Page Builder Shortcode Mapper adds custom 3rd party vendors "
+#~ "shortcodes to the list of WPBakery Page Builder content elements menu "
+#~ "(Note: to map shortcode it needs to be installed on site)."
+#~ msgstr ""
+#~ "با استفاده از این گزینه میتوانید کد های کوتاه افزونه های دیگر را در "
+#~ "ویرایشگر ویژوال کامپوزر در دسترس داشته باشید ؛ ابتدا شما باید افزونه را "
+#~ "فعال کنید سپس کد کوتاه را در این قسمت اضافه کنید."
+
+#~ msgid "Map Shortcode"
+#~ msgstr "نقشه کد کوتاه"
+
+#~ msgid "Shortcode string"
+#~ msgstr "رشته کد کوتاه"
+
+#~ msgid "Please enter valid shortcode"
+#~ msgstr "کدکوتاه معتبری وارد کنید"
+
+#~ msgid "Parse Shortcode"
+#~ msgstr "تجزیه کد کوتاه"
+
+#~ msgid "Cancel"
+#~ msgstr "لغو"
+
+#~ msgid ""
+#~ "Enter valid shortcode (Example: [my_shortcode first_param="
+#~ "\"first_param_value\"]My shortcode content[/my_shortcode])."
+#~ msgstr ""
+#~ "وارد کردن کد کوتاه معتبر (Example: [my_shortcode first_param="
+#~ "\"first_param_value\"]My shortcode content[/my_shortcode])."
+
+#~ msgid "General Information"
+#~ msgstr "اطلاعات کلی"
+
+#~ msgid "Tag:"
+#~ msgstr "برچسب:"
+
+#~ msgid "Description:"
+#~ msgstr "توضیحات:"
+
+#~ msgid "Category:"
+#~ msgstr "دسته بندی:"
+
+#~ msgid "Comma separated categories names"
+#~ msgstr "نام دسته بندی های جدا شده با کاما"
+
+#~ msgid "Include content param into shortcode"
+#~ msgstr "شامل شدن پارام محتوا در کدکوتاه"
+
+#~ msgid "Shortcode Parameters"
+#~ msgstr "پارامترهای کد کوتاه"
+
+#~ msgid "Add Param"
+#~ msgstr "اضافه کردن پارامتر"
+
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgid "Param name"
+#~ msgstr "نام پارام"
+
+#~ msgid "Required value"
+#~ msgstr "مقدار الزامی"
+
+#~ msgid "Use only letters, numbers and underscore."
+#~ msgstr "استفاده تنها از حروف ، اعداد و آندرلاین"
+
+#~ msgid "Please use only letters, numbers and underscore."
+#~ msgstr "لطفا فقط از حروف، اعداد و آندرلاین استفاده کنید."
+
+#~ msgid "Input heading"
+#~ msgstr "عنوان ورودی"
+
+#~ msgid "Heading for field in shortcode edit form."
+#~ msgstr "عنوان فیلمی برای ویرایش فرم کوتاه"
+
+#~ msgid "Field type"
+#~ msgstr "نوع فیلد"
+
+#~ msgid "Select field type"
+#~ msgstr "انتخاب نوع فیلد"
+
+#~ msgid "Textfield"
+#~ msgstr "فیلد متنی"
+
+#~ msgid "Textarea"
+#~ msgstr "فضای متنی"
+
+#~ msgid "Textarea HTML"
+#~ msgstr "فضای متنی HTML"
+
+#~ msgid "Hidden"
+#~ msgstr "مخفی"
+
+#~ msgid "Field type for shortcode edit form."
+#~ msgstr "نوع فیلد برای فرم ویرایش کد کوتاه"
+
+#~ msgid "Default value"
+#~ msgstr "مقدار پیش فرض"
+
+#~ msgid ""
+#~ "Default value or list of values for dropdown type (Note: separate by "
+#~ "comma)."
+#~ msgstr ""
+#~ "مقدارپیش فرض  یا فهرست مقادیر برای نوع کشویی (توجه داشته باشید: جداگانه "
+#~ "با کاما)."
+
+#~ msgid "Enter description for parameter."
+#~ msgstr "شرح پارامتر را وارد کنید."
+
+#~ msgid "WPBakery Page Builder successfully activated."
+#~ msgstr "ویژوال کامپوزر با موفقیت فعال شد."
+
+#~ msgid "WPBakery Page Builder successfully deactivated."
+#~ msgstr "ویژوال کامپوزر با موفقیت غیرفعال شد."
+
+#~ msgid "Token is not valid or has expired"
+#~ msgstr "رمز معتبر نیست و یا غیرفعال شده است"
+
+#, fuzzy, php-format
+#~| msgid "Error. Please try again."
+#~ msgid "%s. Please try again."
+#~ msgstr "خطا، دوباره تلاش کنید."
+
+#, fuzzy, php-format
+#~| msgid "Remote server did not respond"
+#~ msgid "Server did not respond with OK: %s"
+#~ msgstr "سرور راه دور پاسخ نمی دهد"
+
+#~ msgid "Invalid response structure. Please contact us for support."
+#~ msgstr "ساختار پاسخ نامعتبر است. لطفا برای پشتیبانی تماس بگیرید."
+
+#~ msgid "Something went wrong. Please contact us for support."
+#~ msgstr "چیزی اشتباه است. لطفا برای پشتیبانی تماس بگیرید."
+
+#~ msgid "Invalid license key"
+#~ msgstr "کلید مجوز نامعتبر"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Hola! Would you like to receive automatic updates and unlock premium "
+#~| "support? Please <a href=\"%s\">activate your copy</a> of WPBakery Page "
+#~| "Builder."
+#~ msgid ""
+#~ "Hola! Would you like to receive automatic updates and unlock premium "
+#~ "support? Please %sactivate your copy%s of WPBakery Page Builder."
+#~ msgstr ""
+#~ "سلام! اگر نیاز به پشتیبانی دارد به ویژوال پرس مراجعه کنید.<a href=\"%s"
+#~ "\"><a>"
+
+#~ msgid "Dismiss this notice."
+#~ msgstr "نادیده گرفتن اخطار"
+
+#~ msgid "Roles settings successfully saved."
+#~ msgstr "تنظیمات نقشها با موفقیت ذخیره شده"
+
+#~ msgid "General Settings"
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "Custom CSS"
+#~ msgstr "css سفارشی"
+
+#~ msgid "Product License"
+#~ msgstr "لایسنس محصول"
+
+#~ msgid "Main accent color"
+#~ msgstr "رنگ Main accent"
+
+#~ msgid "Hover color"
+#~ msgstr "رنگ Hover"
+
+#~ msgid "Call to action background color"
+#~ msgstr "رنگ پس زمینه ی call to action"
+
+#~ msgid "Google maps background color"
+#~ msgstr "رنگ پس زمینه گوگل مپ"
+
+#~ msgid "Post slider caption background color"
+#~ msgstr "رنگ پس زمینه عبارت پست درون اسلایدرها"
+
+#~ msgid "Progress bar background color"
+#~ msgstr "رنگ پس زمینه نوار پیشرفت"
+
+#~ msgid "Separator border color"
+#~ msgstr "رنگ مرز جداکننده"
+
+#~ msgid "Tabs navigation background color"
+#~ msgstr "رنگ پس زمینه تب منو"
+
+#~ msgid "Active tab background color"
+#~ msgstr "فعال کردن رنگ پس زمینه تب"
+
+#~ msgid "Disable responsive content elements"
+#~ msgstr "غیرفعالسازی المان های محتوای ریسپانسیو"
+
+#~ msgid "Google fonts subsets"
+#~ msgstr "زیرمجموعه های فونت های گوگل"
+
+#~ msgid "Use custom design options"
+#~ msgstr "استفاده از تنظیمات سفارشی طراحی"
+
+#~ msgid "Elements bottom margin"
+#~ msgstr "حاشیه پایین المانها"
+
+#~ msgid "Grid gutter width"
+#~ msgstr "عرض جدول gutter"
+
+#~ msgid "Mobile screen width"
+#~ msgstr "عرض صفحه موبایل"
+
+#~ msgid "Paste your CSS code"
+#~ msgstr "کد css خود را paste کنید."
+
+#~ msgid "Are you sure you want to reset to defaults?"
+#~ msgstr "آیا مطمئنید که میخواهید تنظیمات  را به حالت پیش فرض برگردانید؟"
+
+#~ msgid "Saving..."
+#~ msgstr "در حال ذخیره سازی ..."
+
+#~ msgid "Design Options successfully saved."
+#~ msgstr "تنظیمات طراحی با موفقیت ذخیره شد"
+
+#~ msgid "Design Options could not be saved"
+#~ msgstr "تنظیمات طراحی ذخیره نشد"
+
+#~ msgid ""
+#~ "Problem with AJAX request execution, check internet connection and try "
+#~ "again."
+#~ msgstr ""
+#~ "مشکل با درخواست اجرای آژاکس، ارتباط اینترنت خود را چک کنید و مجددا تلاش "
+#~ "کنید"
+
+#~ msgid "Are you sure you want to delete this shortcode?"
+#~ msgstr "آیا مطمئنید که میخواهید این کدکوتاه را پاک کنید؟"
+
+#~ msgid "Are you sure you want to delete the shortcode's param?"
+#~ msgstr "آیا مطمئنید که میخواهید پارام کد کوتاه را پاک کنید؟"
+
+#~ msgid "My shortcodes"
+#~ msgstr "کدهای کوتاه من"
+
+#~ msgid "Shortcode name is required."
+#~ msgstr "نام کدکوتاه الزامیست"
+
+#~ msgid "Please enter valid shortcode tag."
+#~ msgstr "لطفا برچسب معتبر کدکوتاه را وارد کنید."
+
+#~ msgid "Please enter all required fields for params."
+#~ msgstr "لطفا تمامی فیلدهای مورد نیاز پارام ها را وارد کنید."
+
+#~ msgid "New shortcode mapped from string!"
+#~ msgstr "کدکوتاه جدید از رشته نگاشت شد."
+
+#~ msgid "Shortcode updated!"
+#~ msgstr "کدکوتاه به روز شد!"
+
+#~ msgid "Content param can not be added manually, please use checkbox."
+#~ msgstr ""
+#~ "پارام محتوا نمیتواند به طور دستی اضافه شود. از چک باکس استفاده کنید."
+
+#, php-format
+#~ msgid "Param %s already exists. Param names must be unique."
+#~ msgstr "پارام %s وجو داردو اسامی پارام باید منحصر به فرد باشند."
+
+#~ msgid "Please use only letters, numbers and underscore for param name"
+#~ msgstr "لطفا فقط از حروف ، اعداد و آندرلاین برای نام پارام استفاده کنید."
+
+#~ msgid "Please enter valid shortcode to parse!"
+#~ msgstr "لطفا کد کوتاه معتبری را وارد کنید!"
+
+#~ msgid "Add custom CSS code to the plugin without modifying files."
+#~ msgstr "اضافه کردن CSS سفارشی به پلاگین بدون ویرایش فایل"
+
+#~ msgid ""
+#~ "Disable content elements from \"stacking\" one on top other on small "
+#~ "media screens (Example: mobile devices)."
+#~ msgstr ""
+#~ "غیر فعال کردن عناصر محتوا از \"انباشته\" یکی در بالای دیگر بر روی صفحه "
+#~ "نمایش رسانه کوچک ( به عنوان مثال: دستگاه های تلفن همراه )."
+
+#~ msgid "Select subsets for Google Fonts available to content elements."
+#~ msgstr "انتخاب دسترسی زیرمجموعه فونت های گوگل برای المانهای محتوا"
+
+#~ msgid "Enable"
+#~ msgstr "فعالسازی"
+
+#~ msgid ""
+#~ "Enable the use of custom design options (Note: when checked - custom css "
+#~ "file will be used)."
+#~ msgstr ""
+#~ "فعال کردن استفاده از تنظیمات سفارشی طراحی ( موقع انتخاب فایل CSS سفارشی "
+#~ "مورد استفاده قرار میگیرد)"
+
+#~ msgid ""
+#~ "Change default vertical spacing between content elements (Example: 20px)."
+#~ msgstr "تغییر فاصله عمودی پیش فرض بین المانهای محتوا ( مثال 20px )"
+
+#~ msgid ""
+#~ "Change default horizontal spacing between columns, enter new value in "
+#~ "pixels."
+#~ msgstr ""
+#~ "تغییر فاصله افقی پیش فرض بین المانهای ستون ها . مقدار جدید را به پیکسل "
+#~ "وارد کنید."
+
+#~ msgid ""
+#~ "By default content elements \"stack\" one on top other when screen size "
+#~ "is smaller than 768px. Change the value to change \"stacking\" size."
+#~ msgstr ""
+#~ "زمانی که صفحه نمایش کوچکتر از 768 پیکسل باشد به صورت پیش فرض عناصر محتوا "
+#~ "روی هم انباشته (یکی روی دیگری ) می شوند برای تغییر سایز انباشته مقدار را "
+#~ "تغییر دهید."
+
+#~ msgid ""
+#~ "Here you can tweak default WPBakery Page Builder content elements visual "
+#~ "appearance. By default WPBakery Page Builder is using neutral light-grey "
+#~ "theme. Changing \"Main accent color\" will affect all content elements if "
+#~ "no specific \"content block\" related color is set."
+#~ msgstr ""
+#~ "در اینجا میتوانید ظاهر المانهای محتوای WPBakery Page Builder پیش فرض را "
+#~ "تغییر دهید. WPBakery Page Builder به طور پیش فرض از تم خاکستری-روشن "
+#~ "استفاده میکند. تغییر  \"Main accent color\" در صورتی که هیج رنگ  "
+#~ "\"content block\" خاصی تنظیم نشده باشد، تمامی المانهای محتوا را تحت تاثیر "
+#~ "قرار میدهد."
+
+#~ msgid "Invalid Margin value."
+#~ msgstr "مقدار margin نامعتبر."
+
+#~ msgid "Invalid Gutter value."
+#~ msgstr "مقدار gutter نامعتبر"
+
+#~ msgid "Invalid \"Responsive max\" value."
+#~ msgstr "مقدار  \"Responsive max\" نامعتبر"
+
+#~ msgid ""
+#~ "Something went wrong: js_composer_front_custom.css could not be created."
+#~ msgstr "اشتباهی رخ داده است: js_composer_front_custom.css ایجاد نشده است."
+
+#~ msgid "js_composer_front_custom.css could not be created. Connection error."
+#~ msgstr "js_composer_front_custom.css نتوانست ایجاد شود. خطای اتصال"
+
+#, php-format
+#~ msgid ""
+#~ "js_composer_front_custom.css could not be created. Cannot write custom "
+#~ "css to \"%s\"."
+#~ msgstr ""
+#~ "js_composer_front_custom.css نتوانست ایجاد شود. css سفارشی در \"%s\" "
+#~ "نوشته نشد."
+
+#~ msgid ""
+#~ "js_composer_front_custom.css could not be created. Problem with access."
+#~ msgstr "js_composer_front_custom.css نتوانست ایجاد شود. مشکل در دسترسی."
+
+#~ msgid "Something went wrong: custom.css could not be created."
+#~ msgstr "اشتباهی رخ داد: custom.css ایجاد نشد."
+
+#~ msgid "custom.css could not be created. Connection error."
+#~ msgstr "custom.css نتوانست ایجاد شود. خطای اتصال"
+
+#, fuzzy, php-format
+#~| msgid "custom.css could not be created. Cannot write custom css to \""
+#~ msgid "custom.css could not be created. Cannot write custom css to %s."
+#~ msgstr "custom.css نتوانست ایجاد شود. css سفارشی در  \" نوشته نشد."
+
+#~ msgid "custom.css could not be created. Problem with access."
+#~ msgstr "custom.css ایجاد نشد. مشکل در دسترسی."
+
+#, php-format
+#~ msgid "Edit this %s"
+#~ msgstr "ویرایش این %s"
+
+#, php-format
+#~ msgid "Clone this %s"
+#~ msgstr "شبیه سازی این %s"
+
+#, php-format
+#~ msgid "Delete this %s"
+#~ msgstr "حذف این  %s"
+
+#~ msgid "Single block (no animation)"
+#~ msgstr "بلاک یکتا ( بدون انیمیشن )"
+
+#~ msgid "Double block (no animation)"
+#~ msgstr "بلاک دوتایی ( بدون انیمیشن )"
+
+#~ msgid "Fade in"
+#~ msgstr "محو شدن"
+
+#~ msgid "Scale in"
+#~ msgstr "تغییر مقیاس"
+
+#~ msgid "Scale in with rotation"
+#~ msgstr "تغییر مقیاس بدون چرخش"
+
+#~ msgid "Blur out"
+#~ msgstr "تیره شدن"
+
+#~ msgid "Blur scale out"
+#~ msgstr "تیره شدن با تغییر مقیاس"
+
+#~ msgid "Slide in from left"
+#~ msgstr "اسلاید شدن از چپ"
+
+#~ msgid "Slide in from right"
+#~ msgstr "اسلاید شدن از راست"
+
+#~ msgid "Slide bottom"
+#~ msgstr "اسلاید پایین"
+
+#~ msgid "Slide top"
+#~ msgstr "اسلاید بالا"
+
+#~ msgid "Vertical flip in with fade"
+#~ msgstr "فلیپ عمودی با محو شدن"
+
+#~ msgid "Horizontal flip in with fade"
+#~ msgstr "فیلیپ افقی با محو شدن"
+
+#~ msgid "Go top"
+#~ msgstr "برو بالا"
+
+#~ msgid "Go bottom"
+#~ msgstr "برو پایین"
+
+#~ msgid "Error! Can't connect to filesystem"
+#~ msgstr "خطا! نتوانستیم به فایل سیستم متصل شویم"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "To receive automatic updates license activation is required. Please "
+#~| "visit %s to activate your WPBakery Page Builder."
+#~ msgid ""
+#~ "To receive automatic updates license activation is required. Please visit "
+#~ "%sSettings%s to activate your WPBakery Page Builder."
+#~ msgstr ""
+#~ "برای دریافت به روزرسانی خودکار نیاز به لایسنس فعال سازی است, لطفاً برای "
+#~ "فعال کردن ویژوال کامپوزر %s را مشاهده کنید."
+
+#~ msgid "Got WPBakery Page Builder in theme?"
+#~ msgstr "دریافت ویژوال کامپوزر در پوسته؟"
+
+#~ msgid "Getting download link..."
+#~ msgstr "در حال گرفتن لینک دانلود ..."
+
+#~ msgid "Download link could not be retrieved"
+#~ msgstr "لینک دانلود قابل بازیابی نیست"
+
+#~ msgid "Downloading package..."
+#~ msgstr "دانلود پکیج از فروشگاه envato..."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "To receive automatic updates license activation is required. Please "
+#~| "visit %s to activate your WPBakery Page Builder."
+#~ msgid ""
+#~ "To receive automatic updates license activation is required. Please visit "
+#~ "%ssettings%s to activate your WPBakery Page Builder."
+#~ msgstr ""
+#~ "برای دریافت به روزرسانی خودکار نیاز به لایسنس فعال سازی است, لطفاً برای "
+#~ "فعال کردن ویژوال کامپوزر %s را مشاهده کنید."
+
+#~ msgid "Field name"
+#~ msgstr "فیلد ایمیل"
+
+#, fuzzy
+#~| msgid "Select field from group."
+#~ msgid "Choose field from group."
+#~ msgstr "آیکون را از کتابخانه انتخاب کنید."
+
+#~ msgid "Advanced Custom Field"
+#~ msgstr "فیلد سفارشی"
+
+#~ msgid "Field group"
+#~ msgstr "گروه"
+
+#~ msgid "Select field group."
+#~ msgstr "انتخاب نوع فیلد"
+
+#~ msgid "Show label"
+#~ msgstr "نمایش برچسب"
+
+#~ msgid "Enter label to display before key value."
+#~ msgstr "وارد کردن برچسب برای نمایش قبل از مقدار کلید"
+
+#~ msgid "Align"
+#~ msgstr "موقعیت"
+
+#~ msgid "Select alignment."
+#~ msgstr "انتخاب ترازبندی"
+
+#~ msgid "No contact forms found"
+#~ msgstr "فرم تماسی یافت نشد"
+
+#~ msgid "Contact Form 7"
+#~ msgstr "فرم تماس نسخه 7"
+
+#~ msgid "Place Contact Form7"
+#~ msgstr "قرار دادن فرم تماس7"
+
+#~ msgid "Select contact form"
+#~ msgstr "انتخاب فرم تماس"
+
+#~ msgid "Choose previously created contact form from the drop down list."
+#~ msgstr "انتخاب فرم تماسی از قبل ایجاد شده از لیست کشویی."
+
+#~ msgid "Search title"
+#~ msgstr "عنوان جستجو"
+
+#~ msgid ""
+#~ "Enter optional title to search if no ID selected or cannot find by ID."
+#~ msgstr ""
+#~ "عنوان اختیاری برای اگر شناسه انتخاب نشده یا شناسه پیدا نشد را وارد کنید."
+#~ "(cannot find by ID)"
+
+#~ msgid "No sliders found"
+#~ msgstr "اسلایدری یافت نشد"
+
+#~ msgid "Layer Slider"
+#~ msgstr "Layer Slider لایه اسلایدر"
+
+#~ msgid "Place LayerSlider"
+#~ msgstr "مکان LayerSlider"
+
+#~ msgid "LayerSlider ID"
+#~ msgstr "Layer Slider ID(ایدی اسلایدر)"
+
+#~ msgid "Select your LayerSlider."
+#~ msgstr "Layer Slider خود را انتخاب کنید."
+
+#~ msgid "Ninja Forms"
+#~ msgstr "فرم های نینجا"
+
+#~ msgid "Place Ninja Form"
+#~ msgstr "مکان نینجا فرم"
+
+#~ msgid "Select ninja form"
+#~ msgstr "انتخاب فرم تماس"
+
+#~ msgid "Choose previously created ninja form from the drop down list."
+#~ msgstr "انتخاب فرم تماسی از قبل ایجاد شده از لیست کشویی"
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider(لغزان)"
+
+#~ msgid "Place Revolution slider"
+#~ msgstr "مکان Revolution Slider"
+
+#~ msgid "Select your Revolution Slider."
+#~ msgstr "Revolution Slider خود را انتخاب کنید."
+
+#, fuzzy
+#~| msgid "Menu order"
+#~ msgid "Menu order & title"
+#~ msgstr "ترتیب منو"
+
+#, fuzzy
+#~| msgid "Include only"
+#~ msgid "Include"
+#~ msgstr "فقط "
+
+#, fuzzy
+#~| msgid "Custom links"
+#~ msgid "Custom post__in"
+#~ msgstr "لینکهای سفارشی"
+
+#~ msgid "Cart"
+#~ msgstr "سبد خريد"
+
+#~ msgid "WooCommerce"
+#~ msgstr "ووکامرس"
+
+#~ msgid "Displays the cart contents"
+#~ msgstr "نمایش محتویات سبد خرید"
+
+#~ msgid "Checkout"
+#~ msgstr "تسویه حساب"
+
+#~ msgid "Displays the checkout"
+#~ msgstr "نمایش ثبت سفارش و پرداخت"
+
+#~ msgid "Order Tracking Form"
+#~ msgstr "فرم پیگیری سفارش"
+
+#~ msgid "Lets a user see the status of an order"
+#~ msgstr "اجازه می دهد تا یک کاربر وضعیت سفارش خود را مشاهده کند"
+
+#~ msgid "My Account"
+#~ msgstr "حساب کاربری من"
+
+#~ msgid "Shows the \"my account\" section"
+#~ msgstr "نمایش بخش حساب کاربری من"
+
+#~ msgid "Order count"
+#~ msgstr "تعداد سفارش"
+
+#~ msgid ""
+#~ "You can specify the number or order to show, it's set by default to 15 "
+#~ "(use -1 to display all orders.)"
+#~ msgstr ""
+#~ "شما می توانید تعداد مشخصی از سفارش ها را نمایش دهید. پیش فرض آن 15 است "
+#~ "( می توانید از 1 تا همه سفارش ها را نمایش دهید )"
+
+#~ msgid "Recent products"
+#~ msgstr "آخرین محصولات"
+
+#~ msgid "Lists recent products"
+#~ msgstr "لیست آخرین محصولات"
+
+#~ msgid "Per page"
+#~ msgstr "در هر صفحه"
+
+#~ msgid ""
+#~ "The \"per_page\" shortcode determines how many products to show on the "
+#~ "page"
+#~ msgstr ""
+#~ "کد کوتاه \"per_page\" تعیین میکند که چه تعداد محصول در صفحه نمایش داده شود"
+
+#~ msgid "Columns"
+#~ msgstr "ستون"
+
+#~ msgid ""
+#~ "The columns attribute controls how many columns wide the products should "
+#~ "be before wrapping."
+#~ msgstr ""
+#~ "ویژگی های ستون ها کنترل می کند که چه مقدار ستون برای نگهداری محصولات لازم "
+#~ "است."
+
+#, php-format
+#~ msgid "Select how to sort retrieved products. More at %s."
+#~ msgstr "انتخاب نوع مرتب سازی محصولات پیدا شده. بیشتر در %s."
+
+#, php-format
+#~ msgid "Designates the ascending or descending order. More at %s."
+#~ msgstr "تعیین ترتیب صعودی یا نزولی.اطلاعات بیشتر در %s."
+
+#~ msgid "Featured products"
+#~ msgstr "ویژگی های محصولات"
+
+#~ msgid "Display products set as \"featured\""
+#~ msgstr "انتخاب این محصول به عنوان محصول ویژه"
+
+#~ msgid "Product"
+#~ msgstr "محصول "
+
+#~ msgid "Show a single product by ID or SKU"
+#~ msgstr "نمایش محصول یکتا توسط آی دی یا SKU"
+
+#~ msgid "Select identificator"
+#~ msgstr "انتخاب identificator (شناسه )"
+
+#~ msgid "Input product ID or product SKU or product title to see suggestions"
+#~ msgstr ""
+#~ "آی دی (شناسه) محصول یا SKU محصول یا عنوان محصول را وارد تا در پیشنهادها "
+#~ "دیده شود."
+
+#~ msgid "Products"
+#~ msgstr "محصول"
+
+#~ msgid "Show multiple products by ID or SKU."
+#~ msgstr "نمایش چند محصول با استفاده از آی دی یا SKU"
+
+#, php-format
+#~ msgid "Select how to sort retrieved products. More at %s. Default by Title"
+#~ msgstr "انتخاب نوع مرتب سازی محصولات پیدا شده بیشتر در  %s پیش فرض با عنوان"
+
+#, php-format
+#~ msgid ""
+#~ "Designates the ascending or descending order. More at %s. Default by ASC"
+#~ msgstr "تعیین صعودی یا نزولی بودن مرتب سازی. بیشتر در %s.  پیش فرض صعودی"
+
+#~ msgid "Enter List of Products"
+#~ msgstr "لیست محصولات را وارد کنید"
+
+#~ msgid "Add to cart"
+#~ msgstr "اضافه به سبد خرید"
+
+#~ msgid "Show multiple products by ID or SKU"
+#~ msgstr "نمایش چند محصول با استفاده از آی دی یا SKU"
+
+#~ msgid "Wrapper inline style"
+#~ msgstr "استایل درون خطی نگهدارنده"
+
+#~ msgid "Add to cart URL"
+#~ msgstr "لینک اضافه به سبد خرید"
+
+#~ msgid "Show URL on the add to cart button"
+#~ msgstr "نمایش لینک روی دکمه اضافه به سبد خرید"
+
+#~ msgid "Product page"
+#~ msgstr "صفحه محصولات"
+
+#~ msgid "Show single product by ID or SKU"
+#~ msgstr "نمایش محصول یکتا با استفاده از آی دی یا SKU"
+
+#~ msgid "Product category"
+#~ msgstr "دسته بندی محصول"
+
+#~ msgid "Show multiple products in a category"
+#~ msgstr "نمایش چند محصول در دسته بندی"
+
+#, fuzzy
+#~| msgid "How much items per page to show"
+#~ msgid "How much items to show"
+#~ msgstr "چه تعداد آیتم در هر صفحه نمایش داده شود"
+
+#~ msgid "How much columns grid"
+#~ msgstr "تعداد ستونهای شبکه بندی"
+
+#~ msgid "Category"
+#~ msgstr "دسته"
+
+#~ msgid "Product category list"
+#~ msgstr "لیست دسته بندی محصول"
+
+#~ msgid "Product categories"
+#~ msgstr "دسته بندی های محصول"
+
+#~ msgid "Display product categories loop"
+#~ msgstr "نمایش حلقه دسته بندی های محصول"
+
+#~ msgid "Number"
+#~ msgstr "شماره"
+
+#~ msgid "The `number` field is used to display the number of products."
+#~ msgstr "استفاده برای تعداد محصولات برای نمایش"
+
+#~ msgid "Hide empty"
+#~ msgstr "پنهان کردن خالی"
+
+#~ msgid "List of product categories"
+#~ msgstr "لیست دسته بندی های محصول"
+
+#~ msgid "Sale products"
+#~ msgstr "فروش محصولات"
+
+#~ msgid "List all products on sale"
+#~ msgstr "لیست همه محصولات برای فروش"
+
+#~ msgid "Best Selling Products"
+#~ msgstr "محصولات فروش ویژه"
+
+#~ msgid "List best selling products on sale"
+#~ msgstr "لیست محصولات فروش ویژه"
+
+#~ msgid "Top Rated Products"
+#~ msgstr "پر امتیازترین محصولات"
+
+#~ msgid "Product Attribute"
+#~ msgstr "ویژگی های محصول"
+
+#~ msgid "List products with an attribute shortcode"
+#~ msgstr "لیست محصولات همراه با ویژگی کد کوتاه"
+
+#~ msgid "Attribute"
+#~ msgstr "ویژگی ها"
+
+#~ msgid "List of product taxonomy attribute"
+#~ msgstr "لیست طبقه بندی ویژگی کالا"
+
+#~ msgid "Taxonomy values"
+#~ msgstr "مقادیر طبقه بندی"
+
+#~ msgid "Related Products"
+#~ msgstr "محصولات مرتبط"
+
+#~ msgid "List related products"
+#~ msgstr "لیست محصولات مرتبط"
+
+#~ msgid ""
+#~ "Please note: the \"per_page\" shortcode argument will determine how many "
+#~ "products are shown on a page. This will not add pagination to the "
+#~ "shortcode. "
+#~ msgstr ""
+#~ "لطفا توجه داشته باشید: استدلال کوتاه \"per_page\" تعیین خواهد کرد که چند "
+#~ "محصول در یک صفحه نشان داده شده است. این صفحه بندی را به کد کوتاه اضافه "
+#~ "نمی کند."
+
+#~ msgid "Id"
+#~ msgstr "آی دی"
+
+#~ msgid "Sku"
+#~ msgstr "بارکد"
+
+#~ msgid "Name"
+#~ msgstr "اسم"
+
+#~ msgid "Slug"
+#~ msgstr "نامک"
+
+#~ msgid "SKU"
+#~ msgstr "شناسه"
+
+#~ msgid "Price"
+#~ msgstr "قیمت"
+
+#~ msgid "Regular Price"
+#~ msgstr "قیمت عادی"
+
+#~ msgid "Sale Price"
+#~ msgstr "قیمت فروش"
+
+#~ msgid "Price html"
+#~ msgstr "HTML قیمت"
+
+#~ msgid "Reviews count"
+#~ msgstr "تعداد بررسی ها"
+
+#~ msgid "Short description"
+#~ msgstr "توضیحات کوتاه"
+
+#~ msgid "Dimensions"
+#~ msgstr "ابعاد"
+
+#~ msgid "Rating count"
+#~ msgstr "تعداد امتیازها"
+
+#~ msgid "Weight"
+#~ msgstr "وزن"
+
+#~ msgid "Is on sale"
+#~ msgstr "در حال فروش"
+
+#~ msgid "Custom field"
+#~ msgstr "فیلد سفارشی"
+
+#~ msgid "Order number"
+#~ msgstr "شماره سفارش"
+
+#~ msgid "Currency"
+#~ msgstr "واحد پول"
+
+#~ msgid "Total"
+#~ msgstr "مجموع"
+
+#~ msgid "Status"
+#~ msgstr "وضعیت"
+
+#~ msgid "Payment method"
+#~ msgstr "روش پرداخت"
+
+#~ msgid "Billing address city"
+#~ msgstr "شهر ارسال فاکتور"
+
+#~ msgid "Billing address country"
+#~ msgstr "کشور ارسال فاکتور"
+
+#~ msgid "Shipping address city"
+#~ msgstr "شهر ارسال کالا"
+
+#~ msgid "Shipping address country"
+#~ msgstr "کشور ارسال کالا"
+
+#~ msgid "Customer Note"
+#~ msgstr "یادداشت مشتری"
+
+#~ msgid "Customer API"
+#~ msgstr "API مشتری"
+
+#~ msgid "WooCommerce add to card link"
+#~ msgstr "لینک اضافه به خرید ووکامرس"
+
+#~ msgid "WooCommerce field"
+#~ msgstr "فیلد ووکامرس"
+
+#~ msgid "Woocommerce"
+#~ msgstr "ووکامرس"
+
+#~ msgid "Content type"
+#~ msgstr "نوع محتوا"
+
+#~ msgid "Order"
+#~ msgstr "ترتیب"
+
+#~ msgid "Select Woo Commerce post type."
+#~ msgstr "انتخاب نوع مطلب ووکامرس"
+
+#~ msgid "Product field name"
+#~ msgstr "نام فیلد محصول"
+
+#, fuzzy
+#~| msgid "Select field from product."
+#~ msgid "Choose field from product."
+#~ msgstr "انتخاب فیلد از محصول"
+
+#~ msgid "Product custom key"
+#~ msgstr "کلید سفارشی محصول"
+
+#~ msgid "Enter custom key."
+#~ msgstr "وارد کردن کلید سفارشی"
+
+#~ msgid "Order fields"
+#~ msgstr "فیلدهای سفارش"
+
+#, fuzzy
+#~| msgid "Select field from order."
+#~ msgid "Choose field from order."
+#~ msgstr "انتخاب فیلد از سفارش"
+
+#~ msgid "Order custom key"
+#~ msgstr "کلید سفارشی سفارش"
+
+#~ msgid "Added"
+#~ msgstr "افزوده شد"
+
+#~ msgid "Taxonomies"
+#~ msgstr "طبقه بندی"
+
+#~ msgid "Wrong vc_map object. Base attribute is required"
+#~ msgstr "شیء wpb_map اشتباه. ویژگی زمینه مورد نیاز است."
+
+#~ msgid "CSS Animation"
+#~ msgstr "css متحرک"
+
+#~ msgid "Top to bottom"
+#~ msgstr "بالا به پایین"
+
+#~ msgid "Bottom to top"
+#~ msgstr "پایین به بالا"
+
+#~ msgid "Left to right"
+#~ msgstr "چپ به راست"
+
+#~ msgid "Right to left"
+#~ msgstr "راست به چپ"
+
+#~ msgid "Appear from center"
+#~ msgstr "از مرکز ظاهر شود"
+
+#~ msgid ""
+#~ "Select type of animation for element to be animated when it \"enters\" "
+#~ "the browsers viewport (Note: works only in modern browsers)."
+#~ msgstr ""
+#~ "انتخاب نوع انیمیشن برای المان موقع ورود به نمایش در مرورگر ( تنها در "
+#~ "مرورگرهای جدید و بروز کار می کند )"
+
+#~ msgid "Attention Seekers"
+#~ msgstr "جلب توجه ها"
+
+#~ msgid "bounce"
+#~ msgstr "گزاف گویی"
+
+#~ msgid "flash"
+#~ msgstr "فلش"
+
+#~ msgid "pulse"
+#~ msgstr "نبض"
+
+#~ msgid "rubberBand"
+#~ msgstr "کش پول"
+
+#~ msgid "shake"
+#~ msgstr "لرزش"
+
+#~ msgid "swing"
+#~ msgstr "تاب خوردن"
+
+#~ msgid "tada"
+#~ msgstr "سپس"
+
+#~ msgid "wobble"
+#~ msgstr "تکان دادن"
+
+#~ msgid "Bouncing Entrances"
+#~ msgstr "ورود لرزشی"
+
+#~ msgid "bounceIn"
+#~ msgstr "گزاف گویی در"
+
+#~ msgid "bounceInDown"
+#~ msgstr "گزاف گویی در پایین"
+
+#~ msgid "bounceInLeft"
+#~ msgstr "گزاف گویی در چپ"
+
+#~ msgid "bounceInRight"
+#~ msgstr "گزاف گویی در راست"
+
+#~ msgid "bounceInUp"
+#~ msgstr "گزاف گویی در بالا"
+
+#~ msgid "Bouncing Exits"
+#~ msgstr "خروج لرزشی"
+
+#~ msgid "bounceOut"
+#~ msgstr "پرش خارجی"
+
+#~ msgid "bounceOutDown"
+#~ msgstr "چرخش و ورود به پایین"
+
+#~ msgid "bounceOutLeft"
+#~ msgstr "چرخش و ورود به چپ"
+
+#~ msgid "bounceOutRight"
+#~ msgstr "چرخش و ورود به راست"
+
+#~ msgid "bounceOutUp"
+#~ msgstr "چرخش و ورود به بالا"
+
+#~ msgid "Fading Entrances"
+#~ msgstr "ورودی محو"
+
+#~ msgid "fadeIn"
+#~ msgstr "محوشدن درون"
+
+#~ msgid "fadeInDown"
+#~ msgstr "محوشدن پایین"
+
+#~ msgid "fadeInDownBig"
+#~ msgstr "محوشدن پایین بزرگ"
+
+#~ msgid "fadeInLeft"
+#~ msgstr "محوشدن چپ"
+
+#~ msgid "fadeInLeftBig"
+#~ msgstr "محوشدن چپ بزرگ"
+
+#~ msgid "fadeInRight"
+#~ msgstr "محوشدن راست"
+
+#~ msgid "fadeInRightBig"
+#~ msgstr "محوشدن راست بزرگ"
+
+#~ msgid "fadeInUp"
+#~ msgstr "محوشدن بالا"
+
+#~ msgid "fadeInUpBig"
+#~ msgstr "محوشدن بالا بزرگ"
+
+#~ msgid "Fading Exits"
+#~ msgstr "خروج با حالت محو"
+
+#~ msgid "fadeOut"
+#~ msgstr "محو شدن بیرونی"
+
+#~ msgid "fadeOutDown"
+#~ msgstr "محو شدن بیرونی پایین"
+
+#~ msgid "fadeOutDownBig"
+#~ msgstr "محو شدن بیرونی پایین بزرگ"
+
+#~ msgid "fadeOutLeft"
+#~ msgstr "محو شدن بیرونی چپ"
+
+#~ msgid "fadeOutLeftBig"
+#~ msgstr "محو شدن بیرونی چپ بزرگ"
+
+#~ msgid "fadeOutRight"
+#~ msgstr "محو شدن بیرونی راست"
+
+#~ msgid "fadeOutRightBig"
+#~ msgstr "محو شدن بیرونی راست بزرگ"
+
+#~ msgid "fadeOutUp"
+#~ msgstr "محو شدن بیرونی بالا"
+
+#~ msgid "fadeOutUpBig"
+#~ msgstr "محو شدن بیرونی بالای بزرگ"
+
+#~ msgid "Flippers"
+#~ msgstr "چرخشی ها"
+
+#~ msgid "flip"
+#~ msgstr "چرخش"
+
+#~ msgid "flipInX"
+#~ msgstr "چرخش بر اساس محور X"
+
+#~ msgid "flipInY"
+#~ msgstr "چرخش بر اساس محور Y"
+
+#~ msgid "flipOutX"
+#~ msgstr "چرخش به خارج بر اساس محور X"
+
+#~ msgid "flipOutY"
+#~ msgstr "چرخش به خارج بر اساس محور Y"
+
+#~ msgid "Lightspeed"
+#~ msgstr "سرعت بالا"
+
+#~ msgid "lightSpeedIn"
+#~ msgstr "سرعت نور در"
+
+#~ msgid "lightSpeedOut"
+#~ msgstr "سرعت نور خارجی"
+
+#~ msgid "Rotating Entrances"
+#~ msgstr "ورودی چرخشی"
+
+#~ msgid "rotateIn"
+#~ msgstr "چرخش در"
+
+#~ msgid "rotateInDownLeft"
+#~ msgstr "چرخش در پایین سمت چپ"
+
+#~ msgid "rotateInDownRight"
+#~ msgstr "چرخش در پایین سمت راست"
+
+#~ msgid "rotateInUpLeft"
+#~ msgstr "چرخش در بالا سمت چپ"
+
+#~ msgid "rotateInUpRight"
+#~ msgstr "چرخش در بالا سمت راست"
+
+#~ msgid "Rotating Exits"
+#~ msgstr "خروج چرخشی"
+
+#~ msgid "rotateOut"
+#~ msgstr "چرخش خارجی"
+
+#~ msgid "rotateOutDownLeft"
+#~ msgstr "چرخش خارجی پایین چپ"
+
+#~ msgid "rotateOutDownRight"
+#~ msgstr "چرخش خارجی پایین راست"
+
+#~ msgid "rotateOutUpLeft"
+#~ msgstr "چرخش خارجی بالا چپ"
+
+#~ msgid "rotateOutUpRight"
+#~ msgstr "چرخش خارجی بالا راست"
+
+#~ msgid "Specials"
+#~ msgstr "ویژه ها"
+
+#~ msgid "hinge"
+#~ msgstr "وابسته بودن"
+
+#~ msgid "rollIn"
+#~ msgstr "نقش در"
+
+#~ msgid "rollOut"
+#~ msgstr "نقش در خارج"
+
+#~ msgid "Zoom Entrances"
+#~ msgstr "ورود لرزشی"
+
+#~ msgid "zoomIn"
+#~ msgstr "زوم داخلی"
+
+#~ msgid "zoomInDown"
+#~ msgstr "زوم داخلی پایین"
+
+#~ msgid "zoomInLeft"
+#~ msgstr "زوم داخلی چپ"
+
+#~ msgid "zoomInRight"
+#~ msgstr "زوم داخلی راست"
+
+#~ msgid "zoomInUp"
+#~ msgstr "زوم داخلی بالا"
+
+#~ msgid "Zoom Exits"
+#~ msgstr "زوم عمقی"
+
+#~ msgid "zoomOut"
+#~ msgstr "زوم خارجی"
+
+#~ msgid "zoomOutDown"
+#~ msgstr "زوم خارجی پایین"
+
+#~ msgid "zoomOutLeft"
+#~ msgstr "زوم خارجی چپ"
+
+#~ msgid "zoomOutRight"
+#~ msgstr "زوم خارجی بالا"
+
+#~ msgid "zoomOutUp"
+#~ msgstr "زوم خارجی بالا"
+
+#~ msgid "Slide Entrances"
+#~ msgstr "ورودی اسلاید"
+
+#~ msgid "slideInDown"
+#~ msgstr "اسلاید پایین"
+
+#~ msgid "slideInLeft"
+#~ msgstr "اسلاید چپ"
+
+#~ msgid "slideInRight"
+#~ msgstr "اسلاید راست"
+
+#~ msgid "slideInUp"
+#~ msgstr "اسلاید بالا"
+
+#~ msgid "Slide Exits"
+#~ msgstr "خروج با حالت محو"
+
+#~ msgid "slideOutDown"
+#~ msgstr "اسلاید خروجی پایین"
+
+#~ msgid "slideOutLeft"
+#~ msgstr "اسلاید خروجی چپ"
+
+#~ msgid "slideOutRight"
+#~ msgstr "اسلاید خروجی راست"
+
+#~ msgid "slideOutUp"
+#~ msgstr "اسلاید خروجی بالا"
+
+#~ msgid "Animate it"
+#~ msgstr "انیمیشن دادن به آن"
+
+#~ msgid "Default value from width attribute"
+#~ msgstr "مقدار پیش فرض از صفت width"
+
+#~ msgid "Inherit from smaller"
+#~ msgstr "ارث بری از کوچکتر"
+
+#~ msgid "No offset"
+#~ msgstr "بدون آفست"
+
+#~ msgid "Border style"
+#~ msgstr "استایل حاشیه"
+
+#~ msgid "Border radius"
+#~ msgstr "انحنای کادر"
+
+#~ msgid "Box controls"
+#~ msgstr "کنترلهای باکس"
+
+#~ msgid "Simplify controls"
+#~ msgstr "ساده سازی کنترلها"
+
+#~ msgid "Theme defaults"
+#~ msgstr "پیش فرضهای قالب"
+
+#, fuzzy
+#~| msgid "Washed"
+#~ msgid "dashed"
+#~ msgstr "شسته"
+
+#, fuzzy
+#~| msgid "Hidden"
+#~ msgid "hidden"
+#~ msgstr "مخفی"
+
+#, fuzzy
+#~| msgid "Inherit: "
+#~ msgid "inherit"
+#~ msgstr "ارثبری:."
+
+#~ msgid "Cover"
+#~ msgstr "پوشش (کاور)"
+
+#~ msgid "Contain"
+#~ msgstr "شامل"
+
+#~ msgid "No Repeat"
+#~ msgstr "بدون تکرار"
+
+#~ msgid "Repeat"
+#~ msgstr "تکرار"
+
+#~ msgid "Element tag"
+#~ msgstr "برچسب المان"
+
+#~ msgid "Font size"
+#~ msgstr "سایز فونت"
+
+#~ msgid "Text align"
+#~ msgstr "چیدمان متن"
+
+#~ msgid "Line height"
+#~ msgstr "ارتفاع بین خطوط"
+
+#~ msgid "Font Family"
+#~ msgstr "نوع فونت"
+
+#~ msgid "Font style"
+#~ msgstr "استایل فونت"
+
+#~ msgid "italic"
+#~ msgstr "italicا(اتالیک)"
+
+#~ msgid "bold"
+#~ msgstr "bold(بولد)"
+
+#, fuzzy
+#~| msgid "Add row"
+#~ msgid "Add New"
+#~ msgstr "اضافه کردن ردیف"
+
+#, fuzzy
+#~| msgid "Search Grid templates"
+#~ msgid "Search Gutenberg attrs"
+#~ msgstr "جستجوی الگو های شبکه بندی"
+
+#, fuzzy
+#~| msgid "No Gravity forms found."
+#~ msgid "No Gutenberg attrs found."
+#~ msgstr "فرم gravity پیدا نشد."
+
+#, fuzzy
+#~| msgid "No Grid templates found in Trash"
+#~ msgid "No Gutenberg attrs found in Trash."
+#~ msgstr "هیچ الگو شبکه بندی در زباله دان پیدا نشد"
+
+#~ msgid "From all categories"
+#~ msgstr "از همه دسته بندی ها"
+
+#~ msgid "Uncategorized"
+#~ msgstr "دسته بندی نشده"
+
+#~ msgid "Build query"
+#~ msgstr "ساخت پرس و جو(Build query)"
+
+#~ msgid "Post count"
+#~ msgstr "شمارش مطلب"
+
+#~ msgid "Individual posts/pages"
+#~ msgstr "مطالب/برگه ها فردی"
+
+#~ msgid "Manage options"
+#~ msgstr "مدیریت تنظیمات"
+
+#~ msgid "Close"
+#~ msgstr "بستن"
+
+#, php-format
+#~ msgid ""
+#~ "Field type is changed from \"textarea_html\" to \"textarea\", because it "
+#~ "is already used by %s field. Textarea_html field's type can be used only "
+#~ "once per shortcode."
+#~ msgstr ""
+#~ "نوع درست از \"textarea_html\" را به \"ناحیه ی متن\" تغییر می کند، دلیل آن "
+#~ "است که در حال حاضر توسط فیلد %s  استفاده می شود. نوع Textarea_html درست "
+#~ "را می توان تنها یک بار در کوتاه استفاده می شود."
+
+#~ msgid "Add row"
+#~ msgstr "اضافه کردن ردیف"
+
+#~ msgid "Add Grid template"
+#~ msgstr "اضافه کردن الگو شبکه بندی"
+
+#~ msgid "Grid Builder"
+#~ msgstr "سازنده شبکه بندی"
+
+#~ msgid "Grid template"
+#~ msgstr "الگو شبکه بندی"
+
+#~ msgid "Edit Grid template"
+#~ msgstr "ویرایش الگو شبکه بندی"
+
+#~ msgid "View Grid template"
+#~ msgstr "نمایش الگو شبکه بندی"
+
+#~ msgid "Search Grid templates"
+#~ msgstr "جستجوی الگو های شبکه بندی"
+
+#~ msgid "No Grid templates found"
+#~ msgstr "الگو های شبکه بندی پیدا نشد"
+
+#~ msgid "No Grid templates found in Trash"
+#~ msgstr "هیچ الگو شبکه بندی در زباله دان پیدا نشد"
+
+#~ msgid "Builder"
+#~ msgstr "سازنده"
+
+#~ msgid ""
+#~ "If you add this template, all your current changes will be removed. Are "
+#~ "you sure you want to add template?"
+#~ msgstr ""
+#~ "اگر این الگو را اضافه کنید همه تنظیمات فعلی حذف خواهد شد. آیا مطمئن هستید "
+#~ "می خواهید الگو اضافه کنید ؟"
+
+#~ msgid "Post title"
+#~ msgstr "عنوان مطلب"
+
+#~ msgid ""
+#~ "The WordPress Excerpt is an optional summary or description of a post; in "
+#~ "short, a post summary."
+#~ msgstr "گزیده اختیاری وردپرس یا توضیحات کوتاه مطلب یا خلاصه مطلب"
+
+#, php-format
+#~ msgid "%s/12 width"
+#~ msgstr "عرض %s/12"
+
+#~ msgid "Grid Templates"
+#~ msgstr "الگو های شبکه بندی"
+
+#~ msgid "Custom Grid Templates"
+#~ msgstr "الگو های شبکه ای سفارشی"
+
+#~ msgid "Add link"
+#~ msgstr "اضافه کردن لینک"
+
+#~ msgid "Post link"
+#~ msgstr "لینک مطلب"
+
+#~ msgid "Post author"
+#~ msgstr "نویسنده پست"
+
+#~ msgid "Large image"
+#~ msgstr "تصویر بزرگ"
+
+#~ msgid "Large image (prettyPhoto)"
+#~ msgstr "تصویر بزرگ ( عکس زیبا )"
+
+#~ msgid "Select link option."
+#~ msgstr "انتخاب تنظیمات لینک"
+
+#~ msgid "Add custom link."
+#~ msgstr "اضافه کردن لینک سفارشی"
+
+#~ msgid "Use featured image on background?"
+#~ msgstr "استفاده از ویژگی های تصویر در پس زمینه ؟"
+
+#~ msgid ""
+#~ "Note: Featured image overwrites background image and color from \"Design "
+#~ "Options\"."
+#~ msgstr ""
+#~ "توجه: تصویر های ویژه رونویسی تصویر پس زمینه و رنگ از \"گزینه های طراحی\"."
+
+#~ msgid "Use custom fonts?"
+#~ msgstr "استفاده از فونت های سفارشی ؟"
+
+#~ msgid "Custom fonts"
+#~ msgstr "فونتهای سفارشی"
+
+#~ msgid "Yes theme default font family?"
+#~ msgstr "بله فونت پیش فرض الگو ؟"
+
+#~ msgid "Yes font family from the theme."
+#~ msgstr "بله فونت پیش فرض از الگو سایت."
+
+#~ msgid "Grid Item"
+#~ msgstr "آیتم شبکه بندی"
+
+#~ msgid "Main grid item"
+#~ msgstr "آیتم اصلی شبکه بندی"
+
+#~ msgid "A/B block"
+#~ msgstr "بلاک  A/B"
+
+#~ msgid "Zone"
+#~ msgstr "منطقه"
+
+#~ msgid "Height mode"
+#~ msgstr "حالت ارتفاع"
+
+#~ msgid "Original"
+#~ msgstr "اصلی"
+
+#~ msgid ""
+#~ "Sizing proportions for height and width. Select \"Original\" to scale "
+#~ "image without cropping."
+#~ msgstr ""
+#~ "اندازه نسبت ها برای ارتفاع و عرض. انتخاب کنید \"اصلی\" به مقیاس تصویر "
+#~ "بدون برداشت."
+
+#~ msgid "Enter custom height."
+#~ msgstr "وارد کردن ارتفاع سفارشی"
+
+#~ msgid "Post Title"
+#~ msgstr "عنوان مطلب"
+
+#~ msgid "Post"
+#~ msgstr "نوشته"
+
+#~ msgid "Title of current post"
+#~ msgstr "عنوان مطلب فعلی"
+
+#~ msgid "Post Excerpt"
+#~ msgstr "چکیده ی مطلب"
+
+#~ msgid "Excerpt or manual excerpt"
+#~ msgstr "گزیده ای یا گزیده ای دستی"
+
+#~ msgid "Post Author"
+#~ msgstr "نویسنده پست"
+
+#~ msgid "Author of current post"
+#~ msgstr "نویسنده پست کنونی"
+
+#~ msgid "Add link to author?"
+#~ msgstr "اضافه کردن پیوند به نویسنده؟"
+
+#~ msgid "Post Categories"
+#~ msgstr "موضوعات پست"
+
+#~ msgid "Categories of current post"
+#~ msgstr "دسته بندی ها از ارسال کنونی"
+
+#~ msgid "Add link to category?"
+#~ msgstr "اضافه کردن پیوند به دسته؟"
+
+#~ msgid "Comma"
+#~ msgstr "ویرگول"
+
+#~ msgid "Select category display style."
+#~ msgstr "انتخاب سبک نمایش دسته."
+
+#~ msgid "Select category color."
+#~ msgstr "رنگ دسته را انتخاب کنید."
+
+#~ msgid "Category size"
+#~ msgstr "اندازه دسته بندی"
+
+#~ msgid "Select category size."
+#~ msgstr "اندازه دسته بندی را انتخاب کنید."
+
+#~ msgid "Post Image"
+#~ msgstr "تصویر مطلب"
+
+#~ msgid "Featured image"
+#~ msgstr "ویژگی تصویر"
+
+#~ msgid ""
+#~ "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" "
+#~ "or other sizes defined by theme). Alternatively enter size in pixels "
+#~ "(Example: 200x100 (Width x Height)). Leave parameter empty to use "
+#~ "\"thumbnail\" by default."
+#~ msgstr ""
+#~ "اندازه تصویر را وارد کنید ( روش اول => مثال : \"thumbnail\", \"medium\", "
+#~ "\"large\", \"full\" و یا اندازه های دیگر تعریف شده در الگو ------- روش "
+#~ "دوم => وارد کردن اندازه تصویر به پیکسل مثال : \"عرض x ارتفاع\" , "
+#~ "\"200x100\"  ) اگر این بخش خالی باشد \"thumbnail\" (تصویر بندانگشتی) به "
+#~ "صورت پیشفرض نمایش داده میشود"
+
+#~ msgid "Post Date"
+#~ msgstr "تاریخ مطلب"
+
+#~ msgid "Post publish date"
+#~ msgstr "نمایش تاریخ پست؟"
+
+#~ msgid "Custom Field"
+#~ msgstr "فیلد سفارشی"
+
+#~ msgid "Elements"
+#~ msgstr "المنت ها"
+
+#~ msgid "Custom fields data from meta values of the post."
+#~ msgstr "اطلاعات فیلدهای سفارشی از مقادیر متای مطلب"
+
+#~ msgid "Field key name"
+#~ msgstr "نام کلید فیلد"
+
+#~ msgid "Enter custom field name to retrieve meta data value."
+#~ msgstr "وارد کردن نام فیلد سفارشی برای مقدار متای پیدا شده"
+
+#~ msgid "Justify"
+#~ msgstr "تراز"
+
+#~ msgid "Basic grid: Default"
+#~ msgstr "شبکه بندی پایه: پیش فرض"
+
+#~ msgid "Basic grid: Scale in with rotation"
+#~ msgstr "شبکه بندی پایه : تغییر مقیاس همراه با چرخش"
+
+#~ msgid "Basic grid: Fade with side content"
+#~ msgstr "شبکه بندی پایه: محو شدن همراه با محتوای کناری"
+
+#~ msgid "Basic grid: Slide bottom with icon"
+#~ msgstr "شبکه بندی پایه: اسلاید پایین همراه با آیکون"
+
+#~ msgid "Basic grid: Vertical flip"
+#~ msgstr "شبکه بندی پایه : فلیپ عمودی"
+
+#~ msgid "Basic grid: No animation"
+#~ msgstr "شبکه بندی پایه : بدون انیمیشن"
+
+#~ msgid "Basic grid: Go top slideout"
+#~ msgstr "شبکه بندی پایه : رفتن با بالا با اسلاید"
+
+#~ msgid "Basic grid: Text first"
+#~ msgstr "شبکه بندی پایه : اول متن"
+
+#~ msgid "Basic grid: Slide from left"
+#~ msgstr "شبکه بندی پایه :  اسلاید از چپ"
+
+#~ msgid "Basic grid: Slide from top"
+#~ msgstr "شبکه بندی پایه : اسلاید از بالا"
+
+#~ msgid "Masonry grid: Default"
+#~ msgstr "شبکه بندی آجری : پیش فرض"
+
+#~ msgid "Masonry grid: Fade in"
+#~ msgstr "شبکه بندی آجری : محو شدن"
+
+#~ msgid "Masonry grid: Icon slide out"
+#~ msgstr "شبکه بندی آجری : اسلاید آیکون به بیرون"
+
+#~ msgid "Masonry grid: Slide from left"
+#~ msgstr "شبکه بندی آجری : اسلاید از چپ"
+
+#~ msgid "Masonry grid: Go top"
+#~ msgstr "شبکه بندی آجری : رفتن به بالا"
+
+#~ msgid "Masonry grid: Overlay with rotation"
+#~ msgstr "شبکه بندی آجری : روکش با چرخش"
+
+#~ msgid "Masonry grid: Blur out"
+#~ msgstr "شبکه بندی آجری : تیرگی بیرونی"
+
+#~ msgid "Masonry grid: Scale with rotation"
+#~ msgstr "شبکه بندی آجری : تغییر مقیاس همراه با چرخش"
+
+#~ msgid "Masonry grid: Slideo out from right"
+#~ msgstr "شبکه بندی آجری : اسلاید خروجی از راست"
+
+#~ msgid "Masonry grid: With side content"
+#~ msgstr "شبکه بندی آجری : همراه با محتوای کناری"
+
+#~ msgid "Media grid: Default"
+#~ msgstr "شبکه بندی رسانه : پیش فرض"
+
+#~ msgid "Media grid: Simple overlay"
+#~ msgstr "شبکه بندی رسانه :  پوشش ساده"
+
+#~ msgid "Media grid: Fade in with icon"
+#~ msgstr "شبکه بندی رسانه : محو شدن همراه با آیکون"
+
+#~ msgid "Media grid: Bordered scale with title"
+#~ msgstr "شبکه بندی رسانه :  تغییر مقیاس حاشیه همراه با عنوان"
+
+#~ msgid "Media grid: Scale with rotation"
+#~ msgstr "شبکه بندی رسانه :  تغییر مقیاس همراه با چرخش"
+
+#~ msgid "Media grid: Slide out caption"
+#~ msgstr "شبکه بندی رسانه : اسلاید بیرونی عنوان"
+
+#~ msgid "Media grid: Horizontal flip with fade"
+#~ msgstr "شبکه بندی رسانه :  فلیپ افقی همراه با محو شدن"
+
+#~ msgid "Media grid: Blur with content block"
+#~ msgstr "شبکه بندی رسانه : تیره شدن همراه با بلاک محتوا"
+
+#~ msgid "Media grid: Slide in title"
+#~ msgstr "شبکه بندی رسانه : اسلاید عنوان"
+
+#~ msgid "Media grid: Scale in with icon"
+#~ msgstr "شبکه بندی رسانه : تغییر مقیاس با آیکون"
+
+#~ msgid "Masonry media: Default"
+#~ msgstr "شبکه بندی آجری رسانه: پیش فرض"
+
+#~ msgid "Masonry media: Bordered scale"
+#~ msgstr "شبکه بندی آجری رسانه: تغییر مقیاس حاشیه"
+
+#~ msgid "Masonry media: Solid blur out"
+#~ msgstr "شبکه بندی آجری رسانه: تیره شدن خطی"
+
+#~ msgid "Masonry media: Scale with rotation light"
+#~ msgstr "شبکه بندی آجری رسانه: تغییر مقیاس با چرخش به راست"
+
+#~ msgid "Masonry media: Slide with title and caption"
+#~ msgstr "شبکه بندی آجری رسانه: اسلاید با عنوان و کپشن"
+
+#~ msgid "Masonry media: Scale with content block"
+#~ msgstr "شبکه بندی آجری رسانه: تغییر مقیاس با بلاک محتوا"
+
+#~ msgid "Masonry media: Simple overlay"
+#~ msgstr "شبکه بندی آجری رسانه: پوشش ساده"
+
+#~ msgid "Masonry media: Slide top"
+#~ msgstr "شبکه بندی آجری رسانه: اسلاید بالا"
+
+#~ msgid "Masonry media: Simple blur with scale"
+#~ msgstr "شبکه بندی آجری رسانه: تیرگی ساده همراه با تغییر مقیاس"
+
+#~ msgid "Select URL"
+#~ msgstr "انتخاب URL"
+
+#~ msgid "URL"
+#~ msgstr "URL(آدرس)"
+
+#~ msgid "Loading, please wait..."
+#~ msgstr "درحال بارگذاری... لطفا صبر کنید..."
+
+#~ msgid "Crunching..."
+#~ msgstr "در حال تجزیه..."
+
+#~ msgid "Search element by name"
+#~ msgstr "جستوجوی المان توسط نام"
+
+#~ msgid "Other"
+#~ msgstr "سایر"
+
+#~ msgid "Deprecated"
+#~ msgstr "منسوخ شده"
+
+#~ msgid "Save changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Template Title"
+#~ msgstr "عنوان از پیش تعیین شده"
+
+#~ msgid "Enter element template title."
+#~ msgstr "وارد کردن عنوان از پیش تعریف شده المان"
+
+#~ msgid "Save as template"
+#~ msgstr "ذخیره الگو"
+
+#~ msgid "Untitled"
+#~ msgstr "بدون عنوان"
+
+#~ msgid "Search template by name"
+#~ msgstr "جستجو الگو بر اساس نام"
+
+#~ msgid "Element Settings"
+#~ msgstr "تنظیمات المان"
+
+#, fuzzy
+#~| msgid "You have blank page <br> Start adding content or templates"
+#~ msgid "Start adding content or templates"
+#~ msgstr "شما یه صفحه خالی دارید<br>شروع به اضافه کردن محتوا یا الگو"
+
+#~ msgid "Add Element"
+#~ msgstr "افزودن المان"
+
+#~ msgid "Add element"
+#~ msgstr "افزودن المان"
+
+#~ msgid "Add text block"
+#~ msgstr "افزودن بلاک متن"
+
+#~ msgid "Add Text Block"
+#~ msgstr "اضافه کردن بلاک متن"
+
+#, php-format
+#~ msgid "Don't know where to start? Visit our %s."
+#~ msgstr "نمی دانید از کجا شروع کنید؟ به ما مراجعه کنید%s."
+
+#~ msgid "knowledge base"
+#~ msgstr "دانش محور"
+
+#~ msgid "Close panel"
+#~ msgstr "بستن پنل"
+
+#~ msgid "Hide panel"
+#~ msgstr "پنهان کردن پنل"
+
+#~ msgid "Edit Elements"
+#~ msgstr "ویرایش المان ها"
+
+#, fuzzy
+#~| msgid "Template library"
+#~ msgid "Exit Template Library"
+#~ msgstr "کتابخانه الگو"
+
+#~ msgid "Activate WPBakery Page Builder"
+#~ msgstr "فعال کردن ویژوال کامپوزر"
+
+#~ msgid ""
+#~ "WPBakery Page Builder Template Library downloads are available for "
+#~ "activated\tversions only. Activate WPBakery Page Builder direct license "
+#~ "to access Template Library and receive other benefits."
+#~ msgstr ""
+#~ "قالب های آهنگساز ویژوال کتابخانه فقط برای نسخه های فعال در دسترس هستند. "
+#~ "فعال مجوز مستقیم ویژوال کامپوزر برای دسترسی به کتابخانه قالب و دریافت "
+#~ "مزایای دیگر."
+
+#~ msgid "Activate License"
+#~ msgstr "فعالسازی لایسنس"
+
+#~ msgid "Download Template"
+#~ msgstr "دانلود الگو"
+
+#~ msgid "Downloading template ... please wait!"
+#~ msgstr "دانلود الگو... لطفا صبر کنید!"
+
+#, fuzzy
+#~| msgid ""
+#~| "Don't close this window until download is complete - you will\n"
+#~| "\t\t\t\tbe redirected back to Template Library automatically."
+#~ msgid ""
+#~ "Don't close this window until download is complete - you will be "
+#~ "redirected back to Template Library automatically."
+#~ msgstr ""
+#~ "این پنجره را تا زمانی که دانلود کامل نشده است، نزنید - you will\n"
+#~ "\t\t\t\tbe redirected back to Template Library automatically."
+
+#~ msgid "Download Templates"
+#~ msgstr "دانلود الگو"
+
+#~ msgid ""
+#~ "Access WPBakery Page Builder Template Library for unique layout\n"
+#~ "\t\ttemplates. Download chosen templates and discover new layouts with "
+#~ "regular template\n"
+#~ "\t\tupdates from WPBakery Page Builder team."
+#~ msgstr ""
+#~ "دسترسی به ویژوال آهنگساز قالب کتابخانه برای قالب های منحصر به فرد. قالب "
+#~ "های انتخاب شده را دانلود کنید و طرح های جدید را با به روز رسانی منظم قالب "
+#~ "از تیم ویژوال کامپوزر کشف کنید."
+
+#~ msgid "Access Library"
+#~ msgstr "کتابخانه دسترسی"
+
+#~ msgid ""
+#~ "Elements within this list are deprecated and are no longer supported in "
+#~ "newer versions of WPBakery Page Builder."
+#~ msgstr ""
+#~ "عناصر موجود در این فهرست ضعیف شده و دیگر در نسخه های جدید تر Composer "
+#~ "ویژوال پشتیبانی نمی شوند."
+
+#~ msgid ""
+#~ "Your user role have restricted access to content elements. If required, "
+#~ "contact your site administrator to change WPBakery Page Builder Role "
+#~ "Manager settings for your user role."
+#~ msgstr ""
+#~ "نقش کاربر شما دسترسی به عناصر محتوا را محدود کرده اند. در صورت نیاز، با "
+#~ "مدیر سایت خود را به تغییر تنظیمات مدیریت ویژوال کامپوزر برای نقش کاربر "
+#~ "خود را."
+
+#~ msgid "Page Settings"
+#~ msgstr "تنظیمات برگه"
+
+#~ msgid "Please enter page title"
+#~ msgstr "لطفا عنوان صفحه را وارد کنید"
+
+#, php-format
+#~ msgid ""
+#~ "Change title of the current %s (Note: changes may not be displayed in a "
+#~ "preview, but will take effect after saving page)."
+#~ msgstr ""
+#~ "عنوان تغییر صفحه فعلی را تغییر دهید %s(توجه: تغییرات ممکن است در یک پیش "
+#~ "نمایش نمایش داده نشود اما بعد از صرفه جویی در صفحه اثر می گیرد)."
+
+#~ msgid "Custom CSS settings"
+#~ msgstr "تنظیمات css سفارشی"
+
+#~ msgid ""
+#~ "Enter custom CSS (Note: it will be outputted only on this particular "
+#~ "page)."
+#~ msgstr ""
+#~ "CSS سفارشی را وارد کنید (توجه داشته باشید: فقط در این صفحه خاص نمایش داده "
+#~ "می شود)."
+
+#~ msgid "Row Layout"
+#~ msgstr "لایه ردیف"
+
+#~ msgid "Row layout"
+#~ msgstr "طرح ردیف"
+
+#~ msgid "Select row layout from predefined options."
+#~ msgstr "انتخاب لایه ردیف از تنظیمات از پیش تعریف شده"
+
+#~ msgid "Enter custom layout for your row"
+#~ msgstr "طرح سفارشی را برای ردیف خود وارد کنید"
+
+#~ msgid ""
+#~ "Change particular row layout manually by specifying number of columns and "
+#~ "their size value."
+#~ msgstr ""
+#~ "طرح ردیف مشخص را با دادن تعداد ستونها و سایز آنها به صورت دستی تغییر دهید."
+
+#~ msgid "Disable Classic editor"
+#~ msgstr "غیر فعال کردن ویرایشگر کلاسیک"
+
+#~ msgid "Enabled"
+#~ msgstr "فعال"
+
+#~ msgid "Enabled and default"
+#~ msgstr "فعال و به عنوان پیش فرض انتخاب شد"
+
+#~ msgid "Disabled"
+#~ msgstr "غیرفعال"
+
+#~ msgid "Backend editor"
+#~ msgstr "ویرایشگر پیشرفته"
+
+#~ msgid "Frontend editor"
+#~ msgstr "ویرایشگر زنده"
+
+#~ msgid "Control user access to Grid Builder and Grid Builder Elements."
+#~ msgstr "کنترل دسترسی کاربر به شبکه ساز و شبکه ساز عناصر."
+
+#~ msgid ""
+#~ "Control access to WPBakery Page Builder page settings. Note: Disable page "
+#~ "settings to restrict editing of Custom CSS through page."
+#~ msgstr ""
+#~ "کنترل دسترسی به تنظیمات صفحه ویژوال کامپوزر. توجه: تنظیمات صفحه غیر فعال "
+#~ "کردن برای محدود ویرایش CSS سفارشی از طریق صفحه."
+
+#~ msgid "Pages only"
+#~ msgstr "تنها برگه ها"
+
+#~ msgid ""
+#~ "Enable WPBakery Page Builder for pages, posts and custom post types. "
+#~ "Note: By default WPBakery Page Builder is available for pages only."
+#~ msgstr ""
+#~ "فعال کردن ویژوال کامپوزر برای برگه ها، مطالب، و انواع مطالب سفارشی. به "
+#~ "صورت پیش فرض ویژوال کامپوزر فقط برای برگه ها فعال است"
+
+#~ msgid "Apply presets only"
+#~ msgstr "درخواست"
+
+#~ msgid "Element Presets"
+#~ msgstr "پیش تنظیمات المان"
+
+#~ msgid "Settings options"
+#~ msgstr "گزینه های تنظیمات"
+
+#~ msgid ""
+#~ "Control access rights to WPBakery Page Builder admin settings tabs (e.g. "
+#~ "General Settings, Shortcode Mapper, ...)"
+#~ msgstr ""
+#~ "حقوق کنترل دسترسی به ویژوال کامپوزر تنظیمات مدیر زبانه (به عنوان مثال "
+#~ "تنظیمات عمومی، کوتاه آیفون، ...)"
+
+#~ msgid "Element"
+#~ msgstr "المان"
+
+#~ msgid "Edit only"
+#~ msgstr "فقط ویرایش"
+
+#~ msgid "Control user access to content elements."
+#~ msgstr "کنترل دسترسی کاربر به محتوای المان ها"
+
+#~ msgid "Apply templates only"
+#~ msgstr "فقط اعمال الگو ها"
+
+#~ msgid ""
+#~ "Control access rights to templates and predefined templates. Note: "
+#~ "\"Apply templates only\" restricts users from saving new templates and "
+#~ "deleting existing."
+#~ msgstr ""
+#~ "کنترل حقوق دسترسی به الگو ها و الگوهای از پیش تعریف. توجه داشته باشید: "
+#~ "\"درخواست الگو تنها\" کاربران را محدود از صرفه جویی در الگو های جدید و "
+#~ "حذف موجود است."
+
+#, fuzzy
+#~| msgid "Don't allow to use WPBakery Page Builder"
+#~ msgid "Allow to use Custom HTML in WPBakery Page Builder."
+#~ msgstr "اجازه استفاده از WPBakery Page Builder را نده"
+
+#~ msgid "Post type"
+#~ msgstr "نوع پست"
+
+#~ msgid "Template"
+#~ msgstr "الگو"
+
+#~ msgid ""
+#~ "Control user group role access to the features and options of WPBakery "
+#~ "Page Builder - manage WordPress default and custom roles."
+#~ msgstr ""
+#~ "کنترل نقش دسترسی به ویژگی های گروه کاربر به ویژگی ها و گزینه های ویژوال "
+#~ "آهنگساز - مدیریت وردپرس به طور پیش فرض و نقش های سفارشی."
+
+#~ msgid ""
+#~ "It is optional to activate license on localhost development environment. "
+#~ "You can still activate license on localhost to receive plugin updates and "
+#~ "get access to template library."
+#~ msgstr ""
+#~ "اختیاری است برای فعال کردن مجوز در محیط توسعه localhost. شما هنوز می "
+#~ "توانید مجوز localhost را برای دریافت به روز رسانی پلاگین و دسترسی به "
+#~ "کتابخانه قالب ایجاد کنید."
+
+#~ msgid "Guide tours"
+#~ msgstr "تورهای راهنما"
+
+#~ msgid "Done"
+#~ msgstr "تمام"
+
+#~ msgid "Reset"
+#~ msgstr "ریست"
+
+#, fuzzy
+#~| msgid ""
+#~| "Guide tours are shown in VC editors to help you to start working with "
+#~| "editors. You can see them again by clicking button above."
+#~ msgid ""
+#~ "Guide tours are shown in WPBakery editors to help you to start working "
+#~ "with editors. You can see them again by clicking button above."
+#~ msgstr ""
+#~ "تورهای راهنمای در ویراستاران VC نشان داده شده اند تا به شما در شروع کار "
+#~ "با ویراستاران کمک کنند. شما می توانید آنها را دوباره با کلیک بر روی دکمه "
+#~ "بالا ببینید."
+
+#~ msgid "Restore Default"
+#~ msgstr "بازگردانی پیش فرض"
+
+#~ msgid ""
+#~ "You have activated WPBakery Page Builder version which allows you to "
+#~ "access all the customer benefits. Thank you for choosing WPBakery Page "
+#~ "Builder as your page builder. If you do not wish to use WPBakery Page "
+#~ "Builder on this WordPress site you can deactivate your license below."
+#~ msgstr ""
+#~ "شما نسخه ویژوال کامپوزر که به شما اجازه دسترسی به تمام منافع مشتری را "
+#~ "فعال کرده. با تشکر از شما برای انتخاب ویژوال کامپوزر به عنوان سازنده صفحه "
+#~ "خود را. اگر شما مایل به استفاده از ویژوال کامپوزر در این سایت وردپرس شما "
+#~ "می توانید مجوز خود را در زیر غیر فعال کنید."
+
+#~ msgid "Deactivate WPBakery Page Builder"
+#~ msgstr "غیر فعال کردن ویژوال کامپوزر"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "In order to receive all benefits of WPBakery Page Builder, you need to "
+#~| "activate your copy of the plugin. By activating WPBakery Page Builder "
+#~| "license you will unlock premium options - <strong>direct plugin updates</"
+#~| "strong>, access to <strong>template library</strong> and "
+#~| "<strong>official support.</strong>"
+#~ msgid ""
+#~ "In order to receive all benefits of WPBakery Page Builder, you need to "
+#~ "activate your copy of the plugin. By activating WPBakery Page Builder "
+#~ "license you will unlock premium options - %1$sdirect plugin updates%2$s, "
+#~ "access to %1$stemplate library%2$s and %1$sofficial support.%2$s"
+#~ msgstr ""
+#~ "به منظور دریافت تمام مزایای ویژوال کامپوزر شما نیاز به نسخه خود را از "
+#~ "پلاگین را فعال کنید. به روز رسانی مستقیم پلاگین و دسترسی به پشتیبانی رسمی "
+#~ "- با فعال مجوز سازنده بصری شما گزینه های حق بیمه را باز کنید."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Don't have direct license yet? <a href=\"%s\" target=\"_blank\">Purchase "
+#~| "WPBakery Page Builder license</a>."
+#~ msgid ""
+#~ "Don't have direct license yet? %sPurchase WPBakery Page Builder license%s."
+#~ msgstr ""
+#~ "هنوز مجوز معتبر کسب نکرده اید؟<a href=\"%s\" target=\"_blank\">خرید مجوز "
+#~ "ویژوال کامپوزر\n"
+#~ "</a>."
+
+#, php-format
+#~ msgid "Welcome to WPBakery Page Builder %s"
+#~ msgstr "به ویژوال کامپوزر%sخوش آمدید"
+
+#~ msgid ""
+#~ "Congratulations! You are about to use most powerful time saver for "
+#~ "WordPress ever - page builder plugin with Frontend and Backend editors by "
+#~ "WPBakery."
+#~ msgstr ""
+#~ "مبارك باشد! صفحه پلاگین سازنده با ظاهر و باطن سردبیران ویژوال پرس - شما "
+#~ "در مورد استفاده از زمان بهینه ساز قدرتمند برای وردپرس همیشه هستند."
+
+#, php-format
+#~ msgid "Version %s"
+#~ msgstr "ورژن%s"
+
+#~ msgid "New to WPBakery Page Builder or Looking for More Information?"
+#~ msgstr "به دنبال اطلاعات بیشتر هستید؟"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "WPBakery has complete documentation available at our knowledge base: <a "
+#~| "target=\"_blank\" href=\"%s\">kb.wpbakery.com</a> which covers "
+#~| "everything related to WPBakery Page Builder starting from Installation "
+#~| "and up to more advanced features based on our Inner API."
+#~ msgid ""
+#~ "WPBakery has complete documentation available at our knowledge base: %s "
+#~ "which covers everything related to WPBakery Page Builder starting from "
+#~ "Installation and up to more advanced features based on our Inner API."
+#~ msgstr ""
+#~ "ویژوال پرس - مستندات کامل موجود در: <a target=\"_blank\" href=\"%s\">kb."
+#~ "wpbakery.com</a> همه چیز را پوشش می دهد که مربوط به ویژوال کامپوزر از نصب "
+#~ "شروع و تا بیشتر ویژگی های مبتنی بر ما API داخلی پیشرفته."
+
+#, fuzzy
+#~| msgid "Parallax Introduction"
+#~ msgid "Introduction"
+#~ msgstr "معرفی پارالاکس"
+
+#, fuzzy
+#~| msgid "Resources"
+#~ msgid "Support and Resources"
+#~ msgstr "منابع"
+
+#, fuzzy
+#~| msgid "Dimensions"
+#~ msgid "Licensing"
+#~ msgstr "ابعاد"
+
+#, fuzzy
+#~| msgid "Regular Price"
+#~ msgid "Regular License"
+#~ msgstr "قیمت عادی"
+
+#, fuzzy
+#~| msgid "Activate License"
+#~ msgid "Extended License"
+#~ msgstr "فعالسازی لایسنس"
+
+#, fuzzy
+#~| msgid "Pagination"
+#~ msgid "Plugin Installation"
+#~ msgstr "صفحه بندی"
+
+#, fuzzy
+#~| msgid "Active section"
+#~ msgid "Activation"
+#~ msgstr "فعالسازی  بخش"
+
+#, fuzzy
+#~| msgid "Content type"
+#~ msgid "Content Type"
+#~ msgstr "نوع محتوا"
+
+#, fuzzy
+#~| msgid "Landing Page"
+#~ msgid "Learning More"
+#~ msgstr "Landing Page"
+
+#, fuzzy
+#~| msgid "Control Elements"
+#~ msgid "Content Elements"
+#~ msgstr "کنترل المان ها"
+
+#, fuzzy
+#~| msgid "Open Design Options"
+#~ msgid "Element Design Options"
+#~ msgstr "بازکردن تنظیمات طراحی"
+
+#, fuzzy
+#~| msgid "Responsive Options"
+#~ msgid "Responsive Settings"
+#~ msgstr "تنظیمات ریسپانسیو"
+
+#, fuzzy
+#~| msgid "Image filter"
+#~ msgid "Image filters"
+#~ msgstr "فیلتر تصویر"
+
+#, fuzzy
+#~| msgid "WPBakery Page Builder"
+#~ msgid "WPBakery Page Builder \"How To's\""
+#~ msgstr "ویژوال کامپوزر"
+
+#, fuzzy
+#~| msgid "Add icon?"
+#~ msgid "Add - ons"
+#~ msgstr "اضافه کردن آیکون؟"
+
+#, fuzzy
+#~| msgid "Template"
+#~ msgid "Templatera"
+#~ msgstr "الگو"
+
+#, fuzzy
+#~| msgid "General Information"
+#~ msgid "Theme Integration"
+#~ msgstr "اطلاعات کلی"
+
+#, fuzzy
+#~| msgid "Inner Row"
+#~ msgid "Inner API"
+#~ msgstr "سطر داخلی"
+
+#~ msgid "Visit Knowledge Base for more information"
+#~ msgstr "مشاهده پایگاه دانش برای کسب اطلاعات بیشتر"
+
+#~ msgid ""
+#~ "There are several resources available to WPBakery Page Builder users to "
+#~ "help you to get around plugin:"
+#~ msgstr ""
+#~ "ترجمه شده توسط علیرضا حصاری(100%کامل)فارسی در تیم:ویژوال پرس.ایمیل:"
+#~ "alirezahesari1812@gmail.com.وبسایت:www.alirezahesari.ir\n"
+#~ " و شرط استفاده این افزونه به زبان فارسی:1=ذکر صلوات بر محمد و آل "
+#~ "محمد.2=دعا برای ظهور امام زمان (عج).3=قرائت فاتحه برای پدر و مادر بنده."
+#~ "شکر خدا که مولایمان علی(ع)شد.\n"
+#~ "منابع متعددی برای کاربران ویژوال کامپوزر برای کمک به شما به اطراف پلاگین "
+#~ "وجود دارد:"
+
+#, fuzzy
+#~| msgid "Official Support"
+#~ msgid "Official website"
+#~ msgstr "پشتیبانی از طریق سایت ویژوال کامپوزر"
+
+#, fuzzy
+#~| msgid "knowledge base"
+#~ msgid "Official Knowledge Base"
+#~ msgstr "دانش محور"
+
+#, fuzzy
+#~| msgid "Video Player"
+#~ msgid "Video Academy"
+#~ msgstr "ویدئو پلیر"
+
+#, fuzzy
+#~| msgid "Official Support"
+#~ msgid "Official support"
+#~ msgstr "پشتیبانی از طریق سایت ویژوال کامپوزر"
+
+#, fuzzy
+#~| msgid "Facebook Like"
+#~ msgid "Facebook page"
+#~ msgstr "لایک فیسبوک"
+
+#, fuzzy
+#~| msgid "Slider count"
+#~ msgid "Twitter account"
+#~ msgstr "بدون شمارش"
+
+#~ msgid "Official Support"
+#~ msgstr "پشتیبانی از طریق سایت ویژوال کامپوزر"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "To get your support related question answered in the fastest timing, "
+#~| "please head over to our <a href=\"%s\" target=\"_blank\">support page</"
+#~| "a> and open Support ticket. To open a support ticket you should have a "
+#~| "valid support subscription in case if your support has expired you can "
+#~| "<a href=\"%s\" target=\"_blank\">purchase support extension</a> on "
+#~| "CodeCanyon."
+#~ msgid ""
+#~ "To get your support related question answered in the fastest timing, "
+#~ "please head over to our %ssupport page%s and open Support ticket. To open "
+#~ "a support ticket you should have a valid support subscription in case if "
+#~ "your support has expired you can %spurchase support extension%s on "
+#~ "support.wpbakery.com."
+#~ msgstr ""
+#~ "برای دریافت سوالات مرتبط با پشتیبانی شما در سریعترین زمان ممکن، لطفا به "
+#~ "<a href=\"%s\" target=\"_blank\"> صفحه پشتیبانی </a> ما بروید و بلیط "
+#~ "پشتیبانی را باز کنید. برای باز کردن یک بلیط پشتیبانی باید یک اشتراک "
+#~ "پشتیبانی معتبر داشته باشید در صورتی که پشتیبانی شما منقضی شده شما می "
+#~ "توانید <a href=\"%s\" target=\"_blank\"> افزونه پشتیبانی را خریداری کنید "
+#~ "</a> در CodeCanyon."
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Before applying for support please make sure you understand the rules of "
+#~| "support and go through all steps described and listed in <a href=\"%s\" "
+#~| "target=\"_blank\">Support Policy</a> in order to get your issues solved "
+#~| "as soon as possible."
+#~ msgid ""
+#~ "Before applying for support please make sure you understand the rules of "
+#~ "support and go through all steps described and listed in %sSupport Policy"
+#~ "%s in order to get your issues solved as soon as possible."
+#~ msgstr ""
+#~ "قبل از درخواست برای حمایت لطفا مطمئن شوید که شما قوانین پشتیبانی درک و "
+#~ "رفتن را از طریق تمام مراحل شرح داده شده و ذکر شده در <a href=\"%s\" "
+#~ "target=\"_blank\">سیاست پشتیبانی</a> به منظور رسیدن به مسائل خود را در "
+#~ "اسرع وقت حل شود."
+
+#, fuzzy
+#~| msgid "Activate WPBakery Page Builder"
+#~ msgid "A Hassle-Free WordPress Page Builder"
+#~ msgstr "فعال کردن ویژوال کامپوزر"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Responsive design settings are currently disabled. You can enable them "
+#~| "in WPBakery Page Builder <a href=\"%s\">settings page</a> by unchecking "
+#~| "\"Disable responsive content elements\"."
+#~ msgid ""
+#~ "Responsive design settings are currently disabled. You can enable them in "
+#~ "WPBakery Page Builder %ssettings page%s by unchecking \"Disable "
+#~ "responsive content elements\"."
+#~ msgstr ""
+#~ "تنظیمات طرح واکنش گرا در حال حاضر غیرفعال هستند. شما میتوانید آنها در "
+#~ "WPBakery Page Builder composer فعال کنید. <a href=\"%s\">صفحه تنظیمات </"
+#~ "a> با غیرفعال کردن \"Disable responsive content elements\"."
+
+#~ msgid "Device"
+#~ msgstr "دستگاه"
+
+#~ msgid "Hide on device?"
+#~ msgstr "پنهان کردن کردن در دستگاه های همراه؟,"
+
+#~ msgid "Inherit: "
+#~ msgstr "ارثبری:."
+
+#~ msgid "Inherit from default"
+#~ msgstr "از پیش فرض بگیر"
+
+#~ msgid "Google Fonts preview"
+#~ msgstr "پیش نمایش فونتهای گوگل"
+
+#~ msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+#~ msgstr "نوع فونت الگو را در این قسمت انتخاب کنید"
+
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "بخش خالی. برای افزودن محتوا صفحه را ویرایش کنید."
+
+#~ msgid "View stream on flickr"
+#~ msgstr "نمایش stream در flicker"
+
+#~ msgid "Item"
+#~ msgstr "آیتم"
+
+#~ msgid "Nothing found."
+#~ msgstr "چیزی پیدا نشد."
+
+#~ msgid "Empty tab. Edit page to add content here."
+#~ msgstr "تب خالی. صفحه را برای افزودن محتوا ویرایش کنید."
+
+#~ msgid "Tweet to"
+#~ msgstr "توئیت به"
+
+#~ msgid "Tweet"
+#~ msgstr "توئیت"
+
+#~ msgid ""
+#~ "Enter row ID (Note: make sure it is unique and valid according to <a href="
+#~ "\"%s\" target=\"_blank\">w3c specification</a>)."
+#~ msgstr ""
+#~ "وارد کردن آی دی ردیف ( مطمئن شوید اون معتبر و یکتا باشد <a href=\"%s\" "
+#~ "target=\"_blank\">w3c specification</a> )"
+
+#~ msgid "Open prettyPhoto"
+#~ msgstr "باز کردن prettyPhoto"
+
+#~ msgid ""
+#~ "Enter optional ID. Make sure it is unique, and it is valid as w3c "
+#~ "specification: %s (Must not have spaces)"
+#~ msgstr ""
+#~ "آی دی اختیاری سطر را وارد کنید.مطمئن شوید آی دی انتخابی را قبلا استفاده "
+#~ "نکرده اید و اون معتبر است از لحاظ خصوصیات w3c : %s ( نباید فاصله داشته "
+#~ "باشد )"
+
+#~ msgid "Old Post Carousel"
+#~ msgstr "چرخ نوشته"
+
+#~ msgid "Animated carousel with posts"
+#~ msgstr "carousel  متحرک با پستها"
+
+#~ msgid "Carousel content"
+#~ msgstr "محتوای carousel "
+
+#~ msgid "Create WordPress loop, to populate content from your site."
+#~ msgstr "لوپ وردپرس ایجاد کنید، برای محبوب کردن محتوای سایتتان."
+
+#~ msgid "Teaser layout"
+#~ msgstr "طرح تیزر"
+
+#~ msgid ""
+#~ "Control teasers look. Enable blocks and place them in desired order. "
+#~ "Note: This setting can be overrriden on post to post basis."
+#~ msgstr ""
+#~ "کنترل ظاهر تیزرها. بلاکها را فعال کنید و آنها را به ترتیب مورد نظرتان "
+#~ "قرار دهید."
+
+#~ msgid "Thumbnail"
+#~ msgstr "بند انگشتی"
+
+#~ msgid "Teaser/Excerpt"
+#~ msgstr "تیزر / Excerpt"
+
+#~ msgid "Full content"
+#~ msgstr "محتوای کامل"
+
+#~ msgid "Read more link"
+#~ msgstr "لینک بیشتر بخوانید"
+
+#~ msgid "Link target"
+#~ msgstr "لینک هدف"
+
+#~ msgid "If \"YES\" pagination control will be removed"
+#~ msgstr "اگر \"YES\" ، کنترل صفحه بندی حذف میشود."
+
+#~ msgid "If \"YES\" prev/next control will be removed"
+#~ msgstr "اگر \"YES\" ، کنترل قبلی/بعدی حذف میشود."
+
+#~ msgid "If \"YES\" part of the next slide will be visible on the right side"
+#~ msgstr "اگر \"YES\" ، قسمتی از اسلاید بعدی در سمت راست نمایان میشود"
+
+#~ msgid "Old Posts Grid"
+#~ msgstr "نوشته های قدیمی شبکه ای"
+
+#~ msgid "Posts in grid view"
+#~ msgstr "پست ها در نمایش گرید"
+
+#~ msgid "Grids content"
+#~ msgstr "محتوای گریدها"
+
+#~ msgid "Columns count"
+#~ msgstr "تعداد ستونها"
+
+#~ msgid "Select columns count."
+#~ msgstr "انتخاب تعداد ستونها،"
+
+#~ msgid "Select to add animated category filter to your posts grid."
+#~ msgstr "افزودن فیلتر دسته بندی متحرک به گرید پستهای شما"
+
+#~ msgid "Layout mode"
+#~ msgstr "مد طرح"
+
+#~ msgid "Fit rows"
+#~ msgstr "فیت کردن ردیف ها"
+
+#~ msgid "Masonry"
+#~ msgstr "Masonry(ماسونری)"
+
+#~ msgid "Teaser layout template."
+#~ msgstr "قالب طرح تیزر"
+
+#~ msgid ""
+#~ "Build custom query according to <a href=\"http://codex.wordpress.org/"
+#~ "Function_Reference/query_posts\">WordPress Codex</a>."
+#~ msgstr ""
+#~ "ساخت پرس و جوی سفارشی آکاردیون برای <a href=\"http://codex.wordpress.org/"
+#~ "Function_Reference/query_posts\">WordPress Codex</a>."
+
+#~ msgid ""
+#~ "%s cloned. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s"
+#~ "\">Edit now?</a>"
+#~ msgstr ""
+#~ "%s cloned. <a href=\"#\" class=\"vc_edit-cloned\" data-model-id=\"%s\"> "
+#~ "ویرایش؟ </a>"
+
+#~ msgid "Toggle editor's guides"
+#~ msgstr "تغییر وضعیت راهنمای ویرایشگرها"
+
+#~ msgid "Add"
+#~ msgstr "اضافه کردن"
+
+#~ msgid "Hello World"
+#~ msgstr "سلام دنیا!"
+
+#~ msgid "Foo attribute"
+#~ msgstr "صفت Foo"
+
+#~ msgid "I'm foo attribute"
+#~ msgstr "من صفت foo هستم."
+
+#~ msgid "Enter foo value."
+#~ msgstr "مقدار foo را وارد کنید."
+
+#~ msgid "I'm hello world"
+#~ msgstr "من سلام دنیا هستم..."
+
+#~ msgid "Enter your content."
+#~ msgstr "محتوا را وارد کنید."
+
+#~ msgid "Drop down example"
+#~ msgstr "مثال کشویی"
+
+#~ msgid "One, two or three?"
+#~ msgstr "یک، دو و یا سه؟,"
+
+#~ msgid ""
+#~ "Template file is missing for `%s` shortcode. Make sure you have `%s` file "
+#~ "in your theme folder."
+#~ msgstr ""
+#~ "فایل قالب کدکوتاه `%s` را ندارد. مطمئن شوید که فایل `%s` را در فولدر قالب "
+#~ "خود دارید."
+
+#~ msgid ""
+#~ "To receive automatic updates license activation is required. Please visit "
+#~ "<a href=\""
+#~ msgstr ""
+#~ "برای دریافت به روزرسانی‌های اتوماتیک فعالسازی لایسنس الزامی‌ست. از لینک "
+#~ "روبرو دیدن کنید <a href=\""
+
+#~ msgid "settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "VC: Custom Teaser"
+#~ msgstr "VC: تیزر سفارشی"
+
+#~ msgid "Empty title"
+#~ msgstr "عنوان خالی"
+
+#~ msgid "Excerpt"
+#~ msgstr "خلاصه"
+
+#~ msgid "Featered"
+#~ msgstr "شاخص"
+
+#~ msgid "Link text"
+#~ msgstr "متن لینک"
+
+#~ msgid "Link to big image"
+#~ msgstr "لینک به تصویر بزرگ"
+
+#~ msgid "Add custom image"
+#~ msgstr "افزودن تصویر سفارشی"
+
+#~ msgid "Enable custom teaser"
+#~ msgstr "فعالسازی تیزر سفارشی"
+
+#~ msgid ""
+#~ "Customize teaser block design to overwrite default settings used in "
+#~ "\"Carousel\" content element."
+#~ msgstr ""
+#~ "سفارشی کردن الگو طرح بلوک تیزر به بازنویسی تنظیمات پیش فرض مورد استفاده "
+#~ "در \"چرخ فلک\" عنصر محتوا."
+
+#~ msgid "Link to"
+#~ msgstr "لینک به"
+
+#~ msgid "On post"
+#~ msgstr "در پست"
+
+#~ msgid "Big image"
+#~ msgstr "تصویر بزرگ"
+
+#~ msgid "Featured"
+#~ msgstr "Featured(ویژه)"
+
+#~ msgid "Stretch section and content (no paddings)"
+#~ msgstr "بخش کشش و محتوا(no paddings)"
+
+#~ msgid "Pie and Doughnat charts"
+#~ msgstr "انواع نمودارهای حلقه ای"
+
+#~ msgid "(deprecated since v%s)"
+#~ msgstr "(توصیه می شود از v%s)"
+
+#~ msgid "Define access rules for different user groups."
+#~ msgstr "تعریف نقش ها دسترسی برای کاربران گروههای دیگر"
+
+#~ msgid "Select content types available to WPBakery Page Builder."
+#~ msgstr "انتخاب نوع محتوا قابل دسترسی ویژوال کامپوزر"
+
+#~ msgid "Normal Block"
+#~ msgstr "بلاک نرمال"
+
+#~ msgid "Additional Block"
+#~ msgstr "مارکر اضافی"
+
+#~ msgid "Preset Title"
+#~ msgstr "عنوان از پیش تعیین شده"
+
+#~ msgid "Enter element preset title."
+#~ msgstr "وارد کردن عنوان از پیش تعریف شده المان"
+
+#~ msgid "Save as preset"
+#~ msgstr "ذخیره"
+
+#~ msgid "Set as default"
+#~ msgstr "تنظیم به عنوان پیش فرض"
+
+#~ msgid "Restore default"
+#~ msgstr "بازگردانی پیش فرض"
+
+#~ msgid "View presets"
+#~ msgstr "نمایش"
+
+#~ msgid "WPBakery Page Builder Template Library"
+#~ msgstr "کتابخانه الگو ویژوال کامپوزر"
+
+#~ msgid ""
+#~ "Access library for different layout templates available for free download "
+#~ "and updated regularly. Download the templates you like and use them to "
+#~ "build your website within seconds."
+#~ msgstr ""
+#~ "کتابخانه دسترسی در الگو طرح های مختلف در دسترس رایگان دانلود و به طور "
+#~ "منظم به روز رسانی. دانلود الگو دوست دارید و استفاده از آنها برای ساخت وب "
+#~ "سایت خود را در عرض چند ثانیه."
+
+#~ msgid ""
+#~ "Each template of Template Library is a carefully crafted layout created "
+#~ "by pro designers. You can modify every template if you wish or use it as-"
+#~ "is. Template Library is aiming to become your number one resource to "
+#~ "receive fresh layouts and ideas."
+#~ msgstr ""
+#~ "هر الگوی کتابخانه الگوی طرح شده توسط طراحان حرفه ای ایجاد شده است. و یا "
+#~ "استفاده از آن به عنوان شما می توانید هر الگو را تغییر دهید-است. الگوی "
+#~ "کتابخانه با هدف تبدیل منابع شماره یک خود را برای دریافت ایده ها و طرح "
+#~ "بندی های تازه است."
+
+#~ msgid "Section Element"
+#~ msgstr "بخش عنصر"
+
+#~ msgid ""
+#~ "Combine rows into logic groups by using section element and apply design "
+#~ "options to the whole section at once."
+#~ msgstr ""
+#~ "ترکیب ردیف به منطق گروه با استفاده از عنصر بخش و درخواست گزینه های طراحی "
+#~ "برای تمام بخش در یک بار."
+
+#~ msgid "Editor UI Update"
+#~ msgstr "به روز رسانی رابط کاربر ویرایشگر"
+
+#~ msgid ""
+#~ "A new icon type controls offer you the best experience when working on "
+#~ "retina devices."
+#~ msgstr ""
+#~ "کنترل نوع نماد جدید شما بهترین تجربه زمانی که کار بر روی شبکیه چشم دستگاه "
+#~ "ارائه."
+
+#~ msgid "Row and Section Templates"
+#~ msgstr "ردیف و بخش الگو"
+
+#~ msgid ""
+#~ "Save row or section as a template directly from your page, post or custom "
+#~ "post type layout."
+#~ msgstr ""
+#~ "صرفه جویی در ردیف یا بخش به عنوان یک قالب به طور مستقیم از طرح صفحه نوع، "
+#~ "پست یا پست سفارشی خود."
+
+#~ msgid ""
+#~ "Control access rights to element presets in element edit form. Note: "
+#~ "\"Apply presets only\" restricts users from saving new presets, deleting "
+#~ "existing and setting defaults."
+#~ msgstr ""
+#~ "کنترل حقوق دسترسی به ایستگاه از پیش تنظیم عنصر در عنصر فرم ویرایش کنید. "
+#~ "توجه داشته باشید: \"درخواست ایستگاه از پیش تنظیم فقط\" کاربران را محدود "
+#~ "از صرفه جویی در ایستگاه از پیش تنظیم جدید، حذف پیش فرض موجود و تنظیم."
+
+#~ msgid "BACKEND EDITOR"
+#~ msgstr "ویرایشگر پیشرفته"
+
+#~ msgid "FRONTEND EDITOR"
+#~ msgstr "ویرایشگر زنده"
+
+#~ msgid "CLASSIC MODE"
+#~ msgstr "مد کلاسیک"
+
+#~ msgid "Save current page as a Template"
+#~ msgstr "ذخیره صفحه فعلی به عنوان قالب"
+
+#~ msgid "Load Template"
+#~ msgstr "بارگذاری قالب"
+
+#~ msgid "No custom templates yet."
+#~ msgstr "هنوز قالب سفارشی ای وجود ندارد."
+
+#~ msgid "Show WPBakery Page Builder & default editor"
+#~ msgstr "نمایش WPBakery Page Builder و ویرایشگر پیش فرض"
+
+#~ msgid "Show only WPBakery Page Builder"
+#~ msgstr "فقط نمایش WPBakery Page Builder"
+
+#~ msgid "WPBakery Page Builder  access"
+#~ msgstr "دسترسی WPBakery Page Builder"
+
+#~ msgid "Enabled shortcodes"
+#~ msgstr "کدهای کوتاه فعال شده"
+
+#~ msgid "Select All"
+#~ msgstr "انتخاب همه"
+
+#~ msgid "Select none"
+#~ msgstr "انتخاب هیچکدام"
+
+#~ msgid "Empty value"
+#~ msgstr "مقدار خالی"
+
+#~ msgid "This is required to enable file writing for js_composer"
+#~ msgstr "فعالسازی نوشتن فایل برای  js_composer الزامی ست."
+
+#~ msgid "Downloading package from envato market..."
+#~ msgstr "دانلود پکیج از فروشگاه envato..."
+
+#~ msgid "Error! Envato API error"
+#~ msgstr "خطا! Envato API error"
+
+#~ msgid "Error on unzipping package"
+#~ msgstr "خطا در گشودن بسته"
+
+#~ msgid "My templates"
+#~ msgstr "قالب های من"
+
+#~ msgid "Default templates"
+#~ msgstr "قالبهای پیش فرض"
+
+#~ msgid "Append previosly saved template to the current layout"
+#~ msgstr "قالب ذخیره شده قبلی را به طرح فعلی ضمیمه کنید"
+
+#~ msgid "Append default template to the current layout"
+#~ msgstr "قالی پیش فرض را به طرح فعلی ضمیمه کنید"
